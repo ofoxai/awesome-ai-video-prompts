@@ -80,6 +80,12 @@ Ofox における Seedance 2.5 の秒単価、2026年8月時点（出典: [ofox.
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-1)
 
+**输入素材**（4 张官方参考图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="images/case1/input1.webp" width="200" alt="image1 · 九宫格分镜"><br><sub>image1 · 九宫格分镜</sub> | <img src="images/case1/input2.webp" width="200" alt="image2 · 环境"><br><sub>image2 · 环境</sub> | <img src="images/case1/input3.webp" width="200" alt="image3 · 机器人"><br><sub>image3 · 机器人</sub> | <img src="images/case1/input4.webp" width="200" alt="image4 · 老奶奶"><br><sub>image4 · 老奶奶</sub> |
+
 <details>
 <summary><strong>Prompt</strong> — image1: 九宫格分镜参考，用于整体镜头结构、景别与运镜节奏。 image2: 火箭发射场黄昏草原实拍参考，用于环境构图、暖金夕照与冷暮蓝的写实彩色实拍质感基准。 image3: 主体 1 (守护机器人) 角色外观参考。 image4: 主体 2 (老奶奶) 角色外观参考。 【主体设定】 主体 …</summary>
 
@@ -122,6 +128,8 @@ image4: 主体 2 (老奶奶) 角色外观参考。
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-2"><img src="images/case2/preview.webp" width="700" alt="Peking opera &quot;Farewell My Concubine&quot;, one take"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-2)
+
+**输入素材**：未公开 —— ByteDance Seed 博客只发布了成片，未随文发布输入素材
 
 <details>
 <summary><strong>Prompt</strong> — 16:9 宽幅电影级质感，一镜到底，丝滑运镜，无剪辑。场景参考 @图片 4。 0-5 秒：@图片 2 霸王近景开场，镜头缓慢环绕上半身并过渡至中景；霸王旋身翻转，随后身体与靠旗从镜头前快速掠过，形成自然遮挡，镜头顺势绕至 @图片 1 虞姬身侧。6-10 秒：镜头稳定环绕 @图片 1 虞姬中景，跟随水…</summary>
@@ -766,6 +774,8 @@ AVOID: subtitles, captions, on-screen text, watermarks, logos; any legible text 
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-11)
 
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
 <details>
 <summary><strong>Prompt</strong> — Use Image 1 for the large muscular cartoon bulldog boxer, Image 2 for the live-action Caucasian American boxer, and Image 3 for the vintage arena, rin…</summary>
 
@@ -909,6 +919,8 @@ Final slightly high-angle wide shot. The referee brings the bulldog to the cente
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-69"><img src="images/case69/preview.webp" width="700" alt="Desert duel with a giant beast, 30s single take"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-69)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — 低机位从@女主侧前方斜向上移动，@女主位于画面左侧，右手持@古刀斜垂身侧，镜头贴近沙地缓慢抬升到肩部高度，风沙掠过前景，衣摆和发丝随风摆动，伴随风沙呼啸、衣料抽动和刀身轻微震鸣。镜头保持运动，沿她身体外侧绕到身后偏左形成过肩构图，远处@巨兽从沙尘中的残破古风废墟里踏出，巨足落地震裂地面，碎石和尘土向…</summary>
@@ -1150,6 +1162,13 @@ HARD CUT at 00:11.5.
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-12)
 
+**输入素材**（1 张官方参考图 + 6 段参考视频，视频只取首帧）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="images/case12/input1.webp" width="200" alt="@图像1 · 草莓味"><br><sub>@图像1 · 草莓味</sub> | <img src="images/case12/input2.webp" width="200" alt="@视频1 首帧"><br><sub>@视频1 首帧</sub> | <img src="images/case12/input3.webp" width="200" alt="@视频2 首帧"><br><sub>@视频2 首帧</sub> | <img src="images/case12/input4.webp" width="200" alt="@视频3 首帧"><br><sub>@视频3 首帧</sub> |
+| <img src="images/case12/input5.webp" width="200" alt="@视频4 首帧"><br><sub>@视频4 首帧</sub> | <img src="images/case12/input6.webp" width="200" alt="@视频5 首帧"><br><sub>@视频5 首帧</sub> | <img src="images/case12/input7.webp" width="200" alt="@视频6 首帧"><br><sub>@视频6 首帧</sub> |  |
+
 <details>
 <summary><strong>Prompt</strong> — 明亮多彩的广告片风格，果味饼干为主角，包含草莓、苹果、葡萄、橙子四种口味，草莓味参考@图像1，饼干与对应水果以强秩序感的几何阵列排布，整体画面干净、高级、节奏强。开场水果快速建立视觉聚焦，参考@视频1的构图，音乐重拍切入。随后不同口味饼干整齐排列，切特写，参考@视频2的动态和运镜。高潮段一块饼干被折…</summary>
 
@@ -1172,6 +1191,12 @@ HARD CUT at 00:11.5.
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-13"><img src="images/case13/preview.webp" width="700" alt="Steampunk 30-second motion graphics"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-13)
+
+**输入素材**（1 张官方参考图）
+
+| |
+|:---:|
+| <img src="images/case13/input1.webp" width="200" alt="@图像1 · logo"><br><sub>@图像1 · logo</sub> |
 
 <details>
 <summary><strong>Prompt</strong> — 一段高级、极具电影感的30秒3D动态图形序列，采用精致的蒸汽朋克与复古微缩景观风格，配合连续流畅的环绕与穿透运镜。 [0-10秒]： 古董黄铜钟面微距特写，奇迹般层层展开为相互啮合的旋转齿轮环与体积雾。镜头向下穿透齿轮，一架机械扑翼机（Ornithopter），正从由做旧古籍堆叠而成的微缩峡谷中盘旋…</summary>
@@ -1234,6 +1259,8 @@ Audio: Upbeat energetic instrumental with punchy percussion hits synced to splas
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-15"><img src="images/case15/preview.webp" width="622" alt="Impossible warrior fashion editorial"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-15)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — Use the provided image as the strict visual reference for the warrior’s face, blonde hair, armor, fur jacket, leather boots, sword, body proportions, …</summary>
@@ -1690,6 +1717,8 @@ hyper-realistic textures, realistic reflections of acetate and brushed titanium,
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-20)
 
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
 <details>
 <summary><strong>Prompt</strong> — 使用参考图中的女性人物作为唯一人物参考，保持人物五官、发型、肤色、服装和整体气质高度一致。  9:16竖屏，10秒，超写实真人知识科普口播。  人物坐在真实居家书房中，胸口以上中近景，固定机位，镜头基本不运动。自然窗光从侧前方照射，背景书架轻微虚化，整体像真实知识博主用相机拍摄。  人物面对镜头自然…</summary>
 
@@ -1735,6 +1764,8 @@ hyper-realistic textures, realistic reflections of acetate and brushed titanium,
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-21)
 
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
 <details>
 <summary><strong>Prompt</strong> — Use [image1] as the start of the video. She is speaking to an unseen person off camera. She says: "So I go to see this flat. Top floor, rent's half wh…</summary>
 
@@ -1757,6 +1788,8 @@ Use [image1] as the start of the video. She is speaking to an unseen person off 
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-22"><img src="images/case22/preview.webp" width="700" alt="Retro spaceship captain monologue"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-22)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — Style: cinematic retro sci-fi, inspired by grand 1970s/80s space films, practical effects, symmetrical compositions, slow deliberate camera movement, …</summary>
@@ -1832,6 +1865,13 @@ Dialogue: "So be weird. Be honest. Make the thing only you would make." "What a 
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-23)
 
+**输入素材**（8 张官方参考图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="images/case23/input1.webp" width="131" alt="参考图 1"><br><sub>参考图 1</sub> | <img src="images/case23/input2.webp" width="143" alt="参考图 2"><br><sub>参考图 2</sub> | <img src="images/case23/input3.webp" width="141" alt="参考图 3"><br><sub>参考图 3</sub> | <img src="images/case23/input4.webp" width="145" alt="参考图 4"><br><sub>参考图 4</sub> |
+| <img src="images/case23/input5.webp" width="118" alt="参考图 5"><br><sub>参考图 5</sub> | <img src="images/case23/input6.webp" width="130" alt="参考图 6"><br><sub>参考图 6</sub> | <img src="images/case23/input7.webp" width="132" alt="参考图 7"><br><sub>参考图 7</sub> | <img src="images/case23/input8.webp" width="131" alt="参考图 8"><br><sub>参考图 8</sub> |
+
 **Prompt**
 
 ~~~~text
@@ -1852,6 +1892,8 @@ Dialogue: "So be weird. Be honest. Make the thing only you would make." "What a 
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-24"><img src="images/case24/preview.webp" width="700" alt="Sunglasses unboxing identity ad"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-24)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proport…</summary>
@@ -2072,6 +2114,13 @@ Ultra-realistic, authentic creator content, premium grocery aesthetic, natural b
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-29)
 
+**输入素材**（6 张官方关键帧参考图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="images/case29/input1.webp" width="112" alt="@图片1"><br><sub>@图片1</sub> | <img src="images/case29/input2.webp" width="112" alt="@图片2"><br><sub>@图片2</sub> | <img src="images/case29/input3.webp" width="112" alt="@图片3"><br><sub>@图片3</sub> | <img src="images/case29/input4.webp" width="112" alt="@图片4"><br><sub>@图片4</sub> |
+| <img src="images/case29/input5.webp" width="112" alt="@图片5"><br><sub>@图片5</sub> | <img src="images/case29/input6.webp" width="112" alt="@图片6"><br><sub>@图片6</sub> |  |  |
+
 <details>
 <summary><strong>Prompt</strong> — 根据 @图片1 - @图片6 制作一镜到底的像素武侠主题竖版视频，背景音乐使用国风 8bit 武侠风格音乐。全片统一浅蓝底色，像素风格统一，画面干净通透。 镜头 1：静止展示 @图片 1 的「江湖风云」水墨风格 logo，背景为统一浅蓝底色，画面保持约 1 秒静止。 镜头 2：@图片 1 中的文字区…</summary>
 
@@ -2192,6 +2241,8 @@ Ultra-realistic, authentic creator content, premium grocery aesthetic, natural b
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-34)
 
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
 <details>
 <summary><strong>Prompt</strong> — Prompt  IDENTITY: @Image1 supplies identity only — face, long black hair, low-brim cap, glossy black bodysuit, segmented cybernetic right arm, circuit…</summary>
 
@@ -2239,6 +2290,8 @@ A cinematic slow-motion shot of a professional Caucasian male badminton player c
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-36"><img src="images/case36/preview.webp" width="700" alt="“Chase,” a DV camcorder self-shot day"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-36)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for h…</summary>
@@ -2290,6 +2343,8 @@ Trainee dorm room (early morning) → vocal lesson room (morning) → dance prac
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-64)
 
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
 <details>
 <summary><strong>Prompt</strong> — A realistic handheld travel vlog filmed by a friend following the main character throughout the day. Use the woman from …</summary>
 
@@ -2312,6 +2367,8 @@ A realistic handheld travel vlog filmed by a friend following the main character
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-70"><img src="images/case70/preview.webp" width="700" alt="MiniDV morning vlog in an old residential lane"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-70)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — 完整提示词： 【视觉与风格设定】 画质与摄影机美学：2000年代初家用手持小型DV摄像机（MiniDV）录像风格，强烈的手持摇晃与抖动、频繁且随意的重新构图、偶发自动对焦搜索与镜头呼吸、曝光偶有波动。低对比度、泛白褪色感（faded/washed-out）、伴随轻微数字噪点与轻度压缩感，无任何现代稳…</summary>
@@ -2351,6 +2408,8 @@ A realistic handheld travel vlog filmed by a friend following the main character
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-37"><img src="images/case37/preview.webp" width="700" alt="Clay-model car assembly render"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-37)
+
+**输入素材**：未公开 —— ByteDance Seed 博客只发布了成片，未随文发布输入素材
 
 **Prompt**
 
@@ -2417,6 +2476,8 @@ A realistic handheld travel vlog filmed by a friend following the main character
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-40"><img src="images/case40/preview.webp" width="700" alt="Identity-locked morning routine brief"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-40)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — Subject: Person from Image1. Face and hairstyle must match Image1 exactly; do not change identity. Ignore its outfit, background, pose, and text. Outf…</summary>
@@ -2511,6 +2572,14 @@ Music should be an upbeat polished fashion pop instrumental at about 112 beats p
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-43)
 
+**输入素材**（1 段白模参考视频 + 9 张关键帧参考图，视频只取首帧）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="images/case43/input1.webp" width="200" alt="&lt;video1&gt; 白模首帧"><br><sub>&lt;video1&gt; 白模首帧</sub> | <img src="images/case43/input2.webp" width="200" alt="&lt;2pic&gt;"><br><sub>&lt;2pic&gt;</sub> | <img src="images/case43/input3.webp" width="200" alt="&lt;3pic&gt;"><br><sub>&lt;3pic&gt;</sub> | <img src="images/case43/input4.webp" width="200" alt="&lt;4pic&gt;"><br><sub>&lt;4pic&gt;</sub> |
+| <img src="images/case43/input5.webp" width="200" alt="&lt;5pic&gt;"><br><sub>&lt;5pic&gt;</sub> | <img src="images/case43/input6.webp" width="200" alt="&lt;6pic&gt;"><br><sub>&lt;6pic&gt;</sub> | <img src="images/case43/input7.webp" width="200" alt="&lt;7pic&gt;"><br><sub>&lt;7pic&gt;</sub> | <img src="images/case43/input8.webp" width="200" alt="&lt;8pic&gt;"><br><sub>&lt;8pic&gt;</sub> |
+| <img src="images/case43/input9.webp" width="200" alt="&lt;9pic&gt;"><br><sub>&lt;9pic&gt;</sub> | <img src="images/case43/input10.webp" width="200" alt="&lt;10pic&gt;"><br><sub>&lt;10pic&gt;</sub> |  |  |
+
 <details>
 <summary><strong>Prompt</strong> — 以白模参考视频 &lt;video1&gt; 作为整支视频唯一的运镜、镜头节奏、景别变化、主体运动轨迹和镜头调度参考，严格保持白模视频的镜头顺序、机位变化、运动方式和节奏，不改变镜头结构，不新增镜头，不改变主体运动逻辑。结合各阶段关键帧参考图，生成一部 30 秒电影级 3D 动画短片，整体风格梦幻、童话、温暖，…</summary>
 
@@ -2544,6 +2613,8 @@ Music should be an upbeat polished fashion pop instrumental at about 112 beats p
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-44)
 
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
 <details>
 <summary><strong>Prompt</strong> — Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人物身份与服装参考。严格保持她可辨识的脸部、五官比例、肤色、体型、发型、发色、所有可见配件与image1服装一致。必须像PART 1中同一个真实韩国女性继续战斗。禁止换脸、AI塑料皮…</summary>
 
@@ -2570,6 +2641,12 @@ Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人�
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-45)
 
+**输入素材**（1 段官方原视频，只取首帧）
+
+| |
+|:---:|
+| <img src="images/case45/input1.webp" width="200" alt="@视频 1 首帧"><br><sub>@视频 1 首帧</sub> |
+
 **Prompt**
 
 ~~~~text
@@ -2589,6 +2666,8 @@ Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人�
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-46"><img src="images/case46/preview.webp" width="700" alt="Subway chase, video extend"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-46)
+
+**输入素材**：未公开 —— ByteDance Seed 博客只发布了成片，未随文发布输入素材
 
 **Prompt**
 
@@ -2610,6 +2689,8 @@ Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人�
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-47)
 
+**输入素材**：未公开 —— ByteDance Seed 博客只发布了成片，未随文发布输入素材
+
 **Prompt**
 
 ~~~~text
@@ -2629,6 +2710,12 @@ Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人�
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-48"><img src="images/case48/preview.webp" width="700" alt="Remove unwanted people from a clip"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-48)
+
+**输入素材**（1 段官方原视频，只取首帧）
+
+| |
+|:---:|
+| <img src="images/case48/input1.webp" width="200" alt="@视频1 首帧"><br><sub>@视频1 首帧</sub> |
 
 **Prompt**
 
@@ -2650,6 +2737,12 @@ Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人�
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-49)
 
+**输入素材**（3 段官方参考视频，只取首帧）
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="images/case49/input1.webp" width="200" alt="@视频1 首帧"><br><sub>@视频1 首帧</sub> | <img src="images/case49/input2.webp" width="200" alt="@视频2 首帧"><br><sub>@视频2 首帧</sub> | <img src="images/case49/input3.webp" width="200" alt="@视频3 首帧"><br><sub>@视频3 首帧</sub> |
+
 **Prompt**
 
 ~~~~text
@@ -2669,6 +2762,12 @@ Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人�
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-50"><img src="images/case50/preview.webp" width="700" alt="Fine clay-model re-render, cyberpunk rooftop raccoon"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-50)
+
+**输入素材**（1 段官方白模参考视频，只取首帧）
+
+| |
+|:---:|
+| <img src="images/case50/input1.webp" width="200" alt="视频 1 白模首帧"><br><sub>视频 1 白模首帧</sub> |
 
 **Prompt**
 
@@ -2691,6 +2790,12 @@ Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人�
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-51)
 
+**输入素材**（1 段官方原视频，只取首帧）
+
+| |
+|:---:|
+| <img src="images/case51/input1.webp" width="200" alt="@视频 1 首帧"><br><sub>@视频 1 首帧</sub> |
+
 **Prompt**
 
 ~~~~text
@@ -2710,6 +2815,12 @@ Use exactly 2 uploaded image assets. image1 = PYONA唯一且最高优先级人�
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-52"><img src="images/case52/preview.webp" width="700" alt="Reference-image edit, medieval duel"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-52)
+
+**输入素材**（1 段官方原视频 + 3 张参考图，视频只取首帧）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="images/case52/input1.webp" width="200" alt="@视频 1 首帧"><br><sub>@视频 1 首帧</sub> | <img src="images/case52/input2.webp" width="200" alt="@图片 1 · 场景"><br><sub>@图片 1 · 场景</sub> | <img src="images/case52/input3.webp" width="200" alt="@图片 2 · 深色衣服"><br><sub>@图片 2 · 深色衣服</sub> | <img src="images/case52/input4.webp" width="200" alt="@图片 3 · 浅色衣服"><br><sub>@图片 3 · 浅色衣服</sub> |
 
 <details>
 <summary><strong>Prompt</strong> — 将两人武打素版视频 @视频 1 替换为冷兵器对决前的空手试探风。 场景替换为中世纪石堡平台、古老庭院平地、山间堡垒外平台或简洁石砖决斗场，背景为古堡墙体、风、雾、远处山线，地面平整石质 @图片 1。 视频中深色衣服的男子的服饰替换为 @图片 2，视频中浅色衣服的男子替换为 @图片 3。动作仍然保持不…</summary>
@@ -2737,6 +2848,12 @@ AI 特效仅做环境和质感强化：风吹衣摆、轻雾、接触点少量�
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-53)
 
+**输入素材**（1 段官方原视频，只取首帧）
+
+| |
+|:---:|
+| <img src="images/case53/input1.webp" width="200" alt="原视频首帧"><br><sub>原视频首帧</sub> |
+
 **Prompt**
 
 ~~~~text
@@ -2756,6 +2873,12 @@ AI 特效仅做环境和质感强化：风吹衣摆、轻雾、接触点少量�
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-54"><img src="images/case54/preview.webp" width="700" alt="Seamless transition, mahjong tiles into skyscrapers"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-54)
+
+**输入素材**（2 段官方待衔接视频，只取首帧）
+
+| | |
+|:---:|:---:|
+| <img src="images/case54/input1.webp" width="200" alt="视频 1 首帧"><br><sub>视频 1 首帧</sub> | <img src="images/case54/input2.webp" width="200" alt="视频 2 首帧"><br><sub>视频 2 首帧</sub> |
 
 **Prompt**
 
@@ -2779,6 +2902,8 @@ AI 特效仅做环境和质感强化：风吹衣摆、轻雾、接触点少量�
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-55"><img src="images/case55/preview.webp" width="700" alt="Dubstep photo-animation edit"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-55)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — Create a fast, trippy 30-second dubstep music video using all the uploaded photographs  (PLEASE FIND ATTACHED ALL 14 IMAGES + AUDIO IN THREAD).  Use t…</summary>
@@ -2808,6 +2933,8 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-56"><img src="images/case56/preview.webp" width="700" alt="Locked-illustration creature story"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-56)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — Lock the original illustration completely. Preserve the exact art style, brushwork, textures, material rendering, color palette, creature proportions,…</summary>
@@ -2874,6 +3001,12 @@ _まだ事例がありません —— [事例を追加する](CONTRIBUTING.md)�
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-57)
 
+**输入素材**（1 张官方参考图）
+
+| |
+|:---:|
+| <img src="images/case57/input1.webp" width="200" alt="@图像1"><br><sub>@图像1</sub> |
+
 <details>
 <summary><strong>Prompt</strong> — 电影级 hip-hop / 说唱音乐视频，真实照片级质感，高端调性，海边场景。以@图像1构建画面：一支乐队在金色沙滩、海浪拍岸的岸边表演 —— 一名主唱手握麦克风、麦架立于湿沙上激情演唱，一名吉他手立于画面左侧，一名吉他手立于画面右侧，一名鼓手坐在后方的架子鼓后敲击；辽阔的海岸线在身后展开，滚滚海浪…</summary>
 
@@ -2920,6 +3053,8 @@ _まだ事例がありません —— [事例を追加する](CONTRIBUTING.md)�
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-59)
 
+**输入素材**：未公开 —— ByteDance Seed 博客只发布了成片，未随文发布输入素材
+
 <details>
 <summary><strong>Prompt</strong> — 30 秒音乐会片段，16:9 横屏，电影感写实，真实音乐厅光影，暖金色舞台灯，正式古典音乐会氛围。场景@图一，钢琴家参考@图二，大提琴参考@图三，小提琴参考@图四，主唱参考@图五，管弦等其他乐队参考@图六到图十，合唱团参考图十一到图十四，观众席参考@图十五到图十八。主唱舞台中央走向前沿，钢琴家在钢琴…</summary>
 
@@ -2942,6 +3077,8 @@ _まだ事例がありません —— [事例を追加する](CONTRIBUTING.md)�
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-60"><img src="images/case60/preview.webp" width="700" alt="Idol pop performance, full lyrics &amp; BPM"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-60)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
 
 <details>
 <summary><strong>Prompt</strong> — 16:9 aspect ratio. All lyrics sung in Japanese. Subject: Suzuko-chan from attached image. Scene: All-ages, live stage with no audience. Shooting strat…</summary>
@@ -2999,6 +3136,8 @@ Shot 4 (0:15-0:20) Camera: Wide shot capturing overview from top diagonal angle,
 <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-62"><img src="images/case62/preview.webp" width="700" alt="Classroom explainer, a Song dynasty poem"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-62)
+
+**输入素材**：未公开 —— ByteDance Seed 博客只发布了成片，未随文发布输入素材
 
 **Prompt**
 

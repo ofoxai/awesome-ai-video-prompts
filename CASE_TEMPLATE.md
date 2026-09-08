@@ -40,10 +40,13 @@ carry the same number.
 [⬆️ 返回目录](#table-of-contents)
 ```
 
-## Variant 2 — input → output (i2v, 首尾帧, 图生图, 视频延长和编辑)
+## Variant 2 — input → output (i2v, 首尾帧, 图生图)
 
-Use this whenever the case has a visual input. A reader cannot judge an
-image-to-video or an edit case without seeing what went in.
+Use this when the input is the output's **frame-for-frame counterpart** — an
+i2v source image, or a first/last frame. The reader compares the two directly,
+so they sit side by side at the same size. For a case whose inputs are
+*reference material* (r2v reference images/videos, a keyframe set, a storyboard,
+a white model, or the source clip of an edit/extend), use variant 3 instead.
 
 ```markdown
 <a id="case-N"></a>
@@ -73,6 +76,69 @@ image-to-video or an edit case without seeing what went in.
 [⬆️ 返回目录](#table-of-contents)
 ```
 
+## Variant 3 — input-asset strip (r2v, edit, extend, 白模, 首尾帧以外的多素材)
+
+Use this when the case was fed **reference material** rather than a single
+counterpart frame: r2v reference images or videos, an ordered keyframe set, a
+storyboard grid, a white-model (白模) clip, or the source video of an edit or
+extend. There can be one such asset or thirty, so the shape has to scale —
+variant 2's single cell cannot hold case 12's seven assets or case 43's ten.
+
+The output preview stays exactly as in variant 1 (700px on the long edge,
+linked to ofox.ai). The strip goes **immediately after the ▶ watch line**, so
+the inputs read as the evidence behind the output without pushing the output —
+the page's click target — below the fold.
+
+```markdown
+**输入素材**（<what the assets are, e.g. 4 张官方参考图 / 1 段官方原视频，只取首帧>）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="images/caseN/input1.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | <img src="images/caseN/input2.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | … | … |
+```
+
+Rules specific to the strip:
+
+- **Up to 4 cells per row**, capped at **200px on the long edge** per cell.
+  Beyond four, add body rows to the *same* table and pad the last row with empty
+  cells — do not emit a second table. GitHub wraps each cell image in a link to
+  the full-size file, so the small size costs the reader nothing.
+- **Assets are numbered `input1.webp` … `inputN.webp` in the order the prompt
+  references them.** The numbering is the only thing tying a cell to a `@图片1`
+  or `<3pic>` token in the prompt.
+- **The `<sub>` label quotes the prompt's own token for that asset** —
+  `@图像1 · 草莓味`, `<video1> 白模首帧`, `@图片 2 · 深色衣服`. That is what makes the
+  strip readable next to the prompt. Escape `<` and `>` as `&lt;` / `&gt;`:
+  a bare `<2pic>` is an unknown HTML tag and GitHub's sanitizer deletes it.
+- **A video input contributes its first frame only, and the label must say so**
+  (`@视频1 首帧`, `原视频首帧`). The repo never commits video, so a reader who is
+  not told would take a still for a reference *image*.
+- The strip's text is case data: **byte-identical in all three READMEs**, labels
+  in Chinese like `参数` / `费用` / `来源`.
+
+## Every non-t2v case must account for its input
+
+The rule is **not** "show the input if you have it" — it is that a case whose
+`参数` mode is anything other than `t2v` carries an `**输入素材**` line either
+way. Either it shows the assets (variant 2 or 3), or it states in one line that
+they were never published:
+
+```markdown
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+**输入素材**：未公开 —— ByteDance Seed 博客只发布了成片，未随文发布输入素材
+```
+
+Without that line a reader cannot tell "the input does not exist publicly" from
+"the contributor did not finish the block" — and in a repo whose entire claim is
+verbatim, checkable evidence, that difference is the product. 22 of the 84 cases
+are in this position: 16 community cases whose authors posted only the finished
+clip, and 6 official cases sourced from the ByteDance Seed blog, which publishes
+output videos and no input assets (verified: both the zh and en pages carry 10
+video URLs and a single footer banner image, nothing else).
+
+Pick the wording that is true for the case. Do not use the community wording on
+an official case, and never leave the line off to imply the input might exist.
+
 ---
 
 ## Filling the fields
@@ -93,6 +159,7 @@ Discovered while landing the first cases: a case block is not uniformly
 
 - the prompt, inside the `~~~~text` fence, and the `<summary>` teaser quoted from it
 - the `参数` line, labels and values both
+- the `输入素材` line, and the whole variant-3 strip table under it
 - the `来源` line and every URL in it
 - the `<sub>` credit line
 - the `<a id="case-N">` anchor, the case number, and the title after `Case N:`
@@ -177,7 +244,8 @@ unambiguous that the media and prompt are someone else's work. Delete it for
 ### Assets
 
 `images/caseN/preview.webp` at 700px on the long edge (340px in variant 2),
-plus `input.webp` for variant 2. See `images/README.md` for the size rules.
+plus `input.webp` for variant 2 or `input1.webp` … `inputN.webp` at 200px for
+variant 3. See `images/README.md` for the size rules.
 Video files are never committed, and neither is a billing screenshot — the
 `费用` line carries the job id instead.
 
@@ -204,8 +272,17 @@ Landscape frames are 700 wide, so they do read `width="700"` — but that is the
 measurement agreeing with the rule, not the rule itself. Variant 2 caps each
 cell at 340 the same way: 340 on the long edge, `width` set to the real width.
 
-Use variant 2 only when the reader needs the input to judge the output. A logo
-reference, or one style reference out of several, does not qualify — showing a
-single input out of many is more misleading than showing none. Where a case
-genuinely has two inputs (first-last-frame), composite them side by side into
-one `input.webp`.
+Choose the variant by **what the input is**, not by how many there are:
+
+| The input is… | Variant | Files |
+|---|---|---|
+| the output's frame-for-frame counterpart (i2v source, first/last frame) | 2 | `input.webp`, 340px cells |
+| reference material (r2v refs, keyframe set, storyboard, 白模, edit/extend source) | 3 | `input1.webp` … `inputN.webp`, 200px cells |
+| never published | — | none; the `**输入素材**：未公开 ——` line instead |
+
+The old rule here said a logo or "one style reference out of several" did not
+qualify, because showing one input out of seven is more misleading than showing
+none. That reasoning was right about the failure and wrong about the fix: the
+answer is to show **all** of them in a strip, labelled, not to show none.
+Compositing several inputs into a single `input.webp` is likewise retired — it
+destroyed the per-asset labels that tie a cell to its `@图片1` token.

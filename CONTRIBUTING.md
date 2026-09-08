@@ -39,14 +39,35 @@ reference:
 [⬆️ 返回目录](#table-of-contents)
 `````
 
-Cases with a visual input — `i2v`, 首尾帧动画, 图生图和修图, 视频延长和编辑 —
-use variant 2 in [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md), which puts the source
-image and the result side by side in a `| 输入 | 输出 |` table. A reader cannot
-judge an image-to-video case without seeing what went in.
+### Every non-t2v case must account for its input
+
+A reader cannot judge an image-to-video, reference, or edit case without knowing
+what went in. So any case whose `参数` mode is not `t2v` carries an
+`**输入素材**` line, and there are exactly three ways to satisfy it:
+
+| The input is… | What to do | Template |
+|---|---|---|
+| the output's frame-for-frame counterpart (i2v source image, first/last frame) | a two-cell `输入` / `输出` table, 340px cells | variant 2 |
+| reference material (r2v reference images/videos, keyframe set, storyboard, 白模, the source clip of an edit/extend) | an `**输入素材**` strip of `input1.webp` … `inputN.webp` at 200px, up to 4 per row, each labelled with the prompt's own token | variant 3 |
+| never published | one line: `**输入素材**：未公开 —— <why>` | — |
+
+The third row is not a loophole, it is a requirement. Leaving the line off makes
+"the author never published the input" indistinguishable from "the contributor
+did not finish the block", and this repo's whole claim is that its evidence is
+verbatim and checkable. Today 22 of the 84 cases are in that position — 16
+community cases whose authors posted only the finished clip, and 6 official cases
+from the ByteDance Seed blog, which publishes output videos and no input assets.
+
+Two things the strip must get right: a **video** input contributes only its
+first frame and the label has to say so (`@视频1 首帧`), because the repo never
+commits video and a reader would otherwise take the still for a reference image;
+and `<` / `>` inside a label must be written `&lt;` / `&gt;`, because a bare
+`<2pic>` is an unknown HTML tag that GitHub's sanitizer silently deletes.
 
 Two kinds of text live in a case block. The **data** — prompt, `参数` line,
-`来源` and its URLs, the `<sub>` credit, the anchor, the case number and title,
-and the `images/caseN/` paths — is byte-identical in all three READMEs. The
+`输入素材` line and any strip table under it, `来源` and its URLs, the `<sub>`
+credit, the anchor, the case number and title, and the `images/caseN/` paths —
+is byte-identical in all three READMEs. The
 **navigation chrome** around it — the "watch the full video" label and the
 back-to-top label — is localized like every other piece of chrome on the page.
 A Chinese button in the English README is a bug, not consistency.
@@ -65,7 +86,8 @@ same clip.**
 ### Rules
 
 - **Preview**: a static frame from the clip, saved as **WebP** at **700px on
-  the long edge** (340px per cell in the input→output variant), stored under
+  the long edge** (340px per cell in the input→output variant, 200px per cell
+  in the input-asset strip), stored under
   `images/caseN/` — see [`images/README.md`](images/README.md) for the full
   convention. Not a GIF: at a usable size a 3-second GIF is 2–5 MB and bands
   badly on exactly the gradients Seedance output is full of. Actual video files
@@ -173,8 +195,11 @@ preview frame: we extract the frame.
    [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md), in all three README files
    (`README.md`, `README.zh-CN.md`, `README.ja.md`) — the case content is
    identical across all three, only the surrounding language differs.
-2. Add the preview (and `input.webp` for an input→output case) under
-   `images/caseN/`, following [`images/README.md`](images/README.md).
+2. Add the preview under `images/caseN/`, following
+   [`images/README.md`](images/README.md) — plus `input.webp` for an
+   input→output case, or `input1.webp` … `inputN.webp` for an input-asset
+   strip. If the input was never published, say so on the `**输入素材**` line
+   instead.
 3. Bump the case-count badge in each README if you're keeping it in sync.
 4. Open a PR. A maintainer reviews for: complete prompt, working preview,
    correct category, accurate `参数`, and (for community and official cases)
