@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution rules
+    url: https://github.com/ofoxai/awesome-seedance-2.5/blob/main/CONTRIBUTING.md
+    about: Case format, sourcing rules, and what gets a submission rejected.
+  - name: Takedown request
+    url: https://github.com/ofoxai/awesome-seedance-2.5/issues/new?title=Takedown%3A%20case-N
+    about: You authored a prompt or clip featured here and want it removed.
+  - name: Try Seedance 2.5
+    url: https://app.ofox.ai/playground?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5
+    about: Run these prompts yourself on Ofox.

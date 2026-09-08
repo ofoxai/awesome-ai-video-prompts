@@ -1,0 +1,137 @@
+name: Submit a case
+description: Propose a Seedance 2.5 prompt + output for this collection
+title: "[Case] "
+labels: ["case-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing. Read [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) first —
+        the two rules that get submissions rejected most often are:
+
+        1. **The prompt must be complete and unedited.** No paraphrase, no truncation.
+           If you only have a screenshot of the result, we can't accept it.
+        2. **Parameters you didn't see published are `未标注`.** Don't read a duration
+           off the video file — that's the encoded output, not the request.
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt (complete, unedited)
+      description: The whole original text, exactly as it was written. Do not translate it — a translated prompt does not generate the same clip.
+      render: text
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Pick the closest existing one. If nothing fits, say so in "Anything else" rather than inventing a category.
+      options:
+        - Short Drama (短剧)
+        - Anime Drama (漫剧)
+        - Ad Creative (创意广告)
+        - Product Video (电商产品视频)
+        - Talking Head (口播和数字人)
+        - UGC Ads (UGC风格广告)
+        - Shorts & Reels (社媒短视频)
+        - Product Demo (产品演示)
+        - Keyframe Animation (首尾帧动画)
+        - Video Extend & Edit (视频延长和编辑)
+        - Image Edit (图生图和修图)
+        - Product Image (电商主图和海报)
+        - Music Video (音乐可视化和MV)
+        - Explainer (教学解说视频)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Mode
+      options:
+        - t2v (text to video)
+        - i2v (image to video)
+        - keyframe (first / first-last frame)
+        - extend (continue an existing clip)
+        - edit (modify an existing clip)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: provider
+    attributes:
+      label: Where was it run?
+      description: This matters — fal and Replicate cap Seedance 2.5 at 720p, while ByteDance native and Ofox reach 1080p.
+      options:
+        - Ofox
+        - 火山方舟 / BytePlus ModelArk
+        - 即梦 / Dreamina
+        - fal.ai
+        - Replicate
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: input
+    id: params
+    attributes:
+      label: Duration, resolution, aspect ratio, audio
+      description: Only what was actually published or what you actually set. Write 未标注 for anything you don't know.
+      placeholder: "10s · 1080p · 16:9 · 带音频"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: sourcing
+    attributes:
+      label: Where does this case come from?
+      options:
+        - I ran it myself
+        - Community — someone else posted it publicly
+        - Official — ByteDance / 火山方舟 / 即梦 first-party material
+    validations:
+      required: true
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Source link
+      description: For community cases, the author's original post (X or 即梦). For official cases, the first-party page — not a blog that reposted it. For your own runs, leave blank.
+    validations:
+      required: false
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Output
+      description: Drag the video or a still in here. We convert it to a 700px WebP frame ourselves.
+    validations:
+      required: true
+
+  - type: input
+    id: cost
+    attributes:
+      label: Cost, if you ran it yourself
+      description: The amount actually billed, with a screenshot of the billing page dragged into the box above. Leave blank if you didn't run it — we don't publish estimates.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Rights
+      options:
+        - label: The prompt text is reproduced complete and unedited.
+          required: true
+        - label: I have the right to share this prompt and preview, or it is credited to its author with a working link.
+          required: true
+        - label: I understand cases can be removed on request by their author.
+          required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      required: false
