@@ -2067,7 +2067,7 @@ Ultra-realistic, authentic creator content, premium grocery aesthetic, natural b
 
 </details>
 
-**参数**：Seedance 2.5 · 未标注 · t2v · 20s · 未标注 · 9:16 · 未标注
+**参数**：Seedance 2.5 · 未标注 · t2v · 20s · 未标注 · 未标注 · 未标注
 **来源**：[@aiwithsynthia](https://x.com/aiwithsynthia) · [原帖](https://x.com/aiwithsynthia/status/2084264050717045019)
 
 <sub>Preview © 2026 <a href="https://x.com/aiwithsynthia/status/2084264050717045019">@aiwithsynthia</a> · Prompt by <a href="https://x.com/aiwithsynthia/status/2084264050717045019">@aiwithsynthia</a></sub>
@@ -2498,7 +2498,7 @@ Bathroom clutter: toothpaste/skincare bottles, but all labels illegible. Sound o
 
 </details>
 
-**参数**：Seedance 2.5 · 未标注 · i2v · 未标注 · 未标注 · 9:16 · 带音频
+**参数**：Seedance 2.5 · 未标注 · i2v · 未标注 · 未标注 · 未标注 · 带音频
 **来源**：[@doctorwasif](https://x.com/doctorwasif) · [原帖](https://x.com/doctorwasif/status/2087528917972431102)
 
 <sub>Preview © 2026 <a href="https://x.com/doctorwasif/status/2087528917972431102">@doctorwasif</a> · Prompt by <a href="https://x.com/doctorwasif/status/2087528917972431102">@doctorwasif</a></sub>

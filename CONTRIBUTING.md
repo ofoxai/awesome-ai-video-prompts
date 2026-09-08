@@ -99,14 +99,14 @@ same clip.**
   vertical frame makes GitHub upscale it to 700×1219, which is blurry (it is
   stretched from 402 real pixels) and eats the entire viewport.
 - **Preview must match the prompt**: play the clip before you grab the frame
-  and confirm it is what the prompt actually describes. Compare four things —
-  orientation and aspect ratio, setting, subject, and the main action. If any
-  of them contradicts the prompt, drop the case; do not publish the prompt
-  with a frame it did not produce, and do not "fix" the mismatch by softening
-  the prompt. A creator can pair a genuine prompt with an unrelated video:
-  one candidate rejected on 2026-09-07 described a vertical 9:16 ink-wash
-  swordfight in a night courtyard and shipped a landscape 1080×607 gunfight
-  in a modern stairwell.
+  and confirm it is what the prompt actually describes. Compare five things —
+  duration, orientation and aspect ratio, setting, subject, and the main
+  action. If any of them contradicts the prompt, drop the case; do not publish
+  the prompt with a frame it did not produce, and do not "fix" the mismatch by
+  softening the prompt. See
+  [The clip has to be the output of that prompt](#the-clip-has-to-be-the-output-of-that-prompt)
+  for what a community submission has to show, and for the candidate this rule
+  cost us.
 - **Prompt**: the complete, unedited original text. Fold it in `<details>`
   with the first ~150 characters copied verbatim into the `<summary>` as a
   teaser **only when the prompt exceeds ~200 characters** — below that the
@@ -177,8 +177,49 @@ Once real cases start landing, the target mix is:
   r/aivideo. Only accepted if the full prompt is publicly available;
   screenshots of a result with no prompt text don't qualify. Aggregated prompt
   libraries count as a lead, not a source — verify against the author's own
-  post, and apply the "Preview must match the prompt" rule above before
-  taking a frame.
+  post, and say how you know the clip is the output of that prompt (next
+  section) before taking a frame.
+
+### The clip has to be the output of that prompt
+
+A publicly visible prompt is not evidence that it produced the video sitting
+next to it. Creators do post a prompt beside an unrelated clip, and this repo's
+only claim is that its evidence is verbatim and checkable — so one case that
+does not line up costs more than the ten cases we skip.
+
+**Say how you know the two belong together.** Any one of these is enough:
+
+- the author published the prompt and the clip **in the same post**, with the
+  prompt describing that clip;
+- the author states the correspondence somewhere public — a pinned comment, a
+  reply, a follow-up post — and you link it;
+- the author confirmed it to you directly, and you say so.
+
+**Then check the pairing yourself**, against the things a prompt fixes and a
+video reveals in under a minute: **duration, aspect ratio and orientation,
+setting, subject, main action.** A prompt that specifies 9:16 has not produced a
+1920×1080 clip; a prompt about a night courtyard has not produced a daylit
+interior.
+
+**A contradiction on any of them means the case is not accepted.** Not published
+with a caveat, and not repaired by editing the prompt to fit the video — the
+prompt is quoted verbatim or the case does not go in.
+
+This is written down because it has already cost a candidate. On 2026-09-07 a
+bilibili upload — [`BV1erGu6JEpd`](https://www.bilibili.com/video/BV1erGu6JEpd),
+by [@平面设计柚子](https://space.bilibili.com/3546650324765434) — carried a
+complete prompt in its description: a vertical **9:16** ink-wash sword-qi scene
+in a night 古风 courtyard, negative prompt included. The clip it was attached to
+is a landscape **1080×607** gunfight in a modern stairwell. Checking the
+upload's own cover frame confirmed it. The prompt is genuine and may well have
+produced something; nothing on the page shows *which* clip, so the case was
+dropped and is not in this repo. The same author's other uploads did line up and
+are here as cases 66-68 — the check is mechanical, not a verdict on anyone.
+
+A note on where this bites hardest: `t2v` cases are the easy ones, because the
+prompt is the whole input. The pairing is *harder* to establish on `i2v`,
+`extend` and `edit` cases, where the published clip may be the input rather than
+the output. Say which one you are looking at.
 
 ## Submitting without a PR
 

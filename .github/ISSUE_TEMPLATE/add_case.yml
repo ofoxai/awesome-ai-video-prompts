@@ -7,12 +7,17 @@ body:
     attributes:
       value: |
         Thanks for contributing. Read [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) first —
-        the two rules that get submissions rejected most often are:
+        the three rules that get submissions rejected most often are:
 
         1. **The prompt must be complete and unedited.** No paraphrase, no truncation.
            If you only have a screenshot of the result, we can't accept it.
         2. **Parameters you didn't see published are `未标注`.** Don't read a duration
            off the video file — that's the encoded output, not the request.
+        3. **The clip has to be the output of that prompt.** A prompt posted next to a
+           video is not proof it produced that video. We have dropped a candidate whose
+           description carried a vertical 9:16 古风 sword prompt on a landscape 1080×607
+           modern gunfight clip. Check duration, aspect ratio, setting, subject and main
+           action against the prompt — a contradiction on any of them means no.
 
   - type: textarea
     id: prompt
@@ -103,6 +108,25 @@ body:
       required: false
 
   - type: textarea
+    id: pairing_evidence
+    attributes:
+      label: How do you know this clip is the output of this prompt?
+      description: >-
+        Name the evidence, don't just assert it. Accepted: the author posted the prompt and
+        the clip in the same post (say so, and the link above is enough); the author states
+        the correspondence in a public comment, reply or follow-up (paste that link here);
+        the author confirmed it to you (say so). "The prompt was in the description" is not
+        on its own enough — that is exactly the case we rejected. Then tell us what you
+        compared: duration, aspect ratio, setting, subject, main action. If you ran it
+        yourself, write "I ran it" and give the job id.
+      placeholder: |
+        Prompt and clip are in the same post (link above). Checked against the prompt:
+        11s clip vs prompt's 未标注 duration, 9:16 vertical as the prompt specifies,
+        night courtyard setting matches, single swordsman matches, sword swing matches.
+    validations:
+      required: true
+
+  - type: textarea
     id: media
     attributes:
       label: Output
@@ -113,8 +137,14 @@ body:
   - type: input
     id: cost
     attributes:
-      label: Cost, if you ran it yourself
-      description: The amount actually billed, with a screenshot of the billing page dragged into the box above. Leave blank if you didn't run it — we don't publish estimates.
+      label: Cost and job id, if you ran it yourself
+      description: >-
+        The amount actually billed and the job id it was billed under, in the form we
+        publish it: $3.30（job 844c9145-9b10-4335-9fdc-ec4937793a2f）. The job id is the
+        credential — it ties the charge to this one clip at full precision, which a
+        billing-page screenshot cannot do, so please don't send one. Leave blank if you
+        didn't run it: we omit the line rather than estimate from the pricing table.
+      placeholder: "$3.30（job 844c9145-9b10-4335-9fdc-ec4937793a2f）"
     validations:
       required: false
 
@@ -125,6 +155,8 @@ body:
       options:
         - label: The prompt text is reproduced complete and unedited.
           required: true
+        - label: I have watched the clip and it is the output of this prompt — duration, aspect ratio, setting, subject and main action all match.
+          required: true
         - label: I have the right to share this prompt and preview, or it is credited to its author with a working link.
           required: true
         - label: I understand cases can be removed on request by their author.
@@ -134,4 +166,5 @@ body:
     id: notes
     attributes:
       label: Anything else
+    validations:
       required: false
