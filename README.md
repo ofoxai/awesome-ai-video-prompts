@@ -109,8 +109,7 @@ Not comfortable opening a PR? Use the
   repo. Where this repo shows you the prompt, that repo's scenario skills
   let an AI agent (Claude Code, Codex, OpenCode) run it end to end: write
   the prompt, call this same API, download the video, and report the
-  bill. *(Link goes live once that repo is published — not yet public as
-  of this writing.)*
+  bill.
 
 - **Official Seedance 2.5 material** — where this repo's official cases come
   from, and the right place to check a parameter before you trust ours:

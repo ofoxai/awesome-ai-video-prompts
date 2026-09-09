@@ -79,7 +79,7 @@ PR に慣れていない方は[事例投稿フォーム](../../issues/new?templa
 
 ## 関連リンク
 
-- [ofoxai/skills](https://github.com/ofoxai/skills) —— Ofox のエージェント向け skill リポジトリ。このリポジトリがプロンプトを見せる一方、あちらのシナリオ skill は AI エージェント（Claude Code、Codex、OpenCode）にプロンプト作成から同じAPIの呼び出し、動画のダウンロード、費用の報告までを一気通貫で実行させます。*（そのリポジトリが公開され次第このリンクは有効になります —— 本稿執筆時点では未公開です。）*
+- [ofoxai/skills](https://github.com/ofoxai/skills) —— Ofox のエージェント向け skill リポジトリ。このリポジトリがプロンプトを見せる一方、あちらのシナリオ skill は AI エージェント（Claude Code、Codex、OpenCode）にプロンプト作成から同じAPIの呼び出し、動画のダウンロード、費用の報告までを一気通貫で実行させます。
 
 - **Seedance 2.5 の公式資料** —— 本リポジトリの公式事例の出典です。パラメータを
   確認する際は一次情報をご参照ください:

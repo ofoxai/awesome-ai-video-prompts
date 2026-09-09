@@ -79,7 +79,7 @@ Ofox 上 Seedance 2.5 的每秒价格，截至 2026-08 月（来源：[ofox.ai/m
 
 ## 相关链接
 
-- [ofoxai/skills](https://github.com/ofoxai/skills) —— Ofox 的 agent skill 仓库。这个仓库给你看提示词，那个仓库里的场景 skill 让 AI agent（Claude Code、Codex、OpenCode）把整条流程跑完：写提示词、调用同一个 API、下载视频、报账单。*（该仓库发布后此链接才生效 —— 撰写本文时尚未公开。）*
+- [ofoxai/skills](https://github.com/ofoxai/skills) —— Ofox 的 agent skill 仓库。这个仓库给你看提示词，那个仓库里的场景 skill 让 AI agent（Claude Code、Codex、OpenCode）把整条流程跑完：写提示词、调用同一个 API、下载视频、报账单。
 
 - **Seedance 2.5 官方素材** —— 本仓库官方案例的出处，核对参数时请以它们为准：
   [字节 Seed 发布博客](https://seed.bytedance.com/zh/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) ·
