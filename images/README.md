@@ -1,7 +1,8 @@
 # `images/` convention
 
 This directory holds only the small preview assets that a case entry embeds
-inline in the README. It never holds the actual generated video files.
+inline in its category file under `cases/` (and that the README index uses as
+category thumbnails). It never holds the actual generated video files.
 
 ## Layout
 
@@ -20,8 +21,10 @@ images/
   ...
 ```
 
-One directory per case, named `caseN` to match the case's number in the
-README (e.g. `### Case 12: ...` → `images/case12/`).
+One directory per case, named `caseN` to match the case's number in its
+category file (e.g. `### Case 12: ...` → `images/case12/`). Case blocks live in
+`cases/<category>.md`, one directory down, so they reference the files as
+`../images/caseN/…`; the README index, at the root, uses `images/caseN/…`.
 
 ## Rules
 
@@ -38,7 +41,7 @@ README (e.g. `### Case 12: ...` → `images/case12/`).
   thumbnail. It is the *long edge* that is capped, so a landscape frame is
   700×394 while a vertical one is around 402×700 — a 9:16 clip scaled to 700
   *wide* would be 1244px tall and swamp the page.
-- **The `<img width>` in the README is the file's real pixel width.** Not a
+- **The `<img width>` in the case block is the file's real pixel width.** Not a
   blanket 700. GitHub renders an `<img>` from `width` plus the file's intrinsic
   aspect ratio, so `width="700"` on a 402×700 vertical frame upscales it to
   700×1219 — visibly blurry, since it is stretched from 402 real pixels, and

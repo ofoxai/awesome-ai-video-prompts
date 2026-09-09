@@ -1,14 +1,18 @@
 # Case template
 
-Copy the block for your case type below, fill in the placeholders, and drop it
-under the right category section in `README.md` (and, since a case's own content
-is never localized, the matching spot in `README.zh-CN.md` and `README.ja.md`
-too — only the surrounding section prose differs between the three files). See
-`CONTRIBUTING.md` for the full rules this format encodes.
+Copy the block for your case type below, fill in the placeholders, and append it
+to the right category file — `cases/<category>.md`, and, since a case's own
+content is never localized, the same spot in `cases/<category>.zh-CN.md` and
+`cases/<category>.ja.md` too — only the navigation chrome differs between the
+three files. The READMEs hold only the index: add the case's title to the mini
+table of contents at the top of each category file, and bump the count on the
+category's row in all three READMEs. See `CONTRIBUTING.md` for the full rules
+this format encodes.
 
 Replace `N` with the next case number everywhere it appears — the anchor, the
-heading, the `#case-N` link fragment, and the `images/caseN/` paths must all
-carry the same number.
+heading, the `#case-N` link fragment, and the `../images/caseN/` paths must all
+carry the same number. Image paths start with `../` because the block lives one
+directory down from `images/`.
 
 ---
 
@@ -18,7 +22,7 @@ carry the same number.
 <a id="case-N"></a>
 ### Case N: <title> (by @author or Ofox Team)
 
-<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="images/caseN/preview.webp" width="<the image's real pixel width — 700 landscape, e.g. 394 vertical>" alt="<title>"></a>
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../images/caseN/preview.webp" width="<the image's real pixel width — 700 landscape, e.g. 394 vertical>" alt="<title>"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N)
 
@@ -54,7 +58,7 @@ a white model, or the source clip of an edit/extend), use variant 3 instead.
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="images/caseN/input.webp" width="<real pixel width, ≤340>" alt="input"> | <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="images/caseN/preview.webp" width="<real pixel width, ≤340>" alt="<title>"></a> |
+| <img src="../images/caseN/input.webp" width="<real pixel width, ≤340>" alt="input"> | <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../images/caseN/preview.webp" width="<real pixel width, ≤340>" alt="<title>"></a> |
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N)
 
@@ -94,7 +98,7 @@ the page's click target — below the fold.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="images/caseN/input1.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | <img src="images/caseN/input2.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | … | … |
+| <img src="../images/caseN/input1.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | <img src="../images/caseN/input2.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | … | … |
 ```
 
 Rules specific to the strip:
@@ -113,7 +117,7 @@ Rules specific to the strip:
 - **A video input contributes its first frame only, and the label must say so**
   (`@视频1 首帧`, `原视频首帧`). The repo never commits video, so a reader who is
   not told would take a still for a reference *image*.
-- The strip's text is case data: **byte-identical in all three READMEs**, labels
+- The strip's text is case data: **byte-identical in all three language files**, labels
   in Chinese like `参数` / `费用` / `来源`.
 
 ## Every non-t2v case must account for its input
@@ -155,7 +159,8 @@ page.
 Discovered while landing the first cases: a case block is not uniformly
 "unlocalized". Two kinds of text live in it.
 
-**Byte-identical in all three READMEs** — this is the case *data*:
+**Byte-identical in all three language files** (`cases/<category>.md` / `.zh-CN.md` /
+`.ja.md`) — this is the case *data*:
 
 - the prompt, inside the `~~~~text` fence, and the `<summary>` teaser quoted from it
 - the `参数` line, labels and values both
@@ -163,15 +168,17 @@ Discovered while landing the first cases: a case block is not uniformly
 - the `来源` line and every URL in it
 - the `<sub>` credit line
 - the `<a id="case-N">` anchor, the case number, and the title after `Case N:`
-- the preview `<img>` / `<a>` markup and the `images/caseN/` paths
+- the preview `<img>` / `<a>` markup and the `../images/caseN/` paths
 
 **Localized per file** — this is navigation chrome, and every other piece of
-chrome in these READMEs is already localized:
+chrome in these files is already localized:
 
 - the "watch the full video" call-to-action label
-- the back-to-top label (`Back to top` / `回到目录` / `目次に戻る`)
+- the back-to-top label (`Back to top` / `回到目录` / `目次に戻る`) — it jumps to the
+  `<a id="table-of-contents">` at the top of the category file, so the fragment
+  stays `#table-of-contents` in every file
 
-A Chinese button in the English README is a bug, not consistency. The rule that
+A Chinese button in the English file is a bug, not consistency. The rule that
 a case "is not localized" is about the evidence, not the furniture around it.
 
 ### Title and attribution

@@ -17,7 +17,7 @@ reference:
 <a id="case-N"></a>
 ### Case N: <title> (by @author or Ofox Team)
 
-<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="images/caseN/preview.webp" width="<the image's real pixel width — 700 landscape, e.g. 394 vertical>" alt="<title>"></a>
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../images/caseN/preview.webp" width="<the image's real pixel width — 700 landscape, e.g. 394 vertical>" alt="<title>"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N)
 
@@ -66,20 +66,21 @@ and `<` / `>` inside a label must be written `&lt;` / `&gt;`, because a bare
 
 Two kinds of text live in a case block. The **data** — prompt, `参数` line,
 `输入素材` line and any strip table under it, `来源` and its URLs, the `<sub>`
-credit, the anchor, the case number and title, and the `images/caseN/` paths —
-is byte-identical in all three READMEs. The
+credit, the anchor, the case number and title, and the `../images/caseN/` paths —
+is byte-identical in all three language files. The
 **navigation chrome** around it — the "watch the full video" label and the
 back-to-top label — is localized like every other piece of chrome on the page.
-A Chinese button in the English README is a bug, not consistency.
+A Chinese button in the English file is a bug, not consistency.
 
 A note on the `参数` / `费用` / `来源` field labels: they're intentionally
-kept in Chinese and identical across all three README variants, the same
+kept in Chinese and identical across all three language files, the same
 way model names, durations, and prices are never translated. A case's own
-content is not localized — only the section headers and prose around it
-differ between `README.md`, `README.zh-CN.md`, and `README.ja.md`. This
-keeps every case machine-parseable the same way regardless of which README
-file it lives in, since the same case text is expected to appear (or later
-sync to the site page) unchanged in all three. Prompts specifically are never
+content is not localized — only the category heading and the navigation
+chrome around it differ between `cases/<category>.md`,
+`cases/<category>.zh-CN.md`, and `cases/<category>.ja.md`. This keeps every
+case machine-parseable the same way regardless of which file it lives in,
+since the same case text is expected to appear (or later sync to the site
+page) unchanged in all three. Prompts specifically are never
 translated for a harder reason: **a translated prompt does not generate the
 same clip.**
 
@@ -141,10 +142,10 @@ same clip.**
   own runs use `Ofox 实测`.
 - **`<sub>` credit line**: required on every community and official case.
   Delete it on `Ofox 实测` cases.
-- **Category**: pick the closest scenario category already in the README's
-  table of contents. If none fits, say so in the PR description rather than
-  inventing a new category — categories change from a repo-wide decision,
-  not a single PR.
+- **Category**: pick the closest scenario category already listed in the
+  README's index — one file per category under `cases/`. If none fits, say so
+  in the PR description rather than inventing a new category or a new file —
+  categories change from a repo-wide decision, not a single PR.
 
 ## Rights and takedown
 
@@ -232,16 +233,19 @@ preview frame: we extract the frame.
 
 ## Opening a PR
 
-1. Add your case under the right category section using
-   [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md), in all three README files
-   (`README.md`, `README.zh-CN.md`, `README.ja.md`) — the case content is
-   identical across all three, only the surrounding language differs.
+1. Append your case to the right category file under `cases/` using
+   [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md), in all three language files
+   (`cases/<category>.md`, `cases/<category>.zh-CN.md`,
+   `cases/<category>.ja.md`) — the case content is identical across all
+   three, only the navigation chrome differs. Add a line for it to the mini
+   table of contents at the top of each of the three files.
 2. Add the preview under `images/caseN/`, following
    [`images/README.md`](images/README.md) — plus `input.webp` for an
    input→output case, or `input1.webp` … `inputN.webp` for an input-asset
    strip. If the input was never published, say so on the `**输入素材**` line
    instead.
-3. Bump the case-count badge in each README if you're keeping it in sync.
+3. Bump the case-count badge and the category's count on the index row in
+   each of the three READMEs.
 4. Open a PR. A maintainer reviews for: complete prompt, working preview,
    correct category, accurate `参数`, and (for community and official cases)
    proper attribution.
