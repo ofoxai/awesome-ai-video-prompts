@@ -84,7 +84,7 @@ billed, so every number traces back to one API call. See
 | <a href="cases/shorts-reels.md"><img src="images/case28/preview.webp" width="160" alt="Shorts & Reels (社媒短视频)"></a> | [Shorts & Reels (社媒短视频)](cases/shorts-reels.md) | 11 |
 | <a href="cases/product-demo.md"><img src="images/case37/preview.webp" width="160" alt="Product Demo (产品演示)"></a> | [Product Demo (产品演示)](cases/product-demo.md) | 5 |
 | <a href="cases/keyframe-animation.md"><img src="images/case42/preview.webp" width="160" alt="Keyframe Animation (首尾帧动画)"></a> | [Keyframe Animation (首尾帧动画)](cases/keyframe-animation.md) | 3 |
-| <a href="cases/video-extend-edit.md"><img src="images/case45/preview.webp" width="160" alt="Video Extend & Edit (视频延长和编辑)"></a> | [Video Extend & Edit (视频延长和编辑)](cases/video-extend-edit.md) | 10 |
+| <a href="cases/video-extend-edit.md"><img src="images/case45/preview.webp" width="160" alt="Video Extend & Edit (视频延长和编辑)"></a> | [Video Extend & Edit (视频延长和编辑)](cases/video-extend-edit.md) | 11 |
 | <a href="cases/image-edit.md"><img src="images/case55/preview.webp" width="160" alt="Image Edit (图生图和修图)"></a> | [Image Edit (图生图和修图)](cases/image-edit.md) | 2 |
 |  | [Product Image (电商主图和海报)](cases/product-image.md) | 0 |
 | <a href="cases/music-video.md"><img src="images/case57/preview.webp" width="160" alt="Music Video (音乐可视化和MV)"></a> | [Music Video (音乐可视化和MV)](cases/music-video.md) | 5 |

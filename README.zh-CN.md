@@ -66,7 +66,7 @@ Ofox 上 Seedance 2.5 的每秒价格，截至 2026-08 月（来源：[ofox.ai/m
 | <a href="cases/shorts-reels.zh-CN.md"><img src="images/case28/preview.webp" width="160" alt="社媒短视频 Shorts & Reels"></a> | [社媒短视频 Shorts & Reels](cases/shorts-reels.zh-CN.md) | 11 |
 | <a href="cases/product-demo.zh-CN.md"><img src="images/case37/preview.webp" width="160" alt="产品演示 Product Demo"></a> | [产品演示 Product Demo](cases/product-demo.zh-CN.md) | 5 |
 | <a href="cases/keyframe-animation.zh-CN.md"><img src="images/case42/preview.webp" width="160" alt="首尾帧动画 Keyframe Animation"></a> | [首尾帧动画 Keyframe Animation](cases/keyframe-animation.zh-CN.md) | 3 |
-| <a href="cases/video-extend-edit.zh-CN.md"><img src="images/case45/preview.webp" width="160" alt="视频延长和编辑 Video Extend & Edit"></a> | [视频延长和编辑 Video Extend & Edit](cases/video-extend-edit.zh-CN.md) | 10 |
+| <a href="cases/video-extend-edit.zh-CN.md"><img src="images/case45/preview.webp" width="160" alt="视频延长和编辑 Video Extend & Edit"></a> | [视频延长和编辑 Video Extend & Edit](cases/video-extend-edit.zh-CN.md) | 11 |
 | <a href="cases/image-edit.zh-CN.md"><img src="images/case55/preview.webp" width="160" alt="图生图和修图 Image Edit"></a> | [图生图和修图 Image Edit](cases/image-edit.zh-CN.md) | 2 |
 |  | [电商主图和海报 Product Image](cases/product-image.zh-CN.md) | 0 |
 | <a href="cases/music-video.zh-CN.md"><img src="images/case57/preview.webp" width="160" alt="音乐可视化和MV Music Video"></a> | [音乐可视化和MV Music Video](cases/music-video.zh-CN.md) | 5 |

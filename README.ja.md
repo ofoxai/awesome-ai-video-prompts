@@ -66,7 +66,7 @@ Ofox における Seedance 2.5 の秒単価、2026年8月時点（出典: [ofox.
 | <a href="cases/shorts-reels.ja.md"><img src="images/case28/preview.webp" width="160" alt="ショート動画・リール Shorts & Reels"></a> | [ショート動画・リール Shorts & Reels](cases/shorts-reels.ja.md) | 11 |
 | <a href="cases/product-demo.ja.md"><img src="images/case37/preview.webp" width="160" alt="製品デモ Product Demo"></a> | [製品デモ Product Demo](cases/product-demo.ja.md) | 5 |
 | <a href="cases/keyframe-animation.ja.md"><img src="images/case42/preview.webp" width="160" alt="開始・終了フレームアニメーション Keyframe Animation"></a> | [開始・終了フレームアニメーション Keyframe Animation](cases/keyframe-animation.ja.md) | 3 |
-| <a href="cases/video-extend-edit.ja.md"><img src="images/case45/preview.webp" width="160" alt="動画延長・編集 Video Extend & Edit"></a> | [動画延長・編集 Video Extend & Edit](cases/video-extend-edit.ja.md) | 10 |
+| <a href="cases/video-extend-edit.ja.md"><img src="images/case45/preview.webp" width="160" alt="動画延長・編集 Video Extend & Edit"></a> | [動画延長・編集 Video Extend & Edit](cases/video-extend-edit.ja.md) | 11 |
 | <a href="cases/image-edit.ja.md"><img src="images/case55/preview.webp" width="160" alt="画像編集・リタッチ Image Edit"></a> | [画像編集・リタッチ Image Edit](cases/image-edit.ja.md) | 2 |
 |  | [商品メイン画像・ポスター Product Image](cases/product-image.ja.md) | 0 |
 | <a href="cases/music-video.ja.md"><img src="images/case57/preview.webp" width="160" alt="ミュージックビデオ Music Video"></a> | [ミュージックビデオ Music Video](cases/music-video.ja.md) | 5 |

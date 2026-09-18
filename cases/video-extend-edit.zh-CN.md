@@ -14,6 +14,7 @@
 - [Case 52: Reference-image edit, medieval duel (视频参考图编辑 · 中世纪冷兵器决斗) — by ByteDance](#case-52)
 - [Case 53: Audio edit, redub and re-sync lip movement (视频音频编辑 · 台词翻译成中文并重对口型) — by ByteDance](#case-53)
 - [Case 54: Seamless transition, mahjong tiles into skyscrapers (视频无缝转场 · 麻将牌变高楼) — by ByteDance](#case-54)
+- [Case 1015: Tortoiseshell eyeglasses, a published case carried 12 seconds further (玳瑁眼镜 · 把一条已发布案例再往前推 12 秒) — by Ofox Team](#case-1015)
 
 <a id="case-45"></a>
 ### Case 45: Bee pollination macro, +5s extend (蜜蜂授粉微距 · 视频延长) — by ByteDance
@@ -271,5 +272,33 @@ AI 特效仅做环境和质感强化：风吹衣摆、轻雾、接触点少量�
 **来源**：火山方舟官方文档 · [中文](https://docs.volcengine.com/docs/82379/2607689?lang=zh) · [English](https://docs.byteplus.com/en/docs/ModelArk/2607689)
 
 <sub>Preview frame © 2026 ByteDance, from the official demo video · Prompt by ByteDance · <a href="https://docs.volcengine.com/docs/82379/2607689?lang=zh">source</a></sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-1015"></a>
+### Case 1015: Tortoiseshell eyeglasses, a published case carried 12 seconds further (玳瑁眼镜 · 把一条已发布案例再往前推 12 秒) — by Ofox Team
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../images/case1015/input.webp" width="340" alt="input"> | <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-1015"><img src="../images/case1015/preview.webp" width="340" alt="Tortoiseshell eyeglasses, a published case carried 12 seconds further"></a> |
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-1015)
+
+<details>
+<summary><strong>Prompt</strong> — CONTINUES FROM: the attached frame is the last frame of the preceding footage — the same tortoiseshell acetate eyeglasses lying open, the same navy ha…</summary>
+
+~~~~text
+CONTINUES FROM: the attached frame is the last frame of the preceding footage — the same tortoiseshell acetate eyeglasses lying open, the same navy hard case behind and right of them, the same folded grey microfibre cloth, the same pale grey seamless surface and the same soft light from above. Nothing about the scene resets.
+ACTION: the folded cloth is drawn smoothly out of frame to the right, and the hard case lid closes over onto its base with a small settle at the end.
+CAMERA: at 0-2s a wide shot holding all three objects with margin on every side, exactly as the attached frame is framed; by 6s the camera has moved in so the glasses fill about two thirds of the frame width and the case is cropped at the right edge; from 8s it is a close shot on the left lens rim and the hinge, the tortoiseshell grain legible, the case no longer in frame.
+ENDING: the shot rests on the hinge and the temple fold, everything still.
+AVOID: a cut back to an establishing shot; the glasses changing shape, colour or position on the surface; a hand or a person entering the frame; a new object appearing; subtitles, captions, on-screen text, watermarks, logos.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Ofox · i2v · 12s（本地拼接成 24s） · 720p · adaptive · 无音频
+**费用**：$2.88（job 565e3193-68d7-4223-bb15-337723e89836）
+**来源**：Ofox 实测
 
 [回到目录](#table-of-contents)
