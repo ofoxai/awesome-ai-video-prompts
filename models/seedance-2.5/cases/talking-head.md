@@ -1,4 +1,4 @@
-[← Back to the full index](../../../README.md#table-of-contents) · [English](talking-head.md) · [简体中文](talking-head.zh-CN.md) · [日本語](talking-head.ja.md)
+[← Back to the full index](../README.md#table-of-contents) · [English](talking-head.md) · [简体中文](talking-head.zh-CN.md) · [日本語](talking-head.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="talking-head"></a>

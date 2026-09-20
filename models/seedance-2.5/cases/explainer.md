@@ -1,4 +1,4 @@
-[← Back to the full index](../../../README.md#table-of-contents) · [English](explainer.md) · [简体中文](explainer.zh-CN.md) · [日本語](explainer.ja.md)
+[← Back to the full index](../README.md#table-of-contents) · [English](explainer.md) · [简体中文](explainer.zh-CN.md) · [日本語](explainer.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="explainer"></a>

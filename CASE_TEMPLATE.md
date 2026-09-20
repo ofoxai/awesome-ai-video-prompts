@@ -1,18 +1,28 @@
 # Case template
 
 Copy the block for your case type below, fill in the placeholders, and append it
-to the right category file — `cases/<category>.md`, and, since a case's own
-content is never localized, the same spot in `cases/<category>.zh-CN.md` and
-`cases/<category>.ja.md` too — only the navigation chrome differs between the
-three files. The READMEs hold only the index: add the case's title to the mini
-table of contents at the top of each category file, and bump the count on the
-category's row in all three READMEs. See `CONTRIBUTING.md` for the full rules
-this format encodes.
+to the right category file — `models/<model>/cases/<category>.md`, and, since a
+case's own content is never localized, the same spot in
+`models/<model>/cases/<category>.zh-CN.md` and `.ja.md` too — only the
+navigation chrome differs between the three files. Then add the case's title to
+the mini table of contents at the top of each category file, and bump the count
+on the category's row in `models/<model>/README*.md`. See `CONTRIBUTING.md` for
+the full rules this format encodes.
+
+⚠️ **Only `seedance-2.5` is edited by hand.** The `hailuo-3` and `wan-3` case
+files are generated from Ofox's gallery data and a regeneration overwrites them
+— for those two, open a PR against the content and a maintainer lands it
+upstream.
 
 Replace `N` with the next case number everywhere it appears — the anchor, the
-heading, the `#case-N` link fragment, and the `../images/caseN/` paths must all
-carry the same number. Image paths start with `../` because the block lives one
-directory down from `images/`.
+heading, the `#case-N` link fragment, and the `../../../images/<model>/caseN/`
+paths must all carry the same number. Replace `<model>` with the model folder
+you are adding to (`seedance-2.5`, `hailuo-3`, `wan-3`). Image paths start with
+`../../../` because the block lives three directories down from `images/`.
+
+Case numbers are **per model** — `hailuo-3` case 12 and `wan-3` case 12 are
+different cases and that is fine; the anchor is only ever resolved within one
+model's page.
 
 ---
 
@@ -22,7 +32,7 @@ directory down from `images/`.
 <a id="case-N"></a>
 ### Case N: <title> (by @author or Ofox Team)
 
-<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../images/caseN/preview.webp" width="<the image's real pixel width — 700 landscape, e.g. 394 vertical>" alt="<title>"></a>
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../../../images/<model>/caseN/preview.webp" width="<the image's real pixel width — 700 landscape, e.g. 394 vertical>" alt="<title>"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N)
 
@@ -58,7 +68,7 @@ a white model, or the source clip of an edit/extend), use variant 3 instead.
 
 | 输入 | 输出 |
 |:---:|:---:|
-| <img src="../images/caseN/input.webp" width="<real pixel width, ≤340>" alt="input"> | <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../images/caseN/preview.webp" width="<real pixel width, ≤340>" alt="<title>"></a> |
+| <img src="../../../images/<model>/caseN/input.webp" width="<real pixel width, ≤340>" alt="input"> | <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../../../images/<model>/caseN/preview.webp" width="<real pixel width, ≤340>" alt="<title>"></a> |
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N)
 
@@ -98,7 +108,7 @@ the page's click target — below the fold.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="../images/caseN/input1.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | <img src="../images/caseN/input2.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | … | … |
+| <img src="../../../images/<model>/caseN/input1.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | <img src="../../../images/<model>/caseN/input2.webp" width="<real pixel width, ≤200>" alt="<label>"><br><sub><label></sub> | … | … |
 ```
 
 Rules specific to the strip:
@@ -159,7 +169,7 @@ page.
 Discovered while landing the first cases: a case block is not uniformly
 "unlocalized". Two kinds of text live in it.
 
-**Byte-identical in all three language files** (`cases/<category>.md` / `.zh-CN.md` /
+**Byte-identical in all three language files** (`models/<model>/cases/<category>.md` / `.zh-CN.md` /
 `.ja.md`) — this is the case *data*:
 
 - the prompt, inside the `~~~~text` fence, and the `<summary>` teaser quoted from it
@@ -168,7 +178,7 @@ Discovered while landing the first cases: a case block is not uniformly
 - the `来源` line and every URL in it
 - the `<sub>` credit line
 - the `<a id="case-N">` anchor, the case number, and the title after `Case N:`
-- the preview `<img>` / `<a>` markup and the `../images/caseN/` paths
+- the preview `<img>` / `<a>` markup and the `../../../images/<model>/caseN/` paths
 
 **Localized per file** — this is navigation chrome, and every other piece of
 chrome in these files is already localized:
@@ -250,7 +260,7 @@ unambiguous that the media and prompt are someone else's work. Delete it for
 
 ### Assets
 
-`images/caseN/preview.webp` at 700px on the long edge (340px in variant 2),
+`images/<model>/caseN/preview.webp` at 700px on the long edge (340px in variant 2),
 plus `input.webp` for variant 2 or `input1.webp` … `inputN.webp` at 200px for
 variant 3. See `images/README.md` for the size rules.
 Video files are never committed, and neither is a billing screenshot — the
@@ -272,7 +282,7 @@ blurry, because it is stretched from 402 real pixels, and tall enough to fill
 the whole viewport. Read the width off the file rather than assuming it:
 
 ```bash
-file images/caseN/preview.webp    # → ... 402x700 ...  so width="402"
+file images/<model>/caseN/preview.webp    # → ... 402x700 ...  so width="402"
 ```
 
 Landscape frames are 700 wide, so they do read `width="700"` — but that is the

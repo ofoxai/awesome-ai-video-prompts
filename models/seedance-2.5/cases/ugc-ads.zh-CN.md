@@ -1,4 +1,4 @@
-[← 返回总目录](../../../README.zh-CN.md#table-of-contents) · [English](ugc-ads.md) · [简体中文](ugc-ads.zh-CN.md) · [日本語](ugc-ads.ja.md)
+[← 返回总目录](../README.zh-CN.md#table-of-contents) · [English](ugc-ads.md) · [简体中文](ugc-ads.zh-CN.md) · [日本語](ugc-ads.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="ugc-ads"></a>

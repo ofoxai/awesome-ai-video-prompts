@@ -7,6 +7,14 @@ API. Every case links back to
 so the bar for a new case is: complete prompt, real output preview, and (for
 self-run cases) a real bill. Read this before opening a PR.
 
+**This repo covers three models.** Cases live under
+`models/<model>/cases/<category>.md` where `<model>` is one of `seedance-2.5`,
+`hailuo-3`, `wan-3`, and images under `images/<model>/caseN/`. Case numbers are
+per model. ⚠️ **Only `seedance-2.5` is hand-edited** — the `hailuo-3` and
+`wan-3` case files are generated from Ofox's gallery data and a regeneration
+overwrites them, so a direct edit there will be silently lost; open a PR
+against the content and a maintainer lands it upstream.
+
 ## Case format
 
 Copy [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md) as your starting point — it carries
@@ -17,7 +25,7 @@ reference:
 <a id="case-N"></a>
 ### Case N: <title> (by @author or Ofox Team)
 
-<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../images/caseN/preview.webp" width="<the image's real pixel width — 700 landscape, e.g. 394 vertical>" alt="<title>"></a>
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N"><img src="../../../images/<model>/caseN/preview.webp" width="<the image's real pixel width — 700 landscape, e.g. 394 vertical>" alt="<title>"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-N)
 
@@ -66,7 +74,7 @@ and `<` / `>` inside a label must be written `&lt;` / `&gt;`, because a bare
 
 Two kinds of text live in a case block. The **data** — prompt, `参数` line,
 `输入素材` line and any strip table under it, `来源` and its URLs, the `<sub>`
-credit, the anchor, the case number and title, and the `../images/caseN/` paths —
+credit, the anchor, the case number and title, and the `../../../images/<model>/caseN/` paths —
 is byte-identical in all three language files. The
 **navigation chrome** around it — the "watch the full video" label and the
 back-to-top label — is localized like every other piece of chrome on the page.
@@ -76,8 +84,8 @@ A note on the `参数` / `费用` / `来源` field labels: they're intentionally
 kept in Chinese and identical across all three language files, the same
 way model names, durations, and prices are never translated. A case's own
 content is not localized — only the category heading and the navigation
-chrome around it differ between `cases/<category>.md`,
-`cases/<category>.zh-CN.md`, and `cases/<category>.ja.md`. This keeps every
+chrome around it differ between `models/<model>/cases/<category>.md`,
+`models/<model>/cases/<category>.zh-CN.md`, and `models/<model>/cases/<category>.ja.md`. This keeps every
 case machine-parseable the same way regardless of which file it lives in,
 since the same case text is expected to appear (or later sync to the site
 page) unchanged in all three. Prompts specifically are never
@@ -89,14 +97,14 @@ same clip.**
 - **Preview**: a static frame from the clip, saved as **WebP** at **700px on
   the long edge** (340px per cell in the input→output variant, 200px per cell
   in the input-asset strip), stored under
-  `images/caseN/` — see [`images/README.md`](images/README.md) for the full
+  `images/<model>/caseN/` — see [`images/README.md`](images/README.md) for the full
   convention. Not a GIF: at a usable size a 3-second GIF is 2–5 MB and bands
   badly on exactly the gradients Seedance output is full of. Actual video files
   are never committed here; they live on the site page.
 - **`<img width>` is the image's real pixel width, not a blanket 700.** A
   landscape frame is 700×394 and reads `width="700"`; a vertical one is around
   402×700 and reads `width="402"`. Measure, don't assume —
-  `file images/caseN/preview.webp` prints the dimensions. Writing 700 on a
+  `file images/<model>/caseN/preview.webp` prints the dimensions. Writing 700 on a
   vertical frame makes GitHub upscale it to 700×1219, which is blurry (it is
   stretched from 402 real pixels) and eats the entire viewport.
 - **Preview must match the prompt**: play the clip before you grab the frame
@@ -117,7 +125,7 @@ same clip.**
   prompt that itself contains a code fence (JSON-structured prompts are common
   here) can't break the block.
 - **Numbering**: `N` is the same in the `<a id="case-N">` anchor, the heading,
-  the `#case-N` link fragment, and the `images/caseN/` directory. Cases are
+  the `#case-N` link fragment, and the `images/<model>/caseN/` directory. Cases are
   numbered in reading order — the order you scroll past them, not the order
   they were added.
 - **Title**: `Case N: <English title> (<中文标题>) — by <author>`. Attribution
@@ -158,7 +166,7 @@ claim is reviewed, and the case removed if the claim holds. No justification is
 required beyond identifying yourself as the rights holder.
 
 Preview frames from community and official cases are mirrored into
-`images/caseN/` rather than hotlinked, and every one carries a `<sub>` credit
+`images/<model>/caseN/` rather than hotlinked, and every one carries a `<sub>` credit
 line naming the source. Contributors are credited in `## Acknowledgements`.
 
 ## Case sourcing mix
@@ -235,11 +243,11 @@ preview frame: we extract the frame.
 
 1. Append your case to the right category file under `cases/` using
    [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md), in all three language files
-   (`cases/<category>.md`, `cases/<category>.zh-CN.md`,
-   `cases/<category>.ja.md`) — the case content is identical across all
+   (`models/<model>/cases/<category>.md`, `models/<model>/cases/<category>.zh-CN.md`,
+   `models/<model>/cases/<category>.ja.md`) — the case content is identical across all
    three, only the navigation chrome differs. Add a line for it to the mini
    table of contents at the top of each of the three files.
-2. Add the preview under `images/caseN/`, following
+2. Add the preview under `images/<model>/caseN/`, following
    [`images/README.md`](images/README.md) — plus `input.webp` for an
    input→output case, or `input1.webp` … `inputN.webp` for an input-asset
    strip. If the input was never published, say so on the `**输入素材**` line

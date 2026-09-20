@@ -1,4 +1,4 @@
-[← Back to the full index](../../../README.md#table-of-contents) · [English](image-edit.md) · [简体中文](image-edit.zh-CN.md) · [日本語](image-edit.ja.md)
+[← Back to the full index](../README.md#table-of-contents) · [English](image-edit.md) · [简体中文](image-edit.zh-CN.md) · [日本語](image-edit.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="image-edit"></a>

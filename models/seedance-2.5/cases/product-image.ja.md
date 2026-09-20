@@ -1,4 +1,4 @@
-[← 総目次に戻る](../../../README.ja.md#table-of-contents) · [English](product-image.md) · [简体中文](product-image.zh-CN.md) · [日本語](product-image.ja.md)
+[← 総目次に戻る](../README.ja.md#table-of-contents) · [English](product-image.md) · [简体中文](product-image.zh-CN.md) · [日本語](product-image.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="product-image"></a>

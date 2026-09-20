@@ -1,4 +1,4 @@
-[← 返回总目录](../../../README.zh-CN.md#table-of-contents) · [English](keyframe-animation.md) · [简体中文](keyframe-animation.zh-CN.md) · [日本語](keyframe-animation.ja.md)
+[← 返回总目录](../README.zh-CN.md#table-of-contents) · [English](keyframe-animation.md) · [简体中文](keyframe-animation.zh-CN.md) · [日本語](keyframe-animation.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="keyframe-animation"></a>

@@ -1,15 +1,10 @@
 <p align="center">
-  <a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-5">
-    <img src="images/banner.png" alt="Seedance 2.5 提示词与案例合集 · Ofox" width="100%">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
-  <a href="#table-of-contents"><img src="https://img.shields.io/badge/cases-84-blue.svg" alt="案例数：84"></a>
-  <a href="https://app.ofox.ai/playground?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2-5"><img src="https://img.shields.io/badge/Try-Seedance%202.5%20on%20Ofox-orange.svg" alt="在 Ofox 试用 Seedance 2.5"></a>
-  <a href="https://app.ofox.ai?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2-5"><img src="https://img.shields.io/badge/Get-API%20Key-brightgreen.svg" alt="获取 API Key"></a>
+  <a href="#table-of-contents"><img src="https://img.shields.io/badge/cases-276-blue.svg" alt="Case count: 276"></a>
+  <a href="#table-of-contents"><img src="https://img.shields.io/badge/models-3-blue.svg" alt="Models: 3"></a>
+  <a href="https://app.ofox.ai/playground?utm_source=github&utm_medium=badge&utm_campaign=awesome-ai-video-prompts"><img src="https://img.shields.io/badge/Try-on%20Ofox-orange.svg" alt="Try on Ofox"></a>
+  <a href="https://app.ofox.ai?utm_source=github&utm_medium=badge&utm_campaign=awesome-ai-video-prompts"><img src="https://img.shields.io/badge/Get-API%20Key-brightgreen.svg" alt="Get API Key"></a>
 </p>
 
 <p align="center">
@@ -18,91 +13,97 @@
   <a href="README.ja.md">日本語</a>
 </p>
 
-# Awesome Seedance 2.5
+# Awesome AI Video Prompts
 
-字节跳动 Seedance 2.5 视频模型的提示词与实测案例合集 —— 每个案例都有完整提示词、真实输出预览，自跑案例还附账单截图。案例通过 [Ofox](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5) 调用和整理。
-
-## Seedance 2.5 是什么
-
-Seedance 2.5 是字节跳动的文生视频 / 图生视频模型：支持 4–30 秒、最高 1080p、8 种宽高比，默认自带同步音频。现在可以通过 [Ofox 的视频 API](https://ofox.ai/models/bytedance/seedance-2.5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5) 直接调用 —— 不需要中国主体或国内手机号即可注册取 key，这点和直连上游供应商不同。
+当代 AI 视频模型的提示词、参数与真实成片合集 —— **3 个模型、276 个案例**，每条都附完整
+未删改的提示词、当时的参数、预览帧和可播放成片。由
+[Ofox](https://ofox.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts)
+收集、核对，标注为自跑的那些也是通过 Ofox 调用的 —— 三个模型在 Ofox 上共用同一个
+`POST /v1/videos` 接口。
 
 ```bash
 curl -X POST https://api.ofox.ai/v1/videos \
   -H "Authorization: Bearer $OFOX_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{"model":"bytedance/seedance-2.5","prompt":"A neon-lit Tokyo alley at night, cinematic dolly-in, rain reflections","duration":10,"resolution":"1080p","aspect_ratio":"16:9"}'
-# -> {"id": "..."}；轮询 GET /v1/videos/{id} 直到 "status" 变为 "completed"
+# -> {"id": "..."}; 轮询 GET /v1/videos/{id} 直到 "status" 变成 "completed"
 ```
 
-完整参数说明和错误码：[Ofox 视频 API 文档](https://ofox.ai/docs/api/videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5)。取 key：[app.ofox.ai](https://app.ofox.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5)。
-
-## 价格
-
-Ofox 上 Seedance 2.5 的每秒价格，截至 2026-08 月（来源：[ofox.ai/models/bytedance/seedance-2.5](https://ofox.ai/models/bytedance/seedance-2.5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5) —— 如果这个数字对你很重要，尤其是"限时"的 1080p 价格，请以模型页实时数据为准）：
-
-| 分辨率 | 文生视频 (t2v) | 视频生视频 (v2v) |
-|---|---|---|
-| 480p | $0.11/s | $0.14/s |
-| 720p | $0.24/s | $0.30/s |
-| 1080p | $0.48/s (原价 $0.60/s，限时价) | $0.568/s (原价 $0.71/s) |
-
-- 时长：4–30 秒，任意整数。
-- 宽高比：21:9 / 16:9 / 4:3 / 1:1 / 3:4 / 9:16 / adaptive。
-- 音频默认开启，已包含在上面的每秒价格中，不单独计费。
-
-这张表用于**跑之前**估算。下面各分类文件里自跑案例的 `费用` 一行不是按表算出来的估价，而是那次任务的实际账单金额，并在同一行标出被计费的 job id，每个数字都能追回到具体那一次 API 调用 —— 参见 [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md)。
+把 `model` 换成 `minimax/hailuo-3` 或 `alibaba/wan-3.0` 即可 —— 同一个接口、同一套请求体。
+完整参数与错误码见
+[Ofox 视频 API 文档](https://ofox.ai/docs/api/videos?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts)；
+取 key：[app.ofox.ai](https://app.ofox.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts)。
 
 <a id="table-of-contents"></a>
-## 目录
 
-| | 分类 | 案例数 |
-|:---:|---|---:|
-| <a href="models/seedance-2.5/cases/short-drama.zh-CN.md"><img src="images/seedance-2.5/case1/preview.webp" width="160" alt="短剧 Short Drama"></a> | [短剧 Short Drama](models/seedance-2.5/cases/short-drama.zh-CN.md) | 13 |
-| <a href="models/seedance-2.5/cases/anime-drama.zh-CN.md"><img src="images/seedance-2.5/case9/preview.webp" width="160" alt="漫剧 Anime Drama"></a> | [漫剧 Anime Drama](models/seedance-2.5/cases/anime-drama.zh-CN.md) | 11 |
-| <a href="models/seedance-2.5/cases/ad-creative.zh-CN.md"><img src="images/seedance-2.5/case12/preview.webp" width="160" alt="创意广告 Ad Creative"></a> | [创意广告 Ad Creative](models/seedance-2.5/cases/ad-creative.zh-CN.md) | 7 |
-| <a href="models/seedance-2.5/cases/product-video.zh-CN.md"><img src="images/seedance-2.5/case18/preview.webp" width="160" alt="电商产品视频 Product Video"></a> | [电商产品视频 Product Video](models/seedance-2.5/cases/product-video.zh-CN.md) | 7 |
-| <a href="models/seedance-2.5/cases/talking-head.zh-CN.md"><img src="images/seedance-2.5/case21/preview.webp" width="160" alt="口播和数字人 Talking Head"></a> | [口播和数字人 Talking Head](models/seedance-2.5/cases/talking-head.zh-CN.md) | 3 |
-| <a href="models/seedance-2.5/cases/ugc-ads.zh-CN.md"><img src="images/seedance-2.5/case24/preview.webp" width="160" alt="UGC风格广告 UGC Ads"></a> | [UGC风格广告 UGC Ads](models/seedance-2.5/cases/ugc-ads.zh-CN.md) | 5 |
-| <a href="models/seedance-2.5/cases/shorts-reels.zh-CN.md"><img src="images/seedance-2.5/case28/preview.webp" width="160" alt="社媒短视频 Shorts & Reels"></a> | [社媒短视频 Shorts & Reels](models/seedance-2.5/cases/shorts-reels.zh-CN.md) | 11 |
-| <a href="models/seedance-2.5/cases/product-demo.zh-CN.md"><img src="images/seedance-2.5/case37/preview.webp" width="160" alt="产品演示 Product Demo"></a> | [产品演示 Product Demo](models/seedance-2.5/cases/product-demo.zh-CN.md) | 5 |
-| <a href="models/seedance-2.5/cases/keyframe-animation.zh-CN.md"><img src="images/seedance-2.5/case42/preview.webp" width="160" alt="首尾帧动画 Keyframe Animation"></a> | [首尾帧动画 Keyframe Animation](models/seedance-2.5/cases/keyframe-animation.zh-CN.md) | 3 |
-| <a href="models/seedance-2.5/cases/video-extend-edit.zh-CN.md"><img src="images/seedance-2.5/case45/preview.webp" width="160" alt="视频延长和编辑 Video Extend & Edit"></a> | [视频延长和编辑 Video Extend & Edit](models/seedance-2.5/cases/video-extend-edit.zh-CN.md) | 11 |
-| <a href="models/seedance-2.5/cases/image-edit.zh-CN.md"><img src="images/seedance-2.5/case55/preview.webp" width="160" alt="图生图和修图 Image Edit"></a> | [图生图和修图 Image Edit](models/seedance-2.5/cases/image-edit.zh-CN.md) | 2 |
-|  | [电商主图和海报 Product Image](models/seedance-2.5/cases/product-image.zh-CN.md) | 0 |
-| <a href="models/seedance-2.5/cases/music-video.zh-CN.md"><img src="images/seedance-2.5/case57/preview.webp" width="160" alt="音乐可视化和MV Music Video"></a> | [音乐可视化和MV Music Video](models/seedance-2.5/cases/music-video.zh-CN.md) | 5 |
-| <a href="models/seedance-2.5/cases/explainer.zh-CN.md"><img src="images/seedance-2.5/case62/preview.webp" width="160" alt="教学解说视频 Explainer"></a> | [教学解说视频 Explainer](models/seedance-2.5/cases/explainer.zh-CN.md) | 2 |
+## 模型
+
+| | 模型 | 案例数 | 浏览 |
+|:---:|---|---:|---|
+| <a href="models/seedance-2.5/README.zh-CN.md"><img src="images/seedance-2.5/case1/preview.webp" width="160" alt="Seedance 2.5"></a> | **Seedance 2.5** — 字节跳动<br><sub>4–30 秒 · 最高 1080p · 8 种宽高比 · 自带同步音频</sub> | 85 | [案例](models/seedance-2.5/README.zh-CN.md) · [案例页](https://ofox.ai/zh/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+| <a href="models/hailuo-3/README.zh-CN.md"><img src="images/hailuo-3/case1/preview.webp" width="160" alt="MiniMax Hailuo 3"></a> | **MiniMax Hailuo 3** — MiniMax<br><sub>文生 / 图生 / 参考生视频 · 原生音轨</sub> | 120 | [案例](models/hailuo-3/README.zh-CN.md) · [案例页](https://ofox.ai/zh/hailuo-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+| <a href="models/wan-3/README.zh-CN.md"><img src="images/wan-3/case1/preview.webp" width="160" alt="通义万相 Wan 3.0"></a> | **通义万相 Wan 3.0** — 阿里巴巴<br><sub>2–30 秒 · 最高 1080p · 参考生视频 / 首尾帧 / 视频编辑 / 延长</sub> | 71 | [案例](models/wan-3/README.zh-CN.md) · [案例页](https://ofox.ai/zh/wan-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+
+## 一个案例包含什么
+
+每个模型目录下的每条案例，都带同样六样东西：
+
+- **完整未删改的提示词**。不是转述、不是整理过的版本 —— 原文里的错字和半角标点也照原样保留。
+- **当时的参数**，一行写全：模型 · 平台 · 模式 · 时长 · 分辨率 · 宽高比 · 音频。
+  来源没公布的一律写 `未标注`，不猜。
+- **预览帧**（WebP，长边 700px），点进去是 ofox.ai 上可播放的成片。
+- **输入素材** —— 参考图、参考视频、关键帧、被编辑的源视频，用到了就附上。
+- **署名行**，写明原作者或一手来源并给出回链。
+- **实付费用**，只有我们自己跑的案例有，且能追回到出账的那个 job id。
 
 ## 如何贡献
 
-欢迎提 PR。每个案例需要：完整未删改的提示词；真实输出预览（700px 宽的静态 WebP 帧，`≤2MB`，放在 `images/caseN/` 下），图生视频类案例还需附输入原图；自跑案例还需在费用一栏标出被计费的 job id，让金额能追回到那一次 API 调用。社区和官方案例必须注明并链接原作者或第一方来源。完整格式、规则和案例来源比例见 [`CONTRIBUTING.md`](CONTRIBUTING.md)（英文），案例模板见 [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md)。
-不习惯提 PR 也可以直接用[案例提交表单](../../issues/new?template=add_case.yml)。
+欢迎提 PR。先找到你的案例属于哪个模型
+（`models/<模型>/cases/<分类>.md`），照该文件里已有的格式写。每条案例都需要：完整未删改的
+提示词；真实成片的预览帧（静态 WebP，长边 700px，`≤2MB`，放在 `images/<模型>/caseN/`），
+图生 / 参考生类案例还要附输入素材；自跑案例的费用行要带上出账的 job id。社区与官方案例
+必须署名并链接原作者或一手来源。完整格式与规则见 [`CONTRIBUTING.md`](CONTRIBUTING.md)
+（英文），模板从 [`CASE_TEMPLATE.md`](CASE_TEMPLATE.md) 复制。不方便提 PR 的话，可以用
+[案例投稿表单](../../issues/new?template=add_case.yml)。
+
+⚠️ **`hailuo-3` 和 `wan-3` 的案例文件是生成的**，直接改会被下次导出覆盖 —— 请针对案例
+内容提 PR，由维护者同步回上游。`seedance-2.5` 那份是真源，可以直接改。
 
 ## 相关链接
 
-- [ofoxai/skills](https://github.com/ofoxai/skills) —— Ofox 的 agent skill 仓库。这个仓库给你看提示词，那个仓库里的场景 skill 让 AI agent（Claude Code、Codex、OpenCode）把整条流程跑完：写提示词、调用同一个 API、下载视频、报账单。
-
-- **Seedance 2.5 官方素材** —— 本仓库官方案例的出处，核对参数时请以它们为准：
-  [字节 Seed 发布博客](https://seed.bytedance.com/zh/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) ·
-  [火山方舟教程](https://docs.volcengine.com/docs/82379/2607688?lang=zh) ·
-  [火山方舟提示词指南](https://docs.volcengine.com/docs/82379/2607689?lang=zh)
-  （英文镜像：[ModelArk 2607688](https://docs.byteplus.com/en/docs/ModelArk/2607688) ·
-  [2607689](https://docs.byteplus.com/en/docs/ModelArk/2607689)）
+- [ofoxai/skills](https://github.com/ofoxai/skills) —— Ofox 的 agent skill 仓库。
+  这个仓库给你看提示词，那个仓库的场景 skill 能让 AI agent（Claude Code、Codex、
+  OpenCode）端到端跑完：写提示词、调同一个 API、下载视频、报账单。
+- **官方素材** —— 本仓库官方案例的出处，也是核对参数时该信的一手来源。
+  Seedance 2.5：[ByteDance Seed 发布博客](https://seed.bytedance.com/zh/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) ·
+  [火山方舟 2607688](https://docs.volcengine.com/docs/82379/2607688?lang=zh) ·
+  [2607689](https://docs.volcengine.com/docs/82379/2607689?lang=zh)。
+  Hailuo 3：[MiniMax-H3 模型卡](https://huggingface.co/MiniMaxAI/MiniMax-H3)。
+  Wan 3.0：[Wan 3.0 展示页](https://www.aliyun.com/benefit/scene/wan) ·
+  [阿里云提示词指南](https://help.aliyun.com/zh/model-studio/text-to-video-prompt)。
 - [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) ——
-  图像生成领域的同类合集，本仓库的案例版式借鉴自它。
+  图像生成领域的同类合集，本仓库的案例排版参考了它。
 
 ## 致谢
 
-本合集混合三类来源，每个案例下方分别署名：24 个案例是字节跳动官方素材 —— 由 Seed
-团队发布、以及火山方舟 / BytePlus ModelArk 文档中公开的提示词与演示片段。46 个案例是
-社区作品，逐条署名到 X/Twitter 或 B 站原作者，来自公开提示词库（YouMind、EvoLink）以及
-B 站创作者本人的投稿，收录前均独立核对过原作者的原帖。剩下 14 个（Case 1001-1014）是我们
-自己通过 Ofox API 跑出来的，标为 `Ofox 实测` —— 也是全仓唯一带 `费用` 一行的案例，每条都
-能追回到出账的那个 job id。预览帧在此镜像保存，每个案例下方均附署名；提示词完整未删改地
-转载。
+案例来自三类来源，每条下方分别署名，各模型的构成不同：
 
-编号从 70 直接跳到 1001 是刻意的。`N` 既是这里的标题编号，也是
-`ofox.ai/seedance-2-5-prompts` 上的 `#case-N` 锚点，而 1000+ 是留给 Ofox 自跑案例的保留
-段 —— 为了填平这个断档而重排编号，会把已经发出去的外链静默指到别的案例上。
+- **Seedance 2.5**（85 条）—— 24 条字节跳动官方素材，来自 Seed 团队的发布与
+  火山方舟 / BytePlus ModelArk 文档；46 条社区作品，逐条署名到 X/Twitter 或 B 站原作者，
+  收录前均核对过原帖；15 条是我们自己通过 Ofox API 跑的，标为 `Ofox 实测`，也是全仓唯一
+  带 `费用` 行的案例。
+- **MiniMax Hailuo 3**（120 条）—— 3 条官方案例取自 MiniMax 自家 HuggingFace 模型卡里的
+  可复现请求脚本（提示词、参数、成片三者精确对应）；117 条社区案例来自 X 公开原帖，
+  逐字提示词 + 成片镜像 + 署名回链。
+- **Wan 3.0**（71 条）—— 全部是阿里官方一手材料：8 条来自 Wan 3.0 展示页，63 条来自官方
+  《Wan3.0 视频创作者手册》。没有社区档 —— 能找到的第三方 Wan 素材达不到收录标准
+  （关键词抢注仓库；以及一个拿不到单条作品 permalink、无法署名回链的公开广场）。
 
-如果你是此处收录内容的作者并希望撤下，请开一个标题为 `Takedown: case-N` 的 issue。除表明
-身份外无需其他理由。
+预览帧在此镜像保存，每个案例下方均附署名；提示词完整未删改地转载。
+
+案例编号按模型各自计数，且**刻意留有断档**。`N` 既是这里的标题编号，也是该模型案例页上的
+`#case-N` 锚点 —— 为填平断档而重排编号，会把已经发出去的外链静默指到别的案例上。
+Seedance 的编号从 70 跳到 1001，是因为 1000+ 是留给 Ofox 自跑案例的保留段。
+
+如果你是此处收录内容的作者并希望撤下，请开一个标题为 `Takedown: <模型> case-N` 的 issue。
+除表明身份外无需其他理由。

@@ -1,4 +1,4 @@
-[← 返回总目录](../../../README.zh-CN.md#table-of-contents) · [English](product-video.md) · [简体中文](product-video.zh-CN.md) · [日本語](product-video.ja.md)
+[← 返回总目录](../README.zh-CN.md#table-of-contents) · [English](product-video.md) · [简体中文](product-video.zh-CN.md) · [日本語](product-video.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="product-video"></a>

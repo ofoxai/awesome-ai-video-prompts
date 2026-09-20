@@ -1,4 +1,4 @@
-[← 返回总目录](../../../README.zh-CN.md#table-of-contents) · [English](shorts-reels.md) · [简体中文](shorts-reels.zh-CN.md) · [日本語](shorts-reels.ja.md)
+[← 返回总目录](../README.zh-CN.md#table-of-contents) · [English](shorts-reels.md) · [简体中文](shorts-reels.zh-CN.md) · [日本語](shorts-reels.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="shorts-reels"></a>

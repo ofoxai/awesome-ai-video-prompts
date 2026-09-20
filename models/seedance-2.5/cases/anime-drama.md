@@ -1,4 +1,4 @@
-[← Back to the full index](../../../README.md#table-of-contents) · [English](anime-drama.md) · [简体中文](anime-drama.zh-CN.md) · [日本語](anime-drama.ja.md)
+[← Back to the full index](../README.md#table-of-contents) · [English](anime-drama.md) · [简体中文](anime-drama.zh-CN.md) · [日本語](anime-drama.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="anime-drama"></a>

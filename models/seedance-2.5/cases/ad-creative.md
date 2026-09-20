@@ -1,4 +1,4 @@
-[← Back to the full index](../../../README.md#table-of-contents) · [English](ad-creative.md) · [简体中文](ad-creative.zh-CN.md) · [日本語](ad-creative.ja.md)
+[← Back to the full index](../README.md#table-of-contents) · [English](ad-creative.md) · [简体中文](ad-creative.zh-CN.md) · [日本語](ad-creative.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="ad-creative"></a>

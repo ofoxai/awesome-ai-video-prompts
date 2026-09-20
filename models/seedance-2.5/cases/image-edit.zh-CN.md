@@ -1,4 +1,4 @@
-[← 返回总目录](../../../README.zh-CN.md#table-of-contents) · [English](image-edit.md) · [简体中文](image-edit.zh-CN.md) · [日本語](image-edit.ja.md)
+[← 返回总目录](../README.zh-CN.md#table-of-contents) · [English](image-edit.md) · [简体中文](image-edit.zh-CN.md) · [日本語](image-edit.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="image-edit"></a>

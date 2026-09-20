@@ -1,4 +1,4 @@
-[← 返回总目录](../../../README.zh-CN.md#table-of-contents) · [English](ad-creative.md) · [简体中文](ad-creative.zh-CN.md) · [日本語](ad-creative.ja.md)
+[← 返回总目录](../README.zh-CN.md#table-of-contents) · [English](ad-creative.md) · [简体中文](ad-creative.zh-CN.md) · [日本語](ad-creative.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="ad-creative"></a>

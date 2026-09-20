@@ -1,4 +1,4 @@
-[← 総目次に戻る](../../../README.ja.md#table-of-contents) · [English](short-drama.md) · [简体中文](short-drama.zh-CN.md) · [日本語](short-drama.ja.md)
+[← 総目次に戻る](../README.ja.md#table-of-contents) · [English](short-drama.md) · [简体中文](short-drama.zh-CN.md) · [日本語](short-drama.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="short-drama"></a>

@@ -1,4 +1,4 @@
-[← 総目次に戻る](../../../README.ja.md#table-of-contents) · [English](anime-drama.md) · [简体中文](anime-drama.zh-CN.md) · [日本語](anime-drama.ja.md)
+[← 総目次に戻る](../README.ja.md#table-of-contents) · [English](anime-drama.md) · [简体中文](anime-drama.zh-CN.md) · [日本語](anime-drama.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="anime-drama"></a>

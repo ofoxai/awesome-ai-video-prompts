@@ -1,4 +1,4 @@
-[← Back to the full index](../../../README.md#table-of-contents) · [English](video-extend-edit.md) · [简体中文](video-extend-edit.zh-CN.md) · [日本語](video-extend-edit.ja.md)
+[← Back to the full index](../README.md#table-of-contents) · [English](video-extend-edit.md) · [简体中文](video-extend-edit.zh-CN.md) · [日本語](video-extend-edit.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="video-extend-edit"></a>

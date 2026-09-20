@@ -1,4 +1,4 @@
-[← 返回总目录](../../../README.zh-CN.md#table-of-contents) · [English](short-drama.md) · [简体中文](short-drama.zh-CN.md) · [日本語](short-drama.ja.md)
+[← 返回总目录](../README.zh-CN.md#table-of-contents) · [English](short-drama.md) · [简体中文](short-drama.zh-CN.md) · [日本語](short-drama.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="short-drama"></a>

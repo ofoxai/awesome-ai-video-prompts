@@ -1,4 +1,4 @@
-[← 総目次に戻る](../../../README.ja.md#table-of-contents) · [English](product-demo.md) · [简体中文](product-demo.zh-CN.md) · [日本語](product-demo.ja.md)
+[← 総目次に戻る](../README.ja.md#table-of-contents) · [English](product-demo.md) · [简体中文](product-demo.zh-CN.md) · [日本語](product-demo.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="product-demo"></a>

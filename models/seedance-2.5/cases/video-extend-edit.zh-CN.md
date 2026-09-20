@@ -1,4 +1,4 @@
-[← 返回总目录](../../../README.zh-CN.md#table-of-contents) · [English](video-extend-edit.md) · [简体中文](video-extend-edit.zh-CN.md) · [日本語](video-extend-edit.ja.md)
+[← 返回总目录](../README.zh-CN.md#table-of-contents) · [English](video-extend-edit.md) · [简体中文](video-extend-edit.zh-CN.md) · [日本語](video-extend-edit.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="video-extend-edit"></a>

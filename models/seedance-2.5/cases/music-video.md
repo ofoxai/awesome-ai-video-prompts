@@ -1,4 +1,4 @@
-[← Back to the full index](../../../README.md#table-of-contents) · [English](music-video.md) · [简体中文](music-video.zh-CN.md) · [日本語](music-video.ja.md)
+[← Back to the full index](../README.md#table-of-contents) · [English](music-video.md) · [简体中文](music-video.zh-CN.md) · [日本語](music-video.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="music-video"></a>

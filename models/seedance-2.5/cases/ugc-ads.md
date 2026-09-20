@@ -1,4 +1,4 @@
-[← Back to the full index](../../../README.md#table-of-contents) · [English](ugc-ads.md) · [简体中文](ugc-ads.zh-CN.md) · [日本語](ugc-ads.ja.md)
+[← Back to the full index](../README.md#table-of-contents) · [English](ugc-ads.md) · [简体中文](ugc-ads.zh-CN.md) · [日本語](ugc-ads.ja.md)
 
 <a id="table-of-contents"></a>
 <a id="ugc-ads"></a>
