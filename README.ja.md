@@ -57,20 +57,20 @@ Ofox における Seedance 2.5 の秒単価、2026年8月時点（出典: [ofox.
 
 | | カテゴリ | 事例数 |
 |:---:|---|---:|
-| <a href="cases/short-drama.ja.md"><img src="images/case1/preview.webp" width="160" alt="ショートドラマ Short Drama"></a> | [ショートドラマ Short Drama](cases/short-drama.ja.md) | 13 |
-| <a href="cases/anime-drama.ja.md"><img src="images/case9/preview.webp" width="160" alt="アニメドラマ Anime Drama"></a> | [アニメドラマ Anime Drama](cases/anime-drama.ja.md) | 11 |
-| <a href="cases/ad-creative.ja.md"><img src="images/case12/preview.webp" width="160" alt="クリエイティブ広告 Ad Creative"></a> | [クリエイティブ広告 Ad Creative](cases/ad-creative.ja.md) | 7 |
-| <a href="cases/product-video.ja.md"><img src="images/case18/preview.webp" width="160" alt="ECサイト商品動画 Product Video"></a> | [ECサイト商品動画 Product Video](cases/product-video.ja.md) | 7 |
-| <a href="cases/talking-head.ja.md"><img src="images/case21/preview.webp" width="160" alt="トーキングヘッド・デジタルヒューマン Talking Head"></a> | [トーキングヘッド・デジタルヒューマン Talking Head](cases/talking-head.ja.md) | 3 |
-| <a href="cases/ugc-ads.ja.md"><img src="images/case24/preview.webp" width="160" alt="UGC風広告 UGC Ads"></a> | [UGC風広告 UGC Ads](cases/ugc-ads.ja.md) | 5 |
-| <a href="cases/shorts-reels.ja.md"><img src="images/case28/preview.webp" width="160" alt="ショート動画・リール Shorts & Reels"></a> | [ショート動画・リール Shorts & Reels](cases/shorts-reels.ja.md) | 11 |
-| <a href="cases/product-demo.ja.md"><img src="images/case37/preview.webp" width="160" alt="製品デモ Product Demo"></a> | [製品デモ Product Demo](cases/product-demo.ja.md) | 5 |
-| <a href="cases/keyframe-animation.ja.md"><img src="images/case42/preview.webp" width="160" alt="開始・終了フレームアニメーション Keyframe Animation"></a> | [開始・終了フレームアニメーション Keyframe Animation](cases/keyframe-animation.ja.md) | 3 |
-| <a href="cases/video-extend-edit.ja.md"><img src="images/case45/preview.webp" width="160" alt="動画延長・編集 Video Extend & Edit"></a> | [動画延長・編集 Video Extend & Edit](cases/video-extend-edit.ja.md) | 11 |
-| <a href="cases/image-edit.ja.md"><img src="images/case55/preview.webp" width="160" alt="画像編集・リタッチ Image Edit"></a> | [画像編集・リタッチ Image Edit](cases/image-edit.ja.md) | 2 |
-|  | [商品メイン画像・ポスター Product Image](cases/product-image.ja.md) | 0 |
-| <a href="cases/music-video.ja.md"><img src="images/case57/preview.webp" width="160" alt="ミュージックビデオ Music Video"></a> | [ミュージックビデオ Music Video](cases/music-video.ja.md) | 5 |
-| <a href="cases/explainer.ja.md"><img src="images/case62/preview.webp" width="160" alt="解説動画 Explainer"></a> | [解説動画 Explainer](cases/explainer.ja.md) | 2 |
+| <a href="models/seedance-2.5/cases/short-drama.ja.md"><img src="images/seedance-2.5/case1/preview.webp" width="160" alt="ショートドラマ Short Drama"></a> | [ショートドラマ Short Drama](models/seedance-2.5/cases/short-drama.ja.md) | 13 |
+| <a href="models/seedance-2.5/cases/anime-drama.ja.md"><img src="images/seedance-2.5/case9/preview.webp" width="160" alt="アニメドラマ Anime Drama"></a> | [アニメドラマ Anime Drama](models/seedance-2.5/cases/anime-drama.ja.md) | 11 |
+| <a href="models/seedance-2.5/cases/ad-creative.ja.md"><img src="images/seedance-2.5/case12/preview.webp" width="160" alt="クリエイティブ広告 Ad Creative"></a> | [クリエイティブ広告 Ad Creative](models/seedance-2.5/cases/ad-creative.ja.md) | 7 |
+| <a href="models/seedance-2.5/cases/product-video.ja.md"><img src="images/seedance-2.5/case18/preview.webp" width="160" alt="ECサイト商品動画 Product Video"></a> | [ECサイト商品動画 Product Video](models/seedance-2.5/cases/product-video.ja.md) | 7 |
+| <a href="models/seedance-2.5/cases/talking-head.ja.md"><img src="images/seedance-2.5/case21/preview.webp" width="160" alt="トーキングヘッド・デジタルヒューマン Talking Head"></a> | [トーキングヘッド・デジタルヒューマン Talking Head](models/seedance-2.5/cases/talking-head.ja.md) | 3 |
+| <a href="models/seedance-2.5/cases/ugc-ads.ja.md"><img src="images/seedance-2.5/case24/preview.webp" width="160" alt="UGC風広告 UGC Ads"></a> | [UGC風広告 UGC Ads](models/seedance-2.5/cases/ugc-ads.ja.md) | 5 |
+| <a href="models/seedance-2.5/cases/shorts-reels.ja.md"><img src="images/seedance-2.5/case28/preview.webp" width="160" alt="ショート動画・リール Shorts & Reels"></a> | [ショート動画・リール Shorts & Reels](models/seedance-2.5/cases/shorts-reels.ja.md) | 11 |
+| <a href="models/seedance-2.5/cases/product-demo.ja.md"><img src="images/seedance-2.5/case37/preview.webp" width="160" alt="製品デモ Product Demo"></a> | [製品デモ Product Demo](models/seedance-2.5/cases/product-demo.ja.md) | 5 |
+| <a href="models/seedance-2.5/cases/keyframe-animation.ja.md"><img src="images/seedance-2.5/case42/preview.webp" width="160" alt="開始・終了フレームアニメーション Keyframe Animation"></a> | [開始・終了フレームアニメーション Keyframe Animation](models/seedance-2.5/cases/keyframe-animation.ja.md) | 3 |
+| <a href="models/seedance-2.5/cases/video-extend-edit.ja.md"><img src="images/seedance-2.5/case45/preview.webp" width="160" alt="動画延長・編集 Video Extend & Edit"></a> | [動画延長・編集 Video Extend & Edit](models/seedance-2.5/cases/video-extend-edit.ja.md) | 11 |
+| <a href="models/seedance-2.5/cases/image-edit.ja.md"><img src="images/seedance-2.5/case55/preview.webp" width="160" alt="画像編集・リタッチ Image Edit"></a> | [画像編集・リタッチ Image Edit](models/seedance-2.5/cases/image-edit.ja.md) | 2 |
+|  | [商品メイン画像・ポスター Product Image](models/seedance-2.5/cases/product-image.ja.md) | 0 |
+| <a href="models/seedance-2.5/cases/music-video.ja.md"><img src="images/seedance-2.5/case57/preview.webp" width="160" alt="ミュージックビデオ Music Video"></a> | [ミュージックビデオ Music Video](models/seedance-2.5/cases/music-video.ja.md) | 5 |
+| <a href="models/seedance-2.5/cases/explainer.ja.md"><img src="images/seedance-2.5/case62/preview.webp" width="160" alt="解説動画 Explainer"></a> | [解説動画 Explainer](models/seedance-2.5/cases/explainer.ja.md) | 2 |
 
 ## 貢献方法
 
