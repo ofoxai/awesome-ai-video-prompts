@@ -2,7 +2,7 @@
 
 # Seedance 2.5
 
-85 条字节跳动 Seedance 2.5 案例，每条都有完整提示词、参数和可播放的成片 —— 官方 24 条、社区 46 条、我们自跑 15 条（附账单）。通过 [Ofox](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5) 调用和整理。
+92 条字节跳动 Seedance 2.5 案例，每条都有完整提示词、参数和可播放的成片 —— 官方 24 条、社区 53 条、我们自跑 15 条（附账单）。通过 [Ofox](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5) 调用和整理。
 
 ## Seedance 2.5 是什么
 
@@ -41,17 +41,17 @@ Ofox 上 Seedance 2.5 的每秒价格，截至 2026-08 月（来源：[ofox.ai/m
 
 | | 分类 | 案例数 |
 |:---:|---|---:|
-| <a href="cases/short-drama.zh-CN.md"><img src="../../images/seedance-2.5/case1/preview.webp" width="160" alt="短剧 Short Drama"></a> | [短剧 Short Drama](cases/short-drama.zh-CN.md) | 13 |
+| <a href="cases/short-drama.zh-CN.md"><img src="../../images/seedance-2.5/case1/preview.webp" width="160" alt="短剧 Short Drama"></a> | [短剧 Short Drama](cases/short-drama.zh-CN.md) | 15 |
 | <a href="cases/anime-drama.zh-CN.md"><img src="../../images/seedance-2.5/case9/preview.webp" width="160" alt="漫剧 Anime Drama"></a> | [漫剧 Anime Drama](cases/anime-drama.zh-CN.md) | 11 |
 | <a href="cases/ad-creative.zh-CN.md"><img src="../../images/seedance-2.5/case12/preview.webp" width="160" alt="创意广告 Ad Creative"></a> | [创意广告 Ad Creative](cases/ad-creative.zh-CN.md) | 7 |
 | <a href="cases/product-video.zh-CN.md"><img src="../../images/seedance-2.5/case18/preview.webp" width="160" alt="电商产品视频 Product Video"></a> | [电商产品视频 Product Video](cases/product-video.zh-CN.md) | 7 |
 | <a href="cases/talking-head.zh-CN.md"><img src="../../images/seedance-2.5/case21/preview.webp" width="160" alt="口播和数字人 Talking Head"></a> | [口播和数字人 Talking Head](cases/talking-head.zh-CN.md) | 3 |
-| <a href="cases/ugc-ads.zh-CN.md"><img src="../../images/seedance-2.5/case24/preview.webp" width="160" alt="UGC风格广告 UGC Ads"></a> | [UGC风格广告 UGC Ads](cases/ugc-ads.zh-CN.md) | 5 |
-| <a href="cases/shorts-reels.zh-CN.md"><img src="../../images/seedance-2.5/case28/preview.webp" width="160" alt="社媒短视频 Shorts & Reels"></a> | [社媒短视频 Shorts & Reels](cases/shorts-reels.zh-CN.md) | 11 |
+| <a href="cases/ugc-ads.zh-CN.md"><img src="../../images/seedance-2.5/case24/preview.webp" width="160" alt="UGC风格广告 UGC Ads"></a> | [UGC风格广告 UGC Ads](cases/ugc-ads.zh-CN.md) | 6 |
+| <a href="cases/shorts-reels.zh-CN.md"><img src="../../images/seedance-2.5/case28/preview.webp" width="160" alt="社媒短视频 Shorts & Reels"></a> | [社媒短视频 Shorts & Reels](cases/shorts-reels.zh-CN.md) | 14 |
 | <a href="cases/product-demo.zh-CN.md"><img src="../../images/seedance-2.5/case37/preview.webp" width="160" alt="产品演示 Product Demo"></a> | [产品演示 Product Demo](cases/product-demo.zh-CN.md) | 5 |
 | <a href="cases/keyframe-animation.zh-CN.md"><img src="../../images/seedance-2.5/case42/preview.webp" width="160" alt="首尾帧动画 Keyframe Animation"></a> | [首尾帧动画 Keyframe Animation](cases/keyframe-animation.zh-CN.md) | 3 |
 | <a href="cases/video-extend-edit.zh-CN.md"><img src="../../images/seedance-2.5/case45/preview.webp" width="160" alt="视频延长和编辑 Video Extend & Edit"></a> | [视频延长和编辑 Video Extend & Edit](cases/video-extend-edit.zh-CN.md) | 11 |
 | <a href="cases/image-edit.zh-CN.md"><img src="../../images/seedance-2.5/case55/preview.webp" width="160" alt="图生图和修图 Image Edit"></a> | [图生图和修图 Image Edit](cases/image-edit.zh-CN.md) | 2 |
 |  | [电商主图和海报 Product Image](cases/product-image.zh-CN.md) | 0 |
 | <a href="cases/music-video.zh-CN.md"><img src="../../images/seedance-2.5/case57/preview.webp" width="160" alt="音乐可视化和MV Music Video"></a> | [音乐可视化和MV Music Video](cases/music-video.zh-CN.md) | 5 |
-| <a href="cases/explainer.zh-CN.md"><img src="../../images/seedance-2.5/case62/preview.webp" width="160" alt="教学解说视频 Explainer"></a> | [教学解说视频 Explainer](cases/explainer.zh-CN.md) | 2 |
+| <a href="cases/explainer.zh-CN.md"><img src="../../images/seedance-2.5/case62/preview.webp" width="160" alt="教学解说视频 Explainer"></a> | [教学解说视频 Explainer](cases/explainer.zh-CN.md) | 3 |

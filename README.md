@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
-  <a href="#table-of-contents"><img src="https://img.shields.io/badge/cases-276-blue.svg" alt="Case count: 276"></a>
+  <a href="#table-of-contents"><img src="https://img.shields.io/badge/cases-299-blue.svg" alt="Case count: 299"></a>
   <a href="#table-of-contents"><img src="https://img.shields.io/badge/models-3-blue.svg" alt="Models: 3"></a>
   <a href="https://app.ofox.ai/playground?utm_source=github&utm_medium=badge&utm_campaign=awesome-ai-video-prompts"><img src="https://img.shields.io/badge/Try-on%20Ofox-orange.svg" alt="Try on Ofox"></a>
   <a href="https://app.ofox.ai?utm_source=github&utm_medium=badge&utm_campaign=awesome-ai-video-prompts"><img src="https://img.shields.io/badge/Get-API%20Key-brightgreen.svg" alt="Get API Key"></a>
@@ -16,9 +16,9 @@
 # Awesome AI Video Prompts
 
 Prompts, parameters, and real output for the current generation of AI video
-models — **276 cases across 3 models**, every one with the complete prompt
-reproduced unedited, the parameters it ran with, a preview frame, and a
-playable clip. Collected, verified, and (where marked) run through
+models — **299 cases across 3 models**, with complete, unedited prompts,
+disclosed request parameters, and preview frames. Playable clips are linked
+where collected. Collected, verified, and (where marked) run through
 [Ofox](https://ofox.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts),
 which serves all three models behind one `POST /v1/videos` endpoint.
 
@@ -41,9 +41,9 @@ Get a key: [app.ofox.ai](https://app.ofox.ai?utm_source=github&utm_medium=readme
 
 | | Model | Cases | Browse |
 |:---:|---|---:|---|
-| <a href="models/seedance-2.5/README.md"><img src="images/seedance-2.5/case1/preview.webp" width="160" alt="Seedance 2.5"></a> | **Seedance 2.5** — ByteDance<br><sub>4–30s · up to 1080p · 8 aspect ratios · synced audio</sub> | 85 | [cases](models/seedance-2.5/README.md) · [prompts page](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
-| <a href="models/hailuo-3/README.md"><img src="images/hailuo-3/case1/preview.webp" width="160" alt="MiniMax Hailuo 3"></a> | **MiniMax Hailuo 3** — MiniMax<br><sub>text / image / reference to video · native audio</sub> | 120 | [cases](models/hailuo-3/README.md) · [prompts page](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
-| <a href="models/wan-3/README.md"><img src="images/wan-3/case1/preview.webp" width="160" alt="Tongyi Wanxiang Wan 3.0"></a> | **Tongyi Wanxiang Wan 3.0** — Alibaba<br><sub>2–30s · up to 1080p · reference / first-last frame / edit / extend</sub> | 71 | [cases](models/wan-3/README.md) · [prompts page](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+| <a href="models/seedance-2.5/README.md"><img src="images/seedance-2.5/case1/preview.webp" width="160" alt="Seedance 2.5"></a> | **Seedance 2.5** — ByteDance<br><sub>4–30s · up to 1080p · 8 aspect ratios · synced audio</sub> | 92 | [cases](models/seedance-2.5/README.md) · [prompts page](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+| <a href="models/hailuo-3/README.md"><img src="images/hailuo-3/case1/preview.webp" width="160" alt="MiniMax Hailuo 3"></a> | **MiniMax Hailuo 3** — MiniMax<br><sub>text / image / reference to video · native audio</sub> | 127 | [cases](models/hailuo-3/README.md) · [prompts page](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+| <a href="models/wan-3/README.md"><img src="images/wan-3/case1/preview.webp" width="160" alt="Tongyi Wanxiang Wan 3.0"></a> | **Tongyi Wanxiang Wan 3.0** — Alibaba<br><sub>2–30s · up to 1080p · reference / first-last frame / edit / extend</sub> | 80 | [cases](models/wan-3/README.md) · [prompts page](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
 
 ## What a case looks like
 
@@ -97,7 +97,7 @@ truth and can be edited directly.
   [prompt guide](https://docs.byteplus.com/en/docs/ModelArk/2607689).
   Hailuo 3: [MiniMax-H3 model card](https://huggingface.co/MiniMaxAI/MiniMax-H3).
   Wan 3.0: [Wan 3.0 showcase](https://www.aliyun.com/benefit/scene/wan) ·
-  [Alibaba Cloud prompt guide](https://help.aliyun.com/zh/model-studio/text-to-video-prompt).
+  [Alibaba Cloud prompt guide](https://help.aliyun.com/zh/model-studio/wan3-video-generation-prompt-guide).
 - [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) —
   the same idea for image generation, and the format this repo's case layout
   learned from.
@@ -107,20 +107,18 @@ truth and can be edited directly.
 Cases come from three kinds of source, credited differently on each one, and
 the mix is different per model:
 
-- **Seedance 2.5** (85) — 24 official ByteDance cases from the Seed team's
-  posts and the 火山方舟 / BytePlus ModelArk docs; 46 community cases credited
+- **Seedance 2.5** (92) — 24 official ByteDance cases from the Seed team's
+  posts and the 火山方舟 / BytePlus ModelArk docs; 53 community cases credited
   individually to their X/Twitter or bilibili author and re-verified against
   the original post; 15 our own runs through the Ofox API, marked `Ofox 实测`
   and the only ones carrying a `费用` line.
-- **MiniMax Hailuo 3** (120) — 3 official cases from MiniMax's own HuggingFace
+- **MiniMax Hailuo 3** (127) — 3 official cases from MiniMax's own HuggingFace
   model card (the reproducible request scripts, so prompt, parameters and clip
-  match exactly); 117 community cases from public X posts, verbatim prompt,
+  match exactly); 124 community cases from public X posts, verbatim prompt,
   mirrored clip, credited and linked.
-- **Wan 3.0** (71) — all first-party Alibaba material: 8 from the Wan 3.0
-  showcase page and 63 from the official Wan 3.0 Creator Handbook. No
-  community tier — the third-party Wan material we could find did not meet
-  the sourcing bar (keyword-squatted repos, and a public gallery with no
-  per-work permalink to credit back to).
+- **Wan 3.0** (80) — 74 official Alibaba cases: 8 from the Wan 3.0 showcase,
+  63 from the Creator Handbook, and 3 from the Wan 3.0 prompt guide;
+  6 community cases credited and linked to their original X or Reddit posts.
 
 Preview frames are mirrored under the credit line on each case; every prompt
 is reproduced complete and unedited.
@@ -128,7 +126,7 @@ is reproduced complete and unedited.
 Case numbering is per model and has deliberate gaps. `N` is both the heading
 here and the `#case-N` anchor on the model's prompts page, so renumbering to
 close a gap would silently repoint links that are already published. On
-Seedance the numbering jumps from 70 to 1001 because 1000+ is the reserved
+Seedance the numbering jumps from 77 to 1001 because 1000+ is the reserved
 block for Ofox's own runs.
 
 If you authored something featured here and want it removed, open an issue

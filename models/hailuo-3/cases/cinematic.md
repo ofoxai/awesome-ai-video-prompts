@@ -14,6 +14,8 @@
 - [Case 95: Korean Idol VHS Beauty Vlog (韩国偶像 VHS 美妆 Vlog) — by @saniaspeaks_](#case-95)
 - [Case 96: Desert Buggy Combat Chase (沙漠越野车战斗追逐) — by @beginnersblog1](#case-96)
 - [Case 133: Mechanical bull charge The Beasts Are Coming (机械公牛冲锋·野兽将至) — by @rahulnanda86](#case-133)
+- [Case 137: A White Lion in the Lamplit Park (灯下公园里的白狮同行) — by @JohnSmith5912](#case-137)
+- [Case 138: A Tiny City Inside a Pocket Watch (怀表齿轮里的微缩晨城) — by @DeCat2025](#case-138)
 
 <a id="case-10"></a>
 ### Case 10: A Vintage 1947 Town Under Fire (1947 小镇的复古战地纪实) — by @RuzainaMeer
@@ -21,6 +23,8 @@
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-10"><img src="../../../images/hailuo-3/case10/preview.webp" width="700" alt="A Vintage 1947 Town Under Fire"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-10)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Create a 15-second ultra-photorealistic live-action war sequence set in the United States in 1947, designed to look like authentic historical footage …</summary>
@@ -60,6 +64,8 @@ Negative Prompt: modern buildings, modern cars, smartphones, modern clothing, mo
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-14)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — A cinematic fantasy transformation beginning with a majestic queen wearing an intricate ruby-embroidered corset gown, matching crown, and holding a gl…</summary>
 
@@ -83,6 +89,8 @@ A cinematic fantasy transformation beginning with a majestic queen wearing an in
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-24)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Visual Medium &amp; Craft: Traditional frame-by-frame hand-painted oil-on-paper animation, physical 12 fps stop-motion cadence with deliberate frame holds…</summary>
 
@@ -105,6 +113,8 @@ Visual Medium & Craft: Traditional frame-by-frame hand-painted oil-on-paper anim
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-25"><img src="../../../images/hailuo-3/case25/preview.webp" width="700" alt="INK AFTER DARK in Pulp-Noir Motion"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-25)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [FORMAT] Create a 15-second, 16:9 retro graphic opening-title sequence titled "INK AFTER DARK". A stylish 1960s pulp-noir animation about a mysterious…</summary>
@@ -169,6 +179,8 @@ Never a slideshow. Maintain active graphic motion, physical visual transitions, 
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-26)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Traditional Javanese market in Yogyakarta, early morning, present day, ultra-realistic handheld one-take. A bakso vendor hurries through impossibly na…</summary>
 
@@ -191,6 +203,8 @@ Traditional Javanese market in Yogyakarta, early morning, present day, ultra-rea
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-91"><img src="../../../images/hailuo-3/case91/preview.webp" width="700" alt="The Boy Who Returned the Moon · Chapter 4"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-91)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [REFERENCE CONTROL] Use the uploaded PART 4 storyboard image for “THE BOY WHO RETURNED THE MOON” as the PRIMARY visual, character, environment, scale,…</summary>
@@ -1606,6 +1620,8 @@ Restored night palette:
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-94)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — /gen prompt: Cinematic wildlife documentary, vertical framing, subject centered, National Geographic award-winning cinematography, anamorphic lens, ri…</summary>
 
@@ -1629,6 +1645,8 @@ Restored night palette:
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-95)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mirror-mounted vanity shots. CHASE, a Korean idol in her 20s with long bl…</summary>
 
@@ -1651,6 +1669,8 @@ DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mir
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-96"><img src="../../../images/hailuo-3/case96/preview.webp" width="700" alt="Desert Buggy Combat Chase"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-96)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Create a 15-second, 16:9 photoreal cinematic action sequence with native stereo audio. Treat the five images as coordinated multimodal references for …</summary>
@@ -1776,6 +1796,8 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-133)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Use the uploaded mechanical bull image as the primary reference for the bull, and use Rahul’s image as the character reference for the rider. Create a…</summary>
 
@@ -1807,5 +1829,63 @@ Use the same signature look: desaturated steel blue, charcoal grey, mist white, 
 **来源**：@rahulnanda86 · [原帖](https://x.com/rahulnanda86/status/2083033635364720815)
 
 <sub>Preview © 2026 @rahulnanda86 · Prompt by @rahulnanda86</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-137"></a>
+### Case 137: A White Lion in the Lamplit Park (灯下公园里的白狮同行) — by @JohnSmith5912
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-137"><img src="../../../images/hailuo-3/case137/preview.webp" width="400" alt="A White Lion in the Lamplit Park"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-137)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A Cinematic video of a young woman wearing a brown jacket walking in a peaceful park during dusk She walks along a path lined with glowing warm street…</summary>
+
+~~~~text
+A Cinematic video of a young woman wearing a brown jacket walking in a peaceful park during dusk She walks along a path lined with glowing warm streetlamps On a wooden park bench, a giant, majestic white lion with glowing fur is calmly sitting The woman approaches the white lion and gently pets its mane and face. Close-up shot showing a warm connection between her and the gentle white lion with the lion nuzzling against her cheek lovingly Finally they are sitting together peacefully on the grass under a warm streetlamp at night Cinematic lighting, realistic, soft shadows 4k resolution, emotional and magical vibe.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@JohnSmith5912 · [原帖](https://x.com/JohnSmith5912/status/2108389785329127633)
+
+<sub>Preview © 2026 @JohnSmith5912 · Prompt by @JohnSmith5912</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-138"></a>
+### Case 138: A Tiny City Inside a Pocket Watch (怀表齿轮里的微缩晨城) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-138"><img src="../../../images/hailuo-3/case138/preview.webp" width="700" alt="A Tiny City Inside a Pocket Watch"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-138)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Style: cinematic macro fantasy, warm amber workshop lamp light, brass and glass textures, extreme close-ups, shallow depth of field, film grain. 0-5s:…</summary>
+
+~~~~text
+Style: cinematic macro fantasy, warm amber workshop lamp light, brass and glass textures, extreme close-ups, shallow depth of field, film grain.
+
+0-5s: One old watchmaker with a magnifying loupe over one eye opens a gold pocket watch on his wooden workbench at night, the dark window behind him showing a sleeping city, the viewer over his shoulder.
+
+5-10s: The viewer pushes into the open watch and reveals a tiny city built among the brass gears, with tiny lit windows and tiny people walking across the turning cogs in darkness, the watchmaker's tweezers lowering in and tightening one small screw.
+
+10-15s: A tiny sun rises over the gears inside the watch, the tiny city fills with morning light, and at the same moment real sunrise floods through the workshop window behind him, the watchmaker slowly looks up at the window, the viewer pulling back.
+
+Negative prompt: more than one watchmaker, digital watch, cartoon style, modern electronics, text, numbers, watermark, slow motion
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2108914789665604069)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
 
 [Back to top](#table-of-contents)

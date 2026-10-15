@@ -72,6 +72,8 @@ The atmospheric, sustained background music from <Audio 1> is reused as the cont
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-37)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — integrated_multimodal_description: [Shot 1] Surreal live-action cinematic imagery in a symmetrical square deep-focus wide shot inside the same modern …</summary>
 
@@ -99,6 +101,8 @@ non_diegetic_music: N/A
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-38)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Video editing, add texts into the &lt;Video 1&gt; while keep the layout, expressions, movement, color in &lt;Video 1&gt;. The bold white sans-serif word "この世界は" a…</summary>
 
@@ -122,6 +126,8 @@ The bold white sans-serif word "この世界は" and "アシンメトリック" 
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-68"><img src="../../../images/hailuo-3/case68/preview.webp" width="700" alt="A Ginger Cat Strolls Through Miyajima at Dusk"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-68)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Style &amp; Visual Direction:Classic 90s Japanese anime aesthetic, Hand-drawn anime style, Studio Ghibli-inspired warm tone, cel-shaded texturing, vibrant…</summary>
@@ -161,6 +167,8 @@ Negative Prompts:No live-action photo style, no 3D CGI rendering, no text, no su
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-69"><img src="../../../images/hailuo-3/case69/preview.webp" width="520" alt="A Miniature Highway Hidden Inside the Fridge"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-69)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — integrated_multimodal_description Shot 1 A realistic suburban kitchen at night. A man casually walks to the refrigerator and opens the door. The camer…</summary>
@@ -207,6 +215,8 @@ None.
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-70)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Photorealistic cinematic 1990s American diner — red vinyl booths, neon signs, chrome details, checkerboard floor, soft window light mixed with warm pr…</summary>
 
@@ -242,6 +252,8 @@ Photorealistic, ultra-detailed fluid and object physics, correct volume and surf
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-71)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — "A cute little girl walks through a sunny forest when a small, friendly dinosaur steps out, waves, and says hi. Suddenly, the dinosaur sneezes—and a s…</summary>
 
@@ -267,6 +279,8 @@ Photorealistic, ultra-detailed fluid and object physics, correct volume and surf
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-72"><img src="../../../images/hailuo-3/case72/preview.webp" width="700" alt="A Five-Second Greeting from an Anime Idol"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-72)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — プロンプト置いときます✋ Japanese anime style, high-end TV anime production quality, soft pastel lighting, clean line art, subtle cel shading, bright and cheerful…</summary>

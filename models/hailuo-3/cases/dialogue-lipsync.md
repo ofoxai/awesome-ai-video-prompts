@@ -24,6 +24,8 @@
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-4)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Style: Live stand-up comedy special, intimate comedy club, professional multi-camera production, warm stage lighting, packed audience around small tab…</summary>
 
@@ -88,6 +90,8 @@ Production details: Keep the same comedian, outfit, microphone, stage and audien
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-5)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — cinematic 15-second ultra-realistic sequence inside a luxurious modern boardroom during daytime. Soft natural light enters through large glass windows…</summary>
 
@@ -123,6 +127,8 @@ Cinematic lighting, sharp details on suits and the wooden table, subtle tension 
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-16)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — amateur handheld pov footage of a tourist in their plush and comfortable room of a space cruise, carpeted floor and comfy bed, large window shows a vi…</summary>
 
@@ -145,6 +151,8 @@ amateur handheld pov footage of a tourist in their plush and comfortable room of
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-17"><img src="../../../images/hailuo-3/case17/preview.webp" width="700" alt="A Street Photographer Meets an Old Man and His Dog"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-17)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — A young Western female street photographer walks through a lively downtown street and notices an elderly man sitting outside a café with his small dog…</summary>
@@ -169,6 +177,8 @@ A young Western female street photographer walks through a lively downtown stree
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-18)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — A young Western female traveler in her mid-20s walks naturally along a wooden marina dock toward a small white sightseeing boat. She wears a light blu…</summary>
 
@@ -191,6 +201,8 @@ A young Western female traveler in her mid-20s walks naturally along a wooden ma
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-19"><img src="../../../images/hailuo-3/case19/preview.webp" width="700" alt="Setting Up Camp beside a Mountain Stream"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-19)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Main Subject : Young Korean woman, early 20s, oversized flannel over a tank top, cargo shorts, hair in a practical braid, focused cheerful energy. Loc…</summary>
@@ -229,6 +241,8 @@ Goal: An adventurous, cheerful camping setup moment grounded, warm, authentic.
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-84)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — A cinematic 15-second ultra-realistic travel vlog following a young female creator exploring Bangkok's vibrant street food scene. She walks through a …</summary>
 
@@ -251,6 +265,8 @@ A cinematic 15-second ultra-realistic travel vlog following a young female creat
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-86"><img src="../../../images/hailuo-3/case86/preview.webp" width="700" alt="Japanese Dialogue During a Schoolyard Run"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-86)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — A scene showing a male student wearing a green tracksuit and a female student in a sailor uniform running together on the school path along s small ri…</summary>
@@ -279,6 +295,8 @@ Voice 2(female):あと30秒！あたしらの勝ちやな！
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-87"><img src="../../../images/hailuo-3/case87/preview.webp" width="700" alt="A Seven-Second Scene on an RTX 4090"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-87)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin conference room in Scranton. Harsh fluorescent office lighting, beige wa…</summary>
@@ -314,6 +332,8 @@ Natural English dialogue, precise lip synchronization, realistic overlapping off
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-123"><img src="../../../images/hailuo-3/case123/preview.webp" width="700" alt="Tasting Ramen in Authentic UGC Style"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-123)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energ…</summary>
@@ -359,6 +379,8 @@ cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic ste
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-124)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic. Product Refere…</summary>
 
@@ -401,6 +423,8 @@ cinematic grading, commercial production, CGI burger, fake cheese, distorted han
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-125"><img src="../../../images/hailuo-3/case125/preview.webp" width="700" alt="Post-workout gym vlog"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-125)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — CAMERA: DV 16mm tape camcorder POV. CHASE films herself, occasionally propping the camera on a wall or gym bag. Natural handheld shake, imperfect fram…</summary>

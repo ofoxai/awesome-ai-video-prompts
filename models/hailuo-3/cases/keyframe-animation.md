@@ -56,6 +56,8 @@ non_diegetic_music: A gentle, heartwarming acoustic guitar melody plays softly i
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-60)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Cinematic Anime Video Scene Generate a 15-second horizontal 16:9 original high-speed hover-bike racing anime video from the provided first frame. CRIT…</summary>
 
@@ -128,6 +130,8 @@ Final output:
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-61)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Animate the uploaded CHUNG LEE movie poster as a 10-second cinematic martial-arts motion poster while preserving the original artwork, characters, typ…</summary>
 
@@ -164,6 +168,8 @@ Animation made with Minimax H3
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-62"><img src="../../../images/hailuo-3/case62/preview.webp" width="700" alt="Haru in a High-Contrast Anime Opening"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-62)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [CHARACTER LOCK — use attached reference sheet] Haru: teen boy, short messy dark-brown hair with warm amber rim-light on the edges, tired amber eyes, …</summary>
@@ -239,6 +245,8 @@ changing outfit, changing hair color, distorted face, extra fingers, watermark
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-63)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — @[ref img] is the sole visual authority for Kaze, the football, the complete player-stats interface, typography, numbers, icons, colors, lighting, lay…</summary>
 
@@ -276,6 +284,8 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-64"><img src="../../../images/hailuo-3/case64/preview.webp" width="700" alt="Sword Formations Above a Moonlit Immortal City"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-64)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 5秒，4:3，顶级东方仙侠3A游戏CG，电影级高端宣传片，严格参考图1的月下仙城场景与美术气质：巨大明月、云海天宫、环形仙城、悬浮仙山、瀑布、白玉仙桥、金顶楼阁、冷蓝月光。整体画面必须唯美、恢弘、神圣、危险、酷炫，像大厂正式游戏开场CG，不像普通AI视频。 双主角设定：男剑仙，黑色长发，白蓝战袍，冰…</summary>
@@ -317,6 +327,8 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-65"><img src="../../../images/hailuo-3/case65/preview.webp" width="700" alt="A Shy Rain Cloud in the Greenhouse"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-65)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [REFERENCE CONTROL] Use the uploaded PART 1 storyboard image for “The Little Gardener and the Runaway Rain Cloud” as the PRIMARY visual, character, en…</summary>
@@ -1601,6 +1613,8 @@ This cut should make the viewer immediately want to watch PART 2.
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-66)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — ---------------- integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic with true fine pores and real skin texture, no bea…</summary>
 
@@ -1632,6 +1646,8 @@ non_diegetic_music: A steady four-beat pulse at a constant tempo runs from the f
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-67"><img src="../../../images/hailuo-3/case67/preview.webp" width="586" alt="Sagrada Família FPV flight"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-67)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-p…</summary>

@@ -7,6 +7,8 @@
 - [Case 11: Comedy Short — The Director and the Nepo Star (喜剧短片·导演与关系户) — by Alibaba](#case-11)
 - [Case 15: Absurd Short — Refuelling a Horse with Grass (荒诞短片·给马加青草) — by Alibaba](#case-15)
 - [Case 52: A Golden Retriever's First Year, from a .docx (一份日记文档生成的金毛成长片) — by Alibaba](#case-52)
+- [Case 74: Night Marina UGC — The Leap (夜游码头 UGC·纵身一跃) — by u/mementomori2344323](#case-74)
+- [Case 75: An Ordinary Seoul Summer Day (首尔普通夏日的一天) — by u/TimeCounty7878](#case-75)
 
 <a id="case-11"></a>
 ### Case 11: Comedy Short — The Director and the Nepo Star (喜剧短片·导演与关系户) — by Alibaba
@@ -101,6 +103,8 @@
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-52)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 本视频共包含6个镜头，总时长30.0秒。 全片以暖黄色调和胶片颗粒质感为基调，以主人深夜翻开一本写给金毛犬的旧日记为叙事线索——每一段旁白都是从日记本中念出的一页，画面是日记文字唤起的回忆影像。通过金毛犬"夏天"从幼犬到家至一岁生日的五个生活片段，配合翻页般的钢琴弦乐，讲述一段温情的成长故事。 全局…</summary>
 
@@ -136,5 +140,232 @@
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-74"></a>
+### Case 74: Night Marina UGC — The Leap (夜游码头 UGC·纵身一跃) — by u/mementomori2344323
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-74"><img src="../../../images/wan-3/case74/preview.webp" width="700" alt="Night Marina UGC — The Leap"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-74)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens…</summary>
+
+~~~~text
+Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+ 
+  
+Characters  
+  
+The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag.  
+  
+Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals.  
+  
+Laughing, spontaneous night-out energy.
+ 
+  
+Setting  
+  
+A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls.  
+  
+Warm orange street lamps, palm trees, distant city lights.  
+  
+The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+ 
+  
+Shot list  
+  
+0.0s–4.0s — Wide tracking shot, eye level, camera moving backward  
+The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+ 
+  
+4.0s–6.0s — Medium shot, eye level, backward track + quick left pan  
+The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+ 
+  
+6.0s–8.0s — Medium-wide, camera tilts down-left to follow, whip motion  
+She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+ 
+  
+8.0s–10.0s — High-angle wide, looking down at the water, slight jolt  
+From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+ 
+  
+10.0s–13.0s — High-angle medium, looking down, small handheld drift  
+She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.  
+  
+13.0s–16.0s — Handheld tilt up and back down, slight zoom  
+The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+ 
+  
+16.0s–20.0s — High-angle medium, tilting to follow her up  
+She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+ 
+  
+20.0s–23.0s — Low/close medium at the quay edge, static handheld  
+She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.  
+  
+23.0s–27.0s — Medium shot, eye level, loose handheld reframe  
+Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+ 
+  
+27.0s–30.0s — Medium shot, eye level, camera settles  
+Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+ 
+  
+Audio  
+  
+Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds.  
+No music.
+ 
+  
+Style  
+  
+Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：u/mementomori2344323 · [原帖](https://www.reddit.com/r/Seedance_AI/comments/1vxuyxm/wan_30_vs_seedance_25_same_viral_video_only_one/)
+
+<sub>社区实测 · u/mementomori2344323 · 原帖双屏对比：左 Seedance 2.5 / 右 Wan 3.0 · 保留原片水印</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-75"></a>
+### Case 75: An Ordinary Seoul Summer Day (首尔普通夏日的一天) — by u/TimeCounty7878
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-75"><img src="../../../images/wan-3/case75/preview.webp" width="404" alt="An Ordinary Seoul Summer Day"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-75)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second, 1080p ultra-realistic documentary-style personal home video showing an ordinary summer day in the life of a young Korean man. The …</summary>
+
+~~~~text
+Create a 30-second, 1080p ultra-realistic documentary-style personal home video showing an ordinary summer day in the life of a young Korean man.
+The footage should feel spontaneous, intimate, imperfect, and genuinely observed rather than performed.
+MAIN SUBJECT
+The same young Korean man in his early 20s throughout the entire video.
+Naturally handsome, realistic skin texture, minimal styling, relaxed expression, slightly tired but peaceful eyes.
+He has naturally messy medium-length dark hair with a few strands falling over his forehead and very subtle stubble.
+He wears a loose washed-black T-shirt, relaxed olive-beige trousers, worn white sneakers, and a simple silver wristwatch.
+Keep his face, identity, body proportions, hairstyle, clothing, watch, and overall appearance completely consistent from beginning to end.
+LOCATION
+A quiet older residential neighborhood in Seoul during a warm summer afternoon.
+Narrow concrete alleys, low-rise homes, rooftop terraces, external staircases, potted plants, laundry lines, parked bicycles, utility poles, overhead wires, mature trees, concrete walls, small residential courtyards, and distant city sounds.
+The neighborhood should feel authentic and lived-in.
+No crowds, tourist attractions, advertisements, recognizable brands, or commercial activity.
+CAMERA / VISUAL STYLE
+Authentic casual personal-video footage captured with an older consumer digital camera.
+Handheld camera operated by a friend walking nearby.
+Natural camera shake, imperfect framing, occasional autofocus changes, slight exposure adjustments when moving between sunlight and shade, soft image detail, mild motion blur, subtle digital noise, slightly muted colors, imperfect white balance, and natural compression.
+The camera operator occasionally reacts a little late, cuts off part of the subject, or briefly loses focus.
+No stabilization, gimbal movement, drone shots, cinematic camera choreography, dramatic lighting, slow motion, modern commercial color grading, or polished cinematography.
+The footage should feel like someone simply decided to record his friend during an ordinary day.
+---
+00:00–00:05 — MORNING ROOFTOP
+He sits casually on a small rooftop beside an old plastic chair.
+A cold bottled drink rests beside him.
+He looks quietly across the neighborhood while the wind moves his hair and T-shirt.
+He takes a sip, notices something happening in the distance, and smiles faintly.
+He briefly notices the camera and gives a subtle nod before looking away.
+The camera takes a moment to find focus on his face.
+---
+00:05–00:10 — WALKING THROUGH THE ALLEY
+He gets up and walks downstairs into the neighborhood.
+He walks casually through a narrow concrete alley with his hands in his pockets.
+He passes parked bicycles, potted plants, laundry hanging from balconies, and old residential walls.
+The camera follows several steps behind him.
+He occasionally looks back toward the camera but never deliberately poses.
+His footsteps remain naturally synchronized with his movement.
+---
+00:10–00:14 — SMALL EVERYDAY MOMENT
+He notices an old basketball resting near a wall.
+He picks it up, casually bounces it twice, then takes a simple shot toward a nearby hoop.
+The shot misses.
+He laughs quietly, shakes his head, and leaves the ball where he found it.
+The camera briefly loses focus during the movement and recovers naturally.
+No exaggerated athletic movement.
+---
+00:14–00:19 — LOCAL SHOP
+He walks to a tiny neighborhood shop and buys a cold drink.
+He exchanges a few natural words with the shopkeeper but the conversation is not clearly audible.
+He steps outside, opens the bottle, takes a drink, and leans casually against the wall.
+He watches bicycles and pedestrians passing in the distance.
+The camera remains handheld and slightly imperfect.
+---
+00:19–00:23 — SUMMER RAIN
+A sudden summer shower begins.
+He looks toward the sky with mild surprise.
+Instead of immediately running for shelter, he smiles and slowly walks into the rain.
+The rain becomes heavier.
+His hair becomes wet and falls naturally across his forehead.
+He eventually starts running down the alley, laughing genuinely.
+He briefly spins around while running, then continues toward a covered walkway.
+His clothes become visibly damp.
+Maintain realistic rain interaction, wet fabric, wet hair, reflections, and foot contact with the ground.
+---
+00:23–00:27 — QUIET MOMENT
+He reaches the covered walkway and catches his breath.
+Rain falls heavily behind him.
+He wipes water from his forehead and looks quietly toward the street.
+For a moment, everything becomes still.
+He notices the camera again.
+He gives a small genuine smile, not a posed expression.
+---
+00:27–00:30 — WALKING AWAY
+The rain becomes lighter.
+He walks away down the wet residential lane.
+The camera follows from behind.
+Reflections shimmer across the concrete.
+He turns his head once, gives a tiny wave toward the camera, smiles, and continues walking.
+The camera remains pointed toward the empty street for a brief moment.
+At approximately 00:29, the recording abruptly cuts to black mid-motion.
+No fade-out.
+---
+PHYSICAL REALISM
+Maintain believable real-world physics throughout.
+Hands, fingers, feet, clothing, hair, rain, bottle, basketball, and background objects must behave naturally.
+No extra fingers, fused hands, duplicated limbs, distorted anatomy, floating objects, teleportation, disappearing objects, or sudden transformations.
+The bottle remains a separate physical object and never intersects with his face.
+The basketball behaves naturally and remains where it lands.
+Parked bicycles and background objects remain stationary unless physically moved.
+His feet remain properly connected to the ground while walking and running.
+Keep the environment and subject consistent between shots.
+---
+AUDIO
+Natural environmental audio only.
+Footsteps on concrete, distant traffic, birds, leaves moving in the wind, bicycles, faint neighborhood conversations, shop sounds, bottle opening, basketball bouncing, rain hitting concrete, water dripping from rooftops, and subtle camera-handling noise.
+No music.
+No narration.
+No soundtrack.
+No artificial sound effects.
+No spoken dialogue is necessary.
+---
+FINAL FEEL
+The result should feel like a forgotten personal recording of an ordinary summer day.
+Not a commercial.
+Not a fashion film.
+Not a music video.
+Not a professional cinematic production.
+The emotional appeal should come from small human moments: sitting alone, wandering through familiar streets, missing a basketball shot, drinking something cold, getting caught in the rain, laughing, and walking home.
+Quiet, masculine, youthful, nostalgic, slightly melancholic, warm, spontaneous, and deeply human.
+Prioritize natural behavior, consistent identity, believable physics, imperfect handheld framing, authentic environmental details, and the feeling that the camera happened to be there.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · reAPI · 未标注 · 30s · 480p · 9:16 · 带音频
+**来源**：u/TimeCounty7878 · [原帖](https://www.reddit.com/r/reAPIOfficial/comments/1w2qo76/f_this_is_ai_slop_wan_30_can_keep_serving_it/)
+
+<sub>社区实测 · u/TimeCounty7878 · Reddit 原帖逐字提示词与请求参数</sub>
 
 [回到目录](#table-of-contents)

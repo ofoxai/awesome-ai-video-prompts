@@ -26,6 +26,8 @@
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-30)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — integrated_multimodal_description: [Shot 1] Adorable rounded 3D animation for preschool children, soft studio lighting, subtle contact shadows, smooth…</summary>
 
@@ -63,6 +65,8 @@ non_diegetic_music: A light nursery jingle at a steady moderate tempo using mari
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-31)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 動画（MiniMax H3）1本目 The young anime woman with light blue hair and a white summer sailor uniform shown in &lt;Picture 1&gt; is dancing in place in her bedroom…</summary>
 
@@ -91,6 +95,8 @@ The young anime woman with light blue hair and a white summer sailor uniform sho
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-32"><img src="../../../images/hailuo-3/case32/preview.webp" width="700" alt="Orange-and-Black Street Dance Commercial"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-32)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — ---------------------- integrated_multimodal_description: 2D-animated, a bold graphic-design motion-graphics commercial in 16:9 with exactly 13 distin…</summary>
@@ -220,6 +226,8 @@ resolves at 15.000 seconds.
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-33)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start with a close-up of the silver earbuds and case, then show a stylish Kore…</summary>
 
@@ -242,6 +250,8 @@ Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start wi
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-74"><img src="../../../images/hailuo-3/case74/preview.webp" width="700" alt="Three Outfit Changes in a Bedroom"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-74)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Format: 15 seconds | 16:9 | 4K HDR | 24fps | photorealistic cinematic vlog Character: Use the girl from the uploaded reference image as the exact char…</summary>
@@ -326,6 +336,8 @@ No jump cuts during transformations. No duplicated character. No distorted hands
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-75)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — @[face ref] をNEONの顔、ピンクのボブヘア、黒い丸眼鏡の厳密な参照として使用します。 @[body ref] をNEONの体格、黒と赤のサイバーパンク衣装、装備、ブーツの厳密な参照として使用します。 @[audio ref] は映像のリズム、カットの強弱、主要な音楽アクセントの参照とし…</summary>
 
@@ -402,6 +414,8 @@ NEONが眼鏡越しにカメラを見る。
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-76)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — A handheld found-footage shot from behind a person playing an authentic Street Fighter II arcade cabinet in a dim 1990s arcade. Ryu and Ken begin a no…</summary>
 
@@ -424,6 +438,8 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-77"><img src="../../../images/hailuo-3/case77/preview.webp" width="700" alt="Dancing Across the Magical Islands of Malta"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-77)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — { "format": { "duration": "15s", "bpm": 92, "total_shots": 10, "sync_type": "Dance to Playback Song — No Lip-Sync" }, "style_reference": "Warm Mediter…</summary>
@@ -483,6 +499,8 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-78)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Main Subject: Young Korean woman, early 20s, loose linen shirt over shorts, hair tied back with a cloth, dirt-smudged fingers, gentle focused expressi…</summary>
 
@@ -521,6 +539,8 @@ Goal: A small, grounded gardening moment warm, patient, authentic.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-79"><img src="../../../images/hailuo-3/case79/preview.webp" width="700" alt="Rhythm, Performance, and Kinetic Type"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-79)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Style: Premium music commercial, ultra-realistic, cinematic, 8K HDR, natural lighting, luxury fashion aesthetic, smooth professional camera work, vibr…</summary>
@@ -570,6 +590,8 @@ Visual Style: Premium commercial production, Billboard music video aesthetic, lu
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-80)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Create a 15 second cinematic sports video in 16:9 inside a real indoor strength competition arena packed with spectators. The story contrasts repeated…</summary>
 
@@ -611,6 +633,8 @@ Do not include text, captions, logos, watermarks, brand names, duplicated specta
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-81)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Main Subject: Young Korean woman, early 20s, natural everyday appearance, oversized soft t-shirt over shorts, hair in a loose bun, minimal makeup, rea…</summary>
 
@@ -650,6 +674,8 @@ Goal: A quiet, ordinary household moment grounded, warm, believable.
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-82)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Main Subject: Young Korean woman, early 20s, oversized cardigan over pajamas, hair down and slightly messy, sleepy relaxed expression. Location: Small…</summary>
 
@@ -688,6 +714,8 @@ Goal: A quiet, cozy breakfast moment calm, warm, deeply relatable.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-83"><img src="../../../images/hailuo-3/case83/preview.webp" width="700" alt="A Product in Psychedelic Hand-Drawn Motion"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-83)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — --------------- integrated_multimodal_description: [Shot 1] 2D hand-drawn animation in a psychedelic Japanese illustration style: heavy colored-pencil…</summary>

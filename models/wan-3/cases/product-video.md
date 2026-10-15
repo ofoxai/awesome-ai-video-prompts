@@ -8,6 +8,8 @@
 - [Case 5: Lace Blouse Try-On (蕾丝衬衫换装) — by Alibaba](#case-5)
 - [Case 28: Lip Glaze — Swatch Video from a Product Shot (唇釉试色·只给一张产品图) — by Alibaba](#case-28)
 - [Case 46: Nut Snack Packaging — Three-Shot Showcase (坚果包装三镜展示) — by Alibaba](#case-46)
+- [Case 78: Lipstick Try-On with a Single Product Reference (单张产品图生成口红试色) — by u/Accomplished-Ebb7783](#case-78)
+- [Case 79: Hair Dryer Exploded-View Render (吹风机内部零件拆解渲染) — by Alibaba](#case-79)
 
 <a id="case-4"></a>
 ### Case 4: The Rhythm of Dough (面团的律动) — by Alibaba
@@ -15,6 +17,8 @@
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-4"><img src="../../../images/wan-3/case4/preview.webp" width="700" alt="The Rhythm of Dough"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-4)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 参考image1，面点和面展示生命力的律动大片。1—3秒俯拍垂直镜头，镜头匀速下压对准案板中央面粉堆，45度斜侧柔光营造宁静感，一颗晶莹鸡蛋打破落入中心，捕捉蛋黄破裂瞬间粘稠液态与粉末态碰撞的动态张力。3—6秒手部特写低角度仰拍，厨师双手进入画面展示复杂揉捏动作，冷暖对比光强调肌肉力量感与面团受压后…</summary>
@@ -39,6 +43,8 @@
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-5)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — image1的女孩穿上image2的米白色蕾丝衬衫，搭配黑色高腰A字半裙与尖头短靴，身处欧式复古街角咖啡馆门前，场景有铁艺桌椅、爬藤玫瑰、暖黄橱窗与旧砖墙面。她从玻璃门推门而出，全身入画展示整体穿搭轮廓，三层荷叶边袖口随手臂动作层叠飘动；随后靠铁艺椅背微侧站立，一手轻抬至锁骨处，镜头推近展示胸前蕾丝…</summary>
 
@@ -61,6 +67,8 @@ image1的女孩穿上image2的米白色蕾丝衬衫，搭配黑色高腰A字半�
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-28"><img src="../../../images/wan-3/case28/preview.webp" width="394" alt="Lip Glaze — Swatch Video from a Product Shot"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-28)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 只有唇釉产品图 @Image1 ，生成模特试色视频，15秒，竖屏，突出唇色效果</summary>
@@ -85,6 +93,8 @@ image1的女孩穿上image2的米白色蕾丝衬衫，搭配黑色高腰A字半�
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-46)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 镜头1：远景，厨房木桌场景中 图1 的脆研社黑松露海盐混合坚果脆包装居中陈列，旁边散落几颗巴旦木、腰果、核桃仁和黑松露薄片作为氛围道具，镜头缓推靠近；镜头2：特写，包装正面占满画面，清晰展示顶部烫金麦穗坚果圆形徽章Logo、"脆研社"烫金书法字、"黑松露海盐混合坚果脆"品名、三枚胶囊标签"精选6种进…</summary>
 
@@ -98,5 +108,59 @@ image1的女孩穿上image2的米白色蕾丝衬衫，搭配黑色高腰A字半�
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-78"></a>
+### Case 78: Lipstick Try-On with a Single Product Reference (单张产品图生成口红试色) — by u/Accomplished-Ebb7783
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-78"><img src="../../../images/wan-3/case78/preview.webp" width="394" alt="Lipstick Try-On with a Single Product Reference"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-78)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Using only the lipstick product Image1 as a reference, generate a 15-second vertical video of a model trying on the lipstick, highlighting its color a…</summary>
+
+~~~~text
+Using only the lipstick product Image1 as a reference, generate a 15-second vertical video of a model trying on the lipstick, highlighting its color and finish on the lips.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Akool · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：u/Accomplished-Ebb7783 · [原帖](https://www.reddit.com/r/Akool_Official/comments/1wsjwlh/product_ugc_using_wan_30_in_akool/)
+
+<sub>社区分享 · u/Accomplished-Ebb7783 · Akool · Reddit 原帖逐字提示词与成片</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-79"></a>
+### Case 79: Hair Dryer Exploded-View Render (吹风机内部零件拆解渲染) — by Alibaba
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-79"><img src="../../../images/wan-3/case79/preview.webp" width="700" alt="Hair Dryer Exploded-View Render"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-79)
+
+**输入素材**（3 项（2 张图 + 1 段视频，视频只取首帧））
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case79/input1.webp" width="200" alt="图1 · 吹风机外观"><br><sub>图1 · 吹风机外观</sub> | <img src="../../../images/wan-3/case79/input2.webp" width="200" alt="图2 · 内部拆解风格"><br><sub>图2 · 内部拆解风格</sub> | <img src="../../../images/wan-3/case79/input3.webp" width="200" alt="视频1 · 待渲染的白模动画"><br><sub>视频1 · 待渲染的白模动画</sub> |  |
+
+<details>
+<summary><strong>Prompt</strong> — 把视频1改为图片风格，吹风机拆解图，细致的内部零件，环形芯片，内部环形电机模块，动态图形，4K高清</summary>
+
+~~~~text
+把视频1改为图片风格，吹风机拆解图，细致的内部零件，环形芯片，内部环形电机模块，动态图形，4K高清
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · edit · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：阿里云 Wan 3.0 官方提示词指南 · [source](https://help.aliyun.com/zh/model-studio/wan3-video-generation-prompt-guide)
+
+<sub>Wan 3.0 官方示例 · 阿里云百炼提示词指南「电商广告」吹风机拆解</sub>
 
 [Back to top](#table-of-contents)

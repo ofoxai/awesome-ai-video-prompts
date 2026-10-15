@@ -17,6 +17,8 @@
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-8)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 奇幻史诗风，重型战弓远距猎龙，金红夕照与灰烬风暴色调。一名披着烧灼边缘深绿斗篷的女龙猎人立于断裂城墙最高处，面颊有旧伤细痕，眼神锁定远方俯冲的幼龙，肩背线条清晰，皮甲外套雕纹金属护肩，前臂厚实护臂，腰后箭袋插着黑羽重型破甲箭。她左臂伸直稳弓，右手三指扣弦拉至嘴角，斜方肌、背阔肌与肋侧因满弓绷出明显受…</summary>
 
@@ -251,6 +253,8 @@ GERMINATION COMPLETE
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-24"><img src="../../../images/wan-3/case24/preview.webp" width="700" alt="Dragonfly-Style Micro Flyer"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-24)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 生成一支10秒、16:9横版、1920×1080、30fps、单镜头连续完成的微缩奇幻高速追逐短片。 最高优先级要求：小精灵必须采用蜻蜓式“定点悬停—瞬间弹射—完全急停—锐角变轨”的运动方式。禁止将其表现为普通仙女缓慢漂浮、匀速前进或连续平滑滑翔。参考图风格： @Image2 全片前7.8秒至少出现…</summary>

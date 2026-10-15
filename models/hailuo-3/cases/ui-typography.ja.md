@@ -13,6 +13,7 @@
 - [Case 116: Wake the Wonder (唤醒宇宙奇观) — by @airina_xyz](#case-116)
 - [Case 117: A French Bulldog Under Precise Direction (镜头下的法国斗牛犬) — by @cocktailpeanut](#case-117)
 - [Case 118: Images and Typography in Seamless Motion (图像与文字的无缝变换) — by @opener_ai](#case-118)
+- [Case 134: BURN Forged in Fire (烈焰熔铸 BURN 字幕) — by @CharaspowerAI](#case-134)
 
 <a id="case-13"></a>
 ### Case 13: Beat-Synced Spaghetti-Western Title Sequence (西部片节拍标题动画) — by @itsphotogptai
@@ -20,6 +21,8 @@
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-13"><img src="../../../images/hailuo-3/case13/preview.webp" width="700" alt="Beat-Synced Spaghetti-Western Title Sequence"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-13)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Use the attached character reference (Image1) and audio track as the timing guide. Create a spaghetti-western pulp anime title sequence where every cu…</summary>
@@ -44,6 +47,8 @@ Use the attached character reference (Image1) and audio track as the timing guid
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-39)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — { "title": "The Void Replies", "duration": "15 seconds", "aspect_ratio": "9:16", "style": "surreal architectural etching blended with animated bureauc…</summary>
 
@@ -66,6 +71,8 @@ Use the attached character reference (Image1) and audio track as the timing guid
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-40"><img src="../../../images/hailuo-3/case40/preview.webp" width="700" alt="Typography Flows Through the Scene"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-40)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [1] FORMAT 15-second 16:9 stylized anime action title sequence — martial-arts choreography fused with 3D kinetic typography. Painterly 2D anime illust…</summary>
@@ -106,6 +113,8 @@ Anamorphic-feel 35mm for wides, 50mm for the mid shots.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-113"><img src="../../../images/hailuo-3/case113/preview.webp" width="394" alt="A Cybernetic Operative Appears on a Stat Panel"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-113)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — @[ref img] is the sole visual authority for ZENITH, his face, body, hairstyle, black tactical bodysuit, cyan circuit details, exposed cybernetic arm, …</summary>
@@ -328,6 +337,8 @@ No background music.
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-114)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — EXPEDITION: Two glaciologists enter a newly formed ice cave to document its internal structure before seasonal melting changes it. EXPLORERS: Two rese…</summary>
 
@@ -364,6 +375,8 @@ REALISM DIRECTIVE: Ice must behave like real compressed glacier ice, not glass. 
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-115)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — タイトル：ENDLESS STEP / 終わらない階段 尺：15秒 ジャンル：現代アート / Op Art / Surrealism 画面：16:9 カラー：白黒モノクロ中心 BGM：なし コンセプト：「進み続けているのに、どこにも辿り着いていない」 演出方針：前半は空間の異常、中盤は物理法則の崩壊…</summary>
 
@@ -387,6 +400,8 @@ Made with AI
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-116"><img src="../../../images/hailuo-3/case116/preview.webp" width="400" alt="Wake the Wonder"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-116)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — { "title": "Wake the Wonder", "duration": "15s", "aspect_ratio": "9:16", "style": "retro-futurist 1960s editorial illustration blended with hand-paint…</summary>
@@ -463,6 +478,8 @@ Made with AI
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-117)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — A casual handheld smartphone video filmed by the dog's owner in an ordinary suburban backyard. A cute, stocky French bulldog excitedly runs through a …</summary>
 
@@ -485,6 +502,8 @@ A casual handheld smartphone video filmed by the dog's owner in an ordinary subu
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-118"><img src="../../../images/hailuo-3/case118/preview.webp" width="700" alt="Images and Typography in Seamless Motion"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-118)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [1] FORMAT 10-second 16:9 cinematic motion-graphics promo built from a single desert muscle-car image. Premium, fast, dimensional, elegant, and tactil…</summary>
@@ -548,5 +567,30 @@ No cartoon styling, no cheap VFX clutter, no excessive lens distortion, no unrea
 **来源**：@opener_ai · [原帖](https://x.com/opener_ai/status/2085241788340797558)
 
 <sub>Preview © 2026 @opener_ai · Prompt by @opener_ai</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-134"></a>
+### Case 134: BURN Forged in Fire (烈焰熔铸 BURN 字幕) — by @CharaspowerAI
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-134"><img src="../../../images/hailuo-3/case134/preview.webp" width="700" alt="BURN Forged in Fire"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-134)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fuel suspended in darkness as a spark suddenly ignites its surface. Fire …</summary>
+
+~~~~text
+Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fuel suspended in darkness as a spark suddenly ignites its surface. Fire spreads explosively outward and the camera rockets backward through a chain reaction of enormous fuel explosions. Liquid fire whips across the frame like glowing ribbons while burning debris and sparks spiral into a rapidly expanding fire tornado. The camera enters the vortex and rotates around a white-hot molten core where streams of liquid metal begin violently forging the gigantic word "BURN". Every letter emerges incandescent from the inferno before cooling into cracked black steel while magma remains visible beneath the surface. The completed title slams into frame with enormous weight as flames blast through the gaps between the letters. Pressure suddenly builds inside the typography until "BURN" violently ruptures from within, unleashing a radial explosion of molten metal, sparks and fire directly into the lens. Extreme heat distortion, realistic pyro physics, aggressive camera movement, AAA theatrical VFX.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2106398901267812627)
+
+<sub>Preview © 2026 @CharaspowerAI · Prompt by @CharaspowerAI</sub>
 
 [目次に戻る](#table-of-contents)

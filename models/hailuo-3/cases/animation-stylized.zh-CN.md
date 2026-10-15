@@ -28,6 +28,8 @@
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-12)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — @ Image1 is the sole visual authority for the folio spread, the wren, the hazel twig, the egg study, the foot sketch, the handwriting, the printed typ…</summary>
 
@@ -74,6 +76,8 @@ At 13 seconds, one Eurasian wren song — sudden, intricate and far louder than 
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-34)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Create a 15-second animated educational video that teaches young children the shapes Circle, Square, Triangle, and Star. Learning pattern for every sh…</summary>
 
@@ -119,6 +123,8 @@ Requirements: Each shape fully visible before morph, uppercase-clarity level pre
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-35)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Create a 15-second animated educational video that introduces young children to the first four days of the week: Monday, Tuesday, Wednesday, Thursday.…</summary>
 
@@ -156,6 +162,8 @@ Visual style: Same premium-cute aesthetic — pastel tones, rounded 3D icons, so
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-36)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Animate the source artwork as a **10-second energetic chibi anime poster assembly**, preserving the deep indigo-purple background, neon pink, cyan and…</summary>
 
@@ -184,6 +192,8 @@ Reveal the Japanese title with a bold elastic impact, followed by the English la
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-103)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — KAWAII HORRORミュージックビデオを完成させる。これは映像とキネティック・タイポグラフィを一括生成する実験である。歌詞テロップは後処理に回さず、生成動画の中へ直接描画する。Picture 1はぬいぐるみのフルフレーム映像の主画像として使う。Picture 2は、デザインされたテロップの形と…</summary>
 
@@ -207,6 +217,8 @@ KAWAII HORRORミュージックビデオを完成させる。これは映像と�
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-105)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — CAIRN MUNRO — "ARRIVE UNHEARD" — 14 CUTS · 15s · 2K · 24fps REFERENCES: the attached PRODUCT SHEET@Image1 is the exact vehicle — match its proportion,…</summary>
 
@@ -229,6 +241,8 @@ CAIRN MUNRO — "ARRIVE UNHEARD" — 14 CUTS · 15s · 2K · 24fps  REFERENCES: 
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-106"><img src="../../../images/hailuo-3/case106/preview.webp" width="700" alt="A Surreal Vision Inside a Laundromat"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-106)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [1] FORMAT Create a 15-second, 16:9 surreal live-action scene inside a quiet laundromat at night. [4] BEATS [0–3s] Slow handheld push toward a running…</summary>
@@ -275,6 +289,8 @@ No people, text, subtitles, logos, watermarks, monsters, or cartoon styling.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-107"><img src="../../../images/hailuo-3/case107/preview.webp" width="700" alt="The Last Bubble Before Closing · Part 2"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-107)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — "[REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for: “THE LAST POP BEFORE CLOSING” as the STRICT PRIMARY visual and narrative reference.…</summary>
@@ -1763,6 +1779,8 @@ No humans stepping on characters.
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-108)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — "[REFERENCE CONTROL] Use the uploaded PART 1 storyboard image for: “THE LAST POP BEFORE CLOSING” as the STRICT PRIMARY reference for: - Fizz’s exact r…</summary>
 
@@ -3171,6 +3189,8 @@ CUT TO CHILL.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-109"><img src="../../../images/hailuo-3/case109/preview.webp" width="700" alt="Ari and Bruno’s Croissant Bloom · Part 1"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-109)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [REFERENCE CONTROL] Use the uploaded PART 1 storyboard image for: “ARI &amp; BRUNO — THE CROISSANT THAT BLOOMED” as the STRICT PRIMARY visual, character, …</summary>
@@ -4680,6 +4700,8 @@ The viewer should immediately want to see:
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-110)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — "[REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for: “THE GENTLEMAN CAT AND THE LITTLE MOUSE’S BIG SURPRISE” as the STRICT PRIMARY visua…</summary>
 
@@ -6129,6 +6151,8 @@ harmonica must remain visible.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-111"><img src="../../../images/hailuo-3/case111/preview.webp" width="700" alt="The Gentleman Cat and Little Mouse Surprise · Part 1"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-111)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — "[REFERENCE CONTROL] Use the uploaded PART 1 storyboard image for: “THE GENTLEMAN CAT AND THE LITTLE MOUSE’S BIG SURPRISE” as the STRICT PRIMARY visua…</summary>
@@ -7588,6 +7612,8 @@ No crime/gangster framing.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-126"><img src="../../../images/hailuo-3/case126/preview.webp" width="700" alt="The Little Strawberry Wakes the Pineapple King · Part 2"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-126)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for: “THE LITTLE STRAWBERRY AND THE SLEEPY PINEAPPLE KING” as the PRIMARY visual referenc…</summary>
@@ -9054,6 +9080,8 @@ MOTION RULES — KIWI
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-127)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 手描きの日本の2Dアニメ、温かみのあるセルシェーディング、居心地のいい町の定食屋の厨房。15秒、ゆっくり見せる6カット、各約2.5秒。寄りのクローズアップ中心で、食欲をそそる濃厚な演出：脂、照り、湯気、たっぷりの量。 1 まな板を真上から：包丁が厚切りの豚ロースを切る、白い脂の霜降り。 2 斜め45…</summary>
 
@@ -9083,6 +9111,8 @@ MOTION RULES — KIWI
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-128"><img src="../../../images/hailuo-3/case128/preview.webp" width="394" alt="Watercolor anime fetish montage rapid cuts"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-128)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — style: visual: "日本の水彩画風フルカラーアニメ" editing: "0.5秒おきの高速カット割り" animation: "作画枚数多め、滑らかな24fps" tone: "官能的だが直接的にはせず、温度・湿度・心拍を映像化する" project: id: "fetish_mont…</summary>
@@ -9239,6 +9269,8 @@ sequence:
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-129"><img src="../../../images/hailuo-3/case129/preview.webp" width="700" alt="Greenhouse tea isekai anime"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-129)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 高品質アニメ映像。 作品トーンと世界観は、透明感のある夏のガラス温室から、紅茶の渦の内側に存在するオリジナルの小さな不思議の国へ連続する、上品で夢幻的な叙情ファンタジー。澄んだ白、水色、琥珀色、淡い金色を主役にし、怖さや混沌ではなく、好奇心、浮遊感、静かな高揚を描く。今回は1枚のソース参照画像ima…</summary>
