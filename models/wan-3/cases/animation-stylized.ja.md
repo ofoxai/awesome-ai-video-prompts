@@ -13,6 +13,7 @@
 - [Case 32: Plush Universe Escape (毛绒宇宙大逃亡) — by Alibaba](#case-32)
 - [Case 35: First-Person Hand-Drawn MG Night Walk (第一人称手绘 MG 夜游) — by Alibaba](#case-35)
 - [Case 45: Urban MG Chase for the Light Orb (都市 MG 光球追逐) — by Alibaba](#case-45)
+- [Case 80: Before the Void Swallows You (在虚空吞噬你之前) — by @0xbisc](#case-80)
 
 <a id="case-16"></a>
 ### Case 16: 3D Stylized — The Giant Translucent Plant (3D 风格化动画·湖心巨型植物) — by Alibaba
@@ -115,6 +116,8 @@
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-29)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 镜头1：深夜打烊后， Image1 用抹布仔细擦拭吧台&lt;抹布摩擦声&gt;，一双布满旧茧和新伤的巨手动作沉稳，脸上是打烊后的疲惫。 镜头2：传来一声微弱的呜咽&lt;小猫呜咽声&gt;，他手上动作停下，眉头微皱拉开门，只见门口一只瘦骨嶙峋的流浪小猫在雨中发抖。 镜头3：缓慢推镜到小猫无助的眼神， Image1 疲惫表…</summary>
 
@@ -140,6 +143,8 @@
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-30"><img src="../../../images/wan-3/case30/preview.webp" width="700" alt="Clay Fox in the Autumn Town"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-30)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 参考图片1的美学风格。一只黏土质感的小狐狸站在秋天的森林边缘，竖起耳朵望向远处冒着炊烟的小镇。它迈开短腿小跑下山坡，穿过一座微缩的石拱桥，桥下溪水用透明树脂般的质感缓缓流动。小狐狸跑进小镇集市，在一个水果摊前停下，用爪子拨弄一颗红苹果，苹果滚落到地上骨碌碌转了几圈。它叼起苹果继续跑，经过一家面包店门…</summary>
@@ -414,6 +419,8 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-45)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 生成一支约30秒、16:9横版的高审美都市MG追逐短片。图1 @Image1 作为城市空间、霓虹氛围、车道结构和整体视觉质感参考；图2 @Image2 作为男性角色唯一形象参考；图3 @Image3 作为女性角色唯一形象参考。严格保持两人的脸、发型、体型、服装结构、配色和识别度稳定统一。 【整体风格…</summary>
 
@@ -463,5 +470,51 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-80"></a>
+### Case 80: Before the Void Swallows You (在虚空吞噬你之前) — by @0xbisc
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-80"><img src="../../../images/wan-3/case80/preview.webp" width="700" alt="Before the Void Swallows You"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-80)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — REFERENCE Strictly follow the goblin character appearance and style in @ Image1. There is only this one main character throughout the entire video. Do…</summary>
+
+~~~~text
+REFERENCE
+Strictly follow the goblin character appearance and style in @ Image1. There is only this one main character throughout the entire video. Do not add any new main characters. No subtitles, Logo, or voice-over. Keep only environmental sounds, action sound effects, and continuous restrained tense music.
+WHITE SPACE
+The white space is a pure white empty area that continuously contracts inward. It always stays behind or diagonally behind the goblin, keeping a clearly visible distance from him, and must never appear in the direction he is running toward. When the white area passes through the forest, the plants first rapidly lose their color, grass and leaves curl and crack dry, flowers shrink and wither, bushes die, then even the dead plants themselves disappear, leaving only pure white space in the end.
+0s-6s:
+From the first second, the goblin is already running away in the forest. His brows are tightly furrowed, his mouth is open as he breathes hard, and he frequently looks back while running. After seeing the white space behind him, he immediately turns back to the front and keeps running. The image mainly uses very low rear-side close and medium views. Nearby grass blades, tree trunks, and branches quickly sweep past the edges of the frame. From the rear-side angle, the distant white area can clearly be seen swallowing the forest.
+After the escape begins, there is a short low-angle plant close view. In the foreground is a cluster of green grass blades and several small flowers, gently swaying in the wind. The white boundary behind them approaches and covers them. The green quickly fades into grayish brown, the petals shrink inward, the leaves curl and crack, the thin stems fall over, and the whole cluster of plants quickly dies. Then even the dead plants disappear as well, leaving only the pure white space. The image immediately returns to the goblin running, then briefly shows a rear-side medium-long view again. A whole row of grass, flowers, bushes, and trees along the white boundary continuously loses color, withers, collapses, and disappears into pure white. After the goblin turns back and sees this, his eyes open wider, his breathing becomes more chaotic, and he pushes off the ground and speeds up again.
+6s-14s:
+The goblin keeps running fast the whole time. He steps over a fallen log and continues running immediately after landing. His foot slips and he quickly slides down a short slope. After his body sways, he regains balance. Then he squeezes sideways through two trees that stand very close together, nearly trips over exposed roots, pitches forward, quickly braces himself on the ground with his hand, gets up again, and continues sprinting. While running, he anxiously scans the trees ahead, and occasionally looks back to check the white space. His panicked expression remains clearly visible throughout. The image mainly keeps a low rear-side close view, medium view, and basic side view. Tree trunks and branches sometimes quickly sweep across the foreground.
+A short first-person view appears. The front always shows the green forest, the path between the trees that can be passed through, and the ground rapidly approaching. The white space must not appear. During the run, branches and grass on both sides keep sweeping past, and the line of sight moves left and right across the surroundings ahead.
+14s-21s:
+The goblin rushes into a path where the trees are denser. From the beginning, a low, rough, hard old tree branch is already growing there by the roadside, fixed as it stretches horizontally from the side of a tree trunk into part of the path. It stays still the whole time. While running, the goblin does not fully avoid the branch, and the glowing seed in his hand is knocked to the ground by it, landing on the soil at the edge of the grass, in a clearly visible position.
+The goblin immediately lowers his head and searches nearby. His eyes are wide open, his breathing is fast and chaotic, his head turns quickly from side to side, and both hands push aside nearby grass leaves as he checks the ground and the gaps beside the roots. The ground, grass leaves, roots, and the movement of his hands appear in sequence in the image. At the same time, the white space behind him continues to approach. Distant plants keep losing color, withering, and disappearing, while a short clearly visible distance still remains between the white boundary and the goblin. The goblin finally finds the glowing seed on the muddy ground by the grass, immediately grabs it, and his expression briefly relaxes. Then he turns back again in fear, stands up, and continues running away.
+21s-27s:
+The goblin tightly grips the seed and keeps running. He anxiously scans the forest ahead, then sees an ancient tree among the trees that is clearly different from the surrounding trees. The ancient tree has an unusually thick and old trunk, huge raised roots twisting around it, and a naturally formed tree hollow under the trunk with a unique and easy-to-recognize shape. After seeing the tree hollow, the goblin’s eyes clearly light up, hope appears on his face, and he immediately rushes toward the ancient tree.
+The goblin reaches the ancient tree. In the last few meters, his body loses some balance, and he slides forward on his knees to the front of the tree hollow. He immediately aims the seed he has been holding into the inside of the tree hollow and forcefully inserts it deep inside. The white space behind him is still approaching this place. Large parts of the distant forest keep losing color and withering, but the white boundary still keeps a clear distance from the ancient tree and the goblin.
+The goblin stays kneeling in front of the tree hollow, eyes wide open and staring at it. In the next moment, a very bright point of light appears inside the tree hollow. The seed quickly grows, a new sprout pushes out, the roots rapidly spread inside the hollow, and the inside of the ancient tree lights up from the inside out. Then a blinding life light bursts out from the tree hollow, the brightness rapidly increases, and the surrounding trunk and the goblin’s whole body are lit by the strong light. The extreme terror on the goblin’s face gradually changes into shock and disbelief. The bright life light spreads from the ancient tree outward through the forest. The white space immediately stops continuing to shrink, pauses briefly, and then begins to fade in the opposite direction.
+27s-30s:
+The white space rapidly retreats toward the outer edge of the forest. After the white area fades away, the originally gray-brown dead grass becomes fresh green again, the curled and cracked leaves stretch open again, the drooping withered flowers stand upright again and recover their color, the dry bushes grow leaves again, and the tree crowns become lush again.
+In the final image, the view gradually shifts from near the ancient tree and the goblin to a top-down wide full view, and the overall range of the forest gradually appears. Large pure white areas rapidly fade outward from all directions of the forest. Centered on the ancient tree and the tree hollow, the vivid green area keeps spreading outward. The goblin stands beside the ancient tree and looks up at the restored forest.
+~~~~
+
+</details>
+
+**核验说明**：原帖上半部为成片，下半部为角色设定图。
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 30s · 未标注 · 未标注 · 未标注
+**来源**：@0xbisc · [原帖](https://x.com/0xbisc/status/2093296541834653883)
+
+<sub>社区创作 · Latte (@0xbisc) · X 原帖成片与同作者回复中的逐字提示词</sub>
 
 [目次に戻る](#table-of-contents)

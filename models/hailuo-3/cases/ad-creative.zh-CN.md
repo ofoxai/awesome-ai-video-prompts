@@ -22,6 +22,7 @@
 - [Case 130: Kinetic Typography Inside a Coffee Commercial (动态字体融入咖啡广告) — by @pewdenai](#case-130)
 - [Case 131: Surreal Fashion Inside a Blue Studio (蓝色影棚里的超现实时装) — by @shikoba_86](#case-131)
 - [Case 132: Strawberry Drink Transformation Commercial (草莓饮料变形广告) — by @GumVue](#case-132)
+- [Case 135: Golf Course Refreshment Commercial (高尔夫球场清爽饮料广告) — by @sophiaparkerr_](#case-135)
 
 <a id="case-6"></a>
 ### Case 6: A Lacquer-Thread Vase from Clay Rolling to Display (漆线雕花瓶从捻土盘线到上架) — by @derek_wall90176
@@ -29,6 +30,8 @@
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-6"><img src="../../../images/hailuo-3/case6/preview.webp" width="700" alt="A Lacquer-Thread Vase from Clay Rolling to Display"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-6)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 【参考图规则】 @图片1 是最终漆线雕作品的唯一权威参考。 必须严格保持图片1中的作品造型、主体比例、漆面颜色、金色漆线纹样、纹样走向、器型和整体气质。 不得随意增加龙、凤、佛像、文字或不存在的装饰。 @图片2 是包装盒、包装纸、品牌标识以及产品标签的唯一权威参考。 所有包装结构、颜色和标识均按照图…</summary>
@@ -85,6 +88,8 @@
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-7)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Create a 15 second, 16:9 luxury fashion commercial using @Image1@Image2 as exact visual references. @Image1 is the sole product reference. Preserve th…</summary>
 
@@ -110,6 +115,8 @@ Use bright, fashion forward European luxury cinematography inspired by a restore
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-20)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — A cinematic realistic morning scene of a young adult woman suddenly waking up in a hurry. She quickly checks the time on her phone and realizes she is…</summary>
 
@@ -132,6 +139,8 @@ A cinematic realistic morning scene of a young adult woman suddenly waking up in
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-21"><img src="../../../images/hailuo-3/case21/preview.webp" width="524" alt="An Architecture Board Assembles from Wireframes"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-21)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Use [img1] as the sole visual authority for the architecture, courtyard, container modules, roof geometry, facade openings, materials, landscape, peop…</summary>
@@ -328,6 +337,8 @@ No dialogue.
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-22)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — @ Image1 is the sole authority for the PROOF logo: the roundel of five concentric rings and the PROOF wordmark in heavy geometric rounded sans. Reprod…</summary>
 
@@ -439,6 +450,8 @@ never moves position. Do not add a ninth shot. Do not animate the end card.
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-23)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Create a 15-second luxury cinematic product showcase for a premium compact fragrance diffuser with a sculpted ceramic body and brushed-metal top. The …</summary>
 
@@ -475,6 +488,8 @@ Premium wellness-commercial finish, photorealistic ceramic and metal, realistic 
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-50)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Subject: Person from Image1. Face and hairstyle must match Image1 completely; do not transform into a different person. Outfit: same casual everyday s…</summary>
 
@@ -507,6 +522,8 @@ Style: Unedited low-quality phone video look. No color grading, no film look, no
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-51"><img src="../../../images/hailuo-3/case51/preview.webp" width="700" alt="A Futuristic Ad Made for Itself"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-51)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — REFERENCE USAGE — nine cropped storyboard panels, in order: Image 1 — hook frame: the MiniMax H3 wordmark, the Create Beyond script line, the woman in…</summary>
@@ -576,6 +593,8 @@ Do not add subtitles, captions, credits, watermarks, panel numbers, section labe
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-52"><img src="../../../images/hailuo-3/case52/preview.webp" width="700" alt="A Colorful Montage of Blooming Flowers"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-52)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Create a breathtaking 15-second cinematic flower-morph sequence using the seven uploaded flower images as consecutive visual references: Image 1: whit…</summary>
@@ -647,6 +666,8 @@ Create genuine continuous anatomical flower transformations. No cuts, crossfades
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-53)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — cinematic commercial Begin with peat smoke, rain droplets, and oak wood dust floating deliberately in mid-air. These materials compact into amber liqu…</summary>
 
@@ -669,6 +690,8 @@ cinematic commercial Begin with peat smoke, rain droplets, and oak wood dust flo
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-54"><img src="../../../images/hailuo-3/case54/preview.webp" width="700" alt="A Product Image Becomes a Premium Storefront"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-54)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Create a 16:9 premium ecommerce landing page UI/UX demo built around the product in Image 1. Use a luxurious, futuristic sports-performance aesthetic …</summary>
@@ -700,6 +723,8 @@ Try MiniMax H3 → https://bit.ly/4fES5pl
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-55"><img src="../../../images/hailuo-3/case55/preview.webp" width="700" alt="A High-Fashion Commercial in One Shot"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-55)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Prompts: [Core Concept] 15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted …</summary>
@@ -740,6 +765,8 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-57"><img src="../../../images/hailuo-3/case57/preview.webp" width="700" alt="Turning an Educational Vision into an Experience"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-57)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Create a 15-second animated educational video that teaches young children the letters A, B, C, and D. The learning pattern for every letter must be: L…</summary>
@@ -916,6 +943,8 @@ The final video should feel cute, educational, memorable, calming, and exception
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-58)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natural daylight, photorealistic, looks like real footage filmed on locati…</summary>
 
@@ -938,6 +967,8 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-59"><img src="../../../images/hailuo-3/case59/preview.webp" width="700" alt="An Eight-Shot Luxury Skincare Commercial"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-59)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Use the uploaded storyboard as the camera guide. Follow all 8 frames in order with smooth cinematic continuity. The same woman, outfit, hairstyle, mak…</summary>
@@ -1012,6 +1043,8 @@ Ultra photorealistic luxury skincare commercial, Apple-style cinematography, ARR
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-130)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 15-second premium luxury coffee commercial for the coffee brand "INSOMNIA". Create a cinematic editorial film, not a traditional advertisement. The vi…</summary>
 
@@ -1036,6 +1069,8 @@ Created using MiniMax H3 on @openart_ai
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-131"><img src="../../../images/hailuo-3/case131/preview.webp" width="700" alt="Surreal Fashion Inside a Blue Studio"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-131)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — [Upload reference ] + Use la ragazza in reference as a strict identity reference for the model and her yellow sunglasses. Preserve face, hair, and the…</summary>
@@ -1116,6 +1151,8 @@ Composition: model centered, all type within the central third of the frame
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-132)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — { "shots": [ { "shot_id": "1", "start_time": "00:00", "end_time": "00:02", "camera_angle": "Close-up", "subject": "Strawberry", "action": "A single, d…</summary>
 
@@ -1129,5 +1166,48 @@ Composition: model centered, all type within the central third of the frame
 **来源**：@GumVue · [原帖](https://x.com/GumVue/status/2083189719827878083)
 
 <sub>Preview © 2026 @GumVue · Prompt by @GumVue</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-135"></a>
+### Case 135: Golf Course Refreshment Commercial (高尔夫球场清爽饮料广告) — by @sophiaparkerr_
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-135"><img src="../../../images/hailuo-3/case135/preview.webp" width="700" alt="Golf Course Refreshment Commercial"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-135)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 0–2s — THE SIP Fast close-up of the ginger-haired golfer on a sunny golf course. She grabs the Sprite can, cracks it open — PSHHHT! — condensation and…</summary>
+
+~~~~text
+0–2s — THE SIP
+Fast close-up of the ginger-haired golfer on a sunny golf course. She grabs the Sprite can, cracks it open — PSHHHT! — condensation and tiny droplets flying in slow motion. She takes a refreshing sip and gives a confident little smirk.
+2–4s — GAME ON
+Hard cut. She tosses the Sprite can slightly upward, catches it, grabs her golf club, and steps into position. Quick whip-pan around her as sunlight flashes across the frame.
+
+4–7s — THE SWING
+Rapid montage: close-up of her gripping the club → golf ball on the tee → her eyes locking onto the ball → skirt and ponytail moving as she swings. She hits the ball with a powerful, perfectly timed CRACK!
+7–10s — FOLLOW THE BALL
+Ultra-fast camera follows the golf ball flying across the bright green course. Speed ramp as it passes trees and sunlight, then lands perfectly near the hole.
+
+10–12s — HOLE IN ONE
+She watches it drop into the hole. Quick reaction shot: she smiles, spins the club casually, and walks toward the camera like she absolutely knew that was happening.
+12–15s — HERO SHOT
+She grabs the cold Sprite can again and takes another sip. Camera pushes in as she lowers the can, smiling confidently. Condensation sparkles in the sunlight. End on a clean product close-up of the Sprite can beside the golf ball.
+
+On-screen text:
+“REFRESH. RELOAD. PLAY.”
+SPRITE — THIRSTY FOR MORE.
+Fast cuts, energetic commercial pacing, whip transitions, speed ramps, crisp summer lighting, realistic golf physics, dynamic camera movement, refreshing splash effects, premium sports-ad aesthetic.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · @FishCreativeHQ · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@sophiaparkerr_ · [原帖](https://x.com/sophiaparkerr_/status/2106337250346664007)
+
+<sub>Preview © 2026 @sophiaparkerr_ · Prompt by @sophiaparkerr_</sub>
 
 [回到目录](#table-of-contents)

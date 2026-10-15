@@ -49,6 +49,8 @@ non_diegetic_music: Cinematic space-opera orchestral score, slow tempo, featurin
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-42)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Create a 15-second ultra-realistic cinematic lifestyle vlog video, vertical 9:16, featuring the same young woman throughout the entire video. Preserve…</summary>
 
@@ -124,6 +126,8 @@ Ultra-realistic, cinematic travel vlog, natural handheld camera movement, realis
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-43)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Create an 8-cut kinetic-typography spot in 16:9, 24fps, exactly 12s. Style: Bauhaus / Swiss International — flat primary colors (red, yellow, blue, bl…</summary>
 
@@ -160,6 +164,8 @@ DO NOT: gradients, drop shadows, 3D extrusion, serif fonts, melted letters, adde
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-44)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 1960年代，香港邵氏復古電影風格：戴黑粗框眼鏡、頭髮微捲及肩的霸總生氣地按住女秘書(粉紅色廉價套裝、明顯腮紅、淡藍色眼影)的肩膀，質問女秘書道"昨晚，妳到底去了哪裡？"。女秘書開始眼眶泛淚，推開霸總的雙手，然後轉身拭淚哭泣著說"總裁這是我私人的事情，不用你管!"。總裁快步接近女秘書，然後將女秘書的…</summary>
 
@@ -183,6 +189,8 @@ DO NOT: gradients, drop shadows, 3D extrusion, serif fonts, melted letters, adde
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-45)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 美國喜劇reality show: 豪宅的泳池邊，20歲金髮藍眼的紅色比基尼美女與60歲灰髮憔悴的清潔婦正在激烈地爭吵，美女說"醜死了，你這死老太婆!"，清潔婦也不甘示弱說"整天只會換男人，不正經!"。這時畫誇張眼影妖后造型的drag queen飛過，便將手中的仙女棒往美女與清潔婦的頭上各點一下，結…</summary>
 
@@ -205,6 +213,8 @@ DO NOT: gradients, drop shadows, 3D extrusion, serif fonts, melted letters, adde
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-46"><img src="../../../images/hailuo-3/case46/preview.webp" width="700" alt="A Papercraft Battle in a Fantasy Valley"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-46)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 【核心创意】 12 秒，16:9 横屏视频。手工纸艺立体拼贴与奇幻故事书风格的二维动画。画面由多层纸片、裁切边缘、纸张纤维、柔和层叠阴影和轻微定格动画质感构成，色彩鲜明，具有微缩舞台空间感。 故事发生在一片绿色山谷战场。左侧是英雄阵营：一名棕色长发的女弓箭手，穿黑色轻甲；一名白色长胡须的老法师，穿深…</summary>
@@ -259,6 +269,8 @@ DO NOT: gradients, drop shadows, 3D extrusion, serif fonts, melted letters, adde
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-47)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Cinematic comedy sequence, 15 seconds. [SCENE 1: 0-4s] Extreme close-up: A morbidly obese, orange tabby cat is fast asleep on a tiny, expensive velvet…</summary>
 
@@ -281,6 +293,8 @@ Cinematic comedy sequence, 15 seconds. [SCENE 1: 0-4s] Extreme close-up: A morbi
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-48"><img src="../../../images/hailuo-3/case48/preview.webp" width="700" alt="A Two-Character Scene Driven by Exact Dialogue"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-48)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic uniforms follows a mysterious distress signal and boards a dark, abando…</summary>
@@ -305,6 +319,8 @@ cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic u
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-49)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Whip pan from a screaming crowd to a massive kraken-like creature rising from flooded city streets. Tentacles crush traffic lights and wrap around bui…</summary>
 
@@ -327,6 +343,8 @@ Whip pan from a screaming crowd to a massive kraken-like creature rising from fl
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-120"><img src="../../../images/hailuo-3/case120/preview.webp" width="700" alt="Automatic Lip-Sync for a High-Speed Rap Performance"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-120)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — モード1：Omni Reference プロンプト：添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタイミングガイドとして使用してください。オーディオにある「音声」に完全に会うようにキャラクターの口とアクションを入れてリップシンクしてダイナミックなカメラアングルでラップを披露して…</summary>
@@ -355,6 +373,8 @@ Whip pan from a screaming crowd to a massive kraken-like creature rising from fl
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-121)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — A single continuous fixed wide shot in a plain, brightly lit test room, filmed like an unedited behavioral experiment. At the start, a red cube is on …</summary>
 
@@ -377,6 +397,8 @@ A single continuous fixed wide shot in a plain, brightly lit test room, filmed l
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-122"><img src="../../../images/hailuo-3/case122/preview.webp" width="700" alt="A Blue-Haired Hero Escapes with a Spirit Fox"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-122)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Use the reference @ image for the exact character design, clothing, proportions, blue hair, pointed ears and glowing cyan spirit fox. Preserve the cin…</summary>

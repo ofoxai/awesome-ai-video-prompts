@@ -382,6 +382,8 @@ summer fashion film in colorful Havana streets, Caribbean old town editorial, yo
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-43)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 【视频类型】游戏买量角色PV展示视频 【视频时长】15秒 【参考素材】三张干员角色立绘图（赤狐双枪枪手·绯狩 @Image1 、人类炼金学者·紫珞 @Image3 、虎纹兽人法师·霆岳 @Image2 ） 【镜头结构】 第1段（0-3秒）：三人依次登场特写镜头，从暗影中显现，专属元素粒子环绕（绯狩-…</summary>
 
@@ -441,6 +443,8 @@ summer fashion film in colorful Havana streets, Caribbean old town editorial, yo
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-44)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 电影级双女主时尚大片，极快节奏，纯硬切（Jump Cut）剪辑逻辑，阿莱Alexa 65与Panavision变形宽银幕镜头拍摄，柯达Vision3 500T胶片质感，8k分辨率，照片级真实，无文字。人物面部特征完全锁定女生A @Image1 和 女生B@ @Image2 。 [0-3秒：极速登场与…</summary>
 
@@ -476,6 +480,8 @@ summer fashion film in colorful Havana streets, Caribbean old town editorial, yo
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-53"><img src="../../../images/wan-3/case53/preview.webp" width="700" alt="A Skincare Brand Film, from a .pptx"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-53)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 根据我的提案文档，生成素研SĒRA光蕴精华品牌广告片——一个关于「清晨三分钟」的故事。女主角从醒来到护肤到出门，全程素颜，用自然光的质感证明：好的皮肤不需要遮盖，只需要被善待。全片零旁白、零产品功效宣称，仅靠画面情绪传递「素颜自信」的品牌态度 。保证主角的一致性。最后的镜头以产品图收尾。</summary>

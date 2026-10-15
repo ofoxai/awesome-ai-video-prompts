@@ -37,6 +37,8 @@ MV概念风的五人韩国女团硬核大片舞段，纯黑与纯白无缝影棚
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-50)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 竖屏9:16，全身镜头，固定稳定机位。一位长黑发的年轻女性，身穿白色花朵刺绣长袖上衣、白色百褶短裙配黑色腰带、白色厚底运动鞋，在现代简约风厨房中，跟随固定音频的节拍跳偶像风舞蹈。背景为浅灰色橱柜、白色岛台、深色夜景窗户，人物身后有一块方形补光灯形成轮廓光，室内冷白色灯光。 根据固定音频的节奏、速度和…</summary>
 

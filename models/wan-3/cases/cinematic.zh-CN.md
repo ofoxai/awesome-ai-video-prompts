@@ -11,6 +11,8 @@
 - [Case 12: Creative Short — Shopping-Cart Downhill (创意短片·购物车俯冲) — by Alibaba](#case-12)
 - [Case 19: Dark Fantasy — The Violet-Eyed Villain (暗黑奇幻·紫瞳反派独白) — by Alibaba](#case-19)
 - [Case 26: Wuxia Duel — Character Sheets on a Reed Marsh (武侠对决·角色卡与芦苇滩) — by Alibaba](#case-26)
+- [Case 81: Mountain Cable Car Survival (雪山缆车惊险求生) — by @chatgptpaglu](#case-81)
+- [Case 82: Lego-Scale First-Person Home Adventure (乐高颗粒视角家居冒险) — by Alibaba](#case-82)
 
 <a id="case-2"></a>
 ### Case 2: Ambush from Ten Sides — Pipa on the Loess Ridge (十面埋伏) — by Alibaba
@@ -42,6 +44,8 @@
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-6)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 一镜到底，手持跟拍一位老人坐在公园长椅上钓鱼，钓线甩入湖中，镜头沿钓线潜入水下，水底是一座沉没的城市废墟，鱼群穿梭在倒塌的霓虹招牌之间，一条鱼咬钩——它身上刻着文字。</summary>
 
@@ -64,6 +68,8 @@
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-7"><img src="../../../images/wan-3/case7/preview.webp" width="700" alt="Late-Night Gas Station Encounter"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-7)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 美剧色调，冷暖对比，宽画幅电影感。深夜两点，美国中西部只有一条主街的小镇，唯一加油站只剩一盏钠灯亮着，投下孤零零的橙黄色光圈；旁边24小时餐馆脏玻璃窗内透出暖黄灯光和空桌椅。穿格子法兰绒衬衫、戴鸭舌帽的中年卡车司机推门走出，一手外带咖啡，一手摸车钥匙，走向停在加油站旁、引擎低沉怠速的十八轮大卡车。经…</summary>
@@ -175,6 +181,8 @@
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-26)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 1️⃣模块一·多模态参考层 基于上传的角色卡，严格保持男性角色的黑发高发髻、鬓角碎发被风吹起、锐利深色瞳、清瘦而线条分明的面部轮廓特征一致；严格保持其灰白色交领长衫内衬、外披黑灰色破边流苏罩肩、胸前多重银币吊坠链饰、深棕色宽腰带缠绕层叠布料的造型细节一致。基于上传的角色卡，严格保持女性角色的深棕色长…</summary>
 
@@ -225,5 +233,72 @@
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-81"></a>
+### Case 81: Mountain Cable Car Survival (雪山缆车惊险求生) — by @chatgptpaglu
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-81"><img src="../../../images/wan-3/case81/preview.webp" width="700" alt="Mountain Cable Car Survival"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-81)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Shot 1 | 0–6 sec Photorealistic cinematic survival thriller. A young woman in a red winter jacket rides a small cable car above breathtaking snow-cove…</summary>
+
+~~~~text
+Shot 1 | 0–6 sec 
+Photorealistic cinematic survival thriller. A young woman in a red winter jacket rides a small cable car above breathtaking snow-covered mountains at golden hour. Suddenly, a rockslide crashes into the cable, violently swinging the cabin before it stops. Realistic physics, dramatic camera movement, Hollywood cinematography.                                                     
+Shot 2 | 6–12 sec 
+The same woman inside the stranded cable car, breathing heavily as she tries the emergency radio, but there is no response. She looks through the window toward a distant mountain station. A dark snowstorm approaches behind the peaks. Photorealistic, tense, cinematic lighting.                              
+Shot 3 | 12–18 sec
+ The same woman opens the emergency roof hatch and carefully climbs onto the safety cable, moving toward the mountain station. Strong winds shake her body and blowing snow reduces visibility. Vast snowy mountains below, beautiful golden light fading into the storm. Realistic survival thriller.              
+ Shot 4 | 18–24 sec
+ The woman moves desperately along the cable when another rockslide strikes the mountain. The cable begins tearing apart behind her. She looks back in panic and accelerates toward the station. Heavy snow, violent wind, realistic physics, intense cinematic camera movement.                                                                     
+ Shot 5 | 24–30 sec 
+The woman reaches the station platform and jumps onto solid ground just as the damaged cable collapses behind her. She falls to her knees, exhausted, then turns toward the mountains as a massive avalanche sweeps across the valley. Epic wide shot, breathtaking snowy landscape, photorealistic Hollywood survival thriller.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Lart AI · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@chatgptpaglu · [原帖](https://x.com/chatgptpaglu/status/2094710054675157354)
+
+<sub>社区创作 · yusra. (@chatgptpaglu) · X 原帖逐字提示词与成片</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-82"></a>
+### Case 82: Lego-Scale First-Person Home Adventure (乐高颗粒视角家居冒险) — by Alibaba
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-82"><img src="../../../images/wan-3/case82/preview.webp" width="700" alt="Lego-Scale First-Person Home Adventure"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-82)
+
+<details>
+<summary><strong>Prompt</strong> — 核心：电影级超写实，第一人称乐高颗粒视角，一镜到底丝滑穿梭，硬核冒险、冷峻质感，无台词无 BGM，仅高保真环境音，15 秒全程高速惊险避险，放大乐高塑料质感与尺度反差。 画面：乐高颗粒视角闯入巨型人类家居场景，地板 = 荒野、桌面 = 荒原、书本 = 山崖、水杯 = 摩天塔、键盘 = 机械群，手掌 …</summary>
+
+~~~~text
+核心：电影级超写实，第一人称乐高颗粒视角，一镜到底丝滑穿梭，硬核冒险、冷峻质感，无台词无 BGM，仅高保真环境音，15 秒全程高速惊险避险，放大乐高塑料质感与尺度反差。
+画面：乐高颗粒视角闯入巨型人类家居场景，地板 = 荒野、桌面 = 荒原、书本 = 山崖、水杯 = 摩天塔、键盘 = 机械群，手掌 / 脚步带来强压迫感，无卡通感，贴合家居逻辑。
+分镜（15 秒）
+0-2s：微缩低空视角，从地板 / 桌面边缘弹射冲出，贴地狂飙，超广角强化尺度反差，快速代入微型冒险。
+2-5s：高速穿越，擦过乐高零件、书本、笔、键盘、水杯，躲避手掌阴影，贴地 / 俯冲 / 钻缝，极限避障。
+5-8s：高风险穿梭，滑向沙发、穿椅腿、冲书页断崖、躲水杯 / 人类脚步，节奏加快，险境拉满。
+8-11s：闯入人类活动区，躲避打字、翻书、饮水动作，键盘轰鸣、翻书如狂风，极限避险穿梭。
+11-13s：冲出险境，进入乐高半成品 / 零件区，氛围短暂舒缓，明确乐高视角。
+13-15s：急速拉升定格乐高成品，背景留巨型家居残影，收尾犀利有记忆点。
+音效：无 BGM，开场风切 / 塑料摩擦声；中段键盘 / 纸张 / 脚步 / 震动声；后半段塑料卡扣 / 微弱风声，放大尺度反差。
+
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · t2v · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：阿里云 Wan 3.0 官方提示词指南 · [source](https://help.aliyun.com/zh/model-studio/wan3-video-generation-prompt-guide)
+
+<sub>Wan 3.0 官方示例 · 阿里云百炼提示词指南「游戏」第一人称乐高冒险</sub>
 
 [回到目录](#table-of-contents)

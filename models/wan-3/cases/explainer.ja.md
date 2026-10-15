@@ -15,6 +15,8 @@
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-54)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 总时长22秒，4个片段顺序拼接。全片纯白底，柔色色块与简洁线条图表，Apple Keynote式极简商务风格，无衬线深灰字体。BGM（必须有，贯穿全片，音量清晰可闻）：一段轻快的商务背景音乐，节奏稳定、旋律简洁，从第一秒开始就有音乐，全程不间断，旁白出现时音乐不消失、音量略低于人声。音效层：色块滑入…</summary>
 
@@ -46,6 +48,8 @@ H1-2026跨境电商月度GMV.xlsx
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-55)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 帮我把网页里讲量子力学的内容，转成通俗有趣的科普短视频</summary>
 
@@ -68,6 +72,8 @@ H1-2026跨境电商月度GMV.xlsx
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-56"><img src="../../../images/wan-3/case56/preview.webp" width="700" alt="An Encyclopedia Page into “Who Was Wang Wei”"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-56)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 根据该王维的百科介绍，我要给一年级的孩子们做一个“谁是王维”的动画视频</summary>

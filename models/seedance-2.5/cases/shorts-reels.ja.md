@@ -16,6 +16,9 @@
 - [Case 64: Friend-filmed day-trip vlog, city to coast (朋友跟拍的一日旅拍 · 从街区到海边) — by @BubbleBrain](#case-64)
 - [Case 70: MiniDV morning vlog in an old residential lane (老生活区晨间 Vlog · MiniDV 质感) — by @羊羊Vincent](#case-70)
 
+- [Case 73: Three doorstep visits through a peephole (猫眼里的三次敲门) — by @bmx_ai13](#case-73)
+- [Case 74: One thousand years beside a mossy boulder (苔藓巨石旁的一千年) — by @sebatheepan](#case-74)
+- [Case 76: Bedroom candid, cat and doorbell (卧室随拍、猫咪与门铃) — by @oggii_0](#case-76)
 <a id="case-28"></a>
 ### Case 28: Panda cub in the forest (熊猫幼崽) — by ByteDance
 
@@ -335,5 +338,97 @@ A realistic handheld travel vlog filmed by a friend following the main character
 **来源**：[@羊羊Vincent](https://space.bilibili.com/283745134) · [原帖](https://www.bilibili.com/video/BV1tDhV6eEgT)
 
 <sub>Preview © 2026 <a href="https://www.bilibili.com/video/BV1tDhV6eEgT">@羊羊Vincent</a> · Prompt by <a href="https://www.bilibili.com/video/BV1tDhV6eEgT">@羊羊Vincent</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-73"></a>
+### Case 73: Three doorstep visits through a peephole (猫眼里的三次敲门) — by @bmx_ai13
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-73"><img src="../../../images/seedance-2.5/case73/preview.webp" width="700" alt="Three doorstep visits through a peephole"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-73)
+
+**输入素材**：未公开 —— 原帖未附可下载的独立输入素材
+
+<details>
+<summary><strong>Prompt</strong> — A realistic doorway peephole POV video shot through a ultra wide fisheye lens with a pronounced circular black vignette and curved distortion. The sce…</summary>
+
+~~~~text
+A realistic doorway peephole POV video shot through a ultra wide fisheye lens with a pronounced circular black vignette and curved distortion. The scene takes place in a warmly lit, carpeted apartment hallway with dark doors and warm sconce lights running along the walls. A cheerful young woman with short, bleached blonde pixie cut hair, wearing a casual layered outfit, approaches the camera close up, leaning in and playfully knocking on the lens as if knocking on a door. She holds a large fresh bouquet of white daisies and eucalyptus. She smiles brightly, applies lip balm while looking into the camera, spins around happily, and runs off down the corridor. Next, she returns wearing an oversized cream-colored trench coat carrying a small red gift bag, knocks again, poses, turns, and playfully darts away down the hallway before running back toward the door. Finally, she returns wearing a warm brown sweater, holding a frosted red velvet cake on a glass plate. She knocks on the camera lens, licks frosting off her finger, smiles, blows a kiss directly to the camera lens, and runs off giggling. Natural handheld instability, realistic indoor lighting, handheld camera movement, high definition organic video quality, upbeat indie pop background soundtrack. Aspect ratio 16:9, total duration 20 seconds.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@bmx_ai13](https://x.com/bmx_ai13) · [原帖](https://x.com/bmx_ai13/status/2083678409272721652)
+
+<sub>Preview © 2026 <a href="https://x.com/bmx_ai13/status/2083678409272721652">@bmx_ai13</a> · Prompt by <a href="https://x.com/bmx_ai13/status/2083678409272721652">@bmx_ai13</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-74"></a>
+### Case 74: One thousand years beside a mossy boulder (苔藓巨石旁的一千年) — by @sebatheepan
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-74"><img src="../../../images/seedance-2.5/case74/preview.webp" width="700" alt="One thousand years beside a mossy boulder"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-74)
+
+**输入素材**：未公开 —— 原帖未附可下载的独立输入素材
+
+<details>
+<summary><strong>Prompt</strong> — A 30 second film from ONE completely locked, static camera position that never moves, never pans, never zooms, never cuts. The same view of the same p…</summary>
+
+~~~~text
+A 30 second film from ONE completely locked, static camera position that never moves, never pans, never zooms, never cuts. The same view of the same patch of ground for one thousand years, time passing at enormous speed. In the foreground of every single frame sits a large mossy grey boulder. It never moves. It is present and recognisable in every frame of the film from first to last. [0:00-0:03] Ancient temperate forest. Huge old trees, deep green undergrowth, mist between the trunks, soft grey daylight. [0:03-0:06] Trees fall and are dragged away. A clearing opens. Stumps, churned mud, a first thin column of smoke. [0:06-0:09] A single timber and thatch hut rises beside the boulder. A small vegetable plot. Chickens. [0:09-0:12] A village grows around it. More huts, fences, a dirt track, wood smoke, sheep in the field beyond. [0:12-0:15] A stone wall is built, incorporating the boulder into its base. A church tower rises behind. Snow falls and melts. Seasons flicker past. [0:15-0:18] Fire. The village burns, timbers collapse, smoke blackens the sky. The wall and the boulder survive. [0:18-0:21] Rebuilding in brick. A cobbled road. A chimney, then many chimneys. Industrial smoke, grey air, rain. [0:21-0:24] The town becomes a city. Concrete rises. The old wall is demolished. The boulder sits in a small paved square, surrounded by buildings. [0:24-0:26] Glass towers. Traffic light streaking past at night. The boulder is fenced off, a small green plaque beside it. [0:26-0:28] Abandonment. Windows dark, glass cracked, weeds through the paving, ivy climbing the towers. Silence. [0:28-0:30] The towers have collapsed and gone. Young forest has grown over everything. Mist between the trunks. The frame is now identical to the opening frame, the same boulder in the same position under the same soft grey light. Camera: absolutely locked and static for all 30 seconds. No movement of any kind. No cuts, no dissolves, no transitions — one continuous transforming shot. Style: photoreal, cinematic, natural overcast light throughout, muted natural colour, seasons and weather flickering rapidly past. Audio: diegetic only, evolving with the era — forest birds, axes, village life, church bell, fire, industrial machinery, city traffic, then silence, then birds again. NO MUSIC, no score, no soundtrack, no instruments. No text, no captions, no titles, no watermarks, no camera movement, no cuts.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Higgsfield · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2083290634731864190)
+
+<sub>Preview © 2026 <a href="https://x.com/sebatheepan/status/2083290634731864190">@sebatheepan</a> · Prompt by <a href="https://x.com/sebatheepan/status/2083290634731864190">@sebatheepan</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-76"></a>
+### Case 76: Bedroom candid, cat and doorbell (卧室随拍、猫咪与门铃) — by @oggii_0
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-76"><img src="../../../images/seedance-2.5/case76/preview.webp" width="700" alt="Bedroom candid, cat and doorbell"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-76)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Montage, multi-shot candid observational footage. Do not use a single camera angle or continuous take. Handheld documentary style with the feeling of …</summary>
+
+~~~~text
+Montage, multi-shot candid observational footage. Do not use a single camera angle or continuous take. Handheld documentary style with the feeling of accidental real-life capture. Slightly imperfect framing, subtle handheld shake, tiny reframing adjustments, gentle exposure breathing, and autofocus that settles half a beat late. Realistic skin texture, soft indoor natural light, film grain, shallow depth of field. Relaxed breathing, natural blinking, restrained and authentic performance. Total of 7 shots.
+The woman from @ Image 1 is wearing a matching cotton pajama set consisting of a scoop-neck sleeveless top and loose shorts made from the same fabric and design. Barefoot, she lies on her stomach across a lived-in, slightly messy bed in her bedroom, browsing a mobile shopping page on a black smartphone. A house cat jumps onto the bed seeking attention, and she affectionately plays with it. Moments later, a friend calls. She answers, chats, and eventually bursts into laughter. The doorbell rings, so she ends the call and gets up to collect her dinner.
+Shot 1 (0–2s):
+She is already moving. One thumb scrolls through a shopping page while she frowns slightly, thinking. She quietly mutters in Korean: "아, 뭐 살랬더라…" ("Ah... what was I going to buy again?"). Lips synchronize naturally. Her bare feet gently sway behind her. A low handheld camera glides along the edge of the mattress, with soft bedding partially obscuring the foreground.
+Shot 2 (2–4s):
+The house cat jumps onto the bed, compressing the blanket as it walks toward her forearm and lets out a single meow. The camera gives a slight jolt from the impact, then quickly reframes from the phone to an over-the-shoulder view that includes her face, hands, phone, and cat.
+Shot 3 (4–6s):
+She turns warmly toward the cat, stroking it once from its forehead to its shoulders. In a gentle, affectionate tone she says: "우리 애기 왔어?" ("Did my baby come?"). Lip sync is clear and natural. The camera pushes in briefly through the cat's softly blurred foreground toward her face and hand.
+Shot 4 (6–8s):
+A friend's ringtone sounds. She glances down, confirms the caller, swipes to answer, and brings the phone to her ear. The camera moves in a loose semicircle from a slightly tilted overhead angle, capturing the entire answering motion.
+Shot 5 (8–11s):
+Her friend begins talking. She responds first with confusion, then disbelief: "어, 왜? 진짜 거짓말." ("Huh? Why? No way, you're kidding."). Immediately afterward she naturally bursts into laughter. The cat kneads the blanket beside her. A close handheld side angle keeps both her phone and profile within the same focal plane.
+Shot 6 (11–13s):
+A clear doorbell interrupts the laughter. Both she and the cat turn toward the bedroom door. She braces one hand on the mattress to get up. The camera reacts a fraction too late, briefly turning toward the door before naturally correcting back to her rising movement.
+Shot 7 (13–15s):
+Still on the phone, she hurriedly says: "어, 나 밥 왔다. 끊어." ("My food's here. I'll hang up."). She ends the call with her thumb, gets off the bed, and walks toward the door while the cat follows across the blankets. The camera slides low beneath her elbow and tilts upward as she stands in one continuous motion.
+Sound:
+No music. Only raw production sound: bedding rustling, quiet breathing, finger taps on the phone, the soft impact of the cat jumping onto the bed, one natural meow, faint purring, a single short incoming ringtone, call connection tone, the friend's voice through the phone, the woman's four Korean lines with accurate lip sync, a genuine brief laugh, one clear doorbell, the tap ending the call, and soft cat footsteps. No subtitles, no on-screen text, no logo, no watermark. Never render a reference sheet or duplicate the subject.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2085640281941307648)
+
+<sub>Preview © 2026 <a href="https://x.com/oggii_0/status/2085640281941307648">@oggii_0</a> · Prompt by <a href="https://x.com/oggii_0/status/2085640281941307648">@oggii_0</a></sub>
 
 [目次に戻る](#table-of-contents)

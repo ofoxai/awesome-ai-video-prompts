@@ -7,6 +7,7 @@
 - [Case 62: Classroom explainer, a Song dynasty poem (豆包课堂 · 辛弃疾《青玉案》) — by ByteDance](#case-62)
 - [Case 63: Anime-style avocado toast, step by step (动漫风格牛油果吐司分步教程) — by @Sairah_0](#case-63)
 
+- [Case 71: Solar System documentary trailer (太阳系纪录片预告) — by @CharaspowerAI](#case-71)
 <a id="case-62"></a>
 ### Case 62: Classroom explainer, a Song dynasty poem (豆包课堂 · 辛弃疾《青玉案》) — by ByteDance
 
@@ -49,5 +50,48 @@
 **来源**：[@Sairah_0](https://x.com/Sairah_0) · [原帖](https://x.com/Sairah_0/status/2088827610902168020)
 
 <sub>Preview © 2026 <a href="https://x.com/Sairah_0/status/2088827610902168020">@Sairah_0</a> · Prompt by <a href="https://x.com/Sairah_0/status/2088827610902168020">@Sairah_0</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-71"></a>
+### Case 71: Solar System documentary trailer (太阳系纪录片预告) — by @CharaspowerAI
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-71"><img src="../../../images/seedance-2.5/case71/preview.webp" width="700" alt="Solar System documentary trailer"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-71)
+
+**输入素材**：未公开 —— 原帖未附可下载的独立输入素材
+
+<details>
+<summary><strong>Prompt</strong> —   Ultra-realistic premium space documentary trailer with high-end streaming-series cinematography. Scientifically grounded planetary scale, cinematic …</summary>
+
+~~~~text
+  Ultra-realistic premium space documentary trailer with high-end streaming-series cinematography. Scientifically grounded planetary scale, cinematic orbital flybys, slow majestic camera pushes, macro solar detail, deep-space parallax, volumetric sunlight, realistic planetary textures, restrained lens flares, subtle film grain, immense sense of scale. Serious, awe-inspiring, mysterious and elegant.
+
+  The Solar System as the main subject: the Sun, Mercury, Venus, Earth, Moon, Mars, Jupiter, Saturn, Uranus, Neptune and the distant outer regions. No fictional spacecraft as the focus, no fantasy creatures, no human characters.
+
+ Deep space, solar corona, planetary orbits, Earth atmosphere, Mars surface, Jupiter cloud layers, Saturn rings, icy outer-system darkness.
+
+  0-5s: Epic opening  Black screen. A thin arc of sunlight appears, revealing the enormous surface of the Sun. Camera slowly approaches turbulent plasma and glowing prominences. English voice-over: “Eight worlds… bound to one star.”
+
+5-10s:  Inner planets Rapid elegant flybys of Mercury’s scorched terrain, Venus hidden beneath dense clouds, then Earth rotating into sunlight. Voice-over: “From worlds burned by heat… to the only home we know.”
+
+10-15s: Earth to Mars  Camera passes the Moon, dives toward Earth’s blue atmosphere, then match-cuts to the red deserts and vast canyons of Mars. Voice-over: “Each planet carries the story of what a world can become.”
+
+15-21s:  The giants  Jupiter fills the frame. Camera skims above turbulent cloud bands and the Great Red Spot, then transitions through Saturn’s rings in spectacular slow motion. Voice-over: “Beyond the inner worlds… giants rule the darkness.”
+
+21-26s:  Outer frontier  Uranus and Neptune drift through cold blue light. Tiny icy bodies appear against an immense star field as the Sun becomes a distant point. Voice-over: “And farther still… the Solar System fades into the unknown.”
+
+26-30s:  Final reveal  Wide pullback showing the planetary orbits around the Sun, then continuing outward until the entire Solar System becomes tiny within the surrounding darkness. Voice-over: “This is not just our neighborhood. It is our origin story.” Hard cut to black.
+
+  Photorealistic planetary surfaces, believable orbital scale, realistic sunlight behavior, stable planetary appearance, premium science-documentary pacing, deep cinematic English narration, majestic composition, physically plausible space lighting, no fantasy imagery, no readable text, no logos.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@CharaspowerAI](https://x.com/CharaspowerAI) · [原帖](https://x.com/CharaspowerAI/status/2097022168441725317)
+
+<sub>Preview © 2026 <a href="https://x.com/CharaspowerAI/status/2097022168441725317">@CharaspowerAI</a> · Prompt by <a href="https://x.com/CharaspowerAI/status/2097022168441725317">@CharaspowerAI</a></sub>
 
 [目次に戻る](#table-of-contents)

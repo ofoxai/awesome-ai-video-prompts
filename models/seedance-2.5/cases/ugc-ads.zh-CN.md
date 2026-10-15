@@ -10,6 +10,7 @@
 - [Case 26: Chiropractic clinic social video (整脊诊所社媒宣传视频) — by @bmx_ai13](#case-26)
 - [Case 27: Organic grocery UGC shopping vlog (有机超市UGC购物Vlog) — by @aiwithsynthia](#case-27)
 
+- [Case 77: Quiet morning laundry vlog (安静清晨的洗衣 Vlog) — by @doctorwasif](#case-77)
 <a id="case-23"></a>
 ### Case 23: Dog cafe vlog, one-click assembly (小狗咖啡店 vlog · 一键成片) — by ByteDance
 
@@ -225,3 +226,34 @@ Ultra-realistic, authentic creator content, premium grocery aesthetic, natural b
 <sub>Preview © 2026 <a href="https://x.com/aiwithsynthia/status/2084264050717045019">@aiwithsynthia</a> · Prompt by <a href="https://x.com/aiwithsynthia/status/2084264050717045019">@aiwithsynthia</a></sub>
 
 [回到目录](#table-of-contents)
+
+<a id="case-77"></a>
+### Case 77: Quiet morning laundry vlog (安静清晨的洗衣 Vlog) — by @doctorwasif
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-77"><img src="../../../images/seedance-2.5/case77/preview.webp" width="700" alt="Quiet morning laundry vlog"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-77)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — 15s handheld home-video vlog, 7-shot montage. Photorealistic phone footage with slight tilt, natural shake, window light, subtle film grain.  A woman …</summary>
+
+~~~~text
+15s handheld home-video vlog, 7-shot montage. Photorealistic phone footage with slight tilt, natural shake, window light, subtle film grain.
+
+A woman (use Image1 only for facial identity and hairstyle) does laundry alone on a quiet morning. Outfit: oversized cream linen shirt with rolled sleeves, grey knit shorts, loose cotton apron. Cozy sunlit laundry nook with an open front-load washer, overflowing basket, wooden drying rack, clothespins, and warm sunlight. She is the only person in the video.
+
+Sequence: untangles wet clothes → shakes out a shirt → checks a collar stain by the window → hangs it saying "Good enough." → finds a mismatched sock → struggles with a heavy bedsheet while laughing → finishes hanging it and quietly admires the sunlit laundry.
+
+Dialogue is natural spoken Korean (except "Good enough"), reacting casually to each moment. Ambient sound only: washer winding down, wet fabric, clothespins, rustling clothes, soft laughter, breeze. No subtitles, text, logos, or watermarks. Do not recreate or copy the reference image—use it only for facial identity and hairstyle.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@doctorwasif](https://x.com/doctorwasif) · [原帖](https://x.com/doctorwasif/status/2083779989414019109)
+
+<sub>Preview © 2026 <a href="https://x.com/doctorwasif/status/2083779989414019109">@doctorwasif</a> · Prompt by <a href="https://x.com/doctorwasif/status/2083779989414019109">@doctorwasif</a></sub>
+
+[返回目录](#table-of-contents)

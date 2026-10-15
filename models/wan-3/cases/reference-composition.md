@@ -19,6 +19,8 @@
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-21)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 参考 @Image1 的分镜图，镜头1：雨夜小火车站台全景，长发女孩撑蓝色雨伞独自站在站台上，身后小站房透出暖光，远处青山隐没在雨雾中；镜头2：中景，女孩撑伞与背书包的短发男孩在站台上面对面站立，大雨倾盆，铁轨在两人之间延伸；镜头3：透过雨滴滑落的透明伞面拍摄女孩面部特写，她眼眶泛红，轻声说{到了那…</summary>
 
@@ -41,6 +43,8 @@
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-22"><img src="../../../images/wan-3/case22/preview.webp" width="700" alt="Guofeng Headdresses — Five-Keyframe Card Flip"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-22)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 参考上传的5张关键帧图片，生成一支10秒、16:9横版的国风人物头饰展示短视频。整体风格延续参考视频的节奏与展示逻辑，画面精致、干净、克制，带有时尚国风与中式视觉设计感。5位人物按照上传顺序依次出场，人物始终固定在画面正中央，构图稳定，不要人物跑位，不要大幅运镜，不要夸张肢体动作。每位人物停留约2秒…</summary>
@@ -123,6 +127,8 @@
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-25)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 0-4秒（全景/对称定格）： 画面：一条无限延伸的豪华酒店长廊。画面正中央，一只毛茸茸的布偶猫 @Image1 四肢腾空，呈标准的奔跑姿态冲向镜头。它的表情严肃而专注，仿佛在执行一项神圣任务。在它身后右侧约两米处，一只体型较小的黑猫 @Image2 正背对镜头向走廊深处狂奔，但头部夸张地向后扭转18…</summary>
 
@@ -159,6 +165,8 @@
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-42"><img src="../../../images/wan-3/case42/preview.webp" width="394" alt="Through the Door into a Magic Alley"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-42)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 分段1[0-5秒]：一个连续的、照片级写实的电影镜头。在 图2的现代公寓玄关内， 图1的儿童以斜侧身位站在画面中央，面对镜头微笑并做出自然的招手动作，示意观众跟上，右脸颊浮现浅浅的酒窝。随后他放下手臂，身体流畅地向左后方转身&lt;脚步踩在木地板上的两声轻响&gt;，他背对镜头走向前方的木纹入户门，伸出左手握住…</summary>

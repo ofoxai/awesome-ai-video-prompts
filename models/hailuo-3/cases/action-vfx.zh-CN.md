@@ -16,6 +16,7 @@
 - [Case 99: A Sword-Wielding Girl Faces a T. Rex (少女持剑对决霸王龙) — by @Lianaalane](#case-99)
 - [Case 100: A Good-Morning Title Rises from the Lake (日出湖面的早安标题) — by @CharaspowerAI](#case-100)
 - [Case 101: A Last-Second Rescue (最后一刻的极限救援) — by @aiwithaly](#case-101)
+- [Case 139: Bat Cookie Takes Flight (蝙蝠饼干振翅飞走) — by @GlennHasABeard](#case-139)
 
 <a id="case-8"></a>
 ### Case 8: The Sky Descends Like a Giant Wall over a Suburban Street (整片天空如巨墙压向郊区街道) — by @cocktailpeanut
@@ -23,6 +24,8 @@
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-8"><img src="../../../images/hailuo-3/case8/preview.webp" width="700" alt="The Sky Descends Like a Giant Wall over a Suburban Street"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-8)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — A hyper-realistic handheld phone video of a quiet suburban backyard on a bright normal afternoon. A person casually waters plants near a fence while b…</summary>
@@ -47,16 +50,30 @@ A hyper-realistic handheld phone video of a quiet suburban backyard on a bright 
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-9)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft …</summary>
 
 ~~~~text
-Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain. 0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth. 4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed. 8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions. 17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face. 24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her. Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+
+0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
+
+4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
+
+8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
+
+17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.
+
+24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
+
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
 ~~~~
 
 </details>
 
-**参数**：MiniMax H3 · 未标注 · t2va · 15s · 未标注 · 未标注 · 带音频
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
 **来源**：@icreat_ai · [原帖](https://x.com/icreat_ai/status/2085297962977227011)
 
 <sub>Preview © 2026 @icreat_ai · Prompt by @icreat_ai</sub>
@@ -69,6 +86,8 @@ Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon gl
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-11"><img src="../../../images/hailuo-3/case11/preview.webp" width="700" alt="A Green Locomotive Mechanically Transforms into a Robot"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-11)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Use &lt;Image 0&gt; the exact FIRST FRAME and &lt;Image 1&gt;as the exact LAST FRAME. Create one continuous 15-second photorealistic cinematic transformation conn…</summary>
@@ -92,6 +111,8 @@ Use <Image 0>  the exact FIRST FRAME and <Image 1>as the exact LAST FRAME. Creat
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-15"><img src="../../../images/hailuo-3/case15/preview.webp" width="700" alt="Human Cakes Collide on a Manhattan Street"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-15)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Shaky handheld smartphone footage, pure first-person view, bright clear Manhattan street under shiny midday sun.The camera jerks, sways and shakes hea…</summary>
@@ -122,6 +143,8 @@ Throughout: constant heavy smartphone-style camera shake and jitter, natural mot
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-27)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain peaks during sunrise. The golden light transforms the clouds into riv…</summary>
 
@@ -144,6 +167,8 @@ Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-28"><img src="../../../images/hailuo-3/case28/preview.webp" width="700" alt="A Warrior Walks Across a Mechanical Planet"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-28)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Zero post-production cuts. Pure spatial awareness and temporal coherence from the engine. Using semantic motion design to make typography emerge from …</summary>
@@ -172,6 +197,8 @@ Use the provided image as the final state. Audio-driven motion sync.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-29"><img src="../../../images/hailuo-3/case29/preview.webp" width="700" alt="A Dragon Sweeps Over a Northern Fleet and Breathes Fire"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-29)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Hyper-realistic cinematic fantasy action sequence, 15 seconds, aspect ratio 16:9. Daytime in a vast cold northern sea surrounded by jagged mountains a…</summary>
@@ -210,6 +237,8 @@ Style: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atm
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-97)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — DRACULA — CINEMATIC HORROR PROMPT A vast abandoned Victorian ballroom at midnight, completely different from a corridor. Broken chandeliers hang from …</summary>
 
@@ -234,6 +263,8 @@ A vast abandoned Victorian ballroom at midnight, completely different from a cor
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-98"><img src="../../../images/hailuo-3/case98/preview.webp" width="700" alt="Amber Perfume and a Model Amid Golden Smoke"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-98)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — A Luxury perfume bottle on glossy black surface, warm amber lighting, golden smoke, dark elegant background, soft reflections, cinematic close-up, slo…</summary>
@@ -266,6 +297,8 @@ Style: Luxury fragrance commercial, cinematic, photorealistic, 4K.
 <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-99"><img src="../../../images/hailuo-3/case99/preview.webp" width="700" alt="A Sword-Wielding Girl Faces a T. Rex"></a>
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-99)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — Create a 14-second ultra-realistic Hollywood-style action fantasy film scene featuring a brave young female warrior battling a massive realistic Tyran…</summary>
@@ -323,6 +356,8 @@ Dark stormy jungle atmosphere mixed with warm golden sunlight, volumetric light 
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-100)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — Ultra cinematic macro shot: A calm mountain lake at dawn reflects the first golden rays of sunlight. Tiny ripples spread across the mirror-like surfac…</summary>
 
@@ -348,6 +383,8 @@ Ultra cinematic macro shot: A calm mountain lake at dawn reflects the first gold
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-101)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — A cinematic 15-second ultra-realistic Hollywood action sequence featuring a skilled fighter facing his final battle inside an abandoned industrial war…</summary>
 
@@ -361,5 +398,30 @@ A cinematic 15-second ultra-realistic Hollywood action sequence featuring a skil
 **来源**：@aiwithaly · [原帖](https://x.com/aiwithaly/status/2085585698699243802)
 
 <sub>Preview © 2026 @aiwithaly · Prompt by @aiwithaly</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-139"></a>
+### Case 139: Bat Cookie Takes Flight (蝙蝠饼干振翅飞走) — by @GlennHasABeard
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-139"><img src="../../../images/hailuo-3/case139/preview.webp" width="700" alt="Bat Cookie Takes Flight"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-139)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — the cut-out bat flaps up off the board and flies away</summary>
+
+~~~~text
+the cut-out bat flaps up off the board and flies away
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 15s · 未标注 · 未标注 · 未标注
+**来源**：@GlennHasABeard · [原帖](https://x.com/GlennHasABeard/status/2110370446268870911)
+
+<sub>Preview © 2026 @GlennHasABeard · Prompt by @GlennHasABeard</sub>
 
 [回到目录](#table-of-contents)

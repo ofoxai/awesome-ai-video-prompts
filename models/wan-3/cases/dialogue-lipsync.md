@@ -7,6 +7,7 @@
 - [Case 9: Emotional Realism — Graduate in a Blue Gown (情绪写实·毕业袍女孩) — by Alibaba](#case-9)
 - [Case 23: Gym Small Talk — Two Voices from Audio Refs (健身房双人对白·音色参考) — by Alibaba](#case-23)
 - [Case 51: Voice Reference — Swap the Character and the Line (音色参考·替换角色与台词) — by Alibaba](#case-51)
+- [Case 76: Irish Pub Dialogue Test (爱尔兰酒吧口播测试) — by u/svenhonor06](#case-76)
 
 <a id="case-9"></a>
 ### Case 9: Emotional Realism — Graduate in a Blue Gown (情绪写实·毕业袍女孩) — by Alibaba
@@ -37,6 +38,8 @@
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-23"><img src="../../../images/wan-3/case23/preview.webp" width="700" alt="Gym Small Talk — Two Voices from Audio Refs"></a>
 
 ▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-23)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 将图片1中的女人定义为主体1，将图片2中的女人定义为主体2，主体1台词音色参考音频1，主体2台词音色参考音频2，在健身房内，主体1和主体2并排站在跑步机旁，主体1转头微笑对主体2说{今天练哪个部位}，主体2一边用毛巾擦汗一边回应{练背吧，昨天腿还酸着呢}，主体1笑着点头说{行，我陪你，先热身十分钟}…</summary>
@@ -88,5 +91,46 @@
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-76"></a>
+### Case 76: Irish Pub Dialogue Test (爱尔兰酒吧口播测试) — by u/svenhonor06
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-76"><img src="../../../images/wan-3/case76/preview.webp" width="700" alt="Irish Pub Dialogue Test"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-76)
+
+**输入素材**（2 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case76/input1.webp" width="134" alt="图1 · 人物参考（作者片头提取）"><br><sub>图1 · 人物参考（作者片头提取）</sub> | <img src="../../../images/wan-3/case76/input2.webp" width="200" alt="图2 · 酒吧参考（作者片头提取）"><br><sub>图2 · 酒吧参考（作者片头提取）</sub> |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — A 15-second video, about Megan. She's sitting on the bench under the window of an Irish pub. Use @image1 as an reference of Megan - fit her to the sty…</summary>
+
+~~~~text
+A 15-second video, about Megan.
+She's sitting on the bench under the window of an Irish pub.
+
+Use @image1 as an reference of Megan - fit her to the style of the Irish pub that's show in @image2
+
+@image2 shows the Irish pub that has a little bench under the window right to entrance
+
+Scene:
+
+[00:00-00:05] the camera zooms from 'out of the scene' on Megan, who's sitting on the bench next to the bars entrance.
+Her legs are crossed over the knees and she's smiling into the camera.
+
+[00:06-00:14] she's saying slowly, with a sweet, soft, warm not loud voice: "Oh darling - follow me to the backroom to get more than a beer." Then she smooth her dress over her left breast and winks with her right eye and the camera zooms a bit out.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 未标注 · 1080p · 未标注 · 带音频
+**来源**：u/svenhonor06 · [原帖](https://www.reddit.com/r/VeniceAI/comments/1w8n8nm/wan30_vs_minimax_h3_max/)
+
+<sub>社区实测 · u/svenhonor06 · 原帖对比片的 Wan 3.0 段 · 两张片头参考图已收录</sub>
 
 [Back to top](#table-of-contents)

@@ -18,6 +18,8 @@
 - [Case 1003: The handover, and the car at the mouth of the alley (雨夜交接 · 巷口那辆车) — by Ofox Team](#case-1003)
 - [Case 1004: Good that you are back (回来就好) — by Ofox Team](#case-1004)
 
+- [Case 72: Escape from a flooding botanical tower (逃离洪水中的植物档案塔) — by @bmx_ai13](#case-72)
+- [Case 75: Late-night conversation in a lunar cafe (月球咖啡馆的深夜对话) — by @digitalwindai](#case-75)
 <a id="case-1"></a>
 ### Case 1: Guardian robot and grandmother, nine-shot storyboard (守护机器人与老奶奶 · 九宫格分镜) — by ByteDance
 
@@ -617,5 +619,156 @@ AVOID: subtitles, captions, on-screen text, watermarks, logos; any legible text 
 **参数**：Seedance 2.5 · Ofox · t2v · 20s · 720p · 16:9 · 带音频
 **费用**：$4.80（job 036ac3a8-6f68-47ad-a553-86a29aa3e5b8）
 **来源**：Ofox 实测
+
+[Back to top](#table-of-contents)
+
+<a id="case-72"></a>
+### Case 72: Escape from a flooding botanical tower (逃离洪水中的植物档案塔) — by @bmx_ai13
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-72"><img src="../../../images/seedance-2.5/case72/preview.webp" width="700" alt="Escape from a flooding botanical tower"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-72)
+
+**输入素材**：未公开 —— 原帖未附可下载的独立输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Scene and Mood: A lone figure climbs upward through a flooding vertical botanical archive tower during a night storm, glass tiers shattering and casca…</summary>
+
+~~~~text
+Scene and Mood: A lone figure climbs upward through a flooding vertical botanical archive tower during a night storm, glass tiers shattering and cascading water below, forcing a desperate ascent toward the glass dome roof as lightning flickers outside. Frame Map: Shot 1, seconds 0 to 6, subject small in the lower third of a tall vertical tower interior, tiers of glass terrariums stacked upward through the frame, water sheeting down from above. Shot 2, seconds 6 to 12, subject center frame climbing a metal service ladder bolted to the tower's inner wall, glass tiers visible left and right, water pouring past. Shot 3, seconds 12 to 18, subject in the right third crossing a narrow catwalk as a glass panel shatters in the left third behind them. Shot 4, seconds 18 to 24, subject small in the lower third reaching the dome's base, storm sky and glowing drifting spores filling the top two thirds through the glass ceiling above. Shot 5, seconds 24 to 30, subject silhouetted center frame bursting through the dome into open night air, lightning lighting the wider tower silhouette below. Subject Lock: One adult figure, lean build, soaked dark hair plastered to the forehead, a heavy canvas work jacket dark with water over a plain thermal shirt, fingerless work gloves, mud and plant matter smeared on one forearm. Posture straining and climbing throughout, gaze fixed upward, hands gripping rungs, rails, and glass edges with visible strain. Same face, hair, jacket, and build locked across all five shots, no change at any cut. Cross Frame Rules: Only one figure occupies every frame across the runtime, nothing else enters or crosses. Screen position shifts per the Frame Map, but soaked jacket state and climbing posture carry unbroken across every cut. Movement: Shot 1, subject wades through knee deep water at the tower's base then grips a ladder rung and begins climbing at second 4, water sheeting down past the shoulders, loose leaves and broken glass drifting past in the current below. Shot 2, subject climbs rung over rung, jacket heavy and dragging, a terrarium panel cracks audibly at second 9 sending a spray of water sideways past the frame. Shot 3, subject sprints across the catwalk at second 14, a glass tier shatters behind them at second 16 releasing a wall of water and debris that just misses their trailing foot. Shot 4, subject reaches the dome's base at second 20, presses both palms flat against the glass overhead, glowing spores drifting slowly against the dark storm clouds beyond it. Shot 5, subject drives a shoulder through the weakened dome glass at second 26, bursting into open air as lightning flashes and rain drives sideways, glass fragments scattering outward around them. Last Frame: Subject holds silhouetted center frame at the dome's broken edge, chest heaving, one hand still braced on the shattered frame, storm clouds and a bright lightning flash filling the upper half, the flooded tower's tiered silhouette dropping away below into darkness. No on screen text, no captions, no signage typography, no rendered text in the frame. World Plate: A tall cylindrical botanical archive tower at night during a storm, tiers of glass terrariums stacked vertically and lit faintly from within by dim growth lamps, water sheeting down the tower's interior walls, a narrow metal ladder and catwalk system running up the center. A glass dome caps the tower, storm clouds and lightning visible through it, faint bioluminescent spores drifting in the air near the ceiling. Sound Bed: Diegetic only, rushing water and heavy dripping throughout, metal rungs clanging under gripped hands, glass cracking and shattering at intervals, distant thunder rolling, wind howling as the dome breaks, heavy strained breathing and grunts of effort, rain hammering the outer glass, a final gust of wind once the dome opens. Capture Realism: Depth via suspended water mist and falling spray between the figure and the tiered glass planes behind them. Moisture without shine, soaked jacket and hair read matte and heavy, not glossy. Per zone specular kill on skin, wet skin reads diffuse, no beauty light glow. Contrast curve, controlled highlights on the lightning and growth lamps, lifted but not crushed shadow on the figure, mid tones held cool and desaturated throughout. Camera Capture: Wide latitude cinema capture, vintage 2x anamorphic character on Shots 1 through 3 at 35mm, handheld with restrained breath, shifting to clean spherical character on Shots 4 and 5 at 24mm, wider and harder shake against wind, fine 35mm grain, desaturated rendition crushed toward deep green and steel blue, 24fps natural 180 degree shutter blur, 30s total across five hard cut shots.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@bmx_ai13](https://x.com/bmx_ai13) · [原帖](https://x.com/bmx_ai13/status/2083276955634589734)
+
+<sub>Preview © 2026 <a href="https://x.com/bmx_ai13/status/2083276955634589734">@bmx_ai13</a> · Prompt by <a href="https://x.com/bmx_ai13/status/2083276955634589734">@bmx_ai13</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-75"></a>
+### Case 75: Late-night conversation in a lunar cafe (月球咖啡馆的深夜对话) — by @digitalwindai
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-75"><img src="../../../images/seedance-2.5/case75/preview.webp" width="700" alt="Late-night conversation in a lunar cafe"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-75)
+
+<details>
+<summary><strong>Prompt</strong> — META  STYLE Black-and-white 35mm arthouse cinema, 1960s European café-film look. High-contrast monochrome, soft film grain, gentle bloom on the lamps,…</summary>
+
+~~~~text
+META
+
+STYLE
+Black-and-white 35mm arthouse cinema, 1960s European café-film look. High-contrast monochrome, soft film grain, gentle bloom on the lamps, shallow depth of field on close-ups.
+
+LIGHT
+Night interior lit only by practicals: hanging globe lamps, the espresso machine's glow, and cold light through the window from the lunar plain. Soft key from the window side, deep shadow in the corners, clear catch-lights in the eyes.
+
+COLOR
+None. Full grayscale, rich mid-grays on skin, no tint of any kind.
+
+TEXTURE
+Fine grain. Chrome holds soft rolling reflections, glass refracts the lamps in small bright points, skin keeps visible pore-level texture with no smoothing.
+
+MOOD
+Quiet, intimate, unhurried — a conversation overheard in a place that is ordinary to the people in it.
+
+SCENE CONTEXT
+A near-empty late-night café on the surface of the moon. A man and a woman sit across a small round table beside the wide window, talking about the water. Neither of them ever looks outside.
+
+CHARACTERS
+
+The woman: early thirties, dark bob haircut, intelligent face, dark turtleneck with the cuffs visible at her wrists, thin earrings, light coat over her chair. She sits camera-left. Identical in every shot.
+
+The man: mid-thirties, dark slightly messy hair, light stubble, shadowed under-eyes, dark jacket over an open-collar light shirt, jacket sleeve visible at his wrists. He sits camera-right. Identical in every shot.
+
+LOCATION MAP
+Foreground: their small round table. Her espresso cup and the single tall glass of water sit on her side, close to her right hand. His espresso cup and spoon sit on his side. Nothing else on the table.
+Midground: small round tables, worn tiled floor, hanging globe lamps, chrome espresso machine at the counter.
+Background: a wide window along the wall beside them. Beyond the glass, a grey lunar plain with low craters, black sky, and Earth small and low near the horizon.
+
+FIRST FRAME / BLOCKING
+Interior medium two-shot, 47°, eye level. The woman sits camera-left, the man camera-right, the window and lunar plain behind them, café interior deeper in the room. Her hands are around her cup with the water glass beside it, his forearms rest on the table.
+
+FORMAT MODE
+Timed multishot with HARD CUTS only at 6.0s, 8.5s, 11.0s, 13.0s, 16.0s, 19.0s, 22.5s, 25.0s and 28.0s. The camera cuts only at these points.
+
+STORYBOARD
+
+SHOT 1 (0.0–6.0s)
+Medium two-shot, 47°, faint 1–2 cm breathing drift.
+The woman, eyes on him: "Do you think people get more honest when they're tired?"
+The man answers late, eyes coming up off the table: "No. Their lies just get less inventive."
+
+SHOT 2 (6.0–8.5s)
+Extreme close-up, 12°, of the woman's hands on her side of the table, dark turtleneck cuffs at her wrists. Her fingers leave her cup, lift the tall glass of water, and set it back down in the same place, the water rocking once.
+The woman, speaking over the image: "It's different tonight."
+
+SHOT 3 (8.5–11.0s)
+Close portrait of the man, 18°, eyes down.
+The man: "They changed the water."
+
+SHOT 4 (11.0–13.0s)
+Extreme close-up, 12°, of the man's hand on his side of the table, dark jacket sleeve at his wrist, turning his spoon a half-turn on the saucer.
+The woman, speaking over the image from off-frame: "Again?"
+
+SHOT 5 (13.0–16.0s)
+Medium close-up of the man, 29°, lunar plain soft behind his shoulder, eyes still on his cup.
+The man: "The old one remembered too much."
+
+SHOT 6 (16.0–19.0s)
+Close-up of the woman, 18°. Her eyes come up and hold his.
+The woman: "Water can't remember people."
+
+SHOT 7 (19.0–22.5s)
+Medium close-up of the man, 29°. He swallows once, then looks up at her.
+The man: "Probably not. But people can't remember the past either."
+
+SHOT 8 (22.5–25.0s)
+Medium two-shot, 47°, lunar plain behind them. She leans in slightly.
+The woman: "Then what do we remember?"
+
+SHOT 9 (25.0–28.0s)
+Close portrait of the man, 18°. One breath, then his eyes come up and hold hers.
+The man: "The last version we could live with."
+
+SHOT 10 (28.0–30.0s)
+Close-up of the woman, 18°, the lunar plain and black sky soft behind her through the glass. No dialogue. Her face stills, one slow blink, her eyes drop toward her cup and then drift slightly aside. The shot holds on her to the last frame, the image staying full and lit.
+
+PERFORMANCE
+Both faces stay mostly still, so small movements read. Emotion comes through eyelids, brow corners, jaw and breath rather than expression. Blinks work as punctuation — withheld through the important lines, released after. She runs from light and half-joking, to quieter, to genuinely curious, to quiet recognition at the end. He runs from dry amusement, to flat matter-of-fact, to unguarded tiredness on the last line. Living eyes with catch-lights, natural skin, precise lip sync whenever a speaking face is in frame. Every line is delivered unhurried and complete inside its own shot.
+
+PHYSICS
+Steam curls off the cups and the espresso machine. Water rocks and settles in the glass. The cup meets the saucer with weight, the spoon rings faintly on chrome. Nothing beyond the window moves.
+
+AUDIO
+The low hum of an enclosed room, a faint air-system whisper, the hiss of the espresso machine, a spoon against a saucer, a swallow of water. No music anywhere. Voices sit close and dry, as in a small room late at night.
+
+OUTPUT SETTINGS
+Black and white throughout, real-time, no slow motion.
+
+POSITIVE LOCKS
+The image stays fully monochrome in every shot.
+The woman speaks her five lines and the man speaks his five lines, exactly as assigned in the storyboard, and neither ever speaks the other's words.
+The single glass of water stays on the woman's side of the table for the whole scene, and only she touches it.
+The woman stays camera-left and the man camera-right in every two-shot.
+Hands in the extreme close-ups are identified by sleeve — turtleneck cuff for her, jacket sleeve for him.
+The table holds only two espresso cups on saucers, two spoons and one glass of water.
+The interior reads clearly as a café — table, cups, lamps, counter, espresso machine.
+The window shows a grey lunar plain, black sky and small distant Earth wherever it is visible, and nothing beyond the glass ever moves.
+Both characters keep their exact appearance and seats across every shot.
+All ten lines are spoken in full and finish inside their own shot.
+Cuts land only at the stated seconds.
+The video ends on the held close-up of the woman's face, the image full and lit to the final frame.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · t2v · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@digitalwindai](https://x.com/digitalwindai) · [原帖](https://x.com/digitalwindai/status/2083281155286085911)
+
+<sub>Preview © 2026 <a href="https://x.com/digitalwindai/status/2083281155286085911">@digitalwindai</a> · Prompt by <a href="https://x.com/digitalwindai/status/2083281155286085911">@digitalwindai</a></sub>
 
 [Back to top](#table-of-contents)

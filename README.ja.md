@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
-  <a href="#table-of-contents"><img src="https://img.shields.io/badge/cases-276-blue.svg" alt="Case count: 276"></a>
+  <a href="#table-of-contents"><img src="https://img.shields.io/badge/cases-299-blue.svg" alt="Case count: 299"></a>
   <a href="#table-of-contents"><img src="https://img.shields.io/badge/models-3-blue.svg" alt="Models: 3"></a>
   <a href="https://app.ofox.ai/playground?utm_source=github&utm_medium=badge&utm_campaign=awesome-ai-video-prompts"><img src="https://img.shields.io/badge/Try-on%20Ofox-orange.svg" alt="Try on Ofox"></a>
   <a href="https://app.ofox.ai?utm_source=github&utm_medium=badge&utm_campaign=awesome-ai-video-prompts"><img src="https://img.shields.io/badge/Get-API%20Key-brightgreen.svg" alt="Get API Key"></a>
@@ -16,8 +16,8 @@
 # Awesome AI Video Prompts
 
 現行世代の AI 動画生成モデルのプロンプト・パラメータ・実出力のコレクションです。
-**3 モデル・276 事例**、すべてにプロンプト全文（未編集）、実行時のパラメータ、
-プレビューフレーム、再生できるクリップが付いています。収集と検証、そして「自社実行」と
+**3 モデル・299 事例**、プロンプト全文（未編集）、公開済みパラメータ、
+プレビューフレームを掲載し、収集済みの出力には再生リンクを付けています。収集と検証、そして「自社実行」と
 明記した事例の実行は
 [Ofox](https://ofox.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts)
 経由 —— 3 モデルとも同じ `POST /v1/videos` エンドポイントで呼び出せます。
@@ -42,9 +42,9 @@ API キーの取得は
 
 | | モデル | 事例数 | 一覧 |
 |:---:|---|---:|---|
-| <a href="models/seedance-2.5/README.ja.md"><img src="images/seedance-2.5/case1/preview.webp" width="160" alt="Seedance 2.5"></a> | **Seedance 2.5** — ByteDance<br><sub>4〜30秒 · 最大 1080p · 8 アスペクト比 · 音声同期</sub> | 85 | [事例](models/seedance-2.5/README.ja.md) · [事例ページ](https://ofox.ai/ja/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
-| <a href="models/hailuo-3/README.ja.md"><img src="images/hailuo-3/case1/preview.webp" width="160" alt="MiniMax Hailuo 3"></a> | **MiniMax Hailuo 3** — MiniMax<br><sub>テキスト / 画像 / 参照から動画 · ネイティブ音声</sub> | 120 | [事例](models/hailuo-3/README.ja.md) · [事例ページ](https://ofox.ai/ja/hailuo-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
-| <a href="models/wan-3/README.ja.md"><img src="images/wan-3/case1/preview.webp" width="160" alt="Tongyi Wanxiang Wan 3.0"></a> | **通義万相 Wan 3.0** — Alibaba<br><sub>2〜30秒 · 最大 1080p · 参照生成 / 開始終了フレーム / 編集 / 延長</sub> | 71 | [事例](models/wan-3/README.ja.md) · [事例ページ](https://ofox.ai/ja/wan-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+| <a href="models/seedance-2.5/README.ja.md"><img src="images/seedance-2.5/case1/preview.webp" width="160" alt="Seedance 2.5"></a> | **Seedance 2.5** — ByteDance<br><sub>4〜30秒 · 最大 1080p · 8 アスペクト比 · 音声同期</sub> | 92 | [事例](models/seedance-2.5/README.ja.md) · [事例ページ](https://ofox.ai/ja/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+| <a href="models/hailuo-3/README.ja.md"><img src="images/hailuo-3/case1/preview.webp" width="160" alt="MiniMax Hailuo 3"></a> | **MiniMax Hailuo 3** — MiniMax<br><sub>テキスト / 画像 / 参照から動画 · ネイティブ音声</sub> | 127 | [事例](models/hailuo-3/README.ja.md) · [事例ページ](https://ofox.ai/ja/hailuo-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
+| <a href="models/wan-3/README.ja.md"><img src="images/wan-3/case1/preview.webp" width="160" alt="Tongyi Wanxiang Wan 3.0"></a> | **通義万相 Wan 3.0** — Alibaba<br><sub>2〜30秒 · 最大 1080p · 参照生成 / 開始終了フレーム / 編集 / 延長</sub> | 80 | [事例](models/wan-3/README.ja.md) · [事例ページ](https://ofox.ai/ja/wan-3-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
 
 ## 事例に含まれるもの
 
@@ -87,7 +87,7 @@ PR 歓迎です。事例が属するモデルのフォルダ（`models/<モデ�
   [プロンプトガイド](https://docs.byteplus.com/en/docs/ModelArk/2607689)。
   Hailuo 3: [MiniMax-H3 モデルカード](https://huggingface.co/MiniMaxAI/MiniMax-H3)。
   Wan 3.0: [Wan 3.0 ショーケース](https://www.aliyun.com/benefit/scene/wan) ·
-  [Alibaba Cloud プロンプトガイド](https://help.aliyun.com/zh/model-studio/text-to-video-prompt)。
+  [Alibaba Cloud プロンプトガイド](https://help.aliyun.com/zh/model-studio/wan3-video-generation-prompt-guide)。
 - [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) ——
   画像生成における同種のコレクション。本リポジトリの事例レイアウトはこれを参考にしています。
 
@@ -96,17 +96,16 @@ PR 歓迎です。事例が属するモデルのフォルダ（`models/<モデ�
 事例は 3 種類のソースから成り、それぞれ個別にクレジットしています。構成はモデルごとに
 異なります。
 
-- **Seedance 2.5**（85 件）—— 公式 24 件は Seed チームの発表と 火山方舟 / BytePlus
-  ModelArk ドキュメントより。コミュニティ 46 件は X/Twitter・bilibili の原作者を個別に
+- **Seedance 2.5**（92 件）—— 公式 24 件は Seed チームの発表と 火山方舟 / BytePlus
+  ModelArk ドキュメントより。コミュニティ 53 件は X/Twitter・bilibili の原作者を個別に
   クレジットし、収録前に原投稿と照合済み。15 件は Ofox API での自社実行で `Ofox 实测`
   と表示、`费用` 行を持つ唯一の事例群です。
-- **MiniMax Hailuo 3**（120 件）—— 公式 3 件は MiniMax 自身の HuggingFace モデルカードに
+- **MiniMax Hailuo 3**（127 件）—— 公式 3 件は MiniMax 自身の HuggingFace モデルカードに
   ある再現用リクエストスクリプトから（プロンプト・パラメータ・出力が厳密に対応）。
-  117 件は X の公開投稿から、プロンプト全文・クリップのミラー・クレジットとリンク付き。
-- **Wan 3.0**（71 件）—— すべて Alibaba の一次資料です。8 件は Wan 3.0 ショーケース、
-  63 件は公式『Wan3.0 動画クリエイター手引き』より。コミュニティ枠はありません ——
-  見つかった第三者の Wan 素材は収録基準を満たしませんでした（キーワードを先取りした
-  リポジトリ群、および作品単位のパーマリンクが取得できずクレジットを返せない公開ギャラリー）。
+  124 件は X の公開投稿から、プロンプト全文・クリップのミラー・クレジットとリンク付き。
+- **Wan 3.0**（80 件）—— Alibaba 公式 74 件：ショーケース 8 件、クリエイター手引き
+  63 件、Wan 3.0 プロンプトガイド 3 件。コミュニティ 6 件は X・Reddit の原投稿に
+  個別のクレジットとリンクを付けています。
 
 プレビューフレームは各事例のクレジット行の下にミラーしています。プロンプトはすべて
 完全かつ未編集で転載しています。
@@ -114,7 +113,7 @@ PR 歓迎です。事例が属するモデルのフォルダ（`models/<モデ�
 事例番号はモデルごとに独立しており、**意図的に欠番があります**。`N` はここでの見出し番号
 であると同時に、そのモデルの事例ページ上の `#case-N` アンカーでもあるため、欠番を詰める
 ための再採番は、すでに公開されているリンクを黙って別の事例に向け替えてしまいます。
-Seedance で 70 から 1001 に飛ぶのは、1000 番台を Ofox の自社実行用に予約しているためです。
+Seedance で 77 から 1001 に飛ぶのは、1000 番台を Ofox の自社実行用に予約しているためです。
 
 ここに掲載されている作品の作者で削除をご希望の場合は、`Takedown: <モデル> case-N` という
 タイトルで issue を立ててください。ご本人であることが分かれば、理由は不要です。

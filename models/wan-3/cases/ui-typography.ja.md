@@ -14,6 +14,8 @@
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-3)
 
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
 <details>
 <summary><strong>Prompt</strong> — 参考image1与image2，主题为企业级产品平台首页的空间化演绎，生成一支22秒、16:9横版、高级未来感UI主页演示动画。风格参考大面积留白、半透明玻璃卡片、低饱和雾紫与奶白色调、少量精致金属微装饰、高级产品官网hero section质感，视觉重点是多个玻璃浮卡在空间中建立层级关系并保留清晰…</summary>
 
@@ -36,6 +38,8 @@
 <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-27"><img src="../../../images/wan-3/case27/preview.webp" width="700" alt="Glass UI Launch — Five-Image Storyboard"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-27)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
 
 <details>
 <summary><strong>Prompt</strong> — 生成9秒高级产品发布动态视频，纯白棚拍，柔和自然光，电影级微距。风格：Google Apple/Material Design，结合彩色纸张工艺、半透明材质与UI界面，干净精致。 按5张图分镜： - 图1（0–1.48s）：白底中央，紧凑彩色纸张堆叠（白页+蓝绿紫半透明纸），留白充足，仅呼吸浮动，保…</summary>
