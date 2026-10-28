@@ -39,6 +39,8 @@ Get a key: [app.ofox.ai](https://app.ofox.ai?utm_source=github&utm_medium=readme
 
 ## Models
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 | | Model | Cases | Browse |
 |:---:|---|---:|---|
 | <a href="models/seedance-2.5/README.md"><img src="images/seedance-2.5/case1/preview.webp" width="160" alt="Seedance 2.5"></a> | **Seedance 2.5** — ByteDance<br><sub>4–30s · up to 1080p · 8 aspect ratios · synced audio</sub> | 102 | [cases](models/seedance-2.5/README.md) · [prompts page](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-video-prompts) |
