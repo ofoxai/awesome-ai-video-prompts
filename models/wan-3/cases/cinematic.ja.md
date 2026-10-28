@@ -13,6 +13,11 @@
 - [Case 26: Wuxia Duel — Character Sheets on a Reed Marsh (武侠对决·角色卡与芦苇滩) — by Alibaba](#case-26)
 - [Case 81: Mountain Cable Car Survival (雪山缆车惊险求生) — by @chatgptpaglu](#case-81)
 - [Case 82: Lego-Scale First-Person Home Adventure (乐高颗粒视角家居冒险) — by Alibaba](#case-82)
+- [Case 83: A World Inside a Falling Water Drop (水滴里的海洋、山脉与云城) — by @PromptSin](#case-83)
+- [Case 86: Rack Focus from Ferns to a Gardener (从前景蕨叶到园丁的焦点转移) — by PixelDojo](#case-86)
+- [Case 87: Midnight Ramen Counter in One Shot (深夜拉面铺的一镜出锅) — by Himanshu Goel / Segmind](#case-87)
+- [Case 88: A Retriever Fetches a Ball Toward Camera (金毛衔球迎面奔跑) — by ClipRush Team](#case-88)
+- [Case 90: A Reference Face on a Sunset Bike Ride (角色参考到海边骑行) — by ClipRush Team](#case-90)
 
 <a id="case-2"></a>
 ### Case 2: Ambush from Ten Sides — Pipa on the Loess Ridge (十面埋伏) — by Alibaba
@@ -300,5 +305,140 @@ The woman reaches the station platform and jumps onto solid ground just as the d
 **来源**：阿里云 Wan 3.0 官方提示词指南 · [source](https://help.aliyun.com/zh/model-studio/wan3-video-generation-prompt-guide)
 
 <sub>Wan 3.0 官方示例 · 阿里云百炼提示词指南「游戏」第一人称乐高冒险</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-83"></a>
+### Case 83: A World Inside a Falling Water Drop (水滴里的海洋、山脉与云城) — by @PromptSin
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-83"><img src="../../../images/wan-3/case83/preview.webp" width="700" alt="A World Inside a Falling Water Drop"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-83)
+
+**输入素材**（4 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case83/input1.webp" width="200" alt="原帖参考图 1"><br><sub>原帖参考图 1</sub> | <img src="../../../images/wan-3/case83/input2.webp" width="200" alt="原帖参考图 2"><br><sub>原帖参考图 2</sub> | <img src="../../../images/wan-3/case83/input3.webp" width="200" alt="原帖参考图 3"><br><sub>原帖参考图 3</sub> | <img src="../../../images/wan-3/case83/input4.webp" width="200" alt="原帖参考图 4"><br><sub>原帖参考图 4</sub> |
+
+<details>
+<summary><strong>Prompt</strong> — A water drop hangs above a miniature city. The camera dives through it into an ocean; a whale becomes mountains and reveals a city in the clouds. The …</summary>
+
+~~~~text
+A water drop hangs above a miniature city. The camera dives through it into an ocean; a whale becomes mountains and reveals a city in the clouds. The world then folds into a drop on the protagonist’s fingertip.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · OpenArt · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@PromptSin · [原帖](https://x.com/PromptSin/status/2093363648836337735)
+
+<sub>Preview © 2026 @PromptSin · Prompt by @PromptSin</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-86"></a>
+### Case 86: Rack Focus from Ferns to a Gardener (从前景蕨叶到园丁的焦点转移) — by PixelDojo
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-86"><img src="../../../images/wan-3/case86/preview.webp" width="700" alt="Rack Focus from Ferns to a Gardener"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-86)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — In a greenhouse, a gardener stands among hanging ferns. Rack focus: shift focus smoothly from the fern leaves in the foreground to the gardener in the…</summary>
+
+~~~~text
+In a greenhouse, a gardener stands among hanging ferns. Rack focus: shift focus smoothly from the fern leaves in the foreground to the gardener in the background. The leaves gradually blur while the gardener's face changes from soft to sharp. The camera does not move.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：PixelDojo · [原帖](https://pixeldojo.ai/guides/wan-3-0-prompting-guide)
+
+<sub>Preview © 2026 PixelDojo · Prompt by PixelDojo</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-87"></a>
+### Case 87: Midnight Ramen Counter in One Shot (深夜拉面铺的一镜出锅) — by Himanshu Goel / Segmind
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-87"><img src="../../../images/wan-3/case87/preview.webp" width="700" alt="Midnight Ramen Counter in One Shot"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-87)
+
+<details>
+<summary><strong>Prompt</strong> — A weathered Japanese chef in his sixties, close-cropped grey hair, a navy indigo apron over a white tee, wire-rim glasses fogged at the edges. A cramp…</summary>
+
+~~~~text
+A weathered Japanese chef in his sixties, close-cropped grey hair, a navy indigo apron over a white tee, wire-rim glasses fogged at the edges. A cramped six-seat ramen counter late at night, blond hinoki wood, condensation running down the window, red lantern light outside. He lifts a wire noodle basket sharply out of the boiling water and snaps it downward three times, fast and practiced, then tips the noodles into the bowl in one smooth unbroken motion. Warm tungsten light from a low overhead lamp, cool blue streetlight spilling through the window behind him, medium close-up, slight low angle, shallow depth of field, slow push in. Photorealistic, cinematic, 35mm film grain. Ambient sound of a rolling boil, the metallic rattle of the basket against the pot rim, faint street noise outside. No music.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Segmind · t2v · 5s · 720P · 16:9 · 带音频
+**来源**：Himanshu Goel / Segmind · [原帖](https://blog.segmind.com/wan-3-prompt-guide-alibabas-official-formulas-tested/)
+
+<sub>Preview © 2026 Himanshu Goel / Segmind · Prompt by Himanshu Goel / Segmind</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-88"></a>
+### Case 88: A Retriever Fetches a Ball Toward Camera (金毛衔球迎面奔跑) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-88"><img src="../../../images/wan-3/case88/preview.webp" width="394" alt="A Retriever Fetches a Ball Toward Camera"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-88)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case88/input1.webp" width="112" alt="参考图 1 · dog"><br><sub>参考图 1 · dog</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — The dog grabs the red ball in its mouth and runs toward the camera, ears flapping, as the camera tracks backward low to the ground.</summary>
+
+~~~~text
+The dog grabs the red ball in its mouth and runs toward the camera, ears flapping, as the camera tracks backward low to the ground.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · i2v · 5s · 720p · 未标注 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#dog)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-90"></a>
+### Case 90: A Reference Face on a Sunset Bike Ride (角色参考到海边骑行) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-90"><img src="../../../images/wan-3/case90/preview.webp" width="394" alt="A Reference Face on a Sunset Bike Ride"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-90)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case90/input1.webp" width="112" alt="参考图 1 · cafe"><br><sub>参考图 1 · cafe</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — [Image 1] is the woman's face and hair. The woman from [Image 1] rides a bicycle along a seaside promenade at sunset, laughing as the wind moves her h…</summary>
+
+~~~~text
+[Image 1] is the woman's face and hair. The woman from [Image 1] rides a bicycle along a seaside promenade at sunset, laughing as the wind moves her hair. The camera tracks alongside her.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · r2v · 5s · 720p · 未标注 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#references-face)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
 
 [目次に戻る](#table-of-contents)

@@ -7,6 +7,7 @@
 - [Case 54: A GMV Data Film, from an .xlsx (一张 GMV 报表生成的数据片) — by Alibaba](#case-54)
 - [Case 55: An Encyclopedia Page into a Quantum Explainer (百科网页转量子力学科普) — by Alibaba](#case-55)
 - [Case 56: An Encyclopedia Page into “Who Was Wang Wei” (百科网页转「谁是王维」) — by Alibaba](#case-56)
+- [Case 85: Truing a Bicycle Wheel in Three Stages (自行车轮组的三阶段校正) — by PixelDojo](#case-85)
 
 <a id="case-54"></a>
 ### Case 54: A GMV Data Film, from an .xlsx (一张 GMV 报表生成的数据片) — by Alibaba
@@ -88,5 +89,48 @@ H1-2026跨境电商月度GMV.xlsx
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-85"></a>
+### Case 85: Truing a Bicycle Wheel in Three Stages (自行车轮组的三阶段校正) — by PixelDojo
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-85"><img src="../../../images/wan-3/case85/preview.webp" width="700" alt="Truing a Bicycle Wheel in Three Stages"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-85)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — [Generation Goal] Generate an instructional video in a small bicycle repair shop. The central subject is a mechanic, and the primary event is truing a…</summary>
+
+~~~~text
+[Generation Goal]
+Generate an instructional video in a small bicycle repair shop. The central subject is a mechanic, and the primary event is truing a bent wheel.
+
+[Stage 1]
+Initial state: a bent wheel lies flat on the workbench, and the truing stand beside it is empty.
+Primary event: the mechanic lifts the wheel and seats it in the truing stand.
+End state: the wheel stands upright in the stand, and the workbench surface is empty.
+
+[Stage 2]
+Initial state: the wheel stands upright in the stand.
+Primary event: the mechanic spins the wheel and tightens spokes with a spoke wrench.
+End state: the wheel is still in the stand and spins without wobbling. The spoke wrench is in the mechanic's right hand.
+
+[Stage 3]
+Initial state: the trued wheel is still in the stand.
+Primary event: the mechanic lifts the wheel out and hangs it on a wall hook.
+End state: the wheel hangs on the wall hook, and the truing stand is empty.
+
+Keep the mechanic's identity and clothing, the shop layout, and the afternoon light from the shopfront window consistent throughout.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 20s · 未标注 · 未标注 · 未标注
+**来源**：PixelDojo · [原帖](https://pixeldojo.ai/guides/wan-3-0-prompting-guide)
+
+<sub>Preview © 2026 PixelDojo · Prompt by PixelDojo</sub>
 
 [回到目录](#table-of-contents)

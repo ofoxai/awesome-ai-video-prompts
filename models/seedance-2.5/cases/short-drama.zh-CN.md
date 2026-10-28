@@ -20,6 +20,10 @@
 
 - [Case 72: Escape from a flooding botanical tower (逃离洪水中的植物档案塔) — by @bmx_ai13](#case-72)
 - [Case 75: Late-night conversation in a lunar cafe (月球咖啡馆的深夜对话) — by @digitalwindai](#case-75)
+- [Case 80: One Last Door in the Warehouse (仓库里最后一扇门) — by @The_Kremlinn](#case-80)
+- [Case 83: Homework in the Rooftop Wind (天台上被风吹散的作业) — by @Aqsahere_](#case-83)
+- [Case 85: The Steamed Bun Duel and the Cat (女侠争包子与猫咪截胡) — by @johnAGI168](#case-85)
+
 <a id="case-1"></a>
 ### Case 1: Guardian robot and grandmother, nine-shot storyboard (守护机器人与老奶奶 · 九宫格分镜) — by ByteDance
 
@@ -770,5 +774,132 @@ The video ends on the held close-up of the woman's face, the image full and lit 
 **来源**：[@digitalwindai](https://x.com/digitalwindai) · [原帖](https://x.com/digitalwindai/status/2083281155286085911)
 
 <sub>Preview © 2026 <a href="https://x.com/digitalwindai/status/2083281155286085911">@digitalwindai</a> · Prompt by <a href="https://x.com/digitalwindai/status/2083281155286085911">@digitalwindai</a></sub>
+
+[返回目录](#table-of-contents)
+
+<a id="case-80"></a>
+### Case 80: One Last Door in the Warehouse (仓库里最后一扇门) — by @The_Kremlinn
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-80"><img src="../../../images/seedance-2.5/case80/preview.webp" width="700" alt="One Last Door in the Warehouse"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-80)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Hero = a rugged battle-hardened man around 35, weathered face, dark stubble, a brow cut, a dirty white tank-top vest, worn dark trousers and boots, di…</summary>
+
+~~~~text
+Hero = a rugged battle-hardened man around 35, weathered face, dark stubble, a brow cut, a dirty white tank-top vest, worn dark trousers and boots, dirt and grime. Fierce, exhausted, unbroken. Appearance only.
+
+Gang1 = a squad of rugged cartel henchmen in dirty casual clothes, unshaven and mean, armed with machetes. Appearance only.
+
+Gang2 = cartel enforcers in dark tailored suits, disciplined and armed with blades. Appearance only.
+
+Boss = a cartel boss around 45, sharp cold face, slicked-back greying hair, a trimmed beard, an immaculate white suit with a dark shirt. Powerful and menacing. Appearance only.
+
+Building = a rundown abandoned cartel hideout at dusk — a grimy derelict concrete building, a battered entrance door, a dim gritty ground floor with peeling walls, bare bulbs, debris and a staircase at the back, and a moody upper floor with tall grimy windows and shafts of dim light. Desaturated gritty grey-brown palette. Environment only.
+
+SCENE: a gritty one-man-army action sequence. A rugged exhausted man in a dirty white vest kicks in the door of an abandoned cartel hideout and fights his way through a machete-armed gang on the ground floor, then climbs to the upper floor where suited enforcers and their white-suited boss wait. He takes down the enforcers and defeats the boss in a final duel, standing victorious. Intense, raw, cinematic martial-arts action.
+
+TECHNICAL: 16:9, cinematic gritty desaturated grey action grade, dynamic handheld fight camera, low moody light, dust and haze, fine film grain, photorealistic raw action quality.
+
+CUTS:
+CUT 1 (0-5s): The man walks up to the grimy building at dusk, shouts "Come out!", and kicks the door in — storming into the dim ground floor where machete-armed henchmen ready their weapons.
+CUT 2 (5-12s): The fight erupts — brutal fast hand-to-hand combat, he dodges machete swings, disarms and takes down the whole squad one by one across the gritty room, using pillars and furniture. Dynamic changing angles.
+CUT 3 (12-17s): The room cleared, he strides to the staircase and climbs to the upper floor — where a squad of suited enforcers and the white-suited boss behind them are waiting. A tense standoff.
+CUT 4 (17-24s): The enforcers attack; he fights them down in fast fierce combat until only the boss remains. The two face off across the light-shafted room, breathing hard.
+CUT 5 (24-30s): The final duel — hero and boss clash in an intense one-on-one, trading heavy blows, until the hero lands a decisive final blow and the boss drops to the floor, beaten. The hero stands over him, victorious, in a shaft of dim light. Epic final hero frame. END.
+
+RULES: References are appearance only, do not recreate. Keep the hero's face and white vest, and the boss's white suit, consistent across every cut. Action is intense but NOT gory — enemies are beaten and drop, no blood, no graphic killing, impacts sold through motion and body mechanics. Gritty desaturated grade throughout. Sound design: the door bursting, brutal impact hits, grunts, a tense standoff beat, a driving action score peaking at the final blow, gritty ambience. Final hero frame stable and clean.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · @videoduck_ai · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@The_Kremlinn](https://x.com/The_Kremlinn) · [原帖](https://x.com/The_Kremlinn/status/2095083714120229230)
+
+<sub>Preview © 2026 <a href="https://x.com/The_Kremlinn/status/2095083714120229230">@The_Kremlinn</a> · Prompt by <a href="https://x.com/The_Kremlinn/status/2095083714120229230">@The_Kremlinn</a></sub>
+
+[返回目录](#table-of-contents)
+
+<a id="case-83"></a>
+### Case 83: Homework in the Rooftop Wind (天台上被风吹散的作业) — by @Aqsahere_
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-83"><img src="../../../images/seedance-2.5/case83/preview.webp" width="700" alt="Homework in the Rooftop Wind"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-83)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairst…</summary>
+
+~~~~text
+photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairstyles, body proportions, school uniforms, and the real rooftop environment. Exactly two students are present. A strong sudden gust of wind hits the rooftop and scatters their loose homework papers across the concrete. Seolran and Mujin react naturally and immediately run in different directions trying to catch the flying pages. Papers blow realistically around their legs and across the rooftop, some sliding along the ground while others briefly lift into the air. They chase the pages with natural hurried movements, occasionally almost catching one before the wind pulls it away. Mujin manages to grab several pages and tries to hand them back to Seolran, but another gust sends one page directly toward her face. The paper gently lands against her face for a moment. She freezes in surprise, pulls it away, looks at Mujin, and they both burst into natural laughter. End with them standing together collecting the remaining papers while the warm sunset and distant mountains remain in the background. Use 7 distinct handheld camera shots: wide rooftop establishing shot, low angle following the papers, side tracking shot while they run, close-up of their hands grabbing papers, medium shot of them chasing in opposite directions, close-up when the paper hits Seolran’s face, and a final wide sunset shot of both laughing and gathering the homework. Make it feel like authentic Korean school-life footage rather than a commercial: realistic smartphone/cinema-camera texture, natural sunset lighting, believable wind physics, realistic paper movement, natural hair and uniform movement, subtle handheld camera shake, imperfect autofocus, natural facial expressions, realistic skin texture and breathing, spontaneous body movement and genuine laughter. No exaggerated comedy, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no fantasy, no extra people, no distorted hands or anatomy.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · @Flovaai · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Aqsahere_](https://x.com/Aqsahere_) · [原帖](https://x.com/Aqsahere_/status/2091001743035564070)
+
+<sub>Preview © 2026 <a href="https://x.com/Aqsahere_/status/2091001743035564070">@Aqsahere_</a> · Prompt by <a href="https://x.com/Aqsahere_/status/2091001743035564070">@Aqsahere_</a></sub>
+
+[返回目录](#table-of-contents)
+
+<a id="case-85"></a>
+### Case 85: The Steamed Bun Duel and the Cat (女侠争包子与猫咪截胡) — by @johnAGI168
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-85"><img src="../../../images/seedance-2.5/case85/preview.webp" width="700" alt="The Steamed Bun Duel and the Cat"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-85)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 【风格】武侠电影级动作喜剧（Wuxia Action Comedy），古风客栈实景，8K，达芬奇高级调色，升格慢动作与快剪结合，真实布料与木屑物理，横屏16:9 【时长】30秒 【场景】古风江湖客栈大堂，木桌长凳、红灯笼、蒸笼冒热气，梁柱交错，光从窗棂斜射带浮尘 【角色】女侠A @图1（红衣冷艳，用…</summary>
+
+~~~~text
+【风格】武侠电影级动作喜剧（Wuxia Action Comedy），古风客栈实景，8K，达芬奇高级调色，升格慢动作与快剪结合，真实布料与木屑物理，横屏16:9
+【时长】30秒
+【场景】古风江湖客栈大堂，木桌长凳、红灯笼、蒸笼冒热气，梁柱交错，光从窗棂斜射带浮尘
+【角色】女侠A @图1（红衣冷艳，用剑）、女侠B @图2（青衣飒爽，用双筷/软鞭），两人武艺相当
+
+[00:00-00:02] 钩子·同时出手
+蒸笼掀开——热气散去，只剩孤零零一个白胖包子。两只手"唰"地同时探向它，在包子上方一寸僵住。镜头拉近两人对视，杀气骤起。
+音效：蒸汽"嘶"声，一声兵刃出鞘。
+
+[00:02-00:06] 拔剑·桌面开打
+A拔剑挑翻整张桌子腾空，B踩着飞起的长凳跃上房梁，包子被气浪震到空中。碗筷茶壶四散飞溅。
+
+[00:06-00:11] 空中争夺（升格）
+包子在半空划弧，两人凌空交手，A剑尖挑、B筷子夹，包子在刀光间被抢来抢去，谁也没碰实，热气还在包子上冒。
+
+[00:11-00:16] 客栈大乱
+战场蔓延，两人踩桌翻梁、灯笼被削落、木屑纷飞，其他"食客"抱头躲桌下。包子始终在两人争夺中心悬着不落。
+
+[00:16-00:21] 决胜一击（升格特写）
+A与B同时使出绝招，剑气与鞭影在包子两侧交汇——包子被劲气托着高高弹起，两人各自摆出接杀造型，屏息等它落下。
+
+[00:21-00:26] 神反转
+镜头跟着下落的包子——一只慵懒的橘猫"喵"地从桌上跃起，在半空一口叼住包子，稳稳落地，当着两人的面吧唧吧唧吃完，舔爪。
+音效：所有打斗音效戛然而止，一声"喵~"，乌鸦飞过。
+
+[00:26-00:30] 傻眼收尾（定格）
+A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷刷看向吃饱打嗝的猫，表情裂开。
+字幕（砸出）：「有些仗，打赢了也没用。」
+音效：一记喜剧"咚"，猫满足地打了个嗝。
+
+【导演备注】1.反差铁律：打斗越是天崩地裂、招式越华丽正经，最后被猫截胡的落差越好笑；2.身份锁定：A=@图1红衣用剑、B=@图2青衣用筷/鞭，脸/服装全程一致；3.节奏：2秒对峙→拔剑→空中争夺→大乱→决胜→猫反转，动作段用快剪+关键处升格；4.物理真实：包子热气、木屑、灯笼、布料惯性、猫的重量都要真实，武侠不卡通；5.包子必须全程在画面中心被争夺，是视觉焦点和笑点核心；6.不见血、不伤人，纯招式对拆。
+【负面提示词】卡通武侠，塑料CG，换脸，两人身份/武器混淆，包子中途消失，猫出现得太早，血腥伤人，多余手指，字幕提前，水印，真实品牌logo，画面糊乱，未成年人形象。
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2083430135152209926)
+
+<sub>Preview © 2026 <a href="https://x.com/johnAGI168/status/2083430135152209926">@johnAGI168</a> · Prompt by <a href="https://x.com/johnAGI168/status/2083430135152209926">@johnAGI168</a></sub>
 
 [返回目录](#table-of-contents)

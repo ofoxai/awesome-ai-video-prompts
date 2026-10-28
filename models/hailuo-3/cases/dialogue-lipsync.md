@@ -16,6 +16,7 @@
 - [Case 123: Tasting Ramen in Authentic UGC Style (拉面试吃的真实 UGC 质感) — by @Taaruk_](#case-123)
 - [Case 124: Tasting a Burger from a First-Person View (汉堡试吃的第一视角短片) — by @oggii_0](#case-124)
 - [Case 125: Post-workout gym vlog (训练后健身房 Vlog) — by @doctorwasif](#case-125)
+- [Case 148: A Ceasefire from the Banquet-Hall Screen (宴会厅屏幕上的停战指令) — by @varts_works](#case-148)
 
 <a id="case-4"></a>
 ### Case 4: Punchline Timing in an AI Stand-up Special (AI 脱口秀的精准笑点节奏) — by @azed_ai
@@ -450,5 +451,180 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys."
 **来源**：@doctorwasif · [原帖](https://x.com/doctorwasif/status/2083048782581858681)
 
 <sub>Preview © 2026 @doctorwasif · Prompt by @doctorwasif</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-148"></a>
+### Case 148: A Ceasefire from the Banquet-Hall Screen (宴会厅屏幕上的停战指令) — by @varts_works
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-148"><img src="../../../images/hailuo-3/case148/preview.webp" width="700" alt="A Ceasefire from the Banquet-Hall Screen"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-148)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 添付された人物リファレンスの顔立ち、髪色、髪型、体格、衣装を正確に維持する。 劇場公開用超大作実写映画、Netflix最上位オリジナル映画級、制作費50億円規模。 GAME 05専用の巨大高級宴会場。 乱闘によって椅子が倒れ、テーブルがずれ、料理、皿、ナプキンが床へ散乱している。 15秒のシネマティ…</summary>
+
+~~~~text
+添付された人物リファレンスの顔立ち、髪色、髪型、体格、衣装を正確に維持する。
+
+劇場公開用超大作実写映画、Netflix最上位オリジナル映画級、制作費50億円規模。
+
+GAME 05専用の巨大高級宴会場。
+
+乱闘によって椅子が倒れ、テーブルがずれ、料理、皿、ナプキンが床へ散乱している。
+
+15秒のシネマティックシークエンス。
+
+前シーンの直後。
+
+焦茶色センター分け、ブラウン系カーディガン、ストライプシャツ、ワイドスラックス姿のKAIがSPの動きを回避し、巨大モニターを強く見上げる。
+
+呼吸が少し乱れている。
+
+KAI：
+
+「こんなのゲームじゃないだろ！」
+
+VOICE — KAI：
+
+20代前半男性。
+
+柔らかく透明感のある中低音。
+
+緊迫時には声に強い芯が出る。
+
+明瞭な日本語。
+
+全編で同じ声質とピッチを維持。
+
+巨大モニターへ切り替わる。
+
+金髪ロングウェーブ、黒スーツ、黒インナー、シルバークロスアクセサリー姿の女性ゲームマスター。
+
+ゲームマスター：
+
+「戦闘は必要ありません。」
+
+VOICE — ゲームマスター：
+
+20代後半〜30代前半女性。
+
+低めのアルト。
+
+冷たく滑らかで落ち着いた声。
+
+ゆっくり明瞭。
+
+感情の起伏が非常に小さい。
+
+全編で同じ声質、ピッチ、話速を維持。
+
+その言葉と同時に、宴会場の動きが一斉に止まる。
+
+32mm相当のワイドショット。
+
+黒髪ロングヘア、白黒ストライプ衣装のヤクザ系女性参加者とSPが近距離で停止。
+
+MAELは低い姿勢で呼吸を整えている。
+
+LUCAS、NERO、RION、角がありピンク系衣装姿の愉快犯も動きを止める。
+
+空中を舞っていた白いナプキンだけがゆっくり床へ落ちる。
+
+約1秒の静寂。
+
+ゲームマスター：
+
+「SPの前を通る。それだけです。」
+
+全員の視線がSPと、その横にある広い通過スペースへ向く。
+
+KAIへ切り替わる。
+
+KAIは荒れ果てた宴会場を見る。
+
+倒れた椅子。
+
+割れた皿。
+
+散乱した料理。
+
+SPを見る。
+
+もう一度荒れた会場を見る。
+
+KAI：
+
+「……じゃあ俺たち、何で戦ってんの？」
+
+声は怒鳴らず、完全な脱力と素の疑問。
+
+最後はKAIが無言で立っている表情を約1秒残す。
+
+CAMERA:
+
+冒頭KAIは50mm cinema prime相当のmedium close-up。
+
+ゲームマスターは85mm相当のportrait close-up。
+
+乱闘停止は32mm相当のwide ensemble shot。
+
+最後は75mm相当でKAIのtight medium close-up。
+
+アクション後からカメラの動きを急激に静かにする。
+
+24fpsの自然な映画モーション。
+
+LIGHTING:
+
+暖かなシャンデリア光。
+
+冷たい白色トップライト。
+
+弱い赤色警告灯が徐々に消えていく。
+
+KAIの焦茶色ヘアには暖かなブラウンの階調。
+
+ゲームマスターは冷たいニュートラル光。
+
+AUDIO:
+
+BGMなし。
+
+冒頭はKAIの荒い呼吸、靴音、椅子やグラスが動く音、衣服の擦れ。
+
+ゲームマスター：
+
+「戦闘は必要ありません。」
+
+その瞬間に激しい音が一斉に止まる。
+
+その後は低い空調音。
+
+揺れているシャンデリアの微かな金属音。
+
+ナプキンが床へ落ちる小さな音。
+
+ゲームマスター：
+
+「SPの前を通る。それだけです。」
+
+KAIの最後の台詞には宴会場の自然な残響。
+
+「……じゃあ俺たち、何で戦ってんの？」
+
+台詞後、約1秒の静寂と空調音だけを残して終了。
+
+16:9 cinematic widescreen。
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@varts_works · [原帖](https://x.com/varts_works/status/2107369186121101788)
+
+<sub>Preview © 2026 @varts_works · Prompt by @varts_works</sub>
 
 [Back to top](#table-of-contents)

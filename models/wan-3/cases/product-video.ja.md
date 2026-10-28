@@ -10,6 +10,7 @@
 - [Case 46: Nut Snack Packaging — Three-Shot Showcase (坚果包装三镜展示) — by Alibaba](#case-46)
 - [Case 78: Lipstick Try-On with a Single Product Reference (单张产品图生成口红试色) — by u/Accomplished-Ebb7783](#case-78)
 - [Case 79: Hair Dryer Exploded-View Render (吹风机内部零件拆解渲染) — by Alibaba](#case-79)
+- [Case 91: Three References for a Serum Showcase (人物、产品与浴室三图参考) — by ClipRush Team](#case-91)
 
 <a id="case-4"></a>
 ### Case 4: The Rhythm of Dough (面团的律动) — by Alibaba
@@ -162,5 +163,34 @@ Using only the lipstick product Image1 as a reference, generate a 15-second vert
 **来源**：阿里云 Wan 3.0 官方提示词指南 · [source](https://help.aliyun.com/zh/model-studio/wan3-video-generation-prompt-guide)
 
 <sub>Wan 3.0 官方示例 · 阿里云百炼提示词指南「电商广告」吹风机拆解</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-91"></a>
+### Case 91: Three References for a Serum Showcase (人物、产品与浴室三图参考) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-91"><img src="../../../images/wan-3/case91/preview.webp" width="394" alt="Three References for a Serum Showcase"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-91)
+
+**输入素材**（3 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case91/input1.webp" width="112" alt="参考图 1 · cafe"><br><sub>参考图 1 · cafe</sub> | <img src="../../../images/wan-3/case91/input2.webp" width="112" alt="参考图 2 · product"><br><sub>参考图 2 · product</sub> | <img src="../../../images/wan-3/case91/input3.webp" width="112" alt="参考图 3 · bathroom"><br><sub>参考图 3 · bathroom</sub> |  |
+
+<details>
+<summary><strong>Prompt</strong> — [Image 1] is the woman's face and hair, [Image 2] is the LUMEA serum bottle, [Image 3] is the bathroom. In the bathroom from [Image 3], the woman from…</summary>
+
+~~~~text
+[Image 1] is the woman's face and hair, [Image 2] is the LUMEA serum bottle, [Image 3] is the bathroom. In the bathroom from [Image 3], the woman from [Image 1] picks up the [Image 2] bottle, turns the label to the camera and smiles.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · r2v · 5s · 720p · 9:16 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#references-scene)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
 
 [目次に戻る](#table-of-contents)
