@@ -8,6 +8,7 @@
 - [Case 23: Gym Small Talk — Two Voices from Audio Refs (健身房双人对白·音色参考) — by Alibaba](#case-23)
 - [Case 51: Voice Reference — Swap the Character and the Line (音色参考·替换角色与台词) — by Alibaba](#case-51)
 - [Case 76: Irish Pub Dialogue Test (爱尔兰酒吧口播测试) — by u/svenhonor06](#case-76)
+- [Case 89: The Last Croissant: Two-Person Dialogue (最后一只可颂的双人口型对话) — by ClipRush Team](#case-89)
 
 <a id="case-9"></a>
 ### Case 9: Emotional Realism — Graduate in a Blue Gown (情绪写实·毕业袍女孩) — by Alibaba
@@ -132,5 +133,34 @@ Her legs are crossed over the knees and she's smiling into the camera.
 **来源**：u/svenhonor06 · [原帖](https://www.reddit.com/r/VeniceAI/comments/1w8n8nm/wan30_vs_minimax_h3_max/)
 
 <sub>社区实测 · u/svenhonor06 · 原帖对比片的 Wan 3.0 段 · 两张片头参考图已收录</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-89"></a>
+### Case 89: The Last Croissant: Two-Person Dialogue (最后一只可颂的双人口型对话) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-89"><img src="../../../images/wan-3/case89/preview.webp" width="394" alt="The Last Croissant: Two-Person Dialogue"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-89)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case89/input1.webp" width="112" alt="参考图 1 · kitchen"><br><sub>参考图 1 · kitchen</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — The woman asks, "You're not taking the last croissant, are you?" The man laughs and says, "Watch me." Static camera. No background music.</summary>
+
+~~~~text
+The woman asks, "You're not taking the last croissant, are you?" The man laughs and says, "Watch me." Static camera. No background music.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · i2v · 5s · 720p · 未标注 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#dialogue)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
 
 [Back to top](#table-of-contents)

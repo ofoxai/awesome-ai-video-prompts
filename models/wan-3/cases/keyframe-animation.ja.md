@@ -8,6 +8,7 @@
 - [Case 70: First & Last Frame — Four Memories in 35mm (首尾帧·草帽女子的四段回忆) — by Alibaba](#case-70)
 - [Case 71: First & Last Frame — West Lake Goddess (首尾帧·西湖西子岩彩长镜) — by Alibaba](#case-71)
 - [Case 77: Snowbound Steampunk Village Construction (冰雪蒸汽朋克村庄建造) — by Alibaba](#case-77)
+- [Case 92: Rosebud to Bloom with Two Keyframes (首尾帧控制玫瑰绽放) — by ClipRush Team](#case-92)
 
 <a id="case-69"></a>
 ### Case 69: First & Last Frame — Ink-Wash Swordsman (首尾帧·水墨刀客竹林对决) — by Alibaba
@@ -176,5 +177,34 @@
 **来源**：阿里云 Wan 3.0 官方提示词指南 · [source](https://help.aliyun.com/zh/model-studio/wan3-video-generation-prompt-guide)
 
 <sub>Wan 3.0 官方示例 · 阿里云百炼提示词指南「游戏」冰雪蒸汽朋克建造动画</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-92"></a>
+### Case 92: Rosebud to Bloom with Two Keyframes (首尾帧控制玫瑰绽放) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-92"><img src="../../../images/wan-3/case92/preview.webp" width="394" alt="Rosebud to Bloom with Two Keyframes"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-92)
+
+**输入素材**（2 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case92/input1.webp" width="112" alt="首帧"><br><sub>首帧</sub> | <img src="../../../images/wan-3/case92/input2.webp" width="112" alt="尾帧"><br><sub>尾帧</sub> |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Time-lapse: the rose bud slowly opens into a full bloom, its petals unfolding one by one. Static camera, soft morning light.</summary>
+
+~~~~text
+Time-lapse: the rose bud slowly opens into a full bloom, its petals unfolding one by one. Static camera, soft morning light.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · keyframe · 5s · 720p · 未标注 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#first-last)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
 
 [目次に戻る](#table-of-contents)

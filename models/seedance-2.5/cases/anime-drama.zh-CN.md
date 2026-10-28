@@ -15,6 +15,7 @@
 - [Case 1010: Eight Lightning Fangs (雷牙・八重) — by Ofox Team](#case-1010)
 - [Case 1013: Water vs fire, night school corridor (水火对决・深夜学园走廊) — by Ofox Team](#case-1013)
 - [Case 1014: Arc vs wind, flooded factory courtyard (雷风对决・暴雨工厂中庭) — by Ofox Team](#case-1014)
+- [Case 79: The Tiny Frog Michelin Chef (小青蛙主厨的森林晚宴) — by @Caden_Flux](#case-79)
 
 <a id="case-9"></a>
 ### Case 9: Anime school hallway kung-fu fight (动漫风格校园走廊武术格斗) — by @AiwithElisia
@@ -489,3 +490,220 @@ HARD CUT at 00:11.5.
 **来源**：Ofox 实测
 
 [回到目录](#table-of-contents)
+
+<a id="case-79"></a>
+### Case 79: The Tiny Frog Michelin Chef (小青蛙主厨的森林晚宴) — by @Caden_Flux
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-79"><img src="../../../images/seedance-2.5/case79/preview.webp" width="700" alt="The Tiny Frog Michelin Chef"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-79)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — The Tiny Frog Michelin Chef — 30-Second Animated Short  Create a 30-second premium cinematic 3D animated short film about a tiny frog who takes cookin…</summary>
+
+~~~~text
+The Tiny Frog Michelin Chef — 30-Second Animated Short
+
+Create a 30-second premium cinematic 3D animated short film about a tiny frog who takes cooking extremely seriously.
+
+The animation should feel like a high-end theatrical 3D animated feature film: charming, whimsical, expressive, funny, visually rich, and cinematic.
+
+MAIN CHARACTER
+
+A tiny adorable emerald-green frog with smooth slightly textured skin, huge expressive golden-brown eyes, a tiny rounded mouth, soft rounded cheeks, and little webbed feet.
+
+He wears an oversized pristine white chef jacket, a tiny black neckerchief, and a miniature white chef hat that is slightly too large for him.
+
+Despite being tiny and adorable, he behaves like an extremely serious professional chef.
+
+His personality is dramatic, perfectionist, ambitious, passionate, and hilariously serious about food.
+
+Keep the exact same frog appearance, outfit, proportions, face, colors, and animation style throughout the entire video.
+
+0–5 SEC — THE RESTAURANT
+
+Open on a beautiful moonlit pond transformed into a tiny luxury restaurant.
+
+Fireflies glow like miniature chandeliers.
+
+Lily pads become elegant dining tables.
+
+Tiny candles illuminate the water.
+
+The frog chef stands inside his miniature outdoor kitchen.
+
+He adjusts his chef hat with complete seriousness.
+
+He looks directly at the dish he is about to prepare.
+
+Dramatic cinematic push-in toward his determined face.
+
+5–10 SEC — THE PREPARATION
+
+Rapid cinematic cooking montage.
+
+The tiny frog dramatically chops miniature vegetables.
+
+He slices mushrooms with incredible precision.
+
+He tosses herbs into a tiny copper pan.
+
+Butter melts.
+
+Steam rises.
+
+He tastes the sauce with a tiny spoon.
+
+His eyes narrow.
+
+He adds exactly one more tiny pinch of seasoning.
+
+He tastes it again.
+
+His expression finally shows approval.
+
+Use exaggerated but believable animated physical comedy.
+
+10–17 SEC — THE MASTERPIECE
+
+The frog chef begins assembling his signature dish.
+
+He carefully places tiny colorful vegetables onto a miniature white porcelain plate.
+
+He uses tweezers to position a single delicate herb.
+
+He steps back.
+
+Something looks wrong.
+
+His eyes widen.
+
+He rushes back to the plate.
+
+He moves one tiny vegetable approximately one millimeter.
+
+He steps back again.
+
+Perfect.
+
+His face lights up with pride.
+
+17–22 SEC — THE BIG PRESENTATION
+
+The frog dramatically carries the tiny plate across a lily-pad dining area.
+
+Several adorable woodland animals sit at tiny tables watching him.
+
+A rabbit.
+
+A hedgehog.
+
+A duckling.
+
+A small turtle.
+
+They all stare at the dish with exaggerated anticipation.
+
+The frog carefully places the plate in the center.
+
+Everyone leans forward.
+
+22–27 SEC — THE TASTE
+
+The animals take one bite.
+
+Silence.
+
+Their eyes suddenly become enormous.
+
+The rabbit gasps.
+
+The hedgehog's ears shoot upward.
+
+The duckling freezes in amazement.
+
+The turtle slowly raises both tiny flippers.
+
+Then everyone starts happily celebrating.
+
+The frog chef stands completely still, trying desperately to maintain his serious professional expression.
+
+A tiny smile slowly appears.
+
+27–30 SEC — THE PAYOFF
+
+Suddenly, the frog's miniature restaurant becomes completely chaotic.
+
+The animals cheer.
+
+Fireflies swirl around the restaurant like sparkling lights.
+
+The frog chef jumps onto a tiny wooden crate and proudly raises his cooking spoon like a trophy.
+
+Camera pulls back to reveal the entire magical pond restaurant glowing under the moonlight.
+
+Final shot:
+
+The tiny frog chef stands proudly beneath his oversized chef hat.
+
+Adorable. Dramatic. Completely ridiculous.
+
+VISUAL & ANIMATION STYLE
+
+Premium cinematic 3D animated feature-film quality.
+
+Extremely expressive character animation.
+
+Cute stylized proportions.
+
+Detailed frog skin.
+
+Soft natural reflections in the eyes.
+
+Realistic miniature food textures.
+
+Tiny believable kitchen props.
+
+Beautiful moonlit pond environment.
+
+Warm candlelight contrasting with cool nighttime atmosphere.
+
+Detailed lily pads, flowers, fireflies, water reflections, and vegetation.
+
+Playful cartoon physics.
+
+Subtle squash-and-stretch.
+
+Excellent comedic timing.
+
+Smooth cinematic camera movements.
+
+Dynamic food close-ups.
+
+Macro photography feeling for the tiny world.
+
+Shallow depth of field.
+
+Soft volumetric lighting.
+
+Natural motion blur.
+
+Polished theatrical rendering.
+
+The entire sequence should feel like one continuous animated movie scene, with consistent character design, environment, lighting, proportions, and animation quality.
+
+16:9 LANDSCAPE — 4K — premium cinematic 3D animation.
+
+No text, no subtitles, no logos, no watermark.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · @FishCreativeHQ · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Caden_Flux](https://x.com/Caden_Flux) · [原帖](https://x.com/Caden_Flux/status/2091396961329131999)
+
+<sub>Preview © 2026 <a href="https://x.com/Caden_Flux/status/2091396961329131999">@Caden_Flux</a> · Prompt by <a href="https://x.com/Caden_Flux/status/2091396961329131999">@Caden_Flux</a></sub>
+
+[返回目录](#table-of-contents)

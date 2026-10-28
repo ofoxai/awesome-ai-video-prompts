@@ -11,6 +11,8 @@
 - [Case 27: Organic grocery UGC shopping vlog (有机超市UGC购物Vlog) — by @aiwithsynthia](#case-27)
 
 - [Case 77: Quiet morning laundry vlog (安静清晨的洗衣 Vlog) — by @doctorwasif](#case-77)
+- [Case 81: Hair Color Spray: Bedroom to Hero Shot (染发喷雾从卧室随拍到产品大片) — by @Aqsahere_](#case-81)
+
 <a id="case-23"></a>
 ### Case 23: Dog cafe vlog, one-click assembly (小狗咖啡店 vlog · 一键成片) — by ByteDance
 
@@ -255,5 +257,76 @@ Dialogue is natural spoken Korean (except "Good enough"), reacting casually to e
 **来源**：[@doctorwasif](https://x.com/doctorwasif) · [原帖](https://x.com/doctorwasif/status/2083779989414019109)
 
 <sub>Preview © 2026 <a href="https://x.com/doctorwasif/status/2083779989414019109">@doctorwasif</a> · Prompt by <a href="https://x.com/doctorwasif/status/2083779989414019109">@doctorwasif</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-81"></a>
+### Case 81: Hair Color Spray: Bedroom to Hero Shot (染发喷雾从卧室随拍到产品大片) — by @Aqsahere_
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-81"><img src="../../../images/seedance-2.5/case81/preview.webp" width="700" alt="Hair Color Spray: Bedroom to Hero Shot"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-81)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second ultra-photorealistic UGC-to-commercial hair color spray advertisement. The first 25 seconds should feel like authentic creator-shot…</summary>
+
+~~~~text
+Create a 30-second ultra-photorealistic UGC-to-commercial hair color spray advertisement. The first 25 seconds should feel like authentic creator-shot UGC, while the final 5 seconds must transition into a premium professional product commercial hero shot.
+A young woman has naturally deep black hair at the beginning. After applying the hair color spray, the sprayed hair becomes clearly light brown. The black-to-light-brown difference must be obvious and visually satisfying.
+0–4 SEC — UGC HOOK
+Real young woman filming herself with a modern smartphone in a realistic bedroom. Handheld front-camera feel, natural daylight, subtle camera shake and authentic facial expression. She touches her clearly black hair and says:
+“I wanted lighter hair…”
+She looks at herself in the mirror.
+4–8 SEC — PRODUCT DISCOVERY
+She turns toward her bedroom dressing table. The hair color spray is clearly standing on the dressing table.
+She reaches for it and picks it up naturally.
+As soon as she lifts it, the smartphone camera briefly autofocuses sharply onto the spray, making the entire product clearly visible and recognizable. Realistic bottle/can material, nozzle, cap, label, reflections and printing.
+She says:
+“…without permanently dyeing it.”
+8–13 SEC — PRODUCT APPLICATION
+She holds the spray clearly in her hand, then separates a section of her black hair and applies it.
+Show a realistic fine aerosol mist leaving the nozzle and settling onto the hair.
+The sprayed hair changes realistically from deep black to light brown. The transformation must happen through believable color coverage, not glowing or magical effects.
+13–18 SEC — CLEAR TRANSFORMATION
+Close smartphone shot of the hair.
+Show untreated deep-black hair beside the newly light-brown hair so the color difference is extremely obvious.
+She gently moves the hair with her fingers under natural daylight.
+She reacts naturally:
+“Okay… that is actually a huge difference.”
+18–23 SEC — UGC RESULT
+Mirror selfie showing her finished light-brown hair. She turns her head naturally, showing the color from different angles.
+She smiles and says:
+“I actually love it.”
+The footage remains authentic UGC with natural imperfections.
+23–26 SEC — FINAL UGC PRODUCT MOMENT
+She holds the spray beside her newly light-brown hair and looks into the camera.
+She says:
+“Just spray and switch up your look.”
+She lowers the product slightly.
+26–30 SEC — PREMIUM COMMERCIAL PRODUCT HERO SHOT
+Hard transition from UGC footage into a clean professional product advertisement. No woman visible in this final shot.
+Show the hair color spray alone as the hero product, standing upright on a clean premium surface. Create a beautiful realistic commercial product-photography setup with a soft neutral background, subtle depth of field, controlled studio lighting, realistic product shadow and premium reflections.
+The camera slowly pushes toward the product.
+The product must be large, centered and extremely sharp, with the packaging, cap, nozzle, label and every visible detail clearly readable and professionally presented.
+Place the product beside a small visual indication of the black → light brown transformation, such as realistic strands of black hair transitioning into light brown hair, subtly arranged behind or beside the product.
+Leave clean negative space around the product for advertising copy.
+Final frame should look like a professional beauty-brand product poster / end card, not UGC.
+Suggested minimal on-screen copy:
+INSTANT HAIR COLOR
+BLACK → LIGHT BROWN
+SPRAY • STYLE • GO
+Keep the product as the dominant visual element.
+IMPORTANT
+The final 4 seconds must feel like a real commercial product hero/end card, with a completely different level of polish from the preceding UGC footage. No girl in the final hero shot. No hands holding the product. No messy bedroom.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · @Flovaai · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Aqsahere_](https://x.com/Aqsahere_) · [原帖](https://x.com/Aqsahere_/status/2091372529709400169)
+
+<sub>Preview © 2026 <a href="https://x.com/Aqsahere_/status/2091372529709400169">@Aqsahere_</a> · Prompt by <a href="https://x.com/Aqsahere_/status/2091372529709400169">@Aqsahere_</a></sub>
 
 [Back to top](#table-of-contents)

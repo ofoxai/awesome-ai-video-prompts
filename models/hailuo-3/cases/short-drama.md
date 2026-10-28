@@ -16,6 +16,7 @@
 - [Case 120: Automatic Lip-Sync for a High-Speed Rap Performance (自动对口型的高速说唱表演) — by @KEETY2591756](#case-120)
 - [Case 121: A Reasoning Challenge Built from Traffic Rules (交通规则里的推理挑战) — by @cocktailpeanut](#case-121)
 - [Case 122: A Blue-Haired Hero Escapes with a Spirit Fox (蓝发少年与灵狐逃生) — by @HBCoop_](#case-122)
+- [Case 141: A Cat Shelters an Abandoned Puppy (雨中相依的猫与幼犬) — by @ZarnishNael](#case-141)
 
 <a id="case-1"></a>
 ### Case 1: Starship Bridge — The Hyperspace Jump (星舰舰桥·跃迁瞬间) — by MiniMax
@@ -421,5 +422,32 @@ Maintain one continuous route and clear cause-and-effect motion. No teleporting,
 **来源**：@HBCoop_ · [原帖](https://x.com/HBCoop_/status/2083553619413209379)
 
 <sub>Preview © 2026 @HBCoop_ · Prompt by @HBCoop_</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-141"></a>
+### Case 141: A Cat Shelters an Abandoned Puppy (雨中相依的猫与幼犬) — by @ZarnishNael
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-141"><img src="../../../images/hailuo-3/case141/preview.webp" width="700" alt="A Cat Shelters an Abandoned Puppy"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-141)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Popo, a cat, finds a puppy abandoned in a cardboard box under the eaves. At first, Popo acts cold and indifferent, but when heavy rain begins, the cat…</summary>
+
+~~~~text
+Popo, a cat, finds a puppy abandoned in a cardboard box under the eaves. At first, Popo acts cold and indifferent, but when heavy rain begins, the cat bravely shields the puppy from the storm and spends the night keeping it warm beneath its belly.
+
+By the next morning, a bond has formed between them. They begin facing the harsh life of stray animals together—Popo suppressing its own hunger to give the puppy its prey, even sneaking into a supermarket in search of food. Eventually, with the kindness and help of people around them, the two manage to get something to eat. As they cuddle together beneath the setting sun, they develop a deep and genuine bond that transcends species.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · @Picsart · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@ZarnishNael · [原帖](https://x.com/ZarnishNael/status/2112189056817787267)
+
+<sub>Preview © 2026 @ZarnishNael · Prompt by @ZarnishNael</sub>
 
 [Back to top](#table-of-contents)

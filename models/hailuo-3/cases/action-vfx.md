@@ -17,6 +17,12 @@
 - [Case 100: A Good-Morning Title Rises from the Lake (日出湖面的早安标题) — by @CharaspowerAI](#case-100)
 - [Case 101: A Last-Second Rescue (最后一刻的极限救援) — by @aiwithaly](#case-101)
 - [Case 139: Bat Cookie Takes Flight (蝙蝠饼干振翅飞走) — by @GlennHasABeard](#case-139)
+- [Case 142: A Crystal Civilization Builds with Sound (以声音建造的水晶文明) — by @DeCat2025](#case-142)
+- [Case 143: The Gravity Harvest (反重力采掘与地下巨手) — by @DeCat2025](#case-143)
+- [Case 145: The Corgi Secret Agent (柯基特工的办公室任务) — by @ImaStudio_ai](#case-145)
+- [Case 147: The Sky Is Being Replaced (被机械臂揭开的城市天空) — by @DeCat2025](#case-147)
+- [Case 149: Black Mirror: Final Reflection (黑色镜面上的双人剑舞) — by @itxsarmadd](#case-149)
+- [Case 150: The Cloaked Ranger Vanishes (披风游侠的暗影消失) — by @holagarciajavi](#case-150)
 
 <a id="case-8"></a>
 ### Case 8: The Sky Descends Like a Giant Wall over a Suburban Street (整片天空如巨墙压向郊区街道) — by @cocktailpeanut
@@ -423,5 +429,228 @@ the cut-out bat flaps up off the board and flies away
 **来源**：@GlennHasABeard · [原帖](https://x.com/GlennHasABeard/status/2110370446268870911)
 
 <sub>Preview © 2026 @GlennHasABeard · Prompt by @GlennHasABeard</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-142"></a>
+### Case 142: A Crystal Civilization Builds with Sound (以声音建造的水晶文明) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-142"><img src="../../../images/hailuo-3/case142/preview.webp" width="526" alt="A Crystal Civilization Builds with Sound"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-142)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic alien science fiction. A civilization of towering six-legged crystalline beings inhabits a vast desert city constructed from floating m…</summary>
+
+~~~~text
+Photorealistic alien science fiction. A civilization of towering six-legged crystalline beings inhabits a vast desert city constructed from floating mineral particles.
+
+SHOT 1 | 0–3s | LOW WIDE ANGLE
+Three crystalline beings stand around an enormous plaza. Their glowing throat chambers vibrate, lifting millions of sand particles into the air to form a magnificent suspended tower.
+
+SHOT 2 | 3–6s | AERIAL ANGLE
+A gigantic black invading machine descends over the city, emitting a violent distortion pulse. The tower disintegrates into swirling particles.
+
+SHOT 3 | 6–9s | GROUND LEVEL
+The crystalline beings turn toward the intruder. Their throat chambers illuminate simultaneously. The scattered particles suddenly stop moving.
+
+SHOT 4 | 9–12s | OVERHEAD
+A circular shockwave erupts from the beings. Every suspended particle accelerates toward the invading machine, forming an enormous rotating mineral spear.
+
+SHOT 5 | 12–15s | EXTREME WIDE
+The spear strikes the machine, piercing its entire body. The machine crashes into the desert as the mineral spear instantly reshapes into a towering crystalline monument.
+
+Awe-inspiring alien architecture, realistic particle motion, massive scale, powerful resonant sound, cinematic lighting. No dialogue, no text, no logos.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2111995868484096116)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-143"></a>
+### Case 143: The Gravity Harvest (反重力采掘与地下巨手) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-143"><img src="../../../images/hailuo-3/case143/preview.webp" width="526" alt="The Gravity Harvest"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-143)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic epic science fiction. No dialogue. SHOT 1 | 0–3s | LOW ANGLE A colossal industrial harvesting machine crawls across a barren alien vall…</summary>
+
+~~~~text
+Photorealistic epic science fiction. No dialogue.
+
+SHOT 1 | 0–3s | LOW ANGLE
+A colossal industrial harvesting machine crawls across a barren alien valley, its massive rotating drums pressing into the ground. Gravity distortion bends the dust around it.
+
+SHOT 2 | 3–6s | OVERHEAD
+One drum jams. Concentric shockwaves spread through the earth. Rocks, vehicles and debris begin rising vertically.
+
+SHOT 3 | 6–10s | EXTREME WIDE
+An entire mountain tears free from the landscape, slowly ascending as waterfalls of soil cascade from its underside.
+
+SHOT 4 | 10–13s | VERTICAL DROP
+Camera plunges toward the enormous cavity beneath the floating mountain. A gigantic ancient mechanical hand lies buried in the exposed bedrock.
+
+SHOT 5 | 13–15s | LOW WIDE
+The mechanical fingers suddenly close around the harvesting machine, crushing it as the mountain hangs overhead.
+
+Heavy industrial sound, deep gravitational pulses, immense scale, physically convincing debris. No text, no logos.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2111879991663423755)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-145"></a>
+### Case 145: The Corgi Secret Agent (柯基特工的办公室任务) — by @ImaStudio_ai
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-145"><img src="../../../images/hailuo-3/case145/preview.webp" width="700" alt="The Corgi Secret Agent"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-145)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 15s, 16:9 photorealistic cinematic action-comedy. A determined adult orange-and-white corgi secret agent exits an elevator carrying one sealed kraft-p…</summary>
+
+~~~~text
+15s, 16:9 photorealistic cinematic action-comedy. A determined adult orange-and-white corgi secret agent exits an elevator carrying one sealed kraft-paper confidential file envelope in its mouth and runs through a modern high-rise corporate office. Low-angle tracking camera follows the same corgi throughout. Several adult male agents in black business suits notice the dog and try to intercept it. The corgi dodges between desks and legs while the office erupts into a stylized non-graphic action sequence: glass partitions crack, papers fly, chairs move and agents take cover. The corgi briefly hides beneath a desk, then emerges in an absurd but cinematic spy-movie counterattack using a dropped movie-prop weapon, with brief muzzle flashes and smoke, no blood or injury detail. It then races through the chaotic office, still protecting the exact same envelope. One final suited agent blocks the path; the corgi leaps into him, knocks him backward, lands safely and keeps running. Final shot: sudden calm. The corgi reaches a wooden executive desk and places the same confidential envelope neatly on the tabletop. Behind it, the office is chaotic with scattered papers and fallen chairs while the corgi calmly looks toward camera. Hold the final frame for 0.5s. Hollywood spy action × office comedy, realistic dog anatomy, real fur, physical object weight, cinematic daylight, subtle handheld movement, 24–35mm low-angle tracking, fast pacing, consistent office geography. Same corgi, same collar and ID badge, same envelope throughout. No second dog, no anthropomorphic standing, no human arms on dog, no gore, no cartoon look, no text, no logos, no watermark.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@ImaStudio_ai · [原帖](https://x.com/ImaStudio_ai/status/2110575753461149848)
+
+<sub>Preview © 2026 @ImaStudio_ai · Prompt by @ImaStudio_ai</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-147"></a>
+### Case 147: The Sky Is Being Replaced (被机械臂揭开的城市天空) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-147"><img src="../../../images/hailuo-3/case147/preview.webp" width="526" alt="The Sky Is Being Replaced"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-147)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic science fiction, enormous cinematic scale. SHOT 1 | 0–3s | STREET LEVEL A busy futuristic city under a beautiful blue sky. Suddenly an …</summary>
+
+~~~~text
+Photorealistic science fiction, enormous cinematic scale.
+
+SHOT 1 | 0–3s | STREET LEVEL
+A busy futuristic city under a beautiful blue sky. Suddenly an enormous rectangular shadow slides across the skyscrapers.
+
+SHOT 2 | 3–6s | UPWARD POV
+Gigantic mechanical claws descend from above the clouds and grip an invisible rectangular section of the sky.
+
+SHOT 3 | 6–9s | WIDE ANGLE
+The claws pull downward. The blue sky tears away as a massive rigid panel, revealing black industrial machinery behind it.
+
+SHOT 4 | 9–12s | ROOFTOP CAMERA
+Multiple sky panels detach in succession. Their enormous shadows race across the city while giant maintenance arms move between the exposed sections.
+
+SHOT 5 | 12–15s | EXTREME WIDE
+The camera rises above the city, revealing its entire horizon enclosed inside an unimaginably large mechanical sphere. A vast central mechanism begins rotating.
+
+Grounded scale, immense machinery, realistic shadows and atmospheric perspective, thunderous metallic sound. No dialogue, no text.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2111799484069847266)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-149"></a>
+### Case 149: Black Mirror: Final Reflection (黑色镜面上的双人剑舞) — by @itxsarmadd
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-149"><img src="../../../images/hailuo-3/case149/preview.webp" width="700" alt="Black Mirror: Final Reflection"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-149)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — MINIMAX H3 — 15-SECOND CINEMATIC FIGHT “BLACK MIRROR: FINAL REFLECTION” 16:9 widescreen, premium dark-fantasy fashion-action. Obsidian Ronin vs Inksha…</summary>
+
+~~~~text
+MINIMAX H3 — 15-SECOND CINEMATIC FIGHT
+“BLACK MIRROR: FINAL REFLECTION”
+16:9 widescreen, premium dark-fantasy fashion-action.
+
+Obsidian Ronin vs Inkshade Valkyrie inside a gigantic floating liquid-black obsidian mirror surrounded by an endless white void. Preserve exact established character designs, faces, hair, armor, weapons, proportions and silhouettes. No redesigns.
+
+Constant movement. No idle poses, hard cuts, teleportation, freeze frames, blood or gore.
+
+The mirror behaves like liquid glass: every sword strike creates ripples, cracks and independent reflections that briefly attack before snapping back.
+
+0–3s: Mirror forms from liquid black glass. Ronin emerges with a katana strike as Valkyrie attacks from the opposite reflection. Blades collide, creating a huge circular ripple.
+
+3–6s: Ronin's heavy cut meets Valkyrie's agile twin-blade counter. Reflections attack from opposite directions. Black cracks race across the mirror. Smoke briefly forms “REAL OR REFLECTION?”
+
+6–9s: Mirror tilts vertical. Both fighters sprint across its surface, exchanging rapid sword strikes. The glass bends around them like liquid.
+
+9–12s: Mirror explodes into floating black fragments. Fighters leap between reflections, destroying them. Fragments align into a giant blade shape. Smoke forms “BREAK THE IMAGE”, then shatters.
+
+12–15s: Final charge. Ronin's massive diagonal katana strike collides with Valkyrie's spinning twin-blade cross attack. The entire mirror shatters into thousands of black particles. Silence. Final smoke typography: “ONLY ONE REMAINS.”
+
+Elegant black-and-white luxury aesthetic, glossy reflections, silver highlights, charcoal smoke, cinematic motion blur, precise camera orbiting, low mirror tracking, rotating blade shots and dramatic final push.
+
+15s | 16:9 | continuous action | premium cinematic dark fantasy | exact character consistency
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@itxsarmadd · [原帖](https://x.com/itxsarmadd/status/2106698801604186579)
+
+<sub>Preview © 2026 @itxsarmadd · Prompt by @itxsarmadd</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-150"></a>
+### Case 150: The Cloaked Ranger Vanishes (披风游侠的暗影消失) — by @holagarciajavi
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-150"><img src="../../../images/hailuo-3/case150/preview.webp" width="560" alt="The Cloaked Ranger Vanishes"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-150)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — f/2.8 lens, eye level, static camera in Ravenholdt courtyard. Damp stone courtyard, low mountain fog. From 0s to 2s, subject holds unblinking eye cont…</summary>
+
+~~~~text
+f/2.8 lens, eye level, static camera in Ravenholdt courtyard. Damp stone courtyard, low mountain fog. From 0s to 2s, subject holds unblinking eye contact. At 2s, he swiftly pulls his dark wool hood over his head and turns his back to camera. At 3.5s, as his cloak sweeps, his physical body rapidly dissolves and evaporates into a brief wisp of dark shadow-mist, vanishing completely by second 5, leaving the damp stone courtyard entirely empty for the final second.  TEXTURES AND VFX: Optical body dissolve, realistic dark mist evaporation, fluid wool physics, organic sensor grain. Quick cloth rustle, boot pivot, brief wind gust, fading rain ambience.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@holagarciajavi · [原帖](https://x.com/holagarciajavi/status/2106409582222262478)
+
+<sub>Preview © 2026 @holagarciajavi · Prompt by @holagarciajavi</sub>
 
 [Back to top](#table-of-contents)

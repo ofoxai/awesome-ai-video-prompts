@@ -9,6 +9,7 @@
 - [Case 43: Game Operator PV — Three Characters, Three Skills (游戏干员 PV·三人技能展示) — by Alibaba](#case-43)
 - [Case 44: Two-Model Fashion Film — Jump Cuts Only (双女主时尚大片) — by Alibaba](#case-44)
 - [Case 53: A Skincare Brand Film, from a .pptx (一份创意提案生成的护肤品牌片) — by Alibaba](#case-53)
+- [Case 84: Sunrise Pour-Over Coffee (晨光里的手冲咖啡) — by PixelDojo](#case-84)
 
 <a id="case-1"></a>
 ### Case 1: Minimalist Camera Concept Film (极简相机概念片) — by Alibaba
@@ -496,5 +497,33 @@ summer fashion film in colorful Havana streets, Caribbean old town editorial, yo
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-84"></a>
+### Case 84: Sunrise Pour-Over Coffee (晨光里的手冲咖啡) — by PixelDojo
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-84"><img src="../../../images/wan-3/case84/preview.webp" width="700" alt="Sunrise Pour-Over Coffee"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-84)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A woman pours hot water in slow spirals over a paper filter of ground coffee, then lifts the kettle away, in a narrow kitchen at sunrise. The visuals …</summary>
+
+~~~~text
+A woman pours hot water in slow spirals over a paper filter of ground coffee, then lifts the kettle away, in a narrow kitchen at sunrise.
+The visuals feature low warm sunlight from a window on the left, steam catching the light, matte ceramic and brushed steel surfaces.
+Begin on a medium shot of her hands at the kettle, then slowly push in to a close-up of the coffee bed blooming.
+Audio includes the trickle of water, the low hiss of steam, and quiet morning room tone.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：PixelDojo · [原帖](https://pixeldojo.ai/guides/wan-3-0-prompting-guide)
+
+<sub>Preview © 2026 PixelDojo · Prompt by PixelDojo</sub>
 
 [Back to top](#table-of-contents)

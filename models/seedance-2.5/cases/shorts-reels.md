@@ -19,6 +19,10 @@
 - [Case 73: Three doorstep visits through a peephole (猫眼里的三次敲门) — by @bmx_ai13](#case-73)
 - [Case 74: One thousand years beside a mossy boulder (苔藓巨石旁的一千年) — by @sebatheepan](#case-74)
 - [Case 76: Bedroom candid, cat and doorbell (卧室随拍、猫咪与门铃) — by @oggii_0](#case-76)
+- [Case 82: One Journey Ending Inside an Eye (从雨滴、海洋到眼眸的一镜旅程) — by @Zyrellix](#case-82)
+- [Case 84: A Curious Fox by the Mountain Stream (狐狸的山间溪流 Vlog) — by @MrDasCreates](#case-84)
+- [Case 86: The Lighthouse Keeper and Glowing Orbs (灯塔守望者与发光海潮) — by @SyntheSarah](#case-86)
+
 <a id="case-28"></a>
 ### Case 28: Panda cub in the forest (熊猫幼崽) — by ByteDance
 
@@ -430,5 +434,113 @@ No music. Only raw production sound: bedding rustling, quiet breathing, finger t
 **来源**：[@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2085640281941307648)
 
 <sub>Preview © 2026 <a href="https://x.com/oggii_0/status/2085640281941307648">@oggii_0</a> · Prompt by <a href="https://x.com/oggii_0/status/2085640281941307648">@oggii_0</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-82"></a>
+### Case 82: One Journey Ending Inside an Eye (从雨滴、海洋到眼眸的一镜旅程) — by @Zyrellix
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-82"><img src="../../../images/seedance-2.5/case82/preview.webp" width="700" alt="One Journey Ending Inside an Eye"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-82)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a completely original, hyper-realistic cinematic video sequence with one continuous, immersive camera journey connecting every environment thro…</summary>
+
+~~~~text
+Create a completely original, hyper-realistic cinematic video sequence with one continuous, immersive camera journey connecting every environment through creative visual transformations.The sequence begins with an extreme macro close-up of wet asphalt in a quiet dark urban alley at night. Soft glowing neon lights reflect across the rain-covered pavement. A single raindrop falls into a shallow puddle, creating perfectly visible circular ripples. The camera rapidly pushes directly toward the center of the ripple, and the liquid surface organically transforms into the next environment.The camera emerges into a magnificent grand ballroom illuminated by elegant warm chandeliers. Numerous couples move naturally across the spacious ballroom floor in sophisticated formal clothing. The camera smoothly glides between the dancers and gradually focuses on an elegant woman. She naturally turns toward the camera. The camera moves closer and closer to her eye, then pushes directly into the pupil, using the eye as the transition point.Inside the pupil, the scene transforms seamlessly into a vast open desert under dramatic natural light. Endless golden sand dunes extend toward the horizon. A gigantic naturally formed quartz crystal rises from the dunes, catching sunlight and producing intricate realistic refractions. The camera moves directly toward the crystal and passes through its geometric internal structure, following the refracted light.The refracted light seamlessly becomes the reflection on a cracked smartphone screen. The smartphone is lying face-up on wet street pavement. The camera continues through the reflected surface and then suddenly tilts upward, following distorted building reflections from the wet surroundings toward the glass facade of a towering modern skyscraper.
+The camera continues rising smoothly along the skyscraper's reflective glass surface until it reaches the top. The camera looks upward into the open sky, and the sky gradually transforms into a deep underwater perspective looking upward toward shimmering rays of sunlight penetrating the dark blue ocean.Two enormous humpback whales swim gracefully through the deep water, creating a majestic sense of scale. One whale makes a powerful natural movement with its tail, sending a wave-like motion through the surrounding water. That moving water gradually transforms into thick freezing fog rolling across an enormous icy frozen lake.The frozen lake is surrounded by a vast dark landscape beneath a clear star-filled night sky. Bright green aurora lights begin dancing naturally across the distant horizon. The aurora becomes increasingly fluid and concentrated, with its glowing green patterns slowly converging toward the camera.The swirling aurora seamlessly transforms into the glowing green iris of a realistic human eye. The camera is extremely close to the eye at first. The iris gradually and naturally transitions from vivid green into a subtle blue-hazel color. The camera slowly pulls backward, revealing more of the eye and surrounding face. The eye remains calm and natural, then gently blinks once, creating a peaceful cinematic ending.Maintain the exact scene progression and visual story from beginning to end. Every transition must feel continuous, intentional, fluid, and visually connected. Preserve the key visual elements: wet neon pavement, raindrop ripple, grand ballroom, elegant woman, eye transition, desert dunes, giant quartz crystal, cracked smartphone, towering glass skyscraper, underwater whales, icy frozen lake, green aurora, and the final blue-hazel eye.Use completely original visual compositions and environments. Do not imitate or recreate any specific existing movie, advertisement, music video, commercial, artwork, character, celebrity, or recognizable copyrighted scene. No logos, brands, famous characters, celebrity likenesses, or recognizable intellectual-property elements.
+Visual style: hyper-realistic cinematic photography, physically realistic environments, natural human appearance, realistic water and atmospheric effects, detailed textures, sophisticated lighting, volumetric illumination, realistic reflections, cinematic depth of field, macro photography, smooth camera choreography, seamless optical transformations, immersive scale, high-end cinematic production quality, ultra-detailed 8K-quality visuals.Avoid abrupt cuts, distorted anatomy, unnatural faces, duplicated subjects, text, logos, watermarks, recognizable copyrighted imagery, or copied visual compositions.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · @itsPolloAI · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Zyrellix](https://x.com/Zyrellix) · [原帖](https://x.com/Zyrellix/status/2094267571943932216)
+
+<sub>Preview © 2026 <a href="https://x.com/Zyrellix/status/2094267571943932216">@Zyrellix</a> · Prompt by <a href="https://x.com/Zyrellix/status/2094267571943932216">@Zyrellix</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-84"></a>
+### Case 84: A Curious Fox by the Mountain Stream (狐狸的山间溪流 Vlog) — by @MrDasCreates
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-84"><img src="../../../images/seedance-2.5/case84/preview.webp" width="700" alt="A Curious Fox by the Mountain Stream"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-84)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphi…</summary>
+
+~~~~text
+Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphic fox, creating a natural first-person selfie perspective with light wind-induced shake, occasional soft lens flares from sunlight filtering through trees, realistic focus pulls, and dynamic walking/leaning motion. No cuts, transitions, or cinematic effects. Include a subtle realistic digital timestamp in the bottom-right corner that progresses naturally throughout the video.
+Visual Style: Bright modern 4K digital look with vibrant yet soft natural colors, warm late-afternoon golden sunlight mixed with dappled shade, gentle water reflections and soft mist rising from the stream, subtle water droplets or mist on the lens near the water, and crisp details on fur and leaves. Slight handheld energy but smooth enough for casual vlogging. Widescreen 16:9 framing.
+Character: Ember, a 24-year-old anthropomorphic red fox (bipedal, human-like proportions) with soft fluffy reddish-orange fur, white chest and muzzle, bright amber eyes, pointed ears, and a long bushy tail that sways naturally. He wears a simple light denim jacket with rolled sleeves over a soft cream t-shirt and comfortable cargo shorts. Personality: curious, warm, slightly playful and soft-spoken.
+Location: Starts on a wooden footbridge over a clear mountain stream in a lush temperate forest, surrounded by mossy rocks, ferns, wildflowers, and overhanging maple and pine branches. Soft green and golden foliage, clear water with gentle ripples and small fish darting below.
+Sequence (exactly 30 seconds, continuous take with timestamps):
+0:00 – 0:05
+Ember lifts the camera, smiles softly at the lens with his ears perking up, and says in a warm, slightly raspy voice:
+“Hey friends… you won’t believe this spot I found.”
+0:05 – 0:13
+He walks slowly along the wooden bridge, lowering the camera slightly to show the clear stream and small fish swimming just below the surface while continuing:
+“The water is so clear… I can see every little fish moving around.”
+0:13 – 0:20
+He crouches carefully at the edge, reaches one paw toward the water without touching it, and watches the fish dart past, laughing lightly:
+“They’re swimming right up to me. Hi little guys.”
+0:20 – 0:26
+He turns the camera to capture both his face and the stream, then sits on a flat mossy rock at the water’s edge, letting his tail curl beside him. He gazes at the water for a few seconds and says quietly:
+“Moments like this make everything feel peaceful.”
+0:26 – 0:30
+He stands up, waves one paw at the camera with a gentle smile, and says:
+“Thanks for exploring with me. See you next time.”
+The camera naturally lowers a little as he walks further along the path beside the stream.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@MrDasCreates](https://x.com/MrDasCreates) · [原帖](https://x.com/MrDasCreates/status/2089969922617266257)
+
+<sub>Preview © 2026 <a href="https://x.com/MrDasCreates/status/2089969922617266257">@MrDasCreates</a> · Prompt by <a href="https://x.com/MrDasCreates/status/2089969922617266257">@MrDasCreates</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-86"></a>
+### Case 86: The Lighthouse Keeper and Glowing Orbs (灯塔守望者与发光海潮) — by @SyntheSarah
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-86"><img src="../../../images/seedance-2.5/case86/preview.webp" width="700" alt="The Lighthouse Keeper and Glowing Orbs"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-86)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A weathered old lighthouse keeper stands on a foggy cliff at night, wearing a thick wool coat, holding an old brass lantern. Below him, the ocean wave…</summary>
+
+~~~~text
+A weathered old lighthouse keeper stands on a foggy cliff at night,
+wearing a thick wool coat, holding an old brass lantern. Below him,
+the ocean waves glow with soft bioluminescent blue light with each
+crash against the rocks. As he raises the lantern, dozens of floating
+glowing orbs (like fireflies) rise up from the water and drift past
+him into the misty air, swirling gently around his figure. Volumetric
+moonlight beams cut through the fog. Camera starts wide on the cliff,
+then does a slow cinematic push-in toward the keeper's face as the
+orbs surround him, ending on a close-up with orbs reflecting in his
+eyes. Teal and warm-amber color grade, hyper-realistic textures,
+shallow depth of field, film grain, atmospheric fog, 15 seconds,
+smooth continuous camera motion, no cuts.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@SyntheSarah](https://x.com/SyntheSarah) · [原帖](https://x.com/SyntheSarah/status/2097182529564365135)
+
+<sub>Preview © 2026 <a href="https://x.com/SyntheSarah/status/2097182529564365135">@SyntheSarah</a> · Prompt by <a href="https://x.com/SyntheSarah/status/2097182529564365135">@SyntheSarah</a></sub>
 
 [Back to top](#table-of-contents)

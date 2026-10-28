@@ -16,6 +16,7 @@
 - [Case 133: Mechanical bull charge The Beasts Are Coming (机械公牛冲锋·野兽将至) — by @rahulnanda86](#case-133)
 - [Case 137: A White Lion in the Lamplit Park (灯下公园里的白狮同行) — by @JohnSmith5912](#case-137)
 - [Case 138: A Tiny City Inside a Pocket Watch (怀表齿轮里的微缩晨城) — by @DeCat2025](#case-138)
+- [Case 144: A Living Portrait Among Statues (雕塑工作室里的珠宝肖像) — by @TaliaAariz](#case-144)
 
 <a id="case-10"></a>
 ### Case 10: A Vintage 1947 Town Under Fire (1947 小镇的复古战地纪实) — by @RuzainaMeer
@@ -1887,5 +1888,30 @@ Negative prompt: more than one watchmaker, digital watch, cartoon style, modern 
 **来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2108914789665604069)
 
 <sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-144"></a>
+### Case 144: A Living Portrait Among Statues (雕塑工作室里的珠宝肖像) — by @TaliaAariz
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-144"><img src="../../../images/hailuo-3/case144/preview.webp" width="400" alt="A Living Portrait Among Statues"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-144)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic fashion video set in a dusty sculpture studio filled with white plaster classical busts and statues: a beautiful young woman with long dar…</summary>
+
+~~~~text
+A cinematic fashion video set in a dusty sculpture studio filled with white plaster classical busts and statues: a beautiful young woman with long dark wet-look wavy hair sits on a white pedestal in a sheer teal off-shoulder draped dress with midriff cutouts, wearing a large silver pendant and chunky dark red jewelry, slowly shifting between elegant poses—looking down in profile, turning toward the camera with a soft gaze, close-ups of her face and manicured hands touching her shoulder and cheek—while Italian voiceover gently admires her beauty and presence.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@TaliaAariz · [原帖](https://x.com/TaliaAariz/status/2111479729819652111)
+
+<sub>Preview © 2026 @TaliaAariz · Prompt by @TaliaAariz</sub>
 
 [回到目录](#table-of-contents)
