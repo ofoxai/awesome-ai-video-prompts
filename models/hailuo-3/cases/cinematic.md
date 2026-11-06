@@ -17,6 +17,10 @@
 - [Case 137: A White Lion in the Lamplit Park (灯下公园里的白狮同行) — by @JohnSmith5912](#case-137)
 - [Case 138: A Tiny City Inside a Pocket Watch (怀表齿轮里的微缩晨城) — by @DeCat2025](#case-138)
 - [Case 144: A Living Portrait Among Statues (雕塑工作室里的珠宝肖像) — by @TaliaAariz](#case-144)
+- [Case 153: A Universe Inside an Eye (宇宙藏在一只眼睛里) — by @DeCat2025](#case-153)
+- [Case 154: Black Couture in Golden Light (黑色礼服与建筑光影) — by @DaniaSafvi](#case-154)
+- [Case 155: The Exit Was Never an Exit (停车场出口的丧尸反转) — by @Just_Anika_Here](#case-155)
+- [Case 160: A Coastal Fashion Moment (海岸时装与独白) — by @CaliraVal](#case-160)
 
 <a id="case-10"></a>
 ### Case 10: A Vintage 1947 Town Under Fire (1947 小镇的复古战地纪实) — by @RuzainaMeer
@@ -1913,5 +1917,153 @@ A cinematic fashion video set in a dusty sculpture studio filled with white plas
 **来源**：@TaliaAariz · [原帖](https://x.com/TaliaAariz/status/2111479729819652111)
 
 <sub>Preview © 2026 @TaliaAariz · Prompt by @TaliaAariz</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-153"></a>
+### Case 153: A Universe Inside an Eye (宇宙藏在一只眼睛里) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-153"><img src="../../../images/hailuo-3/case153/preview.webp" width="526" alt="A Universe Inside an Eye"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-153)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 15 seconds STYLE: Ultra-photorealistic cinematic sci-fi, IMAX-scale visuals, dramatic volumetric lighting, realistic VFX, anamorphic lens, deep cosmic…</summary>
+
+~~~~text
+15 seconds  STYLE: Ultra-photorealistic cinematic sci-fi, IMAX-scale visuals, dramatic volumetric lighting, realistic VFX, anamorphic lens, deep cosmic blacks, cyan and golden highlights.    
+
+SCENE 1 (0–2s): A lone female astronaut in a graphite-white futuristic spacesuit stands on a colossal metallic platform floating in deep space. Galaxies extinguish behind her. The last blue star collapses. Extreme wide shot, slow camera push-in, overwhelming cosmic scale.    
+
+SCENE 2 (2–4s): The astronaut runs toward an ancient stellar machine and presses a glowing golden activation core. Warning lights flash across her visor. Dynamic tracking shot transitioning to extreme close-up of her hand.    
+
+SCENE 3 (4–7s): The dying star erupts into a magnificent golden energy spiral. A cosmic shockwave spreads across the darkness, reigniting galaxies. The astronaut braces against the blast. Spectacular photorealistic cosmic VFX, wide cinematic pullback.    
+
+SCENE 4 (7–10s): WITHOUT CUTTING, the camera continues pulling back. The golden spiral transforms seamlessly into the intricate iris of a human eye. The entire universe is revealed as a tiny reflection inside a pupil. Surreal macro realism, seamless scale transformation.    
+
+SCENE 5 (10–12s): The camera reveals a sleeping child in a warm bedroom at sunrise. The child's eye opens. The galaxy reflection slowly fades. Intimate cinematic close-up, warm sunlight, sudden quiet.    
+
+SCENE 6 (12–15s): The child blinks, smiles, and raises an open palm. A miniature newborn galaxy materializes above the hand, spinning with billions of tiny stars. The child whispers: 'Again.' Gentle camera push-in. Cut to black.    
+
+NARRATION: 'The last star was dying. One final chance to save everything. She brought the universe back. But it was never ours. We were only a dream.' Child whispers: 'Again.'    
+
+SOUND: Deep cosmic rumble, escalating orchestral tension, enormous bass impact at the star ignition, reverse swell during the eye reveal, sudden silence, soft piano and ethereal chime at the ending.    
+
+CONTINUITY: Same female astronaut and graphite-white suit throughout space scenes. Same golden spiral shape across star, eye reflection, and newborn galaxy. Maintain consistent photorealism and smooth cinematic transitions. No subtitles, no watermarks, no unwanted text.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2116894957726253228)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-154"></a>
+### Case 154: Black Couture in Golden Light (黑色礼服与建筑光影) — by @DaniaSafvi
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-154"><img src="../../../images/hailuo-3/case154/preview.webp" width="700" alt="Black Couture in Golden Light"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-154)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second cinematic luxury fashion video in 9:16 vertical format. A tall American female model with long dark hair wears a dramatic black cou…</summary>
+
+~~~~text
+Create a 15-second cinematic luxury fashion video in 9:16 vertical format. A tall American female model with long dark hair wears a dramatic black couture gown with silver details and a flowing train.
+
+0–3 sec: Close-up of red satin fabric moving through darkness before revealing the model under dramatic spotlights.
+
+3–6 sec: The model walks confidently toward the camera. A stylish whip-pan captures her turning as the gown flows naturally.
+
+6–10 sec: Seamless transition to a modern architectural courtyard with towering stone walls and golden sunlight. The model walks gracefully as the wind moves her hair and gown.
+
+10–13 sec: The camera circles around her as she strikes a powerful high-fashion pose.
+
+13–15 sec: Symmetrical hero shot with dramatic golden rim lighting, fading into black.
+
+Style: Ultra-realistic luxury fashion campaign, cinematic lighting, natural fabric physics, elegant camera movements, deep shadows, black and gold color palette, 4K quality.
+
+Audio: Deep cinematic bass, subtle percussion, and soft fabric sounds. No dialogue or subtitles.
+
+Text at the end: “BEYOND THE ORDINARY”
+
+Maintain consistent facial features, hairstyle, outfit, and body proportions throughout. No distortion, flickering, watermarks, or random text.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DaniaSafvi · [原帖](https://x.com/DaniaSafvi/status/2109884479619682650)
+
+<sub>Preview © 2026 @DaniaSafvi · Prompt by @DaniaSafvi</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-155"></a>
+### Case 155: The Exit Was Never an Exit (停车场出口的丧尸反转) — by @Just_Anika_Here
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-155"><img src="../../../images/hailuo-3/case155/preview.webp" width="700" alt="The Exit Was Never an Exit"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-155)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second ultra-photorealistic live-action zombie horror movie sequence in 16:9 widescreen. Make it feel like a professionally shot theatrica…</summary>
+
+~~~~text
+Create a 15-second ultra-photorealistic live-action zombie horror movie sequence in 16:9 widescreen. Make it feel like a professionally shot theatrical horror film, with 5 connected shots, escalating tension, strong cinematic sound design and music. Realistic human movement, realistic environments, grounded physics, no comedy, no text, no subtitles, no dialogue.  SHOT 1 — 0–3 sec: Night. A deserted underground parking garage. A frightened young woman walks quickly between parked cars, holding a small flashlight. The camera tracks backward in front of her. Suddenly, the flashlight beam catches a motionless person standing far behind her. Deep bass hit.  SHOT 2 — 3–6 sec: Close-up of the woman's face as she stops breathing for a moment and looks behind her. The parking space is empty. The music drops almost completely silent. She slowly turns back toward the camera.  SHOT 3 — 6–9 sec: A zombie suddenly appears extremely close behind her in the background — pale dirty skin, torn everyday clothing, blood around the mouth, unnatural posture. It moves toward her with a sudden violent burst. Hard music impact.  SHOT 4 — 9–12 sec: She runs through the parking garage. Camera follows handheld from behind. Multiple distant zombie silhouettes suddenly emerge between the cars, blocking the exit. Emergency lights begin flashing red.  SHOT 5 — 12–15 sec: She reaches the exit door and desperately pulls it open. Bright daylight floods into the dark garage. She looks relieved for half a second — then the camera moves slightly past her shoulder and reveals dozens of zombies already standing silently outside, completely blocking the exit.  On the final bass hit, one zombie suddenly looks directly into the camera.  CUT TO BLACK.  VISUAL STYLE: ultra-photorealistic live-action theatrical zombie horror, cinematic 16:9 composition, realistic human anatomy, realistic zombie makeup and skin texture, physically believable movement, dark atmospheric lighting, practical-looking effects, subtle film grain, dramatic contrast, natural handheld camera movement, high-end horror cinematography.  CONSISTENCY & QUALITY: keep the same woman, same clothing, same hairstyle and same underground parking garage throughout the sequence. Zombies must have consistent realistic anatomy. No extra limbs, extra fingers, duplicated people, warped faces, melting bodies, floating objects, cartoon appearance, video-game look, excessive gore, text, subtitles, logos or watermark.  EDITING: each shot must have a clear visual purpose and connect naturally to the next. Fast pacing, no dead time. The first shot must immediately create curiosity. Build tension from mystery → realization → zombie reveal → chase → final shocking reveal.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · Hailuo · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@Just_Anika_Here · [原帖](https://x.com/Just_Anika_Here/status/2107342788178407680)
+
+<sub>Preview © 2026 @Just_Anika_Here · Prompt by @Just_Anika_Here</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-160"></a>
+### Case 160: A Coastal Fashion Moment (海岸时装与独白) — by @CaliraVal
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-160"><img src="../../../images/hailuo-3/case160/preview.webp" width="700" alt="A Coastal Fashion Moment"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-160)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wil…</summary>
+
+~~~~text
+A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wild greenery and delicate flowers. She wears a relaxed oversized brown knit sweater with elegant ivory trousers. Behind her, crystal-blue ocean waters stretch toward a towering lush green mountain rising from the sea.
+
+Soft golden-hour sunlight creates a warm, dreamy atmosphere. A gentle ocean breeze naturally moves her hair and sweater. Start with a wide cinematic establishing shot of the coastline, then smoothly track alongside her as she walks, transitioning into elegant close-ups of her outfit, hair, and subtle facial expressions.
+
+Spoken Voice / Dialogue: The woman speaks naturally while walking, in a soft, calm, confident female voice. Her delivery should feel spontaneous and conversational, with realistic breathing and subtle pauses. She says:
+
+“Sometimes, all you need is a quiet place, a little fresh air, and a moment to simply slow down and enjoy where you are.”
+
+Her lip movements must accurately synchronize with every spoken word. Natural facial expressions, realistic mouth movement, and subtle head gestures while speaking. No exaggerated acting.
+
+Ambient Audio: Gentle ocean waves crashing against the rocks, soft coastal wind, subtle rustling of flowers and leaves, quiet footsteps, and distant seabirds. Keep the environmental sounds natural and cinematic underneath the dialogue. No background music and no additional voices.
+
+Photorealistic, natural skin and hair, realistic fabric movement, cinematic lighting, smooth camera movement, shallow depth of field, soft bokeh, subtle film grain, premium fashion-commercial aesthetic, atmospheric color grading, 4K cinematic quality. No text, no logos, no watermark.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@CaliraVal · [原帖](https://x.com/CaliraVal/status/2096833346555023816)
+
+<sub>Preview © 2026 @CaliraVal · Prompt by @CaliraVal</sub>
 
 [Back to top](#table-of-contents)

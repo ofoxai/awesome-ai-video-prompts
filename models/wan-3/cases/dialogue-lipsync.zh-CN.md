@@ -9,6 +9,7 @@
 - [Case 51: Voice Reference — Swap the Character and the Line (音色参考·替换角色与台词) — by Alibaba](#case-51)
 - [Case 76: Irish Pub Dialogue Test (爱尔兰酒吧口播测试) — by u/svenhonor06](#case-76)
 - [Case 89: The Last Croissant: Two-Person Dialogue (最后一只可颂的双人口型对话) — by ClipRush Team](#case-89)
+- [Case 97: The Lighthouse Keeper (风雨中的灯塔守护者) — by PixelDojo](#case-97)
 
 <a id="case-9"></a>
 ### Case 9: Emotional Realism — Graduate in a Blue Gown (情绪写实·毕业袍女孩) — by Alibaba
@@ -162,5 +163,30 @@ The woman asks, "You're not taking the last croissant, are you?" The man laughs 
 **来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#dialogue)
 
 <sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-97"></a>
+### Case 97: The Lighthouse Keeper (风雨中的灯塔守护者) — by PixelDojo
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-97"><img src="../../../images/wan-3/case97/preview.webp" width="700" alt="The Lighthouse Keeper"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-97)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A lighthouse keeper in a yellow raincoat pushes open a heavy door at the top of a lighthouse and steps out onto the gallery in wind and rain. Slow low…</summary>
+
+~~~~text
+A lighthouse keeper in a yellow raincoat pushes open a heavy door at the top of a lighthouse and steps out onto the gallery in wind and rain. Slow low strings play underneath. Wind gusts hard and rain rattles on metal. The keeper turns to the camera and says that the light is still turning. A subtitle reading Chapter One: The Keeper appears on screen.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：PixelDojo · [原帖](https://pixeldojo.ai/guides/wan-3-0-prompting-guide)
+
+<sub>Preview © 2026 PixelDojo · Prompt by PixelDojo</sub>
 
 [回到目录](#table-of-contents)

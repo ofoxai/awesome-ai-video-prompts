@@ -22,6 +22,7 @@
 - [Case 82: One Journey Ending Inside an Eye (从雨滴、海洋到眼眸的一镜旅程) — by @Zyrellix](#case-82)
 - [Case 84: A Curious Fox by the Mountain Stream (狐狸的山间溪流 Vlog) — by @MrDasCreates](#case-84)
 - [Case 86: The Lighthouse Keeper and Glowing Orbs (灯塔守望者与发光海潮) — by @SyntheSarah](#case-86)
+- [Case 96: A Lisbon Summer Walk (里斯本夏日漫游) — by @PrometheanAIX](#case-96)
 
 <a id="case-28"></a>
 ### Case 28: Panda cub in the forest (熊猫幼崽) — by ByteDance
@@ -542,5 +543,58 @@ smooth continuous camera motion, no cuts.
 **来源**：[@SyntheSarah](https://x.com/SyntheSarah) · [原帖](https://x.com/SyntheSarah/status/2097182529564365135)
 
 <sub>Preview © 2026 <a href="https://x.com/SyntheSarah/status/2097182529564365135">@SyntheSarah</a> · Prompt by <a href="https://x.com/SyntheSarah/status/2097182529564365135">@SyntheSarah</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-96"></a>
+### Case 96: A Lisbon Summer Walk (里斯本夏日漫游) — by @PrometheanAIX
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-96"><img src="../../../images/seedance-2.5/case96/preview.webp" width="394" alt="A Lisbon Summer Walk"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-96)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Seedance 2.5, vertical 9:16, 15 seconds. Use the reference image to preserve the same adult woman’s exact identity, face, hair, body proportions, and …</summary>
+
+~~~~text
+Seedance 2.5, vertical 9:16, 15 seconds. Use the reference image to preserve the same adult woman’s exact identity, face, hair, body proportions, and visual quality.
+
+Hyper-realistic cinematic live action, natural skin texture, no plastic skin, no morphing, no outfit changes.
+
+She wears a butter-yellow linen vest, crisp white tailored shorts, woven leather sandals, delicate gold jewelry, and carries a small raffia shoulder bag. Light, airy Lisbon summer style. No sunglasses. No dialogue, no text, no logos.
+
+Create nine energetic but elegant scenes:
+
+1. Wide opening at Praça do Comércio. She enters the sunlit square beneath the Rua Augusta Arch as pedestrians move naturally around her. Backward gimbal tracking.
+
+2. A fast Lisbon time-lapse. Yellow trams, pedestrians, tiled streets, shifting sunlight, and changing city movement surround her as she continues through the city. She remains the visual anchor.
+
+3. Cut to an intimate, tightly cropped beauty shot of her face, neck, and shoulders beside a sunlit azulejo wall. She looks directly into the camera. Her eyes soften and she gives the smallest genuine smile, creating a warm positive connection with the viewer.
+
+4. Lateral tracking shot as she walks along Rua Augusta, adjusting the raffia bag while the crowd flows behind her. Natural, confident movement.
+
+5. Rear-follow shot through a narrow Alfama lane with tiled buildings, balconies, plants, and warm reflected sunlight. She looks upward briefly, curious about something outside the frame.
+
+6. Side-profile shot outside a small Lisbon café. She pauses, notices something across the street, and lets a subtle private smile cross her face.
+
+7. Partial orbit as she reaches a Miradouro overlooking Lisbon and the Tagus. Her hair and linen vest move gently in the breeze.
+
+8. Stabilized forward tracking as she crosses a bright street in one continuous direction. She glances to the side, deciding where to go next.
+
+9. Golden-hour hero shot at the overlook. Slow cinematic push-in as she turns toward the glowing city, then looks back toward the camera with quiet confidence and a soft smile.
+
+End warm, beautiful, and emotionally open. Use quick elegant cuts, natural summer ambience, gentle breeze, realistic pedestrians, rich architectural detail, warm sunlight, and a polished travel-film rhythm. Keep her beautiful and recognizable in every scene.
+
+Paid promotion for Lovart.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@PrometheanAIX](https://x.com/PrometheanAIX) · [原帖](https://x.com/PrometheanAIX/status/2091139175294603414)
+
+<sub>Preview © 2026 <a href="https://x.com/PrometheanAIX/status/2091139175294603414">@PrometheanAIX</a> · Prompt by <a href="https://x.com/PrometheanAIX/status/2091139175294603414">@PrometheanAIX</a></sub>
 
 [目次に戻る](#table-of-contents)

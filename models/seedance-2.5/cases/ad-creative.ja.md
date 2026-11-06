@@ -13,6 +13,9 @@
 - [Case 1007: AURA serum, one drop in the afternoon (AURA 精华油 · 午后一滴) — by Ofox Team](#case-1007)
 - [Case 78: Six Overenthusiastic Tutors (六位金牌导师的招生秀) — by @johnAGI168](#case-78)
 - [Case 87: A Parisian Breeze Around a Kelly Bag (风经过巴黎：Kelly 手袋广告) — by @johnAGI168](#case-87)
+- [Case 89: California Dream at Sunset (加州日落香水广告) — by @ShamiWeb3](#case-89)
+- [Case 91: The Sneaker Campaign Twist (球鞋广告的创意反转) — by @SyntheSarah](#case-91)
+- [Case 95: A Fresh Laundry Day (阳光洗衣日) — by @CaliraVal](#case-95)
 
 <a id="case-12"></a>
 ### Case 12: Fruit biscuit commercial (果味饼干广告片) — by ByteDance
@@ -629,5 +632,181 @@ Negative：
 **来源**：[@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2096082626364788752)
 
 <sub>Preview © 2026 <a href="https://x.com/johnAGI168/status/2096082626364788752">@johnAGI168</a> · Prompt by <a href="https://x.com/johnAGI168/status/2096082626364788752">@johnAGI168</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-89"></a>
+### Case 89: California Dream at Sunset (加州日落香水广告) — by @ShamiWeb3
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-89"><img src="../../../images/seedance-2.5/case89/preview.webp" width="700" alt="California Dream at Sunset"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-89)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — LOUIS VUITTON &quot;CALIFORNIA DREAM&quot; EDP 100ML — 30-Second Commercial Video Prompt Phase 1: Visual &amp; Sensory Asset Definition Product: Louis Vuitton Calif…</summary>
+
+~~~~text
+LOUIS VUITTON "CALIFORNIA DREAM" EDP 100ML — 30-Second Commercial Video Prompt
+Phase 1: Visual & Sensory Asset Definition
+Product: Louis Vuitton California Dream flacon. Clear heavy-base glass bottle with a signature ombré fragrance liquid — aqua-teal at the shoulder melting into soft blush-pink at the base. Glossy black stepped cylindrical stopper. Crisp black debossed/printed lettering "CALIFORNIA DREAM" above "LOUIS VUITTON." Packaging box in matching teal-to-coral-pink gradient with pink "CALIFORNIA DREAM" script and black "LOUIS VUITTON" wordmark.
+Subject (Heroine): A tall, slim, high-fashion model with an editorial runway physique. Sun-kissed, dewy, luminous skin — fresh and glowing, never matte. Sparkling emerald-green eyes that catch and hold the light in every close-up. Soft waved hair loose and wind-swept. She wears a flowing, silk sunset-coral/burnt-orange halter gown — a color chosen to sit in warm contrast against the bottle's cool blue-to-pink palette — with delicate gold ring hardware at the waist.
+Environment: California pier/boardwalk at golden hour into dusk — weathered wood planks, a pale wooden cross-beam silhouette in the background, soft lavender-peach sky, distant hazy shoreline, gentle sea breeze.
+Pacing: 30-second fluid runtime, continuous camera glides, soft cross-blur transitions, zero jitter, rhythmic build to a hero close on the final beat.
+Phase 2: Shot-by-Shot Timeline
+
+@sheet is the visual truth for product and subject in every shot: [PRODUCT LOCK — clear glass flacon, thick base, teal-to-pink ombré liquid, glossy black stepped stopper, black lettering "CALIFORNIA DREAM" above "LOUIS VUITTON"]. [SUBJECT LOCK — tall, slim, fashion-model heroine, glowing fresh skin, sparkling emerald-green eyes, wind-swept waved hair, flowing coral-orange silk halter gown with gold ring hardware]. Keep flacon and subject identical across all shots.
+
+[00:00.0] Wide establishing shot, low angle from the boardwalk planks. Golden-pink sunset sky, silhouette of the wooden pier cross-beam. Camera glides slowly forward along the weathered wood toward a soft focal point in the distance.
+
+[00:02.5] Medium shot, eye-level. The @sheet heroine walks barefoot along the sun-warmed boardwalk, coral gown catching the breeze, her emerald eyes glinting as she glances toward camera. Camera tracks alongside her in a smooth lateral glide.
+
+[00:05.0] Close-up, eye-level. Her face in profile, dewy skin lit by warm rim light, green eyes sparkling as she closes them briefly, a small content smile. Loose hair drifts across her cheek. Camera holds with a gentle micro push-in.
+
+[00:07.5] Extreme close-up, flat-on. The @sheet flacon cradled in her hand, sunlight refracting through the teal-to-pink ombré liquid, "CALIFORNIA DREAM" lettering crisp and legible. Camera drifts in a slow arc around the glass.
+
+[00:10.0] Medium-wide, three-quarter angle. The heroine lifts the bottle toward the horizon, coral fabric billowing against the blue-pink sky — a striking color contrast between gown and bottle. Camera pulls back with continuous fluid motion.
+
+[00:12.5] Macro shot, high angle looking down. Sea mist droplets and a scatter of citrus slices and pink sand grains resting beside the flacon on wet wooden planks. Soft golden side light. Camera glides right to left.
+
+[00:14.5] Ultra-macro, flat-on. A slow-motion burst of the ombré liquid — teal swirling into blush-pink with fine suspended micro-bubbles, fully backlit and glowing. Camera holds with a subtle rotating drift.
+
+[00:17.0] Close-up, eye-level. The heroine's green eyes open directly to camera, sparkling with warm sunset catchlight, a soft exhale of confidence. Camera tilts up slowly from her collarbone to her gaze.
+
+[00:19.5] Medium shot. She spritzes the @sheet perfume into the golden air, fine mist catching the light like scattered gold dust, coral gown swaying. Camera circles smoothly around her.
+
+[00:22.0] Wide shot, horizon at eye-level. The heroine stands tall and poised on the reflective wet boardwalk as dusk deepens, sky shifting into lavender and deep ocean blue, her silhouette elegant and slim. Camera holds a slow cinematic push-in.
+
+[00:24.5] Abstract transitional shot. Coral silk fabric flutters in slow motion intercut with liquid-glass light refractions, streaking softly into blue and pink. Camera whips gently sideways.
+
+[00:26.0] Medium hero shot, centered, eye-level. The full @sheet flacon held in sharp focus in the foreground, heroine soft-focus behind it, emerald eyes still catching light, radiant sunset halo behind her. "CALIFORNIA DREAM" and "LOUIS VUITTON" lettering perfectly crisp and legible. Camera glides slowly forward.
+
+[00:28.5–00:30.0] Final settle. Glow builds gently around the bottle, light flare blooms softly across frame, then fades to warm black. No text overlay, no end card — clean cinematic fade.
+
+Phase 3: Audio & Sound Design
+Background Music: Warm, airy ambient pop-electronic score — soft piano arpeggios layered over a mellow analog synth pad, gentle four-on-the-floor pulse building from :00 to :22, then a light emotional swell with a soft string layer into the hero shot, resolving on a warm sustained chord at :30.
+Sound Effects:
+Gentle ocean waves and boardwalk creak ambience throughout
+Soft breeze/fabric flutter sound synced to gown movement (:02.5, :10.0, :24.5)
+Crisp glass-chime "ting" as the bottle catches light (:07.5)
+Light citrus-fizz/bubble sound layered under the liquid macro shot (:14.5)
+Airy perfume mist spray sound, crisp and high-fidelity (:19.5)
+Soft ambient hush and gentle low sub-swell on the final glow (:28.5–:30.0)
+
+Aspect Ratio: 16:9
+Total Duration: 30 seconds
+Style: Continuous fluid camera glides, seamless cross-blur transitions, cinematic warm-golden color grade, no jitter cuts.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · FishCreative · i2v · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@ShamiWeb3](https://x.com/ShamiWeb3) · [原帖](https://x.com/ShamiWeb3/status/2093133619883913232)
+
+<sub>Preview © 2026 <a href="https://x.com/ShamiWeb3/status/2093133619883913232">@ShamiWeb3</a> · Prompt by <a href="https://x.com/ShamiWeb3/status/2093133619883913232">@ShamiWeb3</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-91"></a>
+### Case 91: The Sneaker Campaign Twist (球鞋广告的创意反转) — by @SyntheSarah
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-91"><img src="../../../images/seedance-2.5/case91/preview.webp" width="700" alt="The Sneaker Campaign Twist"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-91)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second ultra-photorealistic cinematic commercial for Nike Air Max, combining premium sports advertising, creativity, subtle comedy, and a …</summary>
+
+~~~~text
+Create a 30-second ultra-photorealistic cinematic commercial for Nike Air Max, combining premium sports advertising, creativity, subtle comedy, and a surprising twist.
+
+Keep the female creative director’s face, hairstyle, clothing, body proportions, and appearance perfectly consistent throughout.
+
+0–4s — THE DEADLINE
+Late-night creative studio. A stylish young female creative director sits surrounded by monitors and unfinished projects. Nike Air Max sneakers sit on her desk. Notifications appear rapidly. She says:
+“Five projects. One deadline.”
+
+4–8s — THE IDEA
+She looks at the Nike Air Max, gets an idea, rapidly creates a campaign on her computer, and hits ENTER. The screen flashes.
+
+8–16s — THE CAMPAIGN
+A powerful athlete wearing the same Nike Air Max runs through multiple cinematic environments: a futuristic city at sunrise, rain-soaked streets, and mountains. Show extreme close-ups of the sneakers, realistic Air Max cushioning compression, pavement impacts, water splashes, and seamless match cuts between locations.
+
+16–21s — DONE
+Back in the studio, her monitors display polished Nike Air Max campaign visuals. Only seconds have passed. Shocked, she says:
+“Wait… that's it?”
+
+21–26s — THE TWIST
+She relaxes with coffee. A notification appears: CAMPAIGN APPROVED. She smiles. Another appears:
+CLIENT: “Can we make 10 more?”
+Her smile disappears. She looks at the camera and says:
+“Never mind.”
+
+26–30s — HERO REVEAL
+Extreme cinematic product shot of Nike Air Max on a dark reflective surface. Dramatic lighting, floating particles, slow camera rotation. Final frame:
+NIKE — JUST DO IT.
+
+STYLE: Ultra-photorealistic, premium global sports commercial, cinematic lighting, realistic skin, fabric, reflections, shadows, natural motion, dynamic camera movement, shallow depth of field, subtle slow motion. No cartoon style, distorted anatomy, fake logos, fake text, watermarks, or altered shoe design.
+
+AUDIO: Keyboard and notification sounds at the start, building into energetic cinematic music during the running sequence. Powerful footsteps, sneaker impacts, water splashes, and bass hits. Music drops for the comedy moment and ends with a strong cinematic hit.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@SyntheSarah](https://x.com/SyntheSarah) · [原帖](https://x.com/SyntheSarah/status/2096099021152498159)
+
+<sub>Preview © 2026 <a href="https://x.com/SyntheSarah/status/2096099021152498159">@SyntheSarah</a> · Prompt by <a href="https://x.com/SyntheSarah/status/2096099021152498159">@SyntheSarah</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-95"></a>
+### Case 95: A Fresh Laundry Day (阳光洗衣日) — by @CaliraVal
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-95"><img src="../../../images/seedance-2.5/case95/preview.webp" width="700" alt="A Fresh Laundry Day"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-95)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female …</summary>
+
+~~~~text
+Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
+
+0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
+Voiceover: “Laundry day starts with one simple step.”
+
+5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
+Voiceover: “I just load all my clothes into the washing machine…”
+
+10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
+Voiceover: “…add my detergent…”
+
+13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
+Voiceover: “…and let the machine do the work.”
+
+17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
+Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
+
+22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
+Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
+
+28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
+Voiceover: “Clean, fresh, and ready to wear.”
+
+Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@CaliraVal](https://x.com/CaliraVal) · [原帖](https://x.com/CaliraVal/status/2091386310837862772)
+
+<sub>Preview © 2026 <a href="https://x.com/CaliraVal/status/2091386310837862772">@CaliraVal</a> · Prompt by <a href="https://x.com/CaliraVal/status/2091386310837862772">@CaliraVal</a></sub>
 
 [目次に戻る](#table-of-contents)

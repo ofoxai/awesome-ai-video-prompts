@@ -23,6 +23,12 @@
 - [Case 80: One Last Door in the Warehouse (仓库里最后一扇门) — by @The_Kremlinn](#case-80)
 - [Case 83: Homework in the Rooftop Wind (天台上被风吹散的作业) — by @Aqsahere_](#case-83)
 - [Case 85: The Steamed Bun Duel and the Cat (女侠争包子与猫咪截胡) — by @johnAGI168](#case-85)
+- [Case 88: The Elevator Outbreak (电梯里的异变) — by @doctorwasif](#case-88)
+- [Case 90: Shelter in the Rain (雨夜瞭望塔避难) — by @saniaspeaks_](#case-90)
+- [Case 92: The Last-Minute Diet (末日来临先放弃减肥) — by @Aqsahere_](#case-92)
+- [Case 93: The Last Call (来自母亲的最后来电) — by @RuzainaMeer](#case-93)
+- [Case 94: Speed Against Armor (仓库中的极速对决) — by @SyntheSarah](#case-94)
+- [Case 97: Behind the Palace Scene (古装剧镜头背后的片场) — by @Naiknelofar788](#case-97)
 
 <a id="case-1"></a>
 ### Case 1: Guardian robot and grandmother, nine-shot storyboard (守护机器人与老奶奶 · 九宫格分镜) — by ByteDance
@@ -901,5 +907,320 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 **来源**：[@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2083430135152209926)
 
 <sub>Preview © 2026 <a href="https://x.com/johnAGI168/status/2083430135152209926">@johnAGI168</a> · Prompt by <a href="https://x.com/johnAGI168/status/2083430135152209926">@johnAGI168</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-88"></a>
+### Case 88: The Elevator Outbreak (电梯里的异变) — by @doctorwasif
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-88"><img src="../../../images/seedance-2.5/case88/preview.webp" width="700" alt="The Elevator Outbreak"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-88)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 1. 0–1.2s: Woman stands blankly in cramped elevator; uneasy neighbor watches. 2. 1.2–2.4s: Fingers twitch; floor display flickers. 3. 2.4–3.6s: She vi…</summary>
+
+~~~~text
+1. 0–1.2s: Woman stands blankly in cramped elevator; uneasy neighbor watches.
+2. 1.2–2.4s: Fingers twitch; floor display flickers.
+3. 2.4–3.6s: She violently convulses against mirrored wall; neighbor recoils.
+4. 3.6–4.8s: Collapses; arm bends unnaturally.
+5. 4.8–6s: Rises, slack face, wide eyes, twisted joints.
+6. 6–7.2s: Neighbor trapped in corner, fumbling door button.
+7. 7.2–8.5s: Jaw stretches impossibly wide; she lunges at camera.
+8. 8.5–10s: Doors open; she rushes into hallway with distorted limbs.
+9. 10–11.8s: Stands down corridor, head bent at unnatural angle.
+10. 11.8–13.2s: Neighbor stares up in terror.
+11. 13.2–15s: Resident peers through cracked door, horrified.
+12. 15–16.3s: Creature charges, knocking over bikes and mats.
+13. 16.3–17.7s: Neighbor runs, glancing back.
+14. 17.7–19s: Creature bursts past stairwell door, reaching forward.
+15. 19–20.4s: Grabs neighbor’s jacket near railing.
+16. 20.4–21.8s: Resident grabs and unwinds fire hose.
+17. 21.8–23.2s: Water blasts creature; it recoils into shoe racks.
+18. 23.2–24.7s: Resident uses umbrella to keep it back.
+19. 24.7–26.2s: Creature throws umbrella, grabs bike pump, recoils from air burst.
+20. 26.2–28.2s: Staggers toward corridor window as lights flicker.
+21. 28.2–29.2s: Smashes through window; glass scatters into night.
+22. 29.2–30s: Soaked residents stare outside; final CCTV shot.
+
+Style: realistic Korean apartment horror, claustrophobic handheld camera, flickering fluorescent lighting, uncanny body horror, tense cinematic pacing, no gore.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · OpenArt · 未标注 · 未标注 · 1080p · 未标注 · 未标注
+**来源**：[@doctorwasif](https://x.com/doctorwasif) · [原帖](https://x.com/doctorwasif/status/2089933493753241834)
+
+<sub>Preview © 2026 <a href="https://x.com/doctorwasif/status/2089933493753241834">@doctorwasif</a> · Prompt by <a href="https://x.com/doctorwasif/status/2089933493753241834">@doctorwasif</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-90"></a>
+### Case 90: Shelter in the Rain (雨夜瞭望塔避难) — by @saniaspeaks_
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-90"><img src="../../../images/seedance-2.5/case90/preview.webp" width="700" alt="Shelter in the Rain"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-90)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — SCENE CONTEXT A young Japanese man carries an exhausted young woman in his arms through the rain into an old wooden watchtower shelter. He lays her on…</summary>
+
+~~~~text
+SCENE CONTEXT
+A young Japanese man carries an exhausted young woman in his arms through the rain into an old wooden watchtower shelter. He lays her on a wooden bench, then removes his own coat and wraps it around her so she won't feel the cold, before moving to guard the door — staying alert until he finally rests too, a respectful distance kept throughout. Photorealistic, cinematic movie-scene quality, real Japanese actors, not anime/illustrated.
+
+ACTIVE REFERENCES
+<<<image_3>>>: young Japanese man, damp black hair, dark coat over tunic, protective carrying posture, real human skin texture. 100% matches reference.
+<<<image_1>>>: young Japanese woman, damp dark hair, kimono-style travel robes, eyes closed, limp and shivering in his arms. 100% matches reference.
+<<<image_2>>>: wooden Japanese watchtower interior. 100% matches reference, consistent across all shots.
+
+LOCATION MAP
+- Old sliding wooden door, ajar, rain/wind leaking through.
+- Narrow window slit, storm-grey light, occasional lightning flicker.
+- Paper lantern (chochin) hanging from a beam — main light source.
+- Rough wooden walls, old crates, straw mat in corner.
+- Worn wooden bench where she's laid down.
+- Puddle near door threshold, lantern reflection.
+
+FIRST FRAME
+He steps through the doorway carrying her, her head against his chest, both drenched, rain visible behind, lantern light on their faces.
+
+FORMAT MODE
+Four-shot sequence, HARD CUTs at 3.5s, 7.5s, 11.0s. Handheld only for carry shot. Photorealistic, natural skin/fabric physics. No subtitles, no music.
+
+OPTICS & CAMERA
+Shot 1 (carry): 50° FOV, 1.5–2m, gentle handheld follow as he enters.
+Shot 2 (lay down): 56° FOV, 1–1.3m, push-in as he lowers her onto the bench, faint shiver visible.
+Shot 3 (coat cover): 60° FOV, 2m, three-quarter angle as he removes his coat and wraps it around her, tucking the edges in.
+Shot 4 (guard, then sleep): 63° FOV, low near door, crane-up to high three-quarter — him now coatless at the door, staying alert, finally closing his eyes to sleep, her warm and undisturbed on the bench.
+
+ACTION TIMING
+0–3.5s: he carries her in through the rain, her head lolling against his chest.
+3.5s CUT.
+3.5–7.5s: he lays her on the bench, a small shiver crossing her.
+7.5s CUT.
+7.5–11.0s: he takes off his coat, wraps it snugly around her.
+11.0s CUT.
+11.0–15.0s: coatless, he sits guard at the door, alert despite the cold, then eyes close as he finally falls asleep — she stays warm, a clear gap kept between them.
+
+PHYSICS
+Real dead-weight in the carry, wet hair swaying. Coat drapes and settles naturally around her. His bare tunic shows subtle cold response — slight shoulder hunch — through the guard shot.
+
+LIGHTING
+Cinematic low-key, warm lantern glow vs cool blue-grey storm light through the window/door. Faces stay readable, natural film grain, never flat or CG-looking.
+
+AUDIO
+Rain, footsteps, effortful breathing (shot 1); wood creak, faint shiver (shot 2); coat rustle (shot 3); quiet exhale, rain softening, steady breathing (shot 4). No dialogue, no music.
+
+POSITIVE LOCKS
+Man matches <<<image_3>>>, woman matches <<<image_1>>> exactly — photorealistic, not anime. Shelter matches <<<image_2>>> exactly across all shots. He gives her his coat so she won't feel cold, leaving himself in just his tunic. He keeps guard at the door, only sleeping in the final shot, a respectful distance maintained throughout.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · SJinn · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2084608065404563627)
+
+<sub>Preview © 2026 <a href="https://x.com/saniaspeaks_/status/2084608065404563627">@saniaspeaks_</a> · Prompt by <a href="https://x.com/saniaspeaks_/status/2084608065404563627">@saniaspeaks_</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-92"></a>
+### Case 92: The Last-Minute Diet (末日来临先放弃减肥) — by @Aqsahere_
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-92"><img src="../../../images/seedance-2.5/case92/preview.webp" width="700" alt="The Last-Minute Diet"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-92)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a premium photorealistic live-action cinematic disaster comedy featuring two beautiful young Korean women with clearly different faces, hairsty…</summary>
+
+~~~~text
+Create a premium photorealistic live-action cinematic disaster comedy featuring two beautiful young Korean women with clearly different faces, hairstyles, body proportions, and fashion styles. WOMAN 1 sits screen left, wearing a stylish elegant outfit, with only a small green salad in front of her. WOMAN 2 sits screen right, with a completely different beautiful face and different fashionable outfit, enjoying a hamburger, pizza, and red tteokbokki. They sit in a luxurious modern restaurant beside a huge floor-to-ceiling window overlooking a dense city skyline. WOMAN 1 sadly stares at her salad and envies WOMAN 2's feast until a colossal distant explosion suddenly erupts across the city, sending orange-white light and a powerful pressure wave that shakes the window and rattles the plates. Realizing the world might be ending, WOMAN 1 immediately abandons her diet, slides her salad aside, and urgently starts eating the pizza and hamburger. WOMAN 2 watches in disbelief, but another shockwave hits and she instantly joins the frantic feast. Finish with both women seriously panic-eating while repeatedly glancing at the enormous apocalyptic cloud outside. Premium large-format cinematic realism, Cooke anamorphic look, realistic physics, natural acting, cinematic orange disaster lighting, subtle handheld urgency after the explosion, no dialogue, no subtitles, no extra characters, no face duplication, and consistent screen positions throughout.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Flova · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Aqsahere_](https://x.com/Aqsahere_) · [原帖](https://x.com/Aqsahere_/status/2096077108808470604)
+
+<sub>Preview © 2026 <a href="https://x.com/Aqsahere_/status/2096077108808470604">@Aqsahere_</a> · Prompt by <a href="https://x.com/Aqsahere_/status/2096077108808470604">@Aqsahere_</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-93"></a>
+### Case 93: The Last Call (来自母亲的最后来电) — by @RuzainaMeer
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-93"><img src="../../../images/seedance-2.5/case93/preview.webp" width="700" alt="The Last Call"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-93)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second ultra-photorealistic Hollywood-level cinematic thriller scene titled “THE LAST CALL.” The entire sequence must feel like a scene fr…</summary>
+
+~~~~text
+Create a 30-second ultra-photorealistic Hollywood-level cinematic thriller scene titled “THE LAST CALL.” The entire sequence must feel like a scene from a high-budget live-action feature film, with realistic human acting, natural facial expressions, physically accurate movement, realistic rain, practical lighting, believable vehicle physics, detailed environments, cinematic depth of field, subtle film grain, natural skin texture, realistic reflections, and professional Hollywood cinematography. No anime, no CGI-looking visuals, no fantasy aesthetic, no cyberpunk, no neon lighting, no exaggerated visual effects.
+MAIN CHARACTER: A realistic young woman in her late 20s, natural appearance, expressive eyes, shoulder-length dark hair slightly damp from the humid weather, wearing a simple dark jacket. Maintain the exact same woman, face, hairstyle, clothing, car, weather and environment consistently throughout the entire sequence.
+
+SETTING: A remote mountain road at night during heavy but realistic rainfall. Dark forested mountains surround the narrow winding road. Wet asphalt reflects only natural headlights and road markings. The atmosphere is tense, isolated and believable.
+
+0–5 SECONDS
+
+Interior of a moving car at night. Medium shot from the passenger side showing the woman driving alone. Rain continuously hits the windshield and realistic windshield wipers move back and forth. Dashboard illumination softly lights her face. She looks tired and emotionally distant while concentrating on the road. Camera slowly pushes toward her face. Natural breathing, subtle blinking and realistic micro-expressions.
+
+5–10 SECONDS
+
+Her smartphone suddenly begins ringing in the center console. Cut to an extremely realistic close-up of the phone screen.
+
+Caller ID: “MOM”
+
+The woman freezes.
+
+Her eyes widen slightly. Her hands tighten around the steering wheel. She looks at the phone in disbelief. She hesitates for a moment, then reaches down and answers the call.
+
+10–17 SECONDS
+
+Extreme close-up of her face as she listens.
+
+A faint, emotional female voice comes through the phone:
+
+“Don't take the next turn.”
+
+The woman's expression changes from confusion to fear.
+
+The call suddenly disconnects.
+
+She looks at the phone.
+
+The screen reads: CALL ENDED
+
+Outside the windshield, a sharp mountain turn approaches through the heavy rain.
+
+17–23 SECONDS
+
+She immediately slows the car.
+
+Camera moves to a forward-facing perspective through the windshield. The road curves sharply ahead.
+
+Suddenly, distant headlights appear through the rain around the corner.
+
+The woman looks toward them.
+
+A large truck suddenly loses control and crashes through the roadside barrier at the exact location where her car would have been if she had continued driving.
+
+The crash must look physically realistic and grounded, with believable vehicle momentum, rain, debris and impact. No exaggerated explosions.
+
+23–27 SECONDS
+
+Silence after the crash.
+
+The woman sits completely still, breathing heavily, visibly shaken.
+
+She slowly looks down at her phone.
+
+The phone screen now shows:
+
+NO SIM — NO SIGNAL
+
+She looks confused and terrified.
+
+27–30 SECONDS
+
+Extreme close-up of her eyes filling with tears.
+
+She looks toward the empty passenger seat.
+
+A subtle emotional pause.
+
+In a trembling whisper, she says:
+
+“Mom?”
+
+Cut instantly to black.
+
+FINAL AUDIO: Heavy rain, windshield wipers, realistic car interior ambience, distant thunder, phone ringing, muffled female voice, sudden silence after the crash, then only the woman's breathing.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@RuzainaMeer](https://x.com/RuzainaMeer) · [原帖](https://x.com/RuzainaMeer/status/2097193955230405007)
+
+<sub>Preview © 2026 <a href="https://x.com/RuzainaMeer/status/2097193955230405007">@RuzainaMeer</a> · Prompt by <a href="https://x.com/RuzainaMeer/status/2097193955230405007">@RuzainaMeer</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-94"></a>
+### Case 94: Speed Against Armor (仓库中的极速对决) — by @SyntheSarah
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-94"><img src="../../../images/seedance-2.5/case94/preview.webp" width="700" alt="Speed Against Armor"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-94)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second ultra-realistic cinematic action sequence featuring a female fighter in her mid-20s battling a much larger armored opponent in an a…</summary>
+
+~~~~text
+Create a 15-second ultra-realistic cinematic action sequence featuring a female fighter in her mid-20s battling a much larger armored opponent in an abandoned industrial warehouse. Character: A confident athletic woman around 25 years old, realistic proportions, strong but natural physique, sharp expressive eyes, dark shoulder-length hair tied into a practical high ponytail. She wears a fitted black tactical combat outfit with subtle fabric texture, lightweight protective gloves, dark cargo pants and rugged boots. Keep her face, hairstyle, body proportions and outfit perfectly consistent throughout the entire video. Opponent: A huge muscular male warrior wearing heavy, weathered dark metal armor. He is approximately twice her size, intimidating and physically powerful, but completely realistic in anatomy and movement. His armor has scratches, dents and realistic metallic textures. Environment: A massive abandoned industrial warehouse at night. Concrete floor, steel beams, broken windows, scattered crates, dust floating through shafts of cold moonlight, subtle atmospheric haze. No cyberpunk, no neon lights, no futuristic glowing elements. Photorealistic cinematic environment. 0–3 seconds Start with a low-angle wide shot. The female fighter stands alone in the center of the warehouse while the giant armored opponent slowly approaches from the background. Heavy footsteps echo through the building. She raises her fists and takes a defensive fighting stance. The camera slowly pushes toward her, emphasizing the huge size difference. 3–6 seconds The giant suddenly charges at extreme speed and throws a powerful punch toward her. She narrowly dodges sideways at the last second. His fist crashes into a thick concrete pillar, sending small fragments and dust into the air. Use a brief slow-motion moment during the dodge, with realistic cloth and hair movement. 6–10 seconds She immediately counterattacks. She runs toward him, jumps onto a nearby steel structure, uses it as leverage, and launches herself toward his upper body. She lands on his armored shoulder, grabs onto the armor, swings around his back and kicks him hard in the side. The giant loses balance and crashes into several wooden crates. Show dynamic but believable physics, realistic weight and momentum. 10–13 seconds The giant quickly gets back up and swings both arms toward her. She slides underneath the attack, rolls across the concrete floor, grabs a metal chain lying nearby and uses it to pull herself forward. She jumps onto the giant's chest and delivers one powerful final kick that sends him crashing backward through a large wooden wall. 13–15 seconds The camera follows the giant as he crashes through the wall, then rapidly swings back to the female fighter. She lands firmly on the ground, slowly stands straight, breathing heavily, and looks directly toward the camera with a calm, confident expression. Dust and tiny debris fall around her in the background. Visual style: photorealistic Hollywood action cinematography, realistic human anatomy, physically accurate movement, detailed facial features, natural skin texture, realistic fabric and metal textures, dramatic practical lighting, volumetric dust, cinematic depth of field, subtle handheld camera movement, dynamic tracking shots, realistic motion blur, high-detail environment, natural color grading, high contrast, 4K cinematic quality. Action direction: Fast, fluid and believable martial-arts choreography. Every movement must have clear weight and momentum. Avoid exaggerated superhero physics, cartoon movement, floating characters, unnatural body deformation or excessive slow motion.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@SyntheSarah](https://x.com/SyntheSarah) · [原帖](https://x.com/SyntheSarah/status/2091007759130988559)
+
+<sub>Preview © 2026 <a href="https://x.com/SyntheSarah/status/2091007759130988559">@SyntheSarah</a> · Prompt by <a href="https://x.com/SyntheSarah/status/2091007759130988559">@SyntheSarah</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-97"></a>
+### Case 97: Behind the Palace Scene (古装剧镜头背后的片场) — by @Naiknelofar788
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-97"><img src="../../../images/seedance-2.5/case97/preview.webp" width="700" alt="Behind the Palace Scene"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-97)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 30s | 16:9  Create an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain stric…</summary>
+
+~~~~text
+30s | 16:9
+
+Create an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.
+
+0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.
+
+5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.
+
+10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.
+
+20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.
+
+25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.
+
+Final text only: “Would you know this was AI?”
+
+Premium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2091944472007622694)
+
+<sub>Preview © 2026 <a href="https://x.com/Naiknelofar788/status/2091944472007622694">@Naiknelofar788</a> · Prompt by <a href="https://x.com/Naiknelofar788/status/2091944472007622694">@Naiknelofar788</a></sub>
 
 [Back to top](#table-of-contents)

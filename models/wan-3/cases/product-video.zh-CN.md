@@ -11,6 +11,9 @@
 - [Case 78: Lipstick Try-On with a Single Product Reference (单张产品图生成口红试色) — by u/Accomplished-Ebb7783](#case-78)
 - [Case 79: Hair Dryer Exploded-View Render (吹风机内部零件拆解渲染) — by Alibaba](#case-79)
 - [Case 91: Three References for a Serum Showcase (人物、产品与浴室三图参考) — by ClipRush Team](#case-91)
+- [Case 96: A Water Bottle on Wet River Stones (湿润河石上的不锈钢水瓶) — by PixelDojo](#case-96)
+- [Case 99: A Serum Bottle from a First Frame (首帧驱动的精华瓶环绕) — by ClipRush Team](#case-99)
+- [Case 101: A Serum Commercial from Text (纯文本生成精华瓶广告) — by ClipRush Team](#case-101)
 
 <a id="case-4"></a>
 ### Case 4: The Rhythm of Dough (面团的律动) — by Alibaba
@@ -190,6 +193,83 @@ Using only the lipstick product Image1 as a reference, generate a 15-second vert
 
 **参数**：Wan 3.0 · ClipRush · r2v · 5s · 720p · 9:16 · 带音频
 **来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#references-scene)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-96"></a>
+### Case 96: A Water Bottle on Wet River Stones (湿润河石上的不锈钢水瓶) — by PixelDojo
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-96"><img src="../../../images/wan-3/case96/preview.webp" width="404" alt="A Water Bottle on Wet River Stones"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-96)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A vertical social ad for a stainless steel water bottle. The bottle stands on wet river stones, the camera rises slowly, and condensation runs down th…</summary>
+
+~~~~text
+A vertical social ad for a stainless steel water bottle. The bottle stands on wet river stones, the camera rises slowly, and condensation runs down the side. Text-free, product-first framing for a phone screen.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · adaptive（-1） · 未标注 · adaptive · 未标注
+**来源**：PixelDojo · [原帖](https://pixeldojo.ai/guides/wan-3-0-prompting-guide)
+
+<sub>Preview © 2026 PixelDojo · Prompt by PixelDojo</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-99"></a>
+### Case 99: A Serum Bottle from a First Frame (首帧驱动的精华瓶环绕) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-99"><img src="../../../images/wan-3/case99/preview.webp" width="394" alt="A Serum Bottle from a First Frame"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-99)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case99/input1.webp" width="112" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — The camera slowly orbits the serum bottle from left to right while soft morning light glides across the frosted glass and the LUMEA label. A single go…</summary>
+
+~~~~text
+The camera slowly orbits the serum bottle from left to right while soft morning light glides across the frosted glass and the LUMEA label. A single golden drop slides down the dropper.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · i2v · 5s · 720p · 未标注 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#product)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-101"></a>
+### Case 101: A Serum Commercial from Text (纯文本生成精华瓶广告) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-101"><img src="../../../images/wan-3/case101/preview.webp" width="394" alt="A Serum Commercial from Text"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-101)
+
+<details>
+<summary><strong>Prompt</strong> — A frosted glass serum bottle with a gold dropper and a label that reads "LUMEA" with "NIGHT SERUM" underneath stands on a white marble bathroom counte…</summary>
+
+~~~~text
+A frosted glass serum bottle with a gold dropper and a label that reads "LUMEA" with "NIGHT SERUM" underneath stands on a white marble bathroom counter in soft morning light. The camera slowly orbits the bottle while a single golden drop slides down the dropper. Premium product commercial.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · t2v · 5s · 720p · 9:16 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#t2v)
 
 <sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
 
