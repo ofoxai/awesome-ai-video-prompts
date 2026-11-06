@@ -23,6 +23,8 @@
 - [Case 147: The Sky Is Being Replaced (被机械臂揭开的城市天空) — by @DeCat2025](#case-147)
 - [Case 149: Black Mirror: Final Reflection (黑色镜面上的双人剑舞) — by @itxsarmadd](#case-149)
 - [Case 150: The Cloaked Ranger Vanishes (披风游侠的暗影消失) — by @holagarciajavi](#case-150)
+- [Case 152: The Beast and the Plasma Cannon (巨兽反咬等离子巨炮) — by @DeCat2025](#case-152)
+- [Case 156: Unexpected Strength in the Garage (车库中觉醒的怪力) — by @chatgptpaglu](#case-156)
 
 <a id="case-8"></a>
 ### Case 8: The Sky Descends Like a Giant Wall over a Suburban Street (整片天空如巨墙压向郊区街道) — by @cocktailpeanut
@@ -652,5 +654,111 @@ f/2.8 lens, eye level, static camera in Ravenholdt courtyard. Damp stone courtya
 **来源**：@holagarciajavi · [原帖](https://x.com/holagarciajavi/status/2106409582222262478)
 
 <sub>Preview © 2026 @holagarciajavi · Prompt by @holagarciajavi</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-152"></a>
+### Case 152: The Beast and the Plasma Cannon (巨兽反咬等离子巨炮) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-152"><img src="../../../images/hailuo-3/case152/preview.webp" width="526" alt="The Beast and the Plasma Cannon"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-152)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic epic science-fantasy. A colossal six-legged armored predator with a broad crocodilian head, muscular neck and black crystalline plates …</summary>
+
+~~~~text
+Photorealistic epic science-fantasy. A colossal six-legged armored predator with a broad crocodilian head, muscular neck and black crystalline plates charges a futuristic stationary plasma cannon mounted on a massive tracked siege platform. Barren volcanic plain.
+
+SHOT 1 | 0–3s | LOW FRONTAL WIDE
+The enormous beast charges straight toward the cannon. The weapon fires a concentrated blue plasma blast directly into its heavily armored chest, sending sparks and broken crystalline fragments flying.
+
+SHOT 2 | 3–6s | LOW SIDE ANGLE
+The creature crashes into the cannon's barrel, bends the long metal structure downward and bites onto its muzzle with enormous jaws.
+
+SHOT 3 | 6–11s | THREE-QUARTER ACTION ANGLE
+The cannon begins charging another shot while trapped between the beast's teeth. The creature violently twists its head sideways, bending the barrel backward toward the siege platform's own armored engine compartment.
+
+SHOT 4 | 11–15s | EXTREME WIDE IMPACT
+The cannon fires through its bent barrel, blasting directly into its own siege platform. A huge blue-white explosion tears the machine apart, throwing metal debris across the plain. The beast recoils, shakes its head and charges through the burning wreckage.
+
+CAMERA AND PHYSICS:
+Single beast, single cannon, consistent positioning. Clear muzzle contact, bent weapon geometry, physically readable redirection of the blast. Heavy creature movement and realistic debris.
+
+AUDIO:
+Thunderous charging footsteps, cannon discharge, grinding steel, heavy jaws, explosive final blast.
+
+No dialogue. No text on screen.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2116979768302432302)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-156"></a>
+### Case 156: Unexpected Strength in the Garage (车库中觉醒的怪力) — by @chatgptpaglu
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-156"><img src="../../../images/hailuo-3/case156/preview.webp" width="700" alt="Unexpected Strength in the Garage"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-156)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 15 sec | 16:9 | One continuous generation | Korean dialogue | No BGM | No subtitles STYLE: Ultra-photorealistic live-action AAA supernatural martial a…</summary>
+
+~~~~text
+15 sec | 16:9 | One continuous generation | Korean dialogue | No BGM | No subtitles
+
+STYLE:
+Ultra-photorealistic live-action AAA supernatural martial arts. Real actors, real environment, grounded physical VFX.
+
+CHARACTER LOCK:
+SO-YEON, 160cm, messy black hair, black hoodie, sweatpants, Converse. Natural skin texture, sweat, pores, micro-expressions. Same actress throughout. One human only.
+
+LOCATION:
+Nighttime underground parking garage. Wet concrete, fluorescent lights, concrete pillars, scooters, shopping carts, puddles, exposed pipes.
+
+SOUND:
+Korean dialogue, footsteps, breathing, impacts, metal rattling, fluorescent hum. No music.
+
+COMBAT:
+Unarmed Sanda + Muay Thai clinch + Silat. Continuous flow: evade → redirect → knee → elbow → sweep → pivot → throw. Six attackers engage simultaneously. Two bystanders react naturally.
+
+FAULT-LINE PHYSICS:
+Heavy foot plants and slams create realistic cracks from the exact impact point. Visible vibration, dust, debris movement. No glow, aura, particles, energy waves, speed trails, or magic.
+
+00:00–03:00 — CORNERED
+Six men surround So-Yeon beside a scooter. One grabs her hoodie. A delivery worker warns, "도망가요!" Terrified, So-Yeon whispers, "그만해..." The leader swings. She instinctively ducks.
+
+03:00–07:00 — FIRST IMPACT
+She catches his wrist, pivots, and knees his stomach. Her sneaker plants hard. A thin crack shoots across the wet concrete. The leader crashes into a shopping cart and knocks into two others. Everyone freezes. A thug shouts, "뭐야, 저년!" The remaining men rush her.
+
+07:00–11:00 — CHAOS
+She slips a punch and elbows one attacker into a pillar. Redirects another into a puddle. Sweeps a third to the ground. 0.2-second micro slow motion: cracks spread, water ripples, dust falls. Immediate speed return. Bystanders pull each other behind a parked car.
+
+11:00–15:00 — THE LAST MAN
+The final attacker grabs her from behind. She becomes completely still. Her foot plants hard. Concrete cracks sharply. She redirects and throws him onto a parking line. Dense fractures spread. The delivery worker cautiously asks, "괜찮아요?" She nods, still frightened, and walks away across the cracked concrete. Fluorescent lights flicker from the vibration.
+
+CAMERA:
+Close handheld pursuit, reactive movement, occasional wider shots during group combat. Low angles for impacts and fractures, natural focus hunting, slight operator mistakes. No impossible moves or heroic posing.
+
+REALISM LOCK:
+Attackers hesitate, collide, and react naturally. Bystanders panic and move. So-Yeon looks confused by her strength. Every piece of damage has a visible physical cause. No supernatural visual effects.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · Hailuo · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@chatgptpaglu · [原帖](https://x.com/chatgptpaglu/status/2104518897424548018)
+
+<sub>Preview © 2026 @chatgptpaglu · Prompt by @chatgptpaglu</sub>
 
 [目次に戻る](#table-of-contents)

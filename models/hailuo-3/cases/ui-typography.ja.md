@@ -14,6 +14,8 @@
 - [Case 117: A French Bulldog Under Precise Direction (镜头下的法国斗牛犬) — by @cocktailpeanut](#case-117)
 - [Case 118: Images and Typography in Seamless Motion (图像与文字的无缝变换) — by @opener_ai](#case-118)
 - [Case 134: BURN Forged in Fire (烈焰熔铸 BURN 字幕) — by @CharaspowerAI](#case-134)
+- [Case 151: Forging POWER from a Turbine (工业涡轮锻造 POWER 字幕) — by @CharaspowerAI](#case-151)
+- [Case 159: A Golden 5300-Follower Celebration (5300 粉丝金色庆祝动效) — by @YaReYaRu30Life](#case-159)
 
 <a id="case-13"></a>
 ### Case 13: Beat-Synced Spaghetti-Western Title Sequence (西部片节拍标题动画) — by @itsphotogptai
@@ -592,5 +594,117 @@ Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fue
 **来源**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2106398901267812627)
 
 <sub>Preview © 2026 @CharaspowerAI · Prompt by @CharaspowerAI</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-151"></a>
+### Case 151: Forging POWER from a Turbine (工业涡轮锻造 POWER 字幕) — by @CharaspowerAI
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-151"><img src="../../../images/hailuo-3/case151/preview.webp" width="700" alt="Forging POWER from a Turbine"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-151)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Aggressive tracking shot through a gigantic abandoned industrial facility. The camera races between steel columns while electrical transformers overlo…</summary>
+
+~~~~text
+Aggressive tracking shot through a gigantic abandoned industrial facility. The camera races between steel columns while electrical transformers overload one after another, sending violent arcs of electricity across the environment. Sparks shower toward the lens. A huge turbine begins spinning at impossible speed before exploding apart. Thousands of glowing metallic fragments freeze in midair for one dramatic beat, then slam together with brutal force to construct the word “POWER” in enormous heavy steel letters. Blue-white electricity crawls across every letter as the camera performs a fast 180-degree orbit. Dark industrial blockbuster aesthetic, practical sparks, volumetric smoke, realistic physics.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2117587630552445073)
+
+<sub>Preview © 2026 @CharaspowerAI · Prompt by @CharaspowerAI</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-159"></a>
+### Case 159: A Golden 5300-Follower Celebration (5300 粉丝金色庆祝动效) — by @YaReYaRu30Life
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-159"><img src="../../../images/hailuo-3/case159/preview.webp" width="700" alt="A Golden 5300-Follower Celebration"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-159)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 高品質な祝福タイポグラフィアニメーション 表示文字：「X」「フォロワー」「5300人」「YaReYaRu」「ありがとう！」 綴りと大文字・小文字を正確に保持する 【ビジュアル】 深いミッドナイトブルーを背景に、ゴールド、ホワイト、鮮やかなエメラルドグリーンで統一 主役は大きく読みやすい文字、くす玉と…</summary>
+
+~~~~text
+高品質な祝福タイポグラフィアニメーション
+表示文字：「X」「フォロワー」「5300人」「YaReYaRu」「ありがとう！」
+綴りと大文字・小文字を正確に保持する
+
+【ビジュアル】
+深いミッドナイトブルーを背景に、ゴールド、ホワイト、鮮やかなエメラルドグリーンで統一
+主役は大きく読みやすい文字、くす玉と花火は文字の登場や変形に連動する
+極太サンセリフの数字、洗練された立体文字、薄い金属反射、奥行きのある紙吹雪
+上品な授賞式の華やかさと、SNSらしい軽快で力強いモーションを組み合わせる
+重要な文字は中央の安全領域に配置、画面下端や右端に寄せない
+
+【0〜2秒｜期待をつくる】
+暗い画面中央で小さな金色の火花が弾け、白い「X」が瞬発的に出現
+文字が一度だけ大きく弾み、細い光のリングが外側へ広がる
+「X」が上部中央へ縮小移動、その下に「フォロワー」が一文字ずつ軽快に着地
+背後から金色の細いリボンが左右へ走り、中央を空ける
+
+【2〜5秒｜くす玉登場】
+画面上から豪華な金色のくす玉が中央へ降りてくる
+上下に重なる金色の鱗状装飾、緑の房飾り、左右対称の球体
+減速して止まり、小さく一度だけ揺れる
+カメラがゆっくり接近、周囲の光が絞られ、くす玉の継ぎ目から緑と金の光が漏れる
+下に伸びた一本の紐がぴんと張り、開く直前に一瞬静止
+
+【5〜8秒｜5300人を大きく見せる】
+強い打音と同時にくす玉が左右へぱかっと開く
+左右の半球は吊られたまま残り、内側から金と緑の紙吹雪、長いカールリボンが勢いよく放出される
+中央から白い垂れ幕が下へほどけ、その表面に極太の「5300人」が現れる
+「5300」の数字が垂れ幕から手前へ立体的にせり出し、画面中央を大きく占める
+数字は一度だけ軽くオーバーシュートして定位置へ収まり、「人」は数字の右下へ整然と配置
+同時に背景の左右上方で大輪の花火が開く
+短い光の衝撃と画面の微振動で到達の喜びを強調、文字が読めなくなる全面白飛びは起こさない
+
+【8〜11秒｜名前を主役に】
+「5300人」が少し上へ移動し、その下へ「YaReYaRu」が左から右へ一文字ずつ滑り込む
+文字の着地に合わせて金色の小さな火花が散り、最後の「u」が収まると名前全体を緑の光が一度だけ横切る
+カメラが緩やかに引き、上部の「X」、その下の「フォロワー」、中央の「5300人」、下部の「YaReYaRu」がひとつの祝福ポスターとして整う
+背景に高さと大きさの異なる花火が時間差で開花
+紙吹雪は文字の背後を中心に落下し、少量だけ手前を横切って奥行きを出す
+
+【11〜13秒｜ありがとう】
+「YaReYaRu」の下に「ありがとう！」が柔らかな弾みをつけて出現
+左右から金色のリボンが弧を描き、文字全体を囲む祝福のフレームになる
+最後に背景中央上方で最大の金色の花火が開き、その内側に緑の小さな花火が重なる
+花火の明るさに合わせ、文字の縁が一瞬だけ輝く
+
+【13〜15秒｜読ませる完成画面】
+文字とカメラを静止させ、完成したレイアウトを2秒間保持
+「X」
+「フォロワー」
+「5300人」
+「YaReYaRu」
+「ありがとう！」
+「5300人」を最も大きく、次に「YaReYaRu」を強調
+開いたくす玉を上部左右に残し、花火の残光とゆっくり落ちる紙吹雪だけが動く
+最後まで文字を鮮明に読める状態で終了
+
+【音・編集】
+華やかなエレクトロポップ、文字の着地に短い打音、くす玉開放に祝砲、花火に奥行きのある炸裂音
+5秒のくす玉開放で音楽が大きく展開し、最後は明るい余韻
+ナレーションなし
+カットの切り替えよりも、文字の位置移動、拡大縮小、リボンの軌道で場面を滑らかにつなぐ
+文字の誤字、重複、勝手な文言追加、数字の変化、過度な点滅、粒状ノイズ、ウォーターマークは禁止
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@YaReYaRu30Life · [原帖](https://x.com/YaReYaRu30Life/status/2097816304111808620)
+
+<sub>Preview © 2026 @YaReYaRu30Life · Prompt by @YaReYaRu30Life</sub>
 
 [目次に戻る](#table-of-contents)

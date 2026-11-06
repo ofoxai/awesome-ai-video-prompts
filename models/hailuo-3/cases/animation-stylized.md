@@ -20,6 +20,8 @@
 - [Case 127: Hand-Drawn Ginger Pork Cooking Anime (手绘姜烧猪肉料理动画) — by @ozuozuai99](#case-127)
 - [Case 128: Watercolor anime fetish montage rapid cuts (水彩动画感官蒙太奇快切) — by @yachimat_manga](#case-128)
 - [Case 129: Greenhouse tea isekai anime (温室红茶异世界动画) — by @haruuraeadss](#case-129)
+- [Case 157: Pixel Cats at the Harbor (港口猫咪像素格斗) — by @IndoorIMU](#case-157)
+- [Case 158: A Steam Train by the Castle (城堡高架桥上的蒸汽列车) — by @TaliaAariz](#case-158)
 
 <a id="case-12"></a>
 ### Case 12: An 1890s Bird Plate Draws Itself (自动绘成的 1890 年代鸟类图鉴) — by @Dheepanratnam
@@ -9321,5 +9323,72 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 **来源**：@haruuraeadss · [原帖](https://x.com/haruuraeadss/status/2082798959014064531)
 
 <sub>Preview © 2026 @haruuraeadss · Prompt by @haruuraeadss</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-157"></a>
+### Case 157: Pixel Cats at the Harbor (港口猫咪像素格斗) — by @IndoorIMU
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-157"><img src="../../../images/hailuo-3/case157/preview.webp" width="700" alt="Pixel Cats at the Harbor"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-157)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Use Image 1 as the absolute reference for Cat 1 and Image 2 for Cat 2. Keep both cats visually identical to their references throughout the entire vid…</summary>
+
+~~~~text
+Use Image 1 as the absolute reference for Cat 1 and Image 2 for Cat 2. Keep both cats visually identical to their references throughout the entire video.
+Create a playful 15-second retro 8-bit arcade fighting-game battle at a pixel-art harbor. A large ship is visible in the background, with water, docks, and simple pixel-art harbor details.
+Fixed side-view 2D fighting-game camera, full-body character visibility, low-resolution pixel graphics, limited color palette, sprite-based animation, arcade-style UI, CRT scanlines, energetic retro animation.
+0–3 sec:
+Both cats stand facing each other in fighting stances on the harbor dock.
+A large pixel-art “ROUND 1” appears prominently in the center of the screen like a classic arcade fighting-game announcement. After a brief moment, it disappears and a large “FIGHT!” appears with a dramatic arcade-style flash, then disappears as the battle begins.
+The UI may show simple visual health bars, but do not display any timer, countdown, clock, numbers, scores, or other numerical information anywhere on screen. The only text visible during this sequence should be “ROUND 1” and “FIGHT!”
+3–5 sec:
+Cat 1 throws a small ball of yarn toward Cat 2.
+5–7 sec:
+Cat 2 sees the yarn and becomes extremely excited, happily jumping toward it with its paws outstretched. Cute pixel-art musical notes pop and bounce around Cat 2 to emphasize its excitement. Cat 1 calmly watches and prepares its attack.
+7–10 sec:
+Just as Cat 2 reaches the yarn, Cat 1 activates a powerful special move. Its eyes suddenly glow and fire two bright pixelated laser beams at Cat 2. Add dramatic pixel flashes, sparks, impact effects, and a brief arcade-style screen shake.
+10–12 sec:
+The laser hits Cat 2, sending it flying backward in a humorous exaggerated knockback animation. Its health bar reaches zero. No blood or gore.
+12–14 sec:
+Cat 1 performs a playful victory dance. It closes its eyes, crosses its front paws confidently, and repeatedly sways its hips from side to side while gently bouncing its body up and down in a cute, rhythmic 8-bit dance. Keep the entire body visible and make the movement exaggerated and clearly readable as a victory celebration.
+A large pixel-art “WIN!” appears during the victory dance while Cat 2 remains defeated in the background.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@IndoorIMU · [原帖](https://x.com/IndoorIMU/status/2102044318097903800)
+
+<sub>Preview © 2026 @IndoorIMU · Prompt by @IndoorIMU</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-158"></a>
+### Case 158: A Steam Train by the Castle (城堡高架桥上的蒸汽列车) — by @TaliaAariz
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-158"><img src="../../../images/hailuo-3/case158/preview.webp" width="700" alt="A Steam Train by the Castle"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-158)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A 3D stylized animation begins with a tight close-up on the gold-spoked wheels and connecting rods of a black steam locomotive accented with metallic …</summary>
+
+~~~~text
+A 3D stylized animation begins with a tight close-up on the gold-spoked wheels and connecting rods of a black steam locomotive accented with metallic hoops. As the camera smoothly zooms out and pulls back, it reveals the entire train puffing spherical gray smoke clouds from its chimney while pulling red passenger cars along a railway track. The track runs across an elevated arched bridge alongside a grand medieval stone castle complete with corner towers and battlements, all set within a low-poly environment featuring scattered evergreen trees and a quiet river.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@TaliaAariz · [原帖](https://x.com/TaliaAariz/status/2098886746846945356)
+
+<sub>Preview © 2026 @TaliaAariz · Prompt by @TaliaAariz</sub>
 
 [Back to top](#table-of-contents)

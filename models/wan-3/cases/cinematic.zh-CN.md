@@ -18,6 +18,12 @@
 - [Case 87: Midnight Ramen Counter in One Shot (深夜拉面铺的一镜出锅) — by Himanshu Goel / Segmind](#case-87)
 - [Case 88: A Retriever Fetches a Ball Toward Camera (金毛衔球迎面奔跑) — by ClipRush Team](#case-88)
 - [Case 90: A Reference Face on a Sunset Bike Ride (角色参考到海边骑行) — by ClipRush Team](#case-90)
+- [Case 93: Tangerine Trench at Dusk (雨夜斑马线橘色风衣) — by Wilson Sik / Reviral](#case-93)
+- [Case 94: Emerald Shirt on the Rooftop (天台上的翡翠色衬衫) — by Wilson Sik / Reviral](#case-94)
+- [Case 95: A Tabletop Sequence in Three Stages (按时间段切换桌面物件) — by PixelDojo](#case-95)
+- [Case 98: A Violinist Before the Performance (登台前的小提琴手) — by PixelDojo](#case-98)
+- [Case 100: Gliding over a Misty Lake (晨雾湖面的低空掠行) — by ClipRush Team](#case-100)
+- [Case 102: Thirty Seconds in a Café (咖啡馆里的连续三十秒) — by ClipRush Team](#case-102)
 
 <a id="case-2"></a>
 ### Case 2: Ambush from Ten Sides — Pipa on the Loess Ridge (十面埋伏) — by Alibaba
@@ -438,6 +444,167 @@ The dog grabs the red ball in its mouth and runs toward the camera, ears flappin
 
 **参数**：Wan 3.0 · ClipRush · r2v · 5s · 720p · 未标注 · 带音频
 **来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#references-face)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-93"></a>
+### Case 93: Tangerine Trench at Dusk (雨夜斑马线橘色风衣) — by Wilson Sik / Reviral
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-93"><img src="../../../images/wan-3/case93/preview.webp" width="394" alt="Tangerine Trench at Dusk"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-93)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A woman in her early twenties of West African heritage with deep brown skin, a tall rounded black afro and large gold hoop earrings walks straight tow…</summary>
+
+~~~~text
+A woman in her early twenties of West African heritage with deep brown skin, a tall rounded black afro and large gold hoop earrings walks straight toward the camera across a wet zebra crossing at dusk. She wears a long tangerine (#F28500) satin trench coat hanging open over a fitted black ribbed turtleneck, wide-leg cream (#F2E8D5) wool trousers and black leather square-toe boots. Each stride throws the open front of the coat back past her knees, and the satin catches the amber streetlight in long highlights that slide down the fabric as it folds. On the third step her left hand slides into the coat pocket; her chin stays level, her eyes stay on the lens, her mouth stays closed. A city bus passes behind her and its headlights sweep across the wet asphalt, lighting the reflection of her boots in a puddle. Camera: 50mm lens, one slow backward tracking move at her walking pace, framed from the knees up and ending on her head and shoulders filling the frame as she stops one step from the lens. Light: amber streetlights from the left, cool blue light from a shop window on the right outlining the coat's edges. Sound: her boot heels on wet asphalt, the bus engine passing, distant traffic. Final image: she stops, the coat swings once and settles against her legs, a gust lifts the collar against her jaw.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Reviral · 未标注 · 5s · 720p · 9:16 · 未标注
+**来源**：Wilson Sik / Reviral · [原帖](https://reviral.ai/wan-3-0/examples)
+
+<sub>Preview © 2026 Wilson Sik / Reviral · Prompt by Wilson Sik / Reviral</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-94"></a>
+### Case 94: Emerald Shirt on the Rooftop (天台上的翡翠色衬衫) — by Wilson Sik / Reviral
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-94"><img src="../../../images/wan-3/case94/preview.webp" width="394" alt="Emerald Shirt on the Rooftop"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-94)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A man in his late fifties of Italian heritage with olive skin, thick silver-grey hair combed straight back and a full grey walrus moustache stands at …</summary>
+
+~~~~text
+A man in his late fifties of Italian heritage with olive skin, thick silver-grey hair combed straight back and a full grey walrus moustache stands at the edge of a concrete rooftop at noon and turns slowly to face the camera. He wears a glossy emerald (#009B77) satin shirt with an oversized pointed collar, buttoned to the neck and tucked into high-waisted tangerine (#F28500) wool trousers, with white leather platform loafers. Wind from the rooftop ventilation fans fills the shirt like a sail; the sleeves ripple and snap against his forearms while the trousers press flat against his shins. He lifts his right hand and smooths his hair back once, then lowers it to his side, face still, eyes on the lens. Behind him, water towers and a glass office tower reflect the hard white sun. Camera: 35mm lens, one slow arc from his profile to his front, chest-up at the end. Light: hard overhead sun casting a short shadow under the collar, bounce light off the pale concrete lifting his face. Sound: wind roar, the fabric snapping, a distant siren. Final image: he stands square to the lens, the shirt still billowing, the collar points flicking against his jaw.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Reviral · 未标注 · 5s · 720p · 9:16 · 未标注
+**来源**：Wilson Sik / Reviral · [原帖](https://reviral.ai/wan-3-0/examples)
+
+<sub>Preview © 2026 Wilson Sik / Reviral · Prompt by Wilson Sik / Reviral</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-95"></a>
+### Case 95: A Tabletop Sequence in Three Stages (按时间段切换桌面物件) — by PixelDojo
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-95"><img src="../../../images/wan-3/case95/preview.webp" width="700" alt="A Tabletop Sequence in Three Stages"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-95)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 0-4 seconds: an empty wooden display table in soft studio light. A hand places a white ceramic plate in the center. End state: the hand has left the f…</summary>
+
+~~~~text
+0-4 seconds: an empty wooden display table in soft studio light. A hand places a white ceramic plate in the center. End state: the hand has left the frame and only the white plate remains.
+4-8 seconds: the white plate is removed and a clear glass is placed in the center. End state: only the clear glass remains.
+8-12 seconds: the clear glass is removed and a green ceramic vase is placed in the center. End state: only the green vase remains.
+Locked-off frontal camera throughout.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：PixelDojo · [原帖](https://pixeldojo.ai/guides/wan-3-0-prompting-guide)
+
+<sub>Preview © 2026 PixelDojo · Prompt by PixelDojo</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-98"></a>
+### Case 98: A Violinist Before the Performance (登台前的小提琴手) — by PixelDojo
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-98"><img src="../../../images/wan-3/case98/preview.webp" width="700" alt="A Violinist Before the Performance"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-98)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A young violinist sits alone backstage before a performance. Her fingers press hard against the neck of the violin and stop moving, her gaze fixes on …</summary>
+
+~~~~text
+A young violinist sits alone backstage before a performance. Her fingers press hard against the neck of the violin and stop moving, her gaze fixes on the floor without blinking, her shoulders stay lifted, and she takes one short breath in and holds it. Medium close-up, static camera.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：PixelDojo · [原帖](https://pixeldojo.ai/guides/wan-3-0-prompting-guide)
+
+<sub>Preview © 2026 PixelDojo · Prompt by PixelDojo</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-100"></a>
+### Case 100: Gliding over a Misty Lake (晨雾湖面的低空掠行) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-100"><img src="../../../images/wan-3/case100/preview.webp" width="394" alt="Gliding over a Misty Lake"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-100)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case100/input1.webp" width="112" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — The drone glides forward low over the lake, then rises to reveal the valley beyond. Mist drifts over the water and two birds fly across the frame.</summary>
+
+~~~~text
+The drone glides forward low over the lake, then rises to reveal the valley beyond. Mist drifts over the water and two birds fly across the frame.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · i2v · 5s · 720p · 未标注 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#lake)
+
+<sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-102"></a>
+### Case 102: Thirty Seconds in a Café (咖啡馆里的连续三十秒) — by ClipRush Team
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-102"><img src="../../../images/wan-3/case102/preview.webp" width="394" alt="Thirty Seconds in a Café"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-102)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case102/input1.webp" width="112" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — She reads a paperback and sips her iced latte. A waiter sets a croissant on her table; she thanks him and takes a bite. Her phone buzzes, she reads th…</summary>
+
+~~~~text
+She reads a paperback and sips her iced latte. A waiter sets a croissant on her table; she thanks him and takes a bite. Her phone buzzes, she reads the message and laughs, then she packs up her book and walks out of the frame. One continuous take while the camera slowly drifts closer.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · ClipRush · i2v · 30s · 720p · 未标注 · 带音频
+**来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#long)
 
 <sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
 
