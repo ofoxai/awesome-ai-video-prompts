@@ -21,6 +21,9 @@
 - [Case 154: Black Couture in Golden Light (黑色礼服与建筑光影) — by @DaniaSafvi](#case-154)
 - [Case 155: The Exit Was Never an Exit (停车场出口的丧尸反转) — by @Just_Anika_Here](#case-155)
 - [Case 160: A Coastal Fashion Moment (海岸时装与独白) — by @CaliraVal](#case-160)
+- [Case 164: The Witch’s Orb in the Ruins (废墟女巫凝聚魔法光球) — by @ou_zhen599](#case-164)
+- [Case 165: A Sunset Beach Vlog (夕阳海滩的情侣视角) — by @ou_zhen599](#case-165)
+- [Case 166: The Warrior and the Ginger Cat (蓝门前的战士与橘猫) — by @ou_zhen599](#case-166)
 
 <a id="case-10"></a>
 ### Case 10: A Vintage 1947 Town Under Fire (1947 小镇的复古战地纪实) — by @RuzainaMeer
@@ -2065,5 +2068,188 @@ Photorealistic, natural skin and hair, realistic fabric movement, cinematic ligh
 **来源**：@CaliraVal · [原帖](https://x.com/CaliraVal/status/2096833346555023816)
 
 <sub>Preview © 2026 @CaliraVal · Prompt by @CaliraVal</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-164"></a>
+### Case 164: The Witch’s Orb in the Ruins (废墟女巫凝聚魔法光球) — by @ou_zhen599
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-164"><img src="../../../images/hailuo-3/case164/preview.webp" width="700" alt="The Witch’s Orb in the Ruins"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-164)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/hailuo-3/case164/input1.webp" width="200" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15-second, 2.39:1 widescreen I2VA cinematic dark-fantasy sequence. Use &lt;Picture 1&gt; as the sole first-frame reference…</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15-second, 2.39:1 widescreen I2VA cinematic dark-fantasy sequence. Use <Picture 1> as the sole first-frame reference for the same adult witch, ruined rock field, black horned leather armor, huge curved horns, pointed ears, long black hair, metal shoulder armor, long claws, waist metal rings, torn cloth drapery, orange-violet magic flame, cold smoky ruins, and opening composition. One continuous ruined rock arena only. No scene change, added characters, modern objects, subtitles, text, watermark, fade, or black ending.
+
+A begins center-left, body angled toward frame-right/front, right hand holding orange-violet flame, left claw lowered. Her path is fixed: start in place -> step toward frame-right/front -> spin left back to center -> open both arms and summon a huge magic crown -> step forward and compress the magic into a palm sigil-core. Camera stays tied to A’s motion and preserves the same rock walls, sparks, cracks, smoke direction, and ruin geography.
+
+Lighting and grade: cold ruin base with violet-orange magic as the primary dynamic light. Background shadows are cold blue-charcoal #111820. Magic highlights are orange ember #FF6A2A, violet arc #8A4DFF, and hot white core #FFF0D0. Skin remains naturally warm, not plastic purple. Black leather armor has low-saturation metal shine; shoulder armor catches violet electric rim light; chest metal details catch orange fire highlights. Smoke, sparks, rock cracks, and dust receive real light, occlusion, and shadow. High contrast, detailed blacks, restrained saturation, soft highlight roll-off, subtle film grain.
+
+[00:00-00:01.6] Low ground-level tracking. A steps toward frame-right/front holding orange-violet fire in her right palm. Her left claw scrapes rock, throwing real sparks. Long black hair is pulled left-back by magic pressure; torn cloth and waist rings jitter with the step. Camera tracks from leg armor, torn hem, claw sparks, waistline, and right-hand flame upward. Her eyes lock on the palm first; pupils catch the fire; brow rises slightly; a suppressed smile begins to split open as if the power finally responds. Fire behaves fluidly: orange tongues stretch into a tail behind her wrist, lick across stone, and leave brief red embers and thin smoke. She whispers: <d>[English] It answers me... </d>
+
+[00:01.6-00:03.2] Fast push-in to face, shoulders, chest armor, and right hand. A presses forward half a step and sharply flips her right wrist. Orange fire twists into violet-blue arcs crawling from claw roots over the hand, arm armor, shoulder spikes, and chest metal ornament. Her eyes widen briefly from magical pain; brow tightens; then upper lids relax and the mouth opens into barely contained ecstatic joy. The magic surge triggers one restrained body response through breath, leather, metal rings, and armor details, then stabilizes. Electric light sweeps from chest ornament to her eyes. She says with rising pleasure: <d>[English] Higher... yes. </d>
+
+[00:03.2-00:05.1] Whip-pan following the left claw. A spins left back to center; her left shoulder cuts toward camera and the claw slashes through air. Hair, torn cloth, and waist rings flare from inertia. Camera follows the claw in a sharp whip, then resolves into a short arc around her in the same ruin center. Her laugh sharpens; brows lift; nostrils open slightly; gaze shifts from palm to the space before her, as if showing the whole ruin what obeys her. A black smoke-rune slit opens from the claw tip. Runes coil like chain links around her waist, passing behind metal rings with correct occlusion and violet edge light. Smoke spirals from the rotation. She says with pressure: <d>[English] Mine. All of it. </d>
+
+[00:05.1-00:07.8] Slow-motion bullet-time half-orbit, 85mm compressed close view from palm to side face, collarbone, chest armor, and rune flow. A stops center, feet braced front-back, body slightly forward. Right hand draws inward as if pulling invisible chains. Orange fire wraps the wrist; violet electricity crawls over shoulder armor; black rune-shadow hugs the chest metalwork. Her eyes lower toward the gathered power; outer eye corners tremble slightly; lips part with suppressed laughter. Then she looks toward camera side-front, expression turning from rapture into possession. Her breath expands the torso under rigid leather and metal support; straps, medallions, and armor details react with small realistic vibration. Fire, electricity, and shadow travel along armor surfaces and metal edges only, never covering the face. She murmurs: <d>[English] You know who owns you. </d>
+
+[00:07.8-00:10.9] Grand spell display. A stomps forward, cracking the rock. Both arms open wide: right hand sweeps upward, left claw presses down. She throws her head back and laughs. Camera first cuts to the foot and glowing cracks, then drops into a low-angle pullback revealing A and a huge half-ring crown sigil rising behind her. Her eyebrows lift fully; eyes blaze; mouth opens in wild laughter without distortion. Then her gaze locks upward, commanding the crown to form. Purple-orange light erupts through ground cracks. Pebbles lift and fall back. Near-layer sparks reverse; mid-layer violet arcs circle horns and shoulder armor; far-layer black smoke-runes roll from rock fissures. The three layers merge into a vast violet-orange magical crown. Smoke rises from heat; flames curl fluidly; rock cracks crumble slightly. Orange underlight lifts her face; horns and shoulder edges gain violet rim light. She shouts: <d>[English] Look at me now! </d>
+
+[00:10.9-00:12.5] Rapid push-pull impact shot. A cuts off the laugh, leans forward, and yanks her right hand inward. The huge crown collapses in layers: outer black smoke is sucked inward first, violet arcs twist into a ring, then orange fire compresses into a rotating palm sigil-core. Camera is pushed back by the crown brightness, then pulled toward her face, shoulders, chest armor, and palm by the core’s suction. Her eyes narrow against the light; outer eye corners tighten; the smile shifts into a cold victorious smirk. Hair, shoulder armor, and cloth are first blown outward, then drawn subtly back toward the palm. Leather straps and metal clasps flash twice and settle. She says coldly: <d>[English] Good... </d>
+
+[00:12.5-00:15.0] Fixed low-angle medium close. A takes one final step toward camera. The sigil-core floats near her face in the right palm; the left claw hangs near the lower frame. Her fingers slowly close, locking fire, electricity, and shadow into the core. Frame holds horns, half-profile face, palm core, chest reflections, and fading crown residue behind her. She studies the core first, eyelids lowering like she is admiring prey. Then her eyes move toward camera side-front; the smile narrows into calm dangerous triumph. The crown remnant fades behind her; sparks still drift slightly backward; rock-crack glow dims but never cuts to black. Purple-orange core light illuminates half her face. She commands softly: <d>[English] Kneel. </d> Hold the living ruin, smoke, embers, and palm light.
+
+Maintain exact face, horns, ears, hair, armor, claws, costume damage, body proportions, rock field, and magic color logic. No face collapse, overwide mouth, wrong fingers, added characters, modern objects, detached magic noise, unmotivated particles, light flicker, body distortion, isolated body framing, subtitles, watermark, scene jump, fade, or black ending.
+
+overall_soundscape
+
+Continuous cold ruin wind, distant rock groan, drifting ash, leather creak, metal ring movement, and low magical pressure. [00:00-00:01.6] claw scraping rock, sparks, flame drag, whispered “It answers me...” [00:01.6-00:03.2] flame twisting into electricity, metal ornament crackle, breath intake, “Higher... yes.” [00:03.2-00:05.1] whip air, smoke-rune tear, metal ring clinks, “Mine. All of it.” [00:05.1-00:07.8] slowed fire, violet arcs, shadow-rune coil, intimate “You know who owns you.” [00:07.8-00:10.9] rock crack, stones lifting and falling, crown formation, huge magical swell, “Look at me now!” [00:10.9-00:12.5] crown collapse, suction rush, compressed core hum, “Good...” [00:12.5-00:15.0] locked sigil rotation, fading crown residue, ash and smoke, quiet command “Kneel.”
+
+non_diegetic_music
+
+No music. Preserve magic layers, fire, electricity, smoke-runes, rock fracture, breath, metal armor detail, and the final charged silence.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@ou_zhen599 · [原帖](https://x.com/ou_zhen599/status/2117660859992543677)
+
+<sub>Preview © 2026 @ou_zhen599 · Prompt by @ou_zhen599</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-165"></a>
+### Case 165: A Sunset Beach Vlog (夕阳海滩的情侣视角) — by @ou_zhen599
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-165"><img src="../../../images/hailuo-3/case165/preview.webp" width="700" alt="A Sunset Beach Vlog"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-165)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/hailuo-3/case165/input1.webp" width="200" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15-second 16:9 I2VA cinematic seaside couples-vlog sequence. Use &lt;Picture 1&gt; as the only first-frame reference for t…</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15-second 16:9 I2VA cinematic seaside couples-vlog sequence. Use <Picture 1> as the only first-frame reference for the same adult woman A: exact face proportions, pink wavy long hair, glossy burgundy deep-V one-piece swimsuit, palm trees, beach hut, wet sand, shoreline, sunset side-backlight, and tropical beach atmosphere. The boyfriend never appears; he exists only as camera POV, offscreen English voice, retreating handheld movement, close distance, and a partial orbit around A. One continuous beach space only: palm-shadow edge -> wet sand shoreline -> close camera foreground. No new location, outfit change, hair change, subtitles, text, logo, watermark, fade, or black ending.
+
+A begins in the right-mid foreground at the palm-shadow edge, facing left-front toward the water. She walks diagonally along wet sand toward the waterline, then lightly runs two or three steps toward the camera, stops close to the lens, follows the camera through a half-turn, and finally approaches close enough to partially block the lens edge with one hand. B, the boyfriend camera, starts about 2.5 meters left-front of A, films while walking backward, then shifts 70-90 degrees toward the sea side, ending about 0.6 meters in front of A. Spatial continuity stays fixed: shallow ocean and foam on the left, palms and beach hut on the right, sunset from left-rear.
+
+Lighting: golden sunset side-backlight from low frame-left/rear, 4300K-4800K, tracing pink hair edges, shoulders, collarbones, and glossy burgundy swimsuit curves. Ocean reflection gives low cool cyan fill under jaw, lower chest edge, legs, and wet sand. Palm and hut shadows stay soft deep green-brown. Warm tropical golden-hour grade: amber-gold highlights, protected peach-warm skin, deep palm-green shadows, cyan-turquoise ocean reflections, burgundy swimsuit as the saturated accent. Clean premium commercial look, controlled saturation, soft highlight roll-off, slight film grain, no plastic skin.
+
+Water physics: shallow waves push white foam from frame-left onto wet sand, thin around A’s feet, break, then recede. Footsteps leave real wet-sand impressions; thin water layers displace into small splashes and circular ripples. Droplets on legs and swimsuit edges slide downward with gravity. Pink hair responds to wind and running: roots follow head motion first, tips lag, then sea wind pulls strands backward. Swimsuit fabric stays glossy and supportive, with highlight shifts caused by walking, running, stopping, turning, and breath.
+
+[00:00-00:01.60] Continue from <Picture 1>. A is already walking diagonally along wet sand toward the waterline. Her right hand brushes pink hair away from her face; left shoulder catches warm rim light. B’s POV lightly pushes in while retreating, keeping her from half-body to thigh in frame. She looks toward the sea first, avoiding the lens, suppressing a smile as if refusing to give him the perfect face immediately. Offscreen boyfriend says softly with a laugh: <d>[English] Don’t hide from me. </d>
+
+[00:01.60-00:03.80] Slow push into a chest-up medium close. Focus begins on the glossy burgundy swimsuit highlight, then racks smoothly to her eyes. A walks and inhales through a smile; her eyes test the lens edge first, then meet the camera. Upper eyelids soften, brow tail lifts subtly, and a small pleased smile replaces restraint. Breath, shoulders, swimsuit reflections, and hair settle naturally with each step. A says playfully: <d>[English] Then make me look good. </d>
+
+[00:03.80-00:06.70] B retreats two steps into a clearer handheld boyfriend follow shot. Offscreen boyfriend says: <d>[English] Come here. Run to me. </d> A pauses half a beat, checking whether the camera is still rolling; her expression says “you really want this shot?” Then she laughs open and lightly runs two or three steps toward the lens. Her feet enter a thin wave; white foam splits around her insteps and splashes low to both sides. Pink hair streams back, shoulders relax, torso stays balanced, and burgundy highlights bounce with her stride. Camera stays low-angle and retreating, preserving believable POV.
+
+[00:06.70-00:08.60] Moving close-up from chest to face, never losing expression. A runs nearer, eyes fixed on the boyfriend behind the camera. Smile spreads from mouth to eyes; under-eye muscles lift, brow center relaxed, playful challenge visible. Breath quickens. Swimsuit highlights shift with step rhythm and supported body motion; hair brushes her cheek and is pulled away by wind. Water droplets flash at her legs and swimsuit edge. A laughs while running: <d>[English] You better keep up. </d>
+
+[00:08.60-00:10.50] A reaches the lens. B backs up slightly with rebound-speed motion: fast approach suddenly slows. A stops sharply on wet sand, body carried forward for a fraction before legs and core regain balance. Her eyes sweep from lens edge back to center; lips part with bright breath and laughter. The stop creates a brief natural settling response through posture, swimsuit highlights, hair, and breath, then stabilizes. She laughs low: <d>[English] Stop moving back. </d>
+
+[00:10.50-00:12.80] B half-orbits 70-90 degrees around A from the sea side in a slow-motion boyfriend-POV move, never drone or third-person. A follows the lens with a half-turn, one hand holding windblown pink hair, the far shoulder drawing slightly back. Her expression shifts from open laughter into a more deliberate intimate check: eyes follow the camera first, then settle on the person behind it; upper lids lower a little, smile narrows. Breath slows. The burgundy highlight glides across chest curve, waistline, and hip as she turns. Offscreen boyfriend says: <d>[English] That’s the shot. </d> A answers softly with a lifted ending: <d>[English] Is it? </d>
+
+[00:12.80-00:14.00] B raises the camera briefly into a short high-angle cut. First show A’s feet at the shallow foam edge: wet sand opens under her step, water curls around the ankles and pulls back. Camera then rises along the body to her upper body and eyes. A steps half a pace closer. Her breathing is still gently elevated, but calm. Her gaze returns from the sea to the lens; brow tail softens and the smile becomes intimate, as if only for the person filming.
+
+[00:14.00-00:15.00] Close handheld POV. A reaches out and gently covers only part of the lens edge, leaving sunset flare and pink hair rim light through her fingers. Camera remains close with subtle hand-breath movement. She leans in, eyes soft but pleased, smile lowered and confident. Offscreen boyfriend asks: <d>[English] Can I post this one? </d> A says quietly: <d>[English] Don’t delete this one. </d> End on her close smile, partial hand occlusion, glittering ocean, palm shadows, wet sand reflection, and wave ambience. No fade or black.
+
+Maintain the same adult identity, face, pink hair, burgundy swimsuit, tropical beach, palm trees, hut, shoreline, wet sand, sunset direction, and boyfriend POV logic. The boyfriend never appears. No extra people, drone angle, third-party camera reveal, phone interface, subtitles, text, watermark, scene jump, pool, boat, nightclub, city street, face drift, empty stare, fake frozen smile, wrong fingers, distorted body proportions, impossible water, floating splash, random light change, over-smoothed skin, or cheap oversaturated color.
+
+overall_soundscape
+
+Continuous close beach ambience: soft surf, thin foam over wet sand, palm leaves, distant tropical air, and handheld movement. [00:00-00:01.60] wet steps, hair brushing, boyfriend line: “Don’t hide from me.” [00:01.60-00:03.80] soft footfalls, breath-smile, A: “Then make me look good.” [00:03.80-00:06.70] retreating handheld steps, boyfriend: “Come here. Run to me,” shallow splashes, A starting to laugh. [00:06.70-00:08.60] light running through foam, quick breath, A: “You better keep up.” [00:08.60-00:10.50] sudden stop on wet sand, small water displacement, A: “Stop moving back.” [00:10.50-00:12.80] slow orbit wind, hair movement, boyfriend: “That’s the shot,” A: “Is it?” [00:12.80-00:15.00] water curling around ankles, close breath, boyfriend: “Can I post this one?” A: “Don’t delete this one,” waves continuing.
+
+non_diegetic_music
+
+No music. Preserve surf, wet sand, breath, laughter, handheld intimacy, and the final sunset shoreline afterglow.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@ou_zhen599 · [原帖](https://x.com/ou_zhen599/status/2117636363751444547)
+
+<sub>Preview © 2026 @ou_zhen599 · Prompt by @ou_zhen599</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-166"></a>
+### Case 166: The Warrior and the Ginger Cat (蓝门前的战士与橘猫) — by @ou_zhen599
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-166"><img src="../../../images/hailuo-3/case166/preview.webp" width="700" alt="The Warrior and the Ginger Cat"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-166)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/hailuo-3/case166/input1.webp" width="200" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15-second 16:9 I2VA live-action cinematic scene. Use &lt;Picture 1&gt; as the only first-frame and visual reference for th…</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15-second 16:9 I2VA live-action cinematic scene. Use <Picture 1> as the only first-frame and visual reference for the same ruined porch, broken brick wall, weathered blue door, stone steps, dark red scarf, metal shoulder armor, circular chest medallion, orange cat, warm afternoon light, and quiet post-battle mood. One continuous space only: porch, steps, blue door, and broken wall. No scene change, added enemies, added animals, new weapons, subtitles, narration, text, watermark, fade, or black ending.
+
+A is the adult female warrior, beginning frame-center-right, seated against the threshold where the blue door meets the stone step, body angled toward frame-left/front. Her right hand supports her on the step, left knee raised, shoulder armor and medallion catching light. The dark red scarf drapes from her side onto the stone. B is the orange cat, beginning on the right foreground step near the scarf edge, facing the broken brick wall. B leads the interaction: foreground step -> A’s knee armor and scarf -> reflected light across wall, door, and knee armor. A stays near the threshold, only rising slightly, leaning forward, turning shoulder to move the medallion reflection, making room for the cat, and settling back against the door.
+
+Afternoon hard sunlight enters from upper-left, striking broken brick, A’s cheek, shoulder armor, circular medallion, and cat fur edges. The blue door interior remains deep cool shadow, creating warm-gold vs cold-blue contrast. Palette: warm gold #D8A65A, dry red brick #9A553B, oxidized blue door #1F5F6E, cold blue-gray shadow #24313A, dark wine-red scarf #6E2023. Low saturation, protected natural skin, clean but not clipped metal reflections, preserved shadow detail, soft highlight roll-off, subtle film grain.
+
+Physical effects stay realistic only: dust, tiny grit, cloth folds, metal taps, cat fur rim light, fine hair movement, and medallion reflections. Dust comes only from stone friction, cat tail, and dragging scarf; particles appear only in sunbeams, fall under gravity, then settle or vanish into shadow. No fire, explosion, magic smoke, energy effects, or floating particle wall.
+
+[00:00-00:02.00] Ground-level tracking begins beside B’s tail, sliding over stone dust, scarf edge, and A’s right hand braced on the step. B’s tail sweeps the ground and raises a small dust ring. A is already moving: right palm presses down, core engages, and her body rises half an inch from the blue door. Left knee armor scrapes stone with a tiny metal sound. Her face remains slightly tilted upward, gaze distant; eyelids half open, brow calm, lips parted as if returning from far away. Low angle lifts to A’s upper body. As she props up and then pauses at the cat’s movement, shoulder armor, straps, cloth, medallion, and posture show one brief natural settling response, then stabilize.
+
+[00:02.00-00:04.50] Slow push with smooth focus transition. B stands and places one front paw on the corner of A’s scarf, eyes fixed on the warm reflection from A’s circular medallion on the broken wall. Camera moves from A’s side face to the medallion, then racks into B’s pupils. A’s eyes move down first; her head follows half a beat later. Brow softens and the distant expression returns to the present. She does not pull the scarf away; her bracing fingers relax, letting B keep its paw there. Her lips close into a tiny restrained curve. The medallion reflection forms a small sharp gold spot on the wall and trembles slightly with her breathing.
+
+[00:04.50-00:06.30] B suddenly pounces left toward the wall light. Camera whip-follows B, then tracks laterally to the broken brick. B’s paws land at the lower wall edge, scattering a few grains. The scarf catches under B’s feet and pulls A gently forward. A stabilizes with her left leg; knee armor taps the stone with a clear small ring. Her right hand slides to the blue door edge and fingers hook into the chipped frame. A’s eyes fully land on B; upper lids lift, pupils track the pounce. A brief crease appears between the brows, then dissolves as she suppresses a smile. Stone powder rises at the knee impact and falls. The scarf edge forms one dragged wrinkle wave across the step.
+
+[00:06.30-00:09.50] Restrained slow-motion 120-degree partial orbit, never full circle, around B’s forepaws, A’s medallion, and A’s forward-leaning upper body. Keep porch, broken wall, and blue door locked in place. B misses the light. A understands and deliberately turns her right shoulder and medallion, moving the reflection from the brick wall toward the blue door edge. She is now actively feeding the game to the cat. B’s eyes follow the light; whiskers tremble in sunlight. A lowers her lashes toward B, outer eyes softening. The smile grows slightly, then she presses it back. One soft inhale opens the nostrils, jaw releases, and her gaze shifts from alertness to playful indulgence. Shoulder armor limits the turn; straps, fabric, medallion, hair, and posture respond with small delayed motion. Dust in the sunbeam bends into a faint arc from her shoulder turn, then fades near the door shadow.
+
+[00:09.50-00:11.80] Overhead cut to the stone steps: B’s paws, red scarf, moving light spot, and A’s knee armor form a small chase path. A turns her shoulder again, sliding the light from the blue door onto her knee armor. B immediately follows to her leg and raises one paw onto the bright spot. Camera pushes quickly toward B’s paw, then pulls back slightly to include A’s side waist, scarf, knee armor, and door edge. A turns aside half an inch to give B space. Her eyes follow the paw, then the light, then B’s face; the emotion softens step by step. The paw on metal breaks the reflection into short flashes. The scarf compresses under B’s paw, wrinkles spreading outward once and stopping.
+
+[00:11.80-00:13.20] Focus-rack pause. B pins the light spot on the scarf. A stops turning the medallion and holds the forward lean. Focus moves from B’s paw to the circular medallion, then to A’s face. The space falls quiet: dust descending, fabric under paw, last metal vibration, and A’s breathing. A lifts her gaze to the sky for half a second, then lowers it back to B, as if deciding the cat matters more than the distance. Brow smooths with post-battle fatigue; when looking back to B, eyelids soften and one mouth corner tilts with quiet surrender.
+
+[00:13.20-00:15.00] Return to a stable porch composition close to the first-frame layout and slowly pull back. B sits in the foreground center, paw pressing the scarf where the light lands, claiming it like a prize. A settles back against the blue door. Her right hand hangs near B without touching, waiting for permission. As her back meets the doorframe, shoulders release with one silent breath-laugh; fabric, leather strap, medallion, and hair make a final small delayed settling motion. A looks down at B, eyes soft, lips closed with a faint curve. She completes the relationship by stopping her hand and letting B own the light. End with B clear in the foreground, A softly behind, sunlit dust falling, cat fur rim-lit, blue door shadow alive. No fade or black.
+
+Maintain A’s exact identity, face, hair, armor, clothing, scarf, medallion, body proportions, normal five-finger hands, orange cat color and size, porch geometry, blue door, broken wall, and light direction. No extra characters, extra animals, face drift, deformed features, exaggerated mouth, cartoon expression, erotic posing, isolated body-part framing, clothing failure, impossible dust, overexposed magic-like reflection, subtitles, watermark, text, black screen, or fade.
+
+overall_soundscape
+
+No dialogue or narration. Quiet ruined-porch ambience: soft afternoon air, tiny stone grit, fabric dragging on steps, cat paws on cloth and stone, metal knee armor tap, medallion micro-swing, A’s low breathing. [00:00-00:02.00] tail brushing dust, palm on stone, knee armor scrape. [00:02.00-00:04.50] cat paw pressing scarf, faint medallion movement, soft breath. [00:04.50-00:06.30] cat pounce, stone grains, knee armor ring, scarf drag. [00:06.30-00:09.50] slowed cloth tension, whisker movement, barely audible metal sway. [00:09.50-00:11.80] paw on knee armor, broken light reflection, scarf compression. [00:11.80-00:15.00] quiet dust settling, breathing, fabric release, still porch air.
+
+non_diegetic_music
+
+No music. Preserve the intimacy of cat movement, stone texture, small metal sounds, cloth friction, breathing, and the final sunlit stillness.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@ou_zhen599 · [原帖](https://x.com/ou_zhen599/status/2117277923589976215)
+
+<sub>Preview © 2026 @ou_zhen599 · Prompt by @ou_zhen599</sub>
 
 [回到目录](#table-of-contents)

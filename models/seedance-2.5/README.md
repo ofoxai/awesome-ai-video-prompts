@@ -2,7 +2,7 @@
 
 # Seedance 2.5
 
-112 ByteDance Seedance 2.5 cases with the complete prompt, the parameters, and a playable output — 24 official, 73 community, 15 run by us with the bill attached. Collected and run through [Ofox](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5).
+122 ByteDance Seedance 2.5 cases with the complete prompt, the parameters, and a playable output — 24 official, 83 community, 15 run by us with the bill attached. Collected and run through [Ofox](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5).
 
 ## What is Seedance 2.5?
 
@@ -56,8 +56,8 @@ billed, so every number traces back to one API call. See
 
 | | Category | Cases |
 |:---:|---|---:|
-| <a href="cases/short-drama.md"><img src="../../images/seedance-2.5/case1/preview.webp" width="160" alt="Short Drama (短剧)"></a> | [Short Drama (短剧)](cases/short-drama.md) | 24 |
-| <a href="cases/anime-drama.md"><img src="../../images/seedance-2.5/case9/preview.webp" width="160" alt="Anime Drama (漫剧)"></a> | [Anime Drama (漫剧)](cases/anime-drama.md) | 12 |
+| <a href="cases/short-drama.md"><img src="../../images/seedance-2.5/case1/preview.webp" width="160" alt="Short Drama (短剧)"></a> | [Short Drama (短剧)](cases/short-drama.md) | 32 |
+| <a href="cases/anime-drama.md"><img src="../../images/seedance-2.5/case9/preview.webp" width="160" alt="Anime Drama (漫剧)"></a> | [Anime Drama (漫剧)](cases/anime-drama.md) | 13 |
 | <a href="cases/ad-creative.md"><img src="../../images/seedance-2.5/case12/preview.webp" width="160" alt="Ad Creative (创意广告)"></a> | [Ad Creative (创意广告)](cases/ad-creative.md) | 12 |
 | <a href="cases/product-video.md"><img src="../../images/seedance-2.5/case18/preview.webp" width="160" alt="Product Video (电商产品视频)"></a> | [Product Video (电商产品视频)](cases/product-video.md) | 7 |
 | <a href="cases/talking-head.md"><img src="../../images/seedance-2.5/case21/preview.webp" width="160" alt="Talking Head (口播和数字人)"></a> | [Talking Head (口播和数字人)](cases/talking-head.md) | 3 |
@@ -68,5 +68,5 @@ billed, so every number traces back to one API call. See
 | <a href="cases/video-extend-edit.md"><img src="../../images/seedance-2.5/case45/preview.webp" width="160" alt="Video Extend & Edit (视频延长和编辑)"></a> | [Video Extend & Edit (视频延长和编辑)](cases/video-extend-edit.md) | 11 |
 | <a href="cases/image-edit.md"><img src="../../images/seedance-2.5/case55/preview.webp" width="160" alt="Image Edit (图生图和修图)"></a> | [Image Edit (图生图和修图)](cases/image-edit.md) | 2 |
 |  | [Product Image (电商主图和海报)](cases/product-image.md) | 0 |
-| <a href="cases/music-video.md"><img src="../../images/seedance-2.5/case57/preview.webp" width="160" alt="Music Video (音乐可视化和MV)"></a> | [Music Video (音乐可视化和MV)](cases/music-video.md) | 5 |
+| <a href="cases/music-video.md"><img src="../../images/seedance-2.5/case57/preview.webp" width="160" alt="Music Video (音乐可视化和MV)"></a> | [Music Video (音乐可视化和MV)](cases/music-video.md) | 6 |
 | <a href="cases/explainer.md"><img src="../../images/seedance-2.5/case62/preview.webp" width="160" alt="Explainer (教学解说视频)"></a> | [Explainer (教学解说视频)](cases/explainer.md) | 3 |

@@ -9,6 +9,7 @@
 - [Case 59: 30-second classical concert (30 秒古典音乐会) — by ByteDance](#case-59)
 - [Case 60: Idol pop performance, full lyrics & BPM (偶像流行音乐表演·完整歌词与节拍) — by @stocktrading0](#case-60)
 - [Case 61: 90s underground gangster-anime beatbox MV (90年代地下帮派动漫节奏口技MV) — by @Madhuribhai](#case-61)
+- [Case 98: A Seven-Member Neon Stage (七人女团的霓虹舞台) — by @Chaemate_](#case-98)
 
 <a id="case-57"></a>
 ### Case 57: Multilingual hip-hop MV, eight-language lip-sync (多语言 Hip-hop MV · 8 种语言口型) — by ByteDance
@@ -142,3 +143,48 @@ Shot 4 (0:15-0:20) Camera: Wide shot capturing overview from top diagonal angle,
 <sub>Preview © 2026 <a href="https://x.com/Madhuribhai/status/2092480744493134134">@Madhuribhai</a> · Prompt by <a href="https://x.com/Madhuribhai/status/2092480744493134134">@Madhuribhai</a></sub>
 
 [回到目录](#table-of-contents)
+
+<a id="case-98"></a>
+### Case 98: A Seven-Member Neon Stage (七人女团的霓虹舞台) — by @Chaemate_
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-98"><img src="../../../images/seedance-2.5/case98/preview.webp" width="700" alt="A Seven-Member Neon Stage"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-98)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — AUDIO INSTRUCTION (HIGHEST PRIORITY): Use ONLY the attached audio file &quot;song_part_1.mp3&quot; as the soundtrack for the entire video. Do NOT generate, comp…</summary>
+
+~~~~text
+AUDIO INSTRUCTION (HIGHEST PRIORITY): Use ONLY the attached audio file "song_part_1.mp3" as the soundtrack for the entire video. Do NOT generate, compose, add, or replace any music, vocals, sound effects, ambience, or voiceover. No self-generated audio and no other song. The video must play the attached track exactly as provided, from its first second, with all choreography, cuts, lighting pulses, and lip-sync timed precisely to its beat, tempo, and vocals.
+
+16:9 cinematic K-pop music video, 30 seconds, photorealistic, shot on a high-end cinema camera, 24fps. Start from the reference lineup image: seven-member girl group "RUN IT BACK" in V-formation on a dark glossy reflective stage with hot pink neon light bars, haze and chrome accents. Keep every member's exact face, hair, and outfit from the reference images throughout, with no changes to hair color, clothing, or proportions. All dancing is perfectly synchronized to the beat of the attached song, and mouths lip-sync naturally to the vocals of the attached song in the close-ups.
+
+Members, left to right in the start frame: (1) red-pink twin pigtails, pink star varsity jacket, black pleated skirt; (2) platinum blonde bob, black and pink bomber, black cargo pants; (3) long pastel pink hair, chrome mini dress, pink boots; (4) CENTER, silver-lavender braided hair, black mesh top, pink pleated skirt, black platform boots; (5) long wavy brown hair, pink satin corset, black mini skirt, silver heels; (6) electric magenta curls, black crop top, black shorts, chrome knee pads; (7) black high ponytail, black and pink racer jacket, chrome skirt.
+
+0:00-0:05 SHOT 1, WIDE, V-FORMATION INTRO. Static wide shot, then a slow, smooth push-in. The group holds the pose for one beat, then on the first beat all seven snap their heads up and hit a crisp synchronized arm-wave sweeping left to right like a ripple. Neon bars pulse with the beat. Clean spacing between dancers, no overlapping limbs.
+
+0:05-0:10 SHOT 2, MEDIUM TRACKING. Smooth lateral dolly along the line. The group performs sharp hip-sway steps, then a coordinated step-touch. Members 1, 3, 5, 7 step forward while 2, 4, 6 step back, switching to a staggered zig-zag formation on the beat. Hands stay open and clear of faces.
+
+0:10-0:15 SHOT 3, LOW-ANGLE HERO SHOT. Camera low and wide, slow upward tilt. The group transitions into a diamond formation with member 4 at the front. Powerful synchronized stomp-and-point choreography, then a full-body wave rolling from member 1 to member 7. Hair and fabric move naturally with the motion.
+
+0:15-0:20 SHOT 4, INDIVIDUAL HIGHLIGHTS. Quick, clean cuts on the beat, each about one second: member 2 (blonde bob) delivers a confident smirk and a sharp shoulder-pop; member 6 (magenta curls) does a fierce hip-roll and power step; member 5 (brown hair) does an elegant slow turn; member 7 (ponytail) whips a controlled head-turn; member 3 (pink hair) gives a playful wink. All in medium close-up, one dancer per cut.
+
+0:20-0:26 SHOT 5, CHORUS CHOREOGRAPHY, WIDE ORBIT. Camera makes a slow, smooth half-orbit around the group. They return to a V-formation, then perform the signature chorus move: all seven step in unison, rotate in place on the beat, and throw a synchronized arm-punch toward camera, followed by a fast formation switch into two lines of three and four. Movements are precise, athletic, and perfectly synced.
+
+0:26-0:30 SHOT 6, FINAL POSE. Camera pulls back to a wide shot. The group slides into a tight, symmetrical power pose with member 4 centered in front, hands on hips, chins up, holding it as the light bars flash on the last beat, then a freeze on the final frame.
+
+STAGE and LOOK: glossy black reflective floor with accurate reflections, hot pink and cool white neon lighting, subtle haze, light lens flares on beat hits, shallow depth of field on close-ups, cinematic color grade in pink, chrome, and deep black, high-end idol music video production quality.
+
+CONSISTENCY and QUALITY RULES: seven distinct people at all times, always exactly seven dancers; no extra people; no merging, duplicating, or swapping bodies; correct human anatomy with five fingers per hand; natural hand and foot movement; feet stay planted on the floor with no sliding; no morphing clothes or hair; smooth stable camera with no shaking; no text, subtitles, logos, or watermarks on screen. Final audio = the attached song_part_1.mp3 only.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · ElevenLabs · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Chaemate_](https://x.com/Chaemate_) · [原帖](https://x.com/Chaemate_/status/2120407838677717383)
+
+<sub>Preview © 2026 <a href="https://x.com/Chaemate_/status/2120407838677717383">@Chaemate_</a> · Prompt by <a href="https://x.com/Chaemate_/status/2120407838677717383">@Chaemate_</a></sub>
+
+[返回目录](#table-of-contents)

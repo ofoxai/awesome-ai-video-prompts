@@ -14,6 +14,7 @@
 - [Case 35: First-Person Hand-Drawn MG Night Walk (第一人称手绘 MG 夜游) — by Alibaba](#case-35)
 - [Case 45: Urban MG Chase for the Light Orb (都市 MG 光球追逐) — by Alibaba](#case-45)
 - [Case 80: Before the Void Swallows You (在虚空吞噬你之前) — by @0xbisc](#case-80)
+- [Case 110: A Watercolor Village Comes Alive (水彩海港小镇动起来) — by Muse Video](#case-110)
 
 <a id="case-16"></a>
 ### Case 16: 3D Stylized — The Giant Translucent Plant (3D 风格化动画·湖心巨型植物) — by Alibaba
@@ -516,5 +517,34 @@ In the final image, the view gradually shifts from near the ancient tree and the
 **来源**：@0xbisc · [原帖](https://x.com/0xbisc/status/2093296541834653883)
 
 <sub>社区创作 · Latte (@0xbisc) · X 原帖成片与同作者回复中的逐字提示词</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-110"></a>
+### Case 110: A Watercolor Village Comes Alive (水彩海港小镇动起来) — by Muse Video
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-110"><img src="../../../images/wan-3/case110/preview.webp" width="700" alt="A Watercolor Village Comes Alive"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-110)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case110/input1.webp" width="200" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — The watercolor scene comes alive: small waves lap at the shore, the boats bob gently, seagulls glide across the sky, slow push-in toward the houses on…</summary>
+
+~~~~text
+The watercolor scene comes alive: small waves lap at the shore, the boats bob gently, seagulls glide across the sky, slow push-in toward the houses on the hill, soft ocean ambience and distant gull cries
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Muse Video · i2v · 5s · 480p · 未标注 · on
+**来源**：Muse Video · [原帖](https://muse-video.co/wan-3-0)
+
+<sub>Preview © 2026 Muse Video · Prompt by Muse Video</sub>
 
 [Back to top](#table-of-contents)

@@ -25,6 +25,9 @@
 - [Case 150: The Cloaked Ranger Vanishes (披风游侠的暗影消失) — by @holagarciajavi](#case-150)
 - [Case 152: The Beast and the Plasma Cannon (巨兽反咬等离子巨炮) — by @DeCat2025](#case-152)
 - [Case 156: Unexpected Strength in the Garage (车库中觉醒的怪力) — by @chatgptpaglu](#case-156)
+- [Case 167: The Mechanical Gunslinger (工业走廊中的机械枪手) — by @ou_zhen599](#case-167)
+- [Case 169: The War of the Crimson Sky (绯红云层中的飞骑大战) — by @DeCat2025](#case-169)
+- [Case 170: The Mountain Awakens (山岳化作燃焰守护者) — by @DeCat2025](#case-170)
 
 <a id="case-8"></a>
 ### Case 8: The Sky Descends Like a Giant Wall over a Suburban Street (整片天空如巨墙压向郊区街道) — by @cocktailpeanut
@@ -760,5 +763,149 @@ Attackers hesitate, collide, and react naturally. Bystanders panic and move. So-
 **来源**：@chatgptpaglu · [原帖](https://x.com/chatgptpaglu/status/2104518897424548018)
 
 <sub>Preview © 2026 @chatgptpaglu · Prompt by @chatgptpaglu</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-167"></a>
+### Case 167: The Mechanical Gunslinger (工业走廊中的机械枪手) — by @ou_zhen599
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-167"><img src="../../../images/hailuo-3/case167/preview.webp" width="700" alt="The Mechanical Gunslinger"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-167)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/hailuo-3/case167/input1.webp" width="200" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15-second 16:9 I2VA cinematic action sequence. Use &lt;Picture 1&gt; as the only reference for the same adult mechanical f…</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15-second 16:9 I2VA cinematic action sequence. Use <Picture 1> as the only reference for the same adult mechanical female gunslinger A: exact face, short messy black hair, damaged beige sailor top, red neckerchief, dark pleated mini skirt, dual pistols, exposed mechanical torso, fluorescent green power lines, industrial assembly corridor, light direction, and opening composition. Do not repair costume, change hairstyle, reshape body, or replace weapons. One continuous industrial corridor only. A keeps advancing toward camera; camera retreats on the same axis or shifts to axis-right only, except neutral overhead shots. No scene jump, no axis crossing.
+
+A begins center corridor advancing toward camera. B and C are rear armed teammates from <Picture 1>, always at least five meters behind A and only start following at the end. D enters from the foreground-right equipment gap. E attacks from the mid-left pipe shadow. F and G attack from front-left and front-right. Zombies remain blurred decayed silhouettes and never overtake A as the main subject.
+
+Lighting: stable cold cyan-gray top light from upper-left, about 6200K, through damaged roof and smoke; weak green industrial fill stays on background metal only. Warm 2200K orange fire reflections move across legs, skirt, and mechanical edges. Muzzle flashes are brief 2800K warm-white impact lights on face, gloves, guns, blood mist, and smoke. Green power lines cast only local spill. Grade: restrained teal-orange with light bleach bypass, cyan-gray shadow #18383D, gunmetal #4B5554, muzzle orange #FF7A32, energy green #39E889, dark blood red #6F171B. Natural warm-neutral skin, deep detailed blacks, soft highlight roll-off, subtle film grain.
+
+[00:00-00:01.8] Continue directly from <Picture 1> mid-fire. 24mm low medium shot, camera rapidly retreats on the corridor centerline. A fires the right pistol while launching forward with a heavy left step; the left pistol stays near her waist and hits D entering from the right. Her eyes lock D from the corner before her head follows. Brow tightens, upper lids lower, lower lids firm, nostrils open on a short inhale, jaw clenches, lips leave only a narrow breathing slit. A muzzle-flash wipe cuts into a 50mm chest-shoulder medium close. Acceleration pulls damaged fabric and neckerchief backward; short hair moves root-first, tips lag; skirt and cloth edges flare back then snap close with tight damping.
+
+[00:01.8-00:03.5] Start from a close view of mechanical legs, then track low and slide to A’s right side into a 35mm full-body profile. A stays low and advances with a precise step-shoot-shift rhythm over bodies. Left pistol drops E; right pistol covers the front. Her eyes jump between targets before brows adjust. After hitting E, brow pressure releases for a fraction and one mouth corner almost rises, leaking a tiny hunting excitement before flattening again. Insert a 0.4-second bullet-follow from behind the right muzzle along the corridor axis: the bullet cuts through thin steam, hits a zombie near a steel rail, and throws blood and dust backward along force direction. A few droplets briefly wipe the lens. A graze on a steel beam dents metal, throws orange-white sparks, tiny chips, and gray oxide flakes downward; sparks follow short arcs and die fast.
+
+[00:03.5-00:04.4] Blood-wipe into a 0.9-second vertical overhead shot. A remains center corridor moving forward. F and G close from front-left and front-right. Bodies, casings, and her coming diagonal slide path are clearly visible. Gunfire drops briefly; keep footsteps, breathing, small flame crackle, and approaching zombie sounds. A’s eyes snap upper-left to read F’s arm path; brow opens slightly because she has found the route. She enters a pipe-shadow band, naturally wiping into close action.
+
+[00:04.4-00:06.4] 50mm right-side medium close, tight tracking. F swings an arm across her path. A does not stop. Her eyes lift to the forearm first, head follows; she folds at the waist and slips under the armpit. Left pistol presses under F’s jaw; right foot plants as pivot; right pistol fires upward into the rib side. Enter local bullet time with only a 70-degree short side arc, never full orbit. Her inner brows tighten from proximity, nose bridge wrinkles slightly. Once F loses balance, upper lids relax; gaze shifts into contempt. After the shot, her eyes glance down at falling F first; half a beat later the left mouth corner lifts slightly, lips still tight. Blood beads exit behind F in warm muzzle light; heavy droplets fall, mist is carried backward by corridor airflow. Hair, neckerchief, and torn cloth continue delayed rotation and settle as speed returns on the muzzle flash.
+
+[00:06.4-00:09.7] 35mm high-speed side tracking matching A’s speed. A accelerates two steps, then deliberately drops her waist and slides diagonally right-front on mechanical knee pad and outer thigh. She leans back under G’s grab, left pistol fires upward into the near target; still sliding, right arm reaches overhead and fires backward at a replacement zombie. Insert a 0.6-second top-down cut confirming she threads between two zombies, then return to ground-level side tracking. On ground impact, her brow clamps, nostrils flare, teeth show a brief strain mark; next beat she suppresses pain, brow opens again, eyes keep leading the guns. Knee pad scrapes rough floor, throwing fan-shaped dust, grit, and metal specks. Heavy fragments roll briefly; light dust lifts and sinks behind her. Low sparks trail opposite the slide and die quickly. Muzzle gas becomes thin gray-white smoke pulled backward by motion. Skirt, cloth edges, and hair stretch with speed, then curl back before braking.
+
+[00:09.7-00:12.0] Camera overshoots half a step with her braking, then rebounds into a 65mm frontal three-quarter medium close. A slows with outside foot and mechanical knee, pushing rubble forward. She folds into one-knee posture, ejects empty magazines, seats fresh magazines, and rises forward without posing. Eyes stay locked forward during braking; once magazines drop, gaze flicks down along the guns and lids narrow briefly. On magazine lock, eyes lift to camera first, head follows. Brow arches slightly, jaw relaxes from tension, lips soften into a controlled dominant half-smile. Clothing, harness, and mechanical torso settle under the hard stop and inhale. She steps close and says low, breath-heavy but controlled: <d>[English] Too slow. </d> “Too” is short and low; pause half a beat with a light exhale; “slow” is slower and falls downward. Eye contact never leaves camera.
+
+[00:12.0-00:14.2] A suddenly fires left. Camera whip-pans left; a collapsing zombie creates a natural wipe. Whip back to corridor axis into a 24mm low frontal pullback. A walks toward camera while clearing the space in three beats: left pistol, right pistol, both pistols together. First shot removes the half-smile; upper lids lower, lips flatten. Second shot: eyes move sideways first and the head follows only slightly. Before both guns fire, she inhales sharply and locks the jaw; after the double shot, brow releases because the fight is decided. Each muzzle flash briefly becomes the warm key, lighting cheek, mechanical abdomen, flying casings, and smoke before decaying. Bullets hitting steel equipment create visible dents, chipped edges, directional fragments, and brief steam cavities that roll closed. No explosion.
+
+[00:14.2-00:15.0] Camera suddenly locks. A does not stop; she steps over bodies and passes close along camera-right. B and C remain far back behind smoke, only now beginning to follow. Her eyes move past camera toward a new offscreen target before her head follows. Brow shifts from hard to calm control, and only then does a faint dangerous half-smile appear. As she brushes past, she says quietly: <d>[English] Keep up. </d> “Keep” is clear and low; “up” is light, short, and drops cleanly. End with the corridor still alive: muzzle smoke curling upward and pulled sideways, casings spinning to a stop, flame licking damaged metal, warm reflections trembling in dust. No fade, black screen, or freeze.
+
+Maintain A’s exact adult identity, face, mechanical anatomy, costume damage, dual-pistol design, left-right gun relationship, five-finger hands, and corridor structure. No extra undefined people, zombie duplication, axis reversal, forward-direction reversal, teleporting, weapon fusion, deformed hands, cartoon rage, overwide mouth, rubber body motion, fabric clipping, smoke covering the face for long, blood covering the full lens, subtitles, watermark, or logo.
+
+overall_soundscape
+
+Continuous industrial low-frequency rumble, ventilation airflow, fire crackle, and metal corridor resonance. Dual pistols have close explosive cracks with metallic tunnel reflections and short tails. Mechanical joints produce restrained servo sounds. Casings, grit, knee-pad scraping, steel impacts, and rubble movement are spatially precise. During bullet-time moments, ambience lowers and breathing, cloth strain, sparks, and metal friction stretch slightly, then snap back to normal speed. Dialogue stays clear but integrated into action: “Too slow.” and “Keep up.” No narration.
+
+non_diegetic_music
+
+No music. Preserve industrial rumble, gunshots, muzzle gas, sparks, body movement, mechanical servos, shell casings, sliding metal, controlled breathing, and the final corridor afterglow.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@ou_zhen599 · [原帖](https://x.com/ou_zhen599/status/2117242971464638899)
+
+<sub>Preview © 2026 @ou_zhen599 · Prompt by @ou_zhen599</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-169"></a>
+### Case 169: The War of the Crimson Sky (绯红云层中的飞骑大战) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-169"><img src="../../../images/hailuo-3/case169/preview.webp" width="526" alt="The War of the Crimson Sky"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-169)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic epic fantasy. Hundreds of armored warriors ride gigantic four-winged predatory birds above a volcanic battlefield. SHOT 1 | 0–3s | AERI…</summary>
+
+~~~~text
+Photorealistic epic fantasy. Hundreds of armored warriors ride gigantic four-winged predatory birds above a volcanic battlefield.  
+
+SHOT 1 | 0–3s | AERIAL WIDE Two massive aerial armies charge toward each other through crimson clouds, sunlight flashing across armor and outstretched wings.  
+
+SHOT 2 | 3–6s | RIDER-MOUNTED CAMERA The lead warrior lowers a heavy lance. His beast dives beneath an incoming formation and strikes an enemy rider, knocking him from his mount.  
+
+SHOT 3 | 6–11s | FAST REAR TRACKING A gigantic armored aerial beast bursts through the clouds and attacks the formation, smashing smaller mounts aside with its enormous wings.  
+
+SHOT 4 | 11–15s | WIDE THREE-QUARTER The lead warrior dives directly toward the giant beast and drives his lance into its armored neck. The creature crashes onto a massive siege tower below, destroying the structure in a spectacular explosion of timber and stone.  
+
+STYLE: Live-action aerial fantasy warfare, realistic wing physics, believable flight paths, massive altitude, volcanic atmosphere, spectacular physical impacts. No text on screen.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2111572012032205221)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-170"></a>
+### Case 170: The Mountain Awakens (山岳化作燃焰守护者) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-170"><img src="../../../images/hailuo-3/case170/preview.webp" width="700" alt="The Mountain Awakens"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-170)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Epic dark fantasy, ultra-cinematic realism, enormous scale, dramatic physical transformation. A lone knight in battered silver armor stands on a rocky…</summary>
+
+~~~~text
+Epic dark fantasy, ultra-cinematic realism, enormous scale, dramatic physical transformation. A lone knight in battered silver armor stands on a rocky ridge facing a massive cracked mountain. The mountain dominates the horizon. Glowing orange fissures run through its stone surface. Heavy storm clouds, airborne dust, powerful backlighting.
+
+SHOT 1 | 0–3s | LOW WIDE ANGLE
+The knight plants his sword into the rock as the ground shudders. Across the valley, enormous cracks tear through the mountain. A deep rumble shakes loose entire cliffs. The knight looks up as the mountain begins to move.
+
+SHOT 2 | 3–6s | EXTREME WIDE AERIAL
+The mountain splits along massive geometric fractures. Two gigantic stone arms emerge from its sides and push against the valley floor. Its summit rises into a broad, armored head and torso. The mountain unfolds into a colossal stone guardian, towering above the surrounding peaks.
+
+SHOT 3 | 6–9s | GROUND-LEVEL UPWARD ANGLE
+The giant extends one enormous open stone hand toward the knight, palm facing upward. Orange energy streams from the guardian's palm toward the knight. The knight's armor begins glowing white-hot, his body and planted sword merging into one brilliant vertical column of fire.
+
+SHOT 4 | 9–12s | DYNAMIC THREE-QUARTER ANGLE
+The column of fire contracts into a gigantic blazing sword hovering above the knight's now-empty position. The stone guardian closes its enormous fingers around the sword's hilt. Flames explode outward as the guardian lifts the weapon high above its head.
+
+SHOT 5 | 12–15s | EXTREME LOW WIDE ANGLE
+The awakened mountain guardian stands fully upright, gripping the immense burning sword. It swings the blade once across the storm clouds. 
+A gigantic arc of fire tears through the sky, illuminating the entire mountain range. The guardian freezes in a monumental victorious pose as thunder rolls. 
+
+CUT TO BLACK.
+CAMERA, PHYSICS AND CONTINUITY
+Five distinct cinematic shots. One knight, one mountain, one stone guardian. The guardian forms entirely from the original mountain. The knight transforms completely into the sword; no second knight remains. Maintain correct relative scale and coherent spatial positions. Every movement has massive weight and momentum. Clear transformation stages, readable silhouettes, natural rock displacement, dust and debris responding to impacts.
+
+AUDIO AND RESTRICTIONS
+Deep subterranean rumbles, cracking stone, thunder, rising orchestral strings, colossal metallic resonance as the sword forms, thunderous final impact. No dialogue. No on-screen text. No extra creatures, no duplicate limbs, no floating disconnected body parts, no eyes appearing in the landscape.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2111407726223843786)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
 
 [回到目录](#table-of-contents)

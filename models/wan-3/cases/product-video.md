@@ -14,6 +14,10 @@
 - [Case 96: A Water Bottle on Wet River Stones (湿润河石上的不锈钢水瓶) — by PixelDojo](#case-96)
 - [Case 99: A Serum Bottle from a First Frame (首帧驱动的精华瓶环绕) — by ClipRush Team](#case-99)
 - [Case 101: A Serum Commercial from Text (纯文本生成精华瓶广告) — by ClipRush Team](#case-101)
+- [Case 103: Orbiting an Earbuds Case (耳机充电盒的桌面环绕) — by Blurbly](#case-103)
+- [Case 104: Unboxing a Smartwatch (俯拍智能手表开箱) — by Blurbly](#case-104)
+- [Case 105: A Speaker Splash Test (音箱的水花测试) — by Blurbly](#case-105)
+- [Case 106: Plugging in a Power Bank (给充电宝插上数据线) — by Blurbly](#case-106)
 
 <a id="case-4"></a>
 ### Case 4: The Rhythm of Dough (面团的律动) — by Alibaba
@@ -272,5 +276,121 @@ A frosted glass serum bottle with a gold dropper and a label that reads "LUMEA" 
 **来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#t2v)
 
 <sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-103"></a>
+### Case 103: Orbiting an Earbuds Case (耳机充电盒的桌面环绕) — by Blurbly
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-103"><img src="../../../images/wan-3/case103/preview.webp" width="700" alt="Orbiting an Earbuds Case"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-103)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case103/input1.webp" width="200" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — The camera slowly orbits around the open earbuds case from left to right, about a quarter turn, keeping the case centered and in sharp focus while the…</summary>
+
+~~~~text
+The camera slowly orbits around the open earbuds case from left to right, about a quarter turn, keeping the case centered and in sharp focus while the mug and the potted succulent slide past in the soft background. The small white status light on the front of the case pulses gently. Morning window light stays soft and constant. The case shape, sand-beige color and both earbuds stay exactly the same; no other objects appear, no text or logos appear.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · MuleRouter · i2v · 5s · 720p · 16:9 · off
+**来源**：Blurbly · [原帖](https://blurbly.ai/prompts/wan-3-0-electronics-gadget-video#shot-earbuds-orbit)
+
+<sub>Preview © 2026 Blurbly · Prompt by Blurbly</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-104"></a>
+### Case 104: Unboxing a Smartwatch (俯拍智能手表开箱) — by Blurbly
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-104"><img src="../../../images/wan-3/case104/preview.webp" width="394" alt="Unboxing a Smartwatch"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-104)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case104/input1.webp" width="112" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Top-down view. The hands lift the box lid fully open, take the smartwatch out of its tray and turn it face-up toward the camera; the black screen ligh…</summary>
+
+~~~~text
+Top-down view. The hands lift the box lid fully open, take the smartwatch out of its tray and turn it face-up toward the camera; the black screen lights up with a simple minimal analog watch face with no numbers. Natural, unhurried hand movement, exactly two hands with five fingers each. Very slight camera push-in. The olive green strap, the black box and the oak table stay the same as the first frame.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · MuleRouter · i2v · 5s · 720p · 9:16 · off
+**来源**：Blurbly · [原帖](https://blurbly.ai/prompts/wan-3-0-electronics-gadget-video#shot-smartwatch-unboxing)
+
+<sub>Preview © 2026 Blurbly · Prompt by Blurbly</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-105"></a>
+### Case 105: A Speaker Splash Test (音箱的水花测试) — by Blurbly
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-105"><img src="../../../images/wan-3/case105/preview.webp" width="394" alt="A Speaker Splash Test"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-105)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case105/input1.webp" width="112" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Water splashes onto the speaker from above; droplets bounce and run off the woven fabric. The speaker pulses with bass, making the water droplets on i…</summary>
+
+~~~~text
+Water splashes onto the speaker from above; droplets bounce and run off the woven fabric. The speaker pulses with bass, making the water droplets on its rubber top jump in rhythm. The white light ring at the base glows steadily. Macro, slow motion, camera static. The speaker’s shape, slate blue fabric and black top stay exactly the same as the first frame.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · MuleRouter · i2v · 5s · 720p · 9:16 · off
+**来源**：Blurbly · [原帖](https://blurbly.ai/prompts/wan-3-0-electronics-gadget-video#shot-speaker-splash)
+
+<sub>Preview © 2026 Blurbly · Prompt by Blurbly</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-106"></a>
+### Case 106: Plugging in a Power Bank (给充电宝插上数据线) — by Blurbly
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-106"><img src="../../../images/wan-3/case106/preview.webp" width="700" alt="Plugging in a Power Bank"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-106)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case106/input1.webp" width="200" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — The hand pushes the USB cable plug fully into the port on the end of the power bank. The four small indicator lights on the top edge light up one afte…</summary>
+
+~~~~text
+The hand pushes the USB cable plug fully into the port on the end of the power bank. The four small indicator lights on the top edge light up one after another from left to right, then stay on. Camera static, soft daylight. The hand keeps natural proportions with five fingers; the power bank and cable keep the same shape and color as the first frame.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · MuleRouter · i2v · 5s · 720p · 1:1 · off
+**来源**：Blurbly · [原帖](https://blurbly.ai/prompts/wan-3-0-electronics-gadget-video#shot-power-bank-plug)
+
+<sub>Preview © 2026 Blurbly · Prompt by Blurbly</sub>
 
 [Back to top](#table-of-contents)

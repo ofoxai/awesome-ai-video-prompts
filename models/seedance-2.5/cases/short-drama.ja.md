@@ -29,6 +29,14 @@
 - [Case 93: The Last Call (来自母亲的最后来电) — by @RuzainaMeer](#case-93)
 - [Case 94: Speed Against Armor (仓库中的极速对决) — by @SyntheSarah](#case-94)
 - [Case 97: Behind the Palace Scene (古装剧镜头背后的片场) — by @Naiknelofar788](#case-97)
+- [Case 99: The Last Ride through the Ruins (迷雾废墟中的最后骑行) — by @Xaroon_x](#case-99)
+- [Case 100: A Day with My Brother (哥哥陪妹妹度过的一天) — by @Hope_Ai01](#case-100)
+- [Case 101: The Baby Racer Daydream (妈妈想象中的赛车宝宝) — by @Zarnab_with_Ai](#case-101)
+- [Case 102: Close Combat in a Retro Tavern (复古酒馆里的近身对决) — by @Xaroon_x](#case-102)
+- [Case 103: A Rainy-Day Bookshop Encounter (雨天旧书店的一次邂逅) — by @mimu_ai1](#case-103)
+- [Case 105: A Red-Convertible Road Trip (红色敞篷车上的公路恋曲) — by @AIwithNatalia](#case-105)
+- [Case 106: A Coastal Sunset for Two (敞篷车情侣的海岸日落) — by @codewithhajra](#case-106)
+- [Case 107: A Violet Awakening in the Wasteland (废土酒吧中的紫色觉醒) — by @ZentrixHQ](#case-107)
 
 <a id="case-1"></a>
 ### Case 1: Guardian robot and grandmother, nine-shot storyboard (守护机器人与老奶奶 · 九宫格分镜) — by ByteDance
@@ -1222,5 +1230,885 @@ Premium cinematic television quality, authentic period detail, natural human mot
 **来源**：[@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2091944472007622694)
 
 <sub>Preview © 2026 <a href="https://x.com/Naiknelofar788/status/2091944472007622694">@Naiknelofar788</a> · Prompt by <a href="https://x.com/Naiknelofar788/status/2091944472007622694">@Naiknelofar788</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-99"></a>
+### Case 99: The Last Ride through the Ruins (迷雾废墟中的最后骑行) — by @Xaroon_x
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-99"><img src="../../../images/seedance-2.5/case99/preview.webp" width="700" alt="The Last Ride through the Ruins"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-99)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — THE LAST RIDE — ASHEN HUNTERS  Create an exactly 30-second, 16:9 photorealistic live-action survival-action film. Hollywood cinematography, dynamic ca…</summary>
+
+~~~~text
+THE LAST RIDE — ASHEN HUNTERS
+
+Create an exactly 30-second, 16:9 photorealistic live-action survival-action film. Hollywood cinematography, dynamic camera, realistic physics and gray-blue lighting.
+
+REFERENCES
+@image1: Male hero. Preserve exact face, hair, beard, age, body shape and identity. Outfit: distressed ivory Victorian shirt, dark tactical vest, olive backpack with katana, gloves, dark cargo pants and combat boots. He carries an assault rifle and holds the reins.
+@image2: Ashen Hunters — pale, hairless, muscular humanoid mutants with dark eyes, claws and sharp teeth.
+@image3: Ruined city, shattered skyscrapers, wrecked cars, wet asphalt, rubble and thick gray fog.
+
+AUDIO
+Tense score, percussion, hooves, wind, snarls, gunfire and impacts. No narration or subtitles.
+
+TIMELINE — TEN 3-SECOND SHOTS
+00–03: Wide tracking shot: a huge antlered reindeer gallops through the foggy ruined street with the armed hero riding.
+03–06: A mutant leaps from behind. The hero turns and fires; muzzle flash cuts through the fog.
+06–09: More mutants emerge between wrecked cars and chase. Fast side-tracking shot.
+09–12: The reindeer slips on wet asphalt and crashes. The hero is thrown into mud; rifle and casings scatter.
+12–15: Low handheld shot as he rises, grabs his rifle and faces the approaching mutants.
+15–18: Mutants charge from both sides. He fires close-range bursts with realistic recoil and impacts.
+18–21: One mutant lunges. The hero dodges and fires.
+21–24: Surrounded, he fights back as dust, fog and debris fill the street.
+24–27: Close-up: he shouts a defiant war cry and fires at the advancing creatures.
+27–30: Camera cranes above the street. Gray fog swallows the battle; tiny orange muzzle flashes flicker and fade.
+
+CONTINUITY
+Keep all characters, gear and locations consistent. Preserve @image1 identity exactly; follow @image2 and @image3 designs. Realistic anatomy and movement. No face/costume changes, extra limbs, cartoon style, glitches, text, logos or watermarks.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Wizstar AI · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Xaroon_x](https://x.com/Xaroon_x) · [原帖](https://x.com/Xaroon_x/status/2120395099473322132)
+
+<sub>Preview © 2026 <a href="https://x.com/Xaroon_x/status/2120395099473322132">@Xaroon_x</a> · Prompt by <a href="https://x.com/Xaroon_x/status/2120395099473322132">@Xaroon_x</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-100"></a>
+### Case 100: A Day with My Brother (哥哥陪妹妹度过的一天) — by @Hope_Ai01
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-100"><img src="../../../images/seedance-2.5/case100/preview.webp" width="700" alt="A Day with My Brother"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-100)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second ultra-realistic South Korean family drama movie scene. It must look like an actual professionally directed Korean theatrical film, …</summary>
+
+~~~~text
+Create a 30-second ultra-realistic South Korean family drama movie scene. It must look like an actual professionally directed Korean theatrical film, not an AI-generated montage.
+
+CHARACTERS — KEEP IDENTICAL THROUGHOUT:
+
+OLDER BROTHER:
+A 25-year-old Korean man, handsome natural face, short black hair, clean-shaven, wearing a dark navy jacket, white T-shirt and black trousers.
+
+YOUNGER SISTER:
+An 11-year-old Korean girl, cute natural appearance, shoulder-length dark brown hair, wearing a pastel pink jacket, white top and blue jeans.
+
+Maintain exactly the same faces, hairstyles, ages and clothing in all six scenes.
+
+SCENE 1 — 00:00–00:05
+MORNING PLAYFUL MOMENT
+
+Inside a beautiful modern Korean apartment kitchen. Brother is eating breakfast. His little sister suddenly steals the last sandwich from his plate and runs away laughing. Brother looks surprised and smiles.
+
+Sister dialogue:
+"오빠, 내 거 줘!"
+English: Brother, give me mine!
+
+Camera: Natural medium shot transitioning into a cinematic close-up.
+
+SCENE 2 — 00:05–00:10
+BROTHER'S CARE
+
+Outside their apartment. The little sister struggles with her schoolbag. Her brother gently takes the bag, fixes her jacket and smiles at her. She looks at him happily.
+
+No dialogue. Natural expressions and beautiful cinematic acting.
+
+SCENE 3 — 00:10–00:15
+SIBLING BOND
+
+Brother and sister walk together through a beautiful autumn street in Seoul. The sister playfully teases her brother. He shakes his head and laughs.
+
+Brother dialogue:
+"넌 정말 못 말려."
+English: You're impossible!
+
+Camera: Smooth cinematic tracking shot with beautiful autumn leaves.
+
+SCENE 4 — 00:15–00:20
+A LITTLE SURPRISE
+
+Inside a charming gift shop. Brother secretly buys a beautiful teddy bear and gives it to his little sister. She opens the gift and her eyes light up with happiness.
+
+No dialogue. Capture her genuine excitement and brother's proud smile.
+
+SCENE 5 — 00:20–00:25
+BEST FRIENDS
+
+At a beautiful Korean street-food market at sunset. Brother and sister share delicious Korean snacks, laugh together and playfully compete over the last bite.
+
+No dialogue. Natural laughter and warm cinematic atmosphere.
+
+SCENE 6 — 00:25–00:30
+FOREVER TOGETHER
+
+Beautiful wide cinematic shot of brother and sister walking hand in hand through a golden sunset park. The sister looks up at her brother and smiles.
+
+Sister dialogue:
+"오빠가 최고야!"
+English: You're the best, brother!
+
+Camera slowly pulls back. Both characters remain visible.
+
+Final movie title:
+MY LITTLE SISTER
+
+CINEMATIC DIRECTION:
+
+- Authentic South Korean theatrical movie quality.
+- Realistic Korean human actors, not animated characters.
+- Natural facial expressions and body movements.
+- Consistent faces and clothing across every scene.
+- Professional anamorphic cinema lens look.
+- Beautiful natural lighting and cinematic color grading.
+- Shallow depth of field and realistic skin texture.
+- Smooth professional camera movements.
+- Natural Korean lip synchronization.
+- Beautiful emotional orchestral piano soundtrack.
+- 24 FPS, 4K quality, vertical 9:16.
+- Every scene must connect naturally to the next.
+
+SOUND DESIGN:
+
+Opening: Soft piano and morning kitchen ambience.
+Middle: Gentle cinematic orchestral music, natural laughter and Seoul street ambience.
+Ending: Emotional piano melody with a beautiful cinematic finish.
+
+NEGATIVE PROMPT:
+
+No cartoon, no anime, no CGI appearance, no artificial faces, no changing actors, no inconsistent clothing, no distorted hands, no exaggerated expressions, no random extra characters, no horror, no violence, no slideshow, no watermark.
+
+FINAL REQUIREMENT:
+
+Exactly THREE spoken dialogues in the entire film. All other scenes must tell the story through natural acting, expressions, gestures and cinematic visuals. Make this feel like a real Korean family movie trailer with professional storytelling and emotional warmth.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Frameo · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Hope_Ai01](https://x.com/Hope_Ai01) · [原帖](https://x.com/Hope_Ai01/status/2120162089880940636)
+
+<sub>Preview © 2026 <a href="https://x.com/Hope_Ai01/status/2120162089880940636">@Hope_Ai01</a> · Prompt by <a href="https://x.com/Hope_Ai01/status/2120162089880940636">@Hope_Ai01</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-101"></a>
+### Case 101: The Baby Racer Daydream (妈妈想象中的赛车宝宝) — by @Zarnab_with_Ai
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-101"><img src="../../../images/seedance-2.5/case101/preview.webp" width="394" alt="The Baby Racer Daydream"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-101)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — Create a high-quality cinematic 3D animated Pixar-style comedy short film in vertical 9:16 format.  Scene 1: A beautiful pregnant woman with long, wav…</summary>
+
+~~~~text
+Create a high-quality cinematic 3D animated Pixar-style comedy short film in vertical 9:16 format.
+
+Scene 1: A beautiful pregnant woman with long, wavy dark brown hair, big expressive blue eyes, wearing a purple and white striped dress, sits comfortably in the passenger seat of a modern car. Her husband, a handsome young man with curly dark hair, wearing a white striped shirt, is driving. The woman gently rests both hands on her pregnant belly and smiles.
+
+Scene 2: Transition into a magical fantasy visualization inside the mother's womb. Reveal a spectacular miniature Formula 1 racing circuit surrounded by glowing orange and red organic tunnels, sparkling particles, dramatic lighting, and winding race tracks.
+
+Scene 3: A cute chubby baby with big blue eyes, wearing a professional red racing suit and a red racing helmet, drives a miniature red Formula 1 Ferrari-style go-kart numbered 1. Show exciting high-speed racing, sharp turns, realistic tire movement, cinematic camera tracking, and dynamic motion blur.
+
+Scene 4: The adorable baby crosses the finish line and wins the race. The baby happily raises a golden trophy while sitting in the red racing car. A checkered racing flag waves in the background, with celebratory lights and confetti.
+
+Scene 5: Cut back to the car interior. The pregnant woman and her husband look at each other and laugh joyfully, sharing a sweet romantic moment while gently touching her belly.
+
+Visual Style: Premium Pixar-inspired 3D animation, adorable character design, expressive facial emotions, ultra-detailed environments, cinematic lighting, smooth animation, vibrant colors, realistic fabric textures, consistent characters throughout all scenes, professional camera movements, high-quality rendering, funny and heartwarming storytelling.
+
+Format: 9:16 vertical, approximately 20–22 seconds, no dialogue, no subtitles, no watermark.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) · [原帖](https://x.com/Zarnab_with_Ai/status/2120119829294461389)
+
+<sub>Preview © 2026 <a href="https://x.com/Zarnab_with_Ai/status/2120119829294461389">@Zarnab_with_Ai</a> · Prompt by <a href="https://x.com/Zarnab_with_Ai/status/2120119829294461389">@Zarnab_with_Ai</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-102"></a>
+### Case 102: Close Combat in a Retro Tavern (复古酒馆里的近身对决) — by @Xaroon_x
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-102"><img src="../../../images/seedance-2.5/case102/preview.webp" width="700" alt="Close Combat in a Retro Tavern"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-102)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — Create a hyper-realistic 15-second Hollywood action sequence inside a gritty retro-American industrial tavern. 16:9 widescreen, 4K, 60fps, HDR10+, aut…</summary>
+
+~~~~text
+Create a hyper-realistic 15-second Hollywood action sequence inside a gritty retro-American industrial tavern. 16:9 widescreen, 4K, 60fps, HDR10+, authentic 35mm Kodak film texture, realistic lighting and intense close-quarters combat.
+
+CHARACTER REFERENCES:
+@image1 = Male protagonist. Preserve exact face, beard, hairstyle, skin tone and body proportions. Outfit: crisp white formal shirt, dark-gray pinstriped waistcoat, matching trousers, black bow tie, black fingerless gloves and matte-black formal leather shoes. No identity or wardrobe changes.
+
+@image2 = Female boss antagonist. Preserve her exact face, dark braided hair, charcoal-black combat suit, dark-red leather corset armor, torn shoulder sash, metal greaves and black tactical boots. She carries exactly one standard-sized Nepalese kukri.
+
+@image3 = Fixed tavern environment. Maintain dark wooden bar, leather booths, industrial metal supports, wooden tables, chairs, pendant lights, dusty windows and spacious combat floor.
+
+ACTION TIMELINE:
+
+00:00–00:03: Male protagonist bursts into the tavern with an explosive spinning flying kick, knocking the first machete thug into a booth. Immediately performs two rapid leg-sweep and grappling takedowns against approaching attackers.
+
+00:03–00:06: Two steel-pipe attackers approach simultaneously. He performs an aerial flying scissor-takedown, throwing them in opposite directions into wooden furniture. Immediately blocks another pipe attack and throws the attacker against the bar.
+
+00:06–00:09: He ducks a machete strike, executes a powerful shoulder throw, evades the final steel-pipe attacker and topples him. The female boss suddenly emerges from the shadows, charging with her kukri.
+
+00:09–00:12: The boss launches a powerful overhead kukri attack. The protagonist narrowly dodges backward. The blade embeds into the wooden bar, splitting timber. He immediately grabs her legs and initiates a powerful 360-degree rotational throw.
+
+00:12–00:15: He releases the boss, sending her crashing into the thick wooden wall. The wall splinters violently. Camera tracks the impact before cutting to a dramatic close-up of the protagonist facing the remaining threat.
+
+CAMERA & PHYSICS: Dynamic low-angle tracking, fast handheld movement, cinematic wide shots and sharp close-ups. Realistic stunt choreography, believable inertia, solid physical impacts and practical destruction.
+
+STRICT RULES: Maximum two enemies attack simultaneously. No phantom falls, clipping, overlapping bodies, teleportation, slow motion, floating movements or artificial effects. Preserve all character identities, clothing, weapons and environment. Every fall must result from visible physical contact.
+
+AUDIO: Original aggressive Hollywood action music, synchronized punches, metallic clashes, wood breaking, footsteps and heavy impact sounds. No dialogue, subtitles or watermarks.
+
+Exactly 15 seconds. One continuous, relentless, photorealistic cinematic action sequence.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Cuddler AI · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Xaroon_x](https://x.com/Xaroon_x) · [原帖](https://x.com/Xaroon_x/status/2120098901697167519)
+
+<sub>Preview © 2026 <a href="https://x.com/Xaroon_x/status/2120098901697167519">@Xaroon_x</a> · Prompt by <a href="https://x.com/Xaroon_x/status/2120098901697167519">@Xaroon_x</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-103"></a>
+### Case 103: A Rainy-Day Bookshop Encounter (雨天旧书店的一次邂逅) — by @mimu_ai1
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-103"><img src="../../../images/seedance-2.5/case103/preview.webp" width="700" alt="A Rainy-Day Bookshop Encounter"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-103)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — Create an ultra-photorealistic, high-budget Hollywood romantic film sequence featuring a beautiful young woman visits a charming old bookstore on a ra…</summary>
+
+~~~~text
+Create an ultra-photorealistic, high-budget Hollywood romantic film sequence featuring a beautiful young woman visits a charming old bookstore on a rainy afternoon. She accidentally meets a mysterious young man when they reach for the same book. Their unexpected encounter develops into a beautiful romantic connection as they share an umbrella, walk through the city and enjoy coffee together.
+
+MAIN CHARACTERS :
+
+1. THE YOUNG WOMAN — FEMALE LEAD
+
+A beautiful adult woman with the exact facial identity, her recognizable facial features, blue eyes, natural skin texture, facial proportions and long, naturally curly light auburn/blonde hair.
+
+Wardrobe:
+She wears an elegant cream-colored tailored coat over a sophisticated neutral-colored blouse, delicate layered gold necklaces, small understated earrings, and beautifully styled natural hair.
+
+Her appearance: Sophisticated, elegant look for a rainy European afternoon. Keep her facial identity, hairstyle, eye color, skin texture, proportions, outfit, and accessories identical in every shot. Performance should be authentic and spontaneous, with subtle romantic expressions.
+
+2. THE YOUNG MAN — MALE LEAD
+
+A handsome adult man in his late twenties or early thirties with naturally styled dark brown hair, warm brown eyes, realistic natural skin texture, attractive but understated facial features, and a charming personality.
+
+Wardrobe:
+An elegant dark charcoal overcoat, A neutral cream or beige sweater, Dark tailored trousers, A sophisticated everyday outfit
+
+His appearance: Natural, approachable, quietly confident look. Keep the same face, hair, proportions, and outfit throughout. Show curiosity, warmth, slight nerves, and growing romantic interest.
+
+IMPORTANT: Both characters must look like real people interacting naturally. Their romantic chemistry should feel spontaneous rather than staged.
+
+3. ENVIRONMENT
+
+A rainy autumn afternoon in an old European city. The main setting is a charming independent bookstore with tall wooden shelves, vintage books, large glass windows, warm golden lighting, wooden floors, cozy reading corners, and a small antique display, lit by soft daylight.
+
+Outside: cobblestone streets, historic stone buildings, small cafés, vintage street lamps, rain-soaked pavement with realistic puddle reflections, elegant storefronts, and a warm, inviting atmosphere.
+
+The final location is a small romantic café with large windows, warm ambient lighting, wooden furniture, coffee cups, soft background activity and gentle rain visible outside.
+
+00:00–00:05 — THE ORDINARY AFTERNOON
+
+Open with a breathtaking cinematic establishing shot of a charming independent bookstore on a rainy afternoon.
+
+Rain gently falls against the large glass windows.
+
+Inside, warm golden light illuminates beautifully arranged wooden bookshelves.
+
+The young woman enters the bookstore and slowly walks between the shelves, browsing through the books.
+
+She notices an interesting hardcover novel on a nearby shelf.
+
+She gently reaches toward it while examining its cover.
+
+The camera slowly moves closer, capturing her natural facial expressions, beautiful curly hair and delicate movements.
+
+She smiles slightly as she discovers the book.
+
+Outside, rain continues falling softly.
+
+Camera: Smooth cinematic dolly-in, wide establishing shot transitioning into an elegant medium shot. Natural shallow depth of field, realistic skin texture, beautiful window reflections and professional romantic movie cinematography.
+
+Sound: Gentle piano music, soft rain against the windows, subtle bookstore ambience and quiet footsteps.
+
+00:05–00:10 — THE UNEXPECTED ENCOUNTER
+
+Suddenly, a handsome young man approaches the same bookshelf from the opposite direction.
+
+He notices the same novel and reaches for it at exactly the same moment as the woman.
+
+Their fingers accidentally touch.
+
+Both characters pause.
+
+The woman slowly looks up.
+
+The man looks directly into her eyes.
+
+They exchange a brief, slightly awkward smile.
+
+The woman gently withdraws her hand while laughing softly.
+
+Dialogue — Woman (slightly embarrassed, smiling):
+
+"Oh, sorry!"
+
+Dialogue — Man (warm, charming voice):
+
+"No, you take it."
+
+The woman looks at him and smiles.
+
+The man gestures toward the book, inviting her to take it.
+
+Camera: Extreme close-up of their hands touching the book, followed by alternating natural facial close-ups, subtle eye contact and a soft cinematic rack focus.
+
+Sound: A gentle musical transition, subtle fabric movement and quiet bookstore ambience.
+
+00:10–00:15 — THE SHARED UMBRELLA
+
+The scene transitions outside the bookstore.
+
+The rain suddenly becomes heavier.
+
+The woman stands near the entrance, looking at the rain while holding the book close to her chest.
+
+The young man steps outside behind her.
+
+He opens a large dark umbrella and notices that she is standing without one.
+
+He approaches her with a gentle smile and slightly tilts the umbrella toward her.
+
+Dialogue — Man (warm, friendly):
+
+"Would you like to share?"
+
+The woman looks at him, briefly hesitates, then smiles.
+
+Dialogue — Woman:
+
+"I'd like that."
+
+He moves beside her, and they begin walking together beneath the umbrella.
+
+The rain falls realistically around them while water reflects the surrounding streetlights and shop windows.
+
+Camera: Cinematic medium two-shot, slow tracking movement, natural character interaction, beautiful reflections and shallow depth of field.
+
+00:15–00:20 — A WALK TO REMEMBER
+
+The couple walks together through a beautiful old European street under the umbrella.
+
+The woman holds her book against her coat while the man carries the umbrella.
+
+They exchange glances and smile.
+
+The woman briefly looks toward him while he says something amusing.
+
+She laughs naturally.
+
+A light breeze moves her curly hair slightly beneath the umbrella.
+
+They pass beautiful cafés, vintage shop windows and warm glowing streetlights.
+
+The camera captures their natural body language and subtle romantic chemistry.
+
+Camera: Smooth side-tracking shot, intimate over-the-shoulder shots, natural profile close-ups and a beautiful wide cinematic street composition.
+
+Sound: Gentle romantic piano, natural footsteps, rain falling against the umbrella and distant city ambience.
+
+00:20–00:25 — AN UNEXPECTED CONNECTION
+
+Transition into a beautiful cozy café.
+
+The couple sits across from each other beside a large window.
+
+Two freshly prepared coffees sit on the small wooden table.
+
+The woman gently holds her coffee cup while listening to the man.
+
+They share a genuine laugh.
+
+The man looks at her with warm interest.
+
+She smiles, then briefly looks outside at the rain.
+
+Dialogue — Woman (gently curious):
+
+"Do you often meet strangers like this?"
+
+Dialogue — Man (smiling):
+
+"Not the ones I'd like to meet again."
+
+The woman looks at him and laughs softly.
+
+Camera: Warm cinematic close-ups, intimate over-the-table composition, gentle focus shifts between the characters, beautiful café lighting and realistic facial expressions.
+
+Sound: Soft piano and strings, quiet café ambience, subtle coffee cup sounds and natural dialogue.
+
+00:25–00:30 — THE BEGINNING OF SOMETHING
+
+The couple leaves the café together.
+
+The rain has finally stopped.
+
+Beautiful golden evening sunlight appears between the old buildings, creating warm reflections across the wet cobblestone street.
+
+They walk side by side.
+
+The woman turns toward him and smiles.
+
+Dialogue — Woman (softly):
+
+"Do you think we'll meet again?"
+
+The man slows down slightly, looks into her eyes and responds with a genuine smile.
+
+Dialogue — Man (warm, sincere):
+
+"I was hoping we would."
+
+The woman laughs softly.
+
+They continue walking together as the camera slowly pulls backward.
+
+End with a breathtaking wide cinematic composition of the two characters walking through the beautiful golden-lit European street.
+
+FINAL ON-SCREEN TITLE:
+"THE MOMENT WE MET"
+
+FINAL TAGLINE:
+"Sometimes, the best stories begin with a stranger."
+
+Camera: Slow cinematic pullback, golden-hour backlighting, natural character movement, beautiful reflections and a gentle romantic fade-out.
+
+Sound: Emotional orchestral piano crescendo followed by a soft musical resolution.
+
+4. TECHNICAL PRODUCTION DIRECTIVES
+
+VIDEO SPECIFICATIONS:
+- Exactly 30 seconds, 16:9 widescreen.
+- 4K UHD and 60 FPS where supported.
+- Ultra-photorealistic, Hollywood-quality live-action footage.
+- Six separate 5-second scenes with seamless continuity.
+
+CINEMATOGRAPHY:
+Professional 35mm/50mm cinema aesthetics, smooth dolly and tracking shots, cinematic close-ups, natural depth of field, realistic motion blur and elegant transitions.
+
+HUMAN PERFORMANCE:
+Natural facial expressions, realistic eye contact, subtle romantic chemistry, authentic smiles, natural gestures, believable body movements and consistent character appearances.
+
+ENVIRONMENT & LIGHTING:
+Realistic rainfall, wet pavement reflections, natural hair and clothing movement, atmospheric mist and detailed environments. Use warm bookstore lighting, cool rainy streets, cozy café illumination and beautiful golden-hour backlighting.
+
+SOUND DESIGN:
+Original romantic piano and orchestral soundtrack, realistic rain, footsteps, bookstore and café ambience, umbrella movement and natural environmental sounds. Keep background music balanced beneath dialogue.
+
+DIALOGUE:
+Natural fluent English with accurate lip-syncing, realistic emotional delivery and natural pauses. Gentle expressive female voice and warm charming male voice. No narrator, overlapping dialogue or subtitles.
+
+STRICT CHARACTER CONSISTENCY:
+- Female lead: Preserve the exact facial identity, blue eyes, curly light auburn/blonde hair, skin texture and proportions from the uploaded portrait.
+- Male lead: Maintain identical facial features, hairstyle and appearance throughout.
+- Both characters must retain identical outfits and accessories in every scene.
+- Maintain consistent props, locations and environmental details.
+
+NEGATIVE PROMPT:
+]No cartoon or anime style, artificial skin, distorted anatomy, extra fingers or limbs, changing faces, inconsistent costumes, unnatural expressions, awkward movements, unrealistic rain, flickering, duplicated characters, abrupt transitions, unwanted text, subtitles or watermarks.
+
+FINAL CREATIVE DIRECTION:
+Create an emotionally engaging, photorealistic Hollywood romantic short film about two strangers experiencing an unexpected connection.Prioritize realistic human performances, natural romantic chemistry, cinematic visuals and seamless continuity. Keep the romance subtle, authentic and emotionally memorable.Every frame should feel like it belongs to a professionally produced romantic movie.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · ElevenLabs · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@mimu_ai1](https://x.com/mimu_ai1) · [原帖](https://x.com/mimu_ai1/status/2120014240212008995)
+
+<sub>Preview © 2026 <a href="https://x.com/mimu_ai1/status/2120014240212008995">@mimu_ai1</a> · Prompt by <a href="https://x.com/mimu_ai1/status/2120014240212008995">@mimu_ai1</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-105"></a>
+### Case 105: A Red-Convertible Road Trip (红色敞篷车上的公路恋曲) — by @AIwithNatalia
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-105"><img src="../../../images/seedance-2.5/case105/preview.webp" width="700" alt="A Red-Convertible Road Trip"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-105)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — &quot;JUST YOU, ME &amp; THE OPEN ROAD&quot; ❤️  Aspect Ratio: 16:9 (Landscape) Style: Cinematic, romantic, playful, youthful road-trip montage Pacing: Moderately f…</summary>
+
+~~~~text
+"JUST YOU, ME & THE OPEN ROAD" ❤️
+
+Aspect Ratio: 16:9 (Landscape)
+Style: Cinematic, romantic, playful, youthful road-trip montage
+Pacing: Moderately fast, smooth transitions, energetic but not rushed
+Lighting: Warm natural daylight transitioning into golden hour
+Mood: Fun, carefree, romantic, spontaneous and full of chemistry.
+CHARACTER & VEHICLE CONSISTENCY
+Use the provided character sheets of both people and the car as the EXACT visual references throughout the entire video.
+Maintain identical facial features, hairstyles, skin tones, body proportions and outfits.
+Do not change their identities or appearances between shots.
+
+Maintain the exact same car model, color, interior, seats and design.
+
+The car must ALWAYS be a convertible with its roof completely down.
+
+Never introduce a different vehicle.
+Maintain consistent visual details across every scene.
+SCENE 1 — THE ROAD TRIP BEGINS
+Duration: 0–4 seconds
+Open with a cinematic wide shot of the convertible cruising along a beautiful scenic highway.
+Camera: Low-angle tracking shot from the front-left side of the car, showing the vehicle moving smoothly along the road.
+
+Cut to a medium interior shot of the couple sitting together, smiling and chatting.
+
+The atmosphere feels spontaneous and exciting, like they're escaping for a fun day together.
+
+SCENE 2 — MUSIC ON, WORLD OFF
+
+Duration: 4–9 seconds
+
+The music starts playing.
+
+Show the couple getting excited as their favourite upbeat, feel-good song comes on.
+
+The girl starts singing along enthusiastically, moving her shoulders to the rhythm. The boy laughs, joins in and playfully sings along.
+
+Camera angles:
+
+Front dashboard camera capturing both of them vibing.
+
+Close-up of the girl's happy expression as she sings.
+
+Side-angle shot of the boy smiling and glancing at her.
+
+Quick exterior tracking shot showing the convertible cruising with the top down.
+Keep their movements natural, expressive and synchronized loosely with the music.
+SCENE 3 — PURE CHAOS & LAUGHTER
+Duration: 9–14 seconds
+The couple starts laughing uncontrollably over something silly.
+
+The girl playfully teases him while he smiles and shakes his head.
+
+Show her dancing lightly in her seat, both singing together and exchanging playful looks.
+
+Camera: Handheld-style passenger-side shot, followed by a quick close-up of their laughing faces.
+
+Add a brief candid moment where they look at each other and burst into laughter again.
+
+SCENE 4 — WIND IN OUR HAIR
+
+Duration: 14–19 seconds
+
+Show a beautiful side-tracking shot of the convertible driving along the open road.
+
+The girl's hair flows naturally in the wind. Both are smiling and enjoying the music.
+
+Cut to an overhead drone shot showing the convertible travelling along a scenic winding highway.
+
+Then transition to a rear-following shot, capturing the beautiful road stretching ahead.
+
+SCENE 5 — A LITTLE ROMANCE
+
+Duration: 19–24 seconds
+
+The music continues.
+
+Show a close-up of their hands briefly holding each other near the center console while the car is safely cruising.
+
+Cut to the girl looking at him with a warm smile.
+
+He smiles back, then both laugh again.
+
+Use soft golden sunlight, natural expressions and gentle cinematic camera movement.
+
+SCENE 6 — THE PERFECT ENDING
+
+Duration: 24–30 seconds
+
+Finish with a wide cinematic drone shot of the convertible driving into a beautiful golden-hour sunset.
+
+Cut briefly to an interior shot of both laughing and singing together.
+
+End with a rear wide shot of the car disappearing into the scenic open road.
+
+Fade out naturally with the music.
+
+CAMERA & EDITING DIRECTION
+
+Use a combination of wide establishing shots, medium two-shots, close-ups, side tracking shots, dashboard shots and aerial drone shots.
+
+Use smooth camera tracking and subtle handheld movement for candid moments.
+
+Keep cuts rhythmic and moderately fast, following the beat of the music.
+
+Use occasional short transitions, but avoid excessive flashy effects.
+
+Maintain natural motion blur and realistic wind movement.
+Use cinematic depth of field without losing character consistency.
+Keep the couple and car visually recognizable in every shot.
+MUSIC & SOUND
+Use an upbeat, feel-good romantic road-trip song with a catchy rhythm.
+The music should feel like something a young couple would happily sing along to while driving.
+Include natural laughter, playful chatter and subtle environmental road sounds.
+
+The music should remain the emotional backbone of the montage.
+
+NEGATIVE PROMPT
+
+No character redesigns, no face changes, no hairstyle changes, no outfit changes, no inconsistent car models, no changing car colors, no closed convertible roof, no distorted hands, no extra fingers, no duplicated characters, no unnatural facial expressions, no robotic movements, no abrupt camera jumps, no excessive slow motion, no overly dramatic romantic acting, no flickering, no visual glitches, no unrealistic vehicle movement.
+
+FINAL FEELING: A fun, effortlessly romantic road-trip memory. Two people in love, singing at the top of their lungs, laughing at absolutely nothing and enjoying every second together. Make it feel alive, natural and cinematic.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · ElevenLabs · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@AIwithNatalia](https://x.com/AIwithNatalia) · [原帖](https://x.com/AIwithNatalia/status/2119757627689431448)
+
+<sub>Preview © 2026 <a href="https://x.com/AIwithNatalia/status/2119757627689431448">@AIwithNatalia</a> · Prompt by <a href="https://x.com/AIwithNatalia/status/2119757627689431448">@AIwithNatalia</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-106"></a>
+### Case 106: A Coastal Sunset for Two (敞篷车情侣的海岸日落) — by @codewithhajra
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-106"><img src="../../../images/seedance-2.5/case106/preview.webp" width="700" alt="A Coastal Sunset for Two"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-106)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — Begin with a cinematic aerial establishing shot of a luxurious black Mercedes convertible cruising along a winding Mediterranean coastal road.  The tu…</summary>
+
+~~~~text
+Begin with a cinematic aerial establishing shot of a luxurious black Mercedes convertible cruising along a winding Mediterranean coastal road.
+
+The turquoise sea sparkles under the afternoon sunlight. Palm trees and beautiful coastal cliffs pass in the background.
+
+Cut to an interior passenger-side shot. The woman sits comfortably in the passenger seat, enjoying the breeze. Her skirt moves gently with the wind.
+
+The handsome man drives with one hand on the steering wheel. He glances at her and smiles.
+
+She notices him looking and gives him a playful smile.
+
+Camera: Smooth aerial tracking, followed by intimate 50mm interior shots, natural sunlight and beautiful depth of field.
+
+THE LITTLE STOP (5–10 SECONDS)
+
+The man notices a beautiful seaside viewpoint and gently slows down.
+
+Cut to an elegant side shot as the black Mercedes pulls into a scenic coastal parking area overlooking the ocean.
+
+He parks the car safely and switches off the engine.
+
+The woman looks outside excitedly, smiles and reaches for the door handle.
+
+The man steps out first, walks around the front of the car and opens the passenger door for her.
+
+She laughs softly and steps out, adjusting her skirt as the coastal breeze catches her hair.
+
+They exchange a sweet smile.
+
+Camera: Low-angle automotive shot, smooth movement around the car and cinematic couple entrance.
+
+WALKING BY THE SEA (10–16 SECONDS)
+
+Transition to a beautiful wide tracking shot of the couple walking together along a charming seaside pedestrian path.
+
+The ocean is on one side, with a stone railing, coastal flowers and warm sunset light surrounding them.
+
+The woman walks beside the man, holding his arm. He gently takes her hand.
+
+She points toward the beautiful sunset over the water.
+
+He looks where she points, then turns back toward her with a genuine smile.
+
+They continue walking slowly, laughing and enjoying the moment.
+
+Her flowing polka-dot skirt moves naturally in the sea breeze.
+
+Camera: Side-tracking shot, cinematic 35mm lens, foreground flowers softly framing the couple and beautiful ocean bokeh.
+
+THE SUNSET MOMENT (16–22 SECONDS)
+
+Cut to an intimate cinematic shot at a beautiful seaside overlook.
+
+The couple stops beside a stone railing, facing the ocean.
+
+The sky is painted with beautiful shades of peach, pink, golden orange and lavender.
+
+The woman rests her hands on the railing, admiring the sunset.
+
+The man steps beside her, gently places his arm around her shoulders and looks at the horizon.
+
+She turns toward him and smiles.
+
+He gently brushes a loose strand of hair away from her face.
+
+They share a quiet, affectionate moment while the sunlight softly illuminates their faces.
+
+Camera: Over-the-shoulder composition, close-up facial details, beautiful sunset backlighting and subtle lens flare.
+
+A MEMORY TO KEEP (22–26 SECONDS)
+
+The woman takes a small vintage digital camera from her shoulder bag.
+
+She turns toward the man and asks him to take a picture with her.
+
+He takes the camera, holds it up and captures a photograph of them standing together against the glowing sunset.
+
+After taking the picture, he shows her the screen.
+
+She laughs happily and leans her head gently against his shoulder.
+
+They admire the beautiful photograph together.
+
+Camera: Close-up of the camera, their genuine expressions and a soft over-the-shoulder composition.
+
+THE BEAUTIFUL GOODBYE (26–30 SECONDS)
+
+End with a breathtaking cinematic wide shot.
+
+The man opens the passenger door for her again.
+
+Before getting inside, she turns around, looks at the sunset one last time and smiles.
+
+He stands beside her, holding her hand.
+
+The camera slowly cranes upward and pulls away, revealing the beautiful black convertible, the winding coastal road, the endless ocean and the glowing sunset.
+
+ENDING MOOD: A beautiful little escape, a sunset, and a memory they will never forget.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · ElevenLabs · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@codewithhajra](https://x.com/codewithhajra) · [原帖](https://x.com/codewithhajra/status/2119668766841672041)
+
+<sub>Preview © 2026 <a href="https://x.com/codewithhajra/status/2119668766841672041">@codewithhajra</a> · Prompt by <a href="https://x.com/codewithhajra/status/2119668766841672041">@codewithhajra</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-107"></a>
+### Case 107: A Violet Awakening in the Wasteland (废土酒吧中的紫色觉醒) — by @ZentrixHQ
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-107"><img src="../../../images/seedance-2.5/case107/preview.webp" width="700" alt="A Violet Awakening in the Wasteland"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-107)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — PURPLE POWER AWAKENING — POST-APOCALYPTIC BIKER BAR FIGHT  A 30-second horizontal 16:9 photorealistic supernatural action scene. Five adult bikers hum…</summary>
+
+~~~~text
+PURPLE POWER AWAKENING — POST-APOCALYPTIC BIKER BAR FIGHT
+
+A 30-second horizontal 16:9 photorealistic supernatural action scene. Five adult bikers humiliate a young woman on the floor of a rusted wasteland bar, until violet energy erupts from her hands and she takes all five of them down in one continuous fight. It ends with her walking alone out of the open door into the dusk dust storm while every biker lies knocked out on the floor behind her.
+
+MAIN SUBJECT
+The woman from Image1, an adult in her early twenties, East Asian, with dark brown eyes and a calm, cool face. Hair: a choppy chin-length bob in a gradient from hot pink at the roots to violet and bright blue at the tips, with ONE small silver lightning-bolt hair clip on the left side. Outfit: a fitted pink-and-white sports crop top with white stripes across the chest; a pink pleated mini skirt with white inner pleats and two white stripes along the hem, with matching pink fitted shorts underneath; a pink backpack strapped tightly to her back with black buckle straps that never comes off. Footwear: knee-high glossy black combat boots on chunky pink platform soles, with pink straps, silver studs, buckles and metal rings. All fabric is dense and opaque and stays in place during every jump and strike, even when soaked. Athletic, toned build with subtle muscle definition. At first her expression is exhausted and frightened; after the awakening it becomes cold, fierce and focused. During the fight her hands and forearms are wrapped in glowing violet-purple energy. Preserve her face, hair colour, outfit and boots EXACTLY as in Image1 in every shot.
+
+THE BIKERS (FIVE adult men, each keeps his own look in every shot)
+- BIKER 1: lean, short bleached-blond mohawk, black leather vest with patches over a bare chest, fingerless gloves.
+- BIKER 2: large and stocky, shaved head, thick brown beard, sleeveless denim vest, holds a dented STEEL bucket filled with water only.
+- BIKER 3: tall and thin, round welding goggles pushed up on his forehead, brown leather jacket.
+- BIKER 4: dark curly hair, oil-stained grey tank top, black leather vest.
+- BIKER 5: long greasy black hair under a red bandana, studded leather jacket.
+All bikers wear worn jeans and heavy black boots. The only object any biker holds is BIKER 2's steel bucket; no other weapons.
+
+LOCATION AND HEIGHT
+A ground-level post-apocalyptic bar built from scrap. Ceiling height is 3.5 metres, made of corrugated rusted metal sheets on wooden beams. Walls are rusted corrugated metal patched with plywood and old road signs with no readable text. Floor is cracked grey concrete covered in dust and sand.
+Foreground: oil-drum tables, scattered sand, broken glass on the floor.
+Midground: a long bar counter of weathered dark wood with dusty beer bottles on scrap-metal shelves, and one elderly bartender who ducks behind the counter when the awakening starts and stays hidden there.
+Background: a wide open metal door on the far wall. Outside is a wasteland at dusk in a slow-moving dust storm, dim brownish-orange and darker than the bar interior; it adds no light to the room but stays visible in every wide shot.
+Moving details: dust drifting in the lamp light, lamps swaying slightly on their cords, sand blowing in through the open door.
+
+CAMERA AND LOOK
+Photorealistic live-action action-film cinematography with real stunt choreography. ONE light source for the whole video: FIVE bare tungsten bulbs hanging on cords from the ceiling, giving warm orange light from above, soft dusty haze, natural skin tones and muted contrast. The only other light is the violet glow of her energy, which reflects on her face, the metal walls, the wet floor near the wall and the bikers' leather. Her pink outfit and pink-blue hair stay the brightest colours in the warm bar. Camera defects: handheld shake, slight delayed autofocus on fast moves, mild bloom on the bulbs, faint film noise. Regular shots last 1.5-2.5 seconds, and every cut comes after a completed movement; the bucket jump is ONE continuous shot. The camera and crew never appear in frame. No glossy beauty lighting, no artificial rim light, no heavy colour grading.
+
+CONTINUOUS STORY
+
+00:00-00:06 — HUMILIATION
+Start in motion: low-angle shot at floor level. Two bikers pull her by the arms across the dusty concrete, their heavy boots stepping beside her while her black-and-pink platform boots scrape along the floor; they let go and she slides to a stop sitting against the corrugated metal wall, backpack against the wall. Cut to a high close-up: BIKER 2 tips the dented steel bucket over her, a stream of cold water pours over her head and shoulders, and her wet pink-to-blue hair sticks to her face. Cut to a low wide shot from her eye level on the floor: all FIVE bikers stand over her in a half circle, laughing, BIKER 2 holding the now empty bucket, with the bar counter and the open door with the dust storm visible behind them.
+
+00:06-00:10 — POWER AWAKENS
+Close-up: still sitting, she slowly lifts her head and looks up through her wet pink hair with a cold, fierce stare; the silver lightning clip catches the light. Thick violet-purple smoke and crackling electric arcs coil around both hands and forearms, and a purple glow lights up the wet concrete under her palms. Cut to a low wide shot: she presses ONE palm to the floor and a violet shockwave bursts outward across the floor, throwing up dust and sand. All FIVE bikers lose their balance and stumble backward, the hanging bulbs swing, and the bartender ducks behind the counter. She pushes off the floor and rises to her feet in a low fighting stance.
+
+00:10-00:16 — FIRST PUNCH
+She dashes at BIKER 1, her platform boots pounding the concrete. Tight close-up of ONE clear contact: her right fist, wrapped in violet arcs, hits his face, and a purple flash bursts at the moment of impact. His head snaps back, his short mohawk trembles and his face twists from the shock. She immediately follows with a second strike to his chest, leaving a trail of violet smoke and glowing particles behind her arm while her bob swings with the motion. He flies backward, crashes onto an oil-drum table, rolls over it and drops to the floor.
+
+00:16-00:21 — THE BUCKET (ONE continuous wide shot)
+BIKER 2 charges at her, swinging the empty steel bucket overhead. Take-off: she pushes off the floor with both platform boots. Flight: she leaps forward, knees tucked, skirt and shorts staying in place, backpack tight on her back, violet energy flaring around her fists. Contact: her glowing fist hits the bucket in an upward strike; the bucket is torn out of his hands, flies straight up and smashes into the corrugated metal ceiling 3.5 metres above, denting it and bringing down rust flakes, dust and loose pieces of sheet metal. The violet burst from the same strike throws BIKER 2 backward into the bar counter; bottles fall and shatter, and he slides down to the floor. Landing: she lands in a crouch on both boots, knees bent, as debris falls around her.
+
+00:21-00:26 — TWO AT ONCE
+Medium-wide shot: BIKER 3 and BIKER 4 rush at her from opposite sides. She blocks BIKER 3's swinging arm with her left forearm, pivots on her platform boot, and drives a glowing violet palm into BIKER 4's chest, with purple light spreading across his tank top on impact. He falls backward. She turns back and hits BIKER 3 in the jaw with a violet punch, and his goggles fly off his forehead. He spins and falls face-down onto the concrete. ONE clear contact per strike, readable choreography, real body weight and recoil.
+
+00:26-00:30 — FINISH AND EXIT
+BIKER 5 runs for the open door. She catches him from behind in two steps, pulls him down and slams him onto his back a few metres from the door. Low close-up from the floor: she kneels over him, wet pink-blue hair hanging around her face, a dense sphere of violet energy crackling in her raised hand, and dark cracks with glowing purple veins spread across the concrete around his head. She closes her hand and the sphere fades. Final wide shot from behind: she stands up, steps over him and walks slowly toward the open door, pink backpack and platform boots clearly visible, with all FIVE bikers knocked out around her, weakly stirring and groaning, among broken bottles, under the dented ceiling and swinging bulbs. The frame ends with her standing in the doorway, lit from above by the bulbs, facing the dim dusk dust storm.
+
+SOUND
+Natural and event-driven only: boots scraping on concrete during the drag; the splash of water hitting her and the floor; the bikers' rough laughter, which cuts off at the awakening; a deep rumbling hum and electric crackle around her hands; the low boom of the shockwave and sand hissing across the floor; heavy platform-boot steps on concrete; heavy punch impacts with a short electric snap on each violet hit; the oil-drum table crashing; the steel bucket clanging into the metal ceiling and debris rattling down; bottles shattering; bodies hitting concrete; her heavy breathing; low groans of the bikers and wind with sand from the open door at the end. No music, no narration, no laugh track.
+
+ESSENTIAL CONTINUITY
+- The story goes in strict order: drag, bucket of water, awakening, Biker 1, Biker 2, Bikers 3 and 4, Biker 5, exit. Each biker is defeated ONCE and stays down.
+- FIVE bikers total, each keeps his own hair, face and clothing in every shot; no new bikers appear. The bartender stays hidden behind the counter after the awakening.
+- Her look never changes: pink-to-violet-to-blue bob, ONE silver lightning clip, pink-and-white sports crop top, pink pleated mini skirt with white stripes and pink shorts underneath, pink backpack with black buckle straps, black-and-pink platform combat boots. Her hair stays pink-violet-blue and is never recoloured by the energy.
+- The bucket holds only water, no ice, is empty after 00:06, is the same dented steel bucket throughout, hits the ceiling ONCE, and the ceiling dent remains visible afterwards.
+- The jump has take-off, flight and landing; no body passes through tables, the counter or other people; she steps over Biker 5, not through him.
+- Violet energy appears only on her hands and forearms, plus the shockwave, the floor cracks and the final sphere; it is always violet-purple.
+- The same bar layout, the same hanging-bulb lighting, and the open door with the dim dusk dust storm stay in the background; no daylight enters the room.
+- Preserve her face, hair, outfit and footwear exactly as in Image1 throughout.
+
+No repeated attempts, slow motion, teleportation, duplicated people, changing outfits, changing hair colour, lost backpack, changing faces, extra limbs, distorted hands, weapons other than the steel bucket, guns, blood, gore, ice cubes, cartoon or anime style, CGI appearance, captions, subtitles, readable signs, watermarks, recording interface.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · MakeUGC · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@ZentrixHQ](https://x.com/ZentrixHQ) · [原帖](https://x.com/ZentrixHQ/status/2119673961709502683)
+
+<sub>Preview © 2026 <a href="https://x.com/ZentrixHQ/status/2119673961709502683">@ZentrixHQ</a> · Prompt by <a href="https://x.com/ZentrixHQ/status/2119673961709502683">@ZentrixHQ</a></sub>
 
 [目次に戻る](#table-of-contents)

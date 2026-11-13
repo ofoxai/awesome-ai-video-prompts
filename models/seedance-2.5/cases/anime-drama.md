@@ -16,6 +16,7 @@
 - [Case 1013: Water vs fire, night school corridor (水火对决・深夜学园走廊) — by Ofox Team](#case-1013)
 - [Case 1014: Arc vs wind, flooded factory courtyard (雷风对决・暴雨工厂中庭) — by Ofox Team](#case-1014)
 - [Case 79: The Tiny Frog Michelin Chef (小青蛙主厨的森林晚宴) — by @Caden_Flux](#case-79)
+- [Case 104: The Elven Goddess and the Mountain Demon (精灵女神迎战山寺巨魔) — by @JasanMillerAi](#case-104)
 
 <a id="case-9"></a>
 ### Case 9: Anime school hallway kung-fu fight (动漫风格校园走廊武术格斗) — by @AiwithElisia
@@ -705,5 +706,30 @@ No text, no subtitles, no logos, no watermark.
 **来源**：[@Caden_Flux](https://x.com/Caden_Flux) · [原帖](https://x.com/Caden_Flux/status/2091396961329131999)
 
 <sub>Preview © 2026 <a href="https://x.com/Caden_Flux/status/2091396961329131999">@Caden_Flux</a> · Prompt by <a href="https://x.com/Caden_Flux/status/2091396961329131999">@Caden_Flux</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-104"></a>
+### Case 104: The Elven Goddess and the Mountain Demon (精灵女神迎战山寺巨魔) — by @JasanMillerAi
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-104"><img src="../../../images/seedance-2.5/case104/preview.webp" width="700" alt="The Elven Goddess and the Mountain Demon"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-104)
+
+**输入素材**：无独立公开输入素材。
+
+<details>
+<summary><strong>Prompt</strong> — Cinematic fantasy epic battle a towering colossal dark demon lord in ornate black and purple glowing armor with glowing purple cracks landing heavily …</summary>
+
+~~~~text
+Cinematic fantasy epic battle a towering colossal dark demon lord in ornate black and purple glowing armor with glowing purple cracks landing heavily amid ancient ruined stone pillars and levitating rocks, facing a graceful blonde elven goddess wearing an elegant white flowing dress the goddess summons glowing golden magic circles, rune symbols, and beams of light energy to fight the giant demon in a ruined mountain temple arena, dramatic lighting, epic cinematic atmosphere, high-end fantasy 3D animation style.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@JasanMillerAi](https://x.com/JasanMillerAi) · [原帖](https://x.com/JasanMillerAi/status/2119822912446415221)
+
+<sub>Preview © 2026 <a href="https://x.com/JasanMillerAi/status/2119822912446415221">@JasanMillerAi</a> · Prompt by <a href="https://x.com/JasanMillerAi/status/2119822912446415221">@JasanMillerAi</a></sub>
 
 [Back to top](#table-of-contents)

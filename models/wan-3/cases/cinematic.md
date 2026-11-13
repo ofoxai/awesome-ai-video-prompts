@@ -24,6 +24,11 @@
 - [Case 98: A Violinist Before the Performance (登台前的小提琴手) — by PixelDojo](#case-98)
 - [Case 100: Gliding over a Misty Lake (晨雾湖面的低空掠行) — by ClipRush Team](#case-100)
 - [Case 102: Thirty Seconds in a Café (咖啡馆里的连续三十秒) — by ClipRush Team](#case-102)
+- [Case 107: A Puppy in the Meadow (草地上奔来的金毛幼犬) — by Muse Video](#case-107)
+- [Case 108: A Paper Boat in the Rain (雨夜霓虹下的纸船) — by Muse Video](#case-108)
+- [Case 109: A Dance in the Neon Alley (霓虹小巷的街舞瞬间) — by Muse Video](#case-109)
+- [Case 111: Rising over Mountains at Dawn (日出雪山的升空镜头) — by Muse Video](#case-111)
+- [Case 112: The Lighthouse and the Storm (灯塔守护者与风暴海面) — by Muse Video](#case-112)
 
 <a id="case-2"></a>
 ### Case 2: Ambush from Ten Sides — Pipa on the Loess Ridge (十面埋伏) — by Alibaba
@@ -607,5 +612,120 @@ She reads a paperback and sips her iced latte. A waiter sets a croissant on her 
 **来源**：ClipRush Team · [原帖](https://www.cliprush.ai/tests/wan-3-0-review#long)
 
 <sub>Preview © 2026 ClipRush Team · Prompt by ClipRush Team</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-107"></a>
+### Case 107: A Puppy in the Meadow (草地上奔来的金毛幼犬) — by Muse Video
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-107"><img src="../../../images/wan-3/case107/preview.webp" width="700" alt="A Puppy in the Meadow"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-107)
+
+<details>
+<summary><strong>Prompt</strong> — A golden retriever puppy runs through a sunlit meadow toward the camera, slow motion, cinematic, birds chirping</summary>
+
+~~~~text
+A golden retriever puppy runs through a sunlit meadow toward the camera, slow motion, cinematic, birds chirping
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Muse Video · t2v · 5s · 480p · 未标注 · on
+**来源**：Muse Video · [原帖](https://muse-video.co/wan-3-0)
+
+<sub>Preview © 2026 Muse Video · Prompt by Muse Video</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-108"></a>
+### Case 108: A Paper Boat in the Rain (雨夜霓虹下的纸船) — by Muse Video
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-108"><img src="../../../images/wan-3/case108/preview.webp" width="700" alt="A Paper Boat in the Rain"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-108)
+
+<details>
+<summary><strong>Prompt</strong> — A paper boat drifts down a rainy city street at night, neon reflections shimmering in the puddles, rain pattering on the pavement</summary>
+
+~~~~text
+A paper boat drifts down a rainy city street at night, neon reflections shimmering in the puddles, rain pattering on the pavement
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Muse Video · t2v · 5s · 480p · 未标注 · on
+**来源**：Muse Video · [原帖](https://muse-video.co/wan-3-0)
+
+<sub>Preview © 2026 Muse Video · Prompt by Muse Video</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-109"></a>
+### Case 109: A Dance in the Neon Alley (霓虹小巷的街舞瞬间) — by Muse Video
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-109"><img src="../../../images/wan-3/case109/preview.webp" width="394" alt="A Dance in the Neon Alley"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-109)
+
+<details>
+<summary><strong>Prompt</strong> — Vertical shot: a street dancer spins under a glowing neon sign in a narrow alley at night, jacket flaring, bass-heavy music and a cheering crowd</summary>
+
+~~~~text
+Vertical shot: a street dancer spins under a glowing neon sign in a narrow alley at night, jacket flaring, bass-heavy music and a cheering crowd
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Muse Video · t2v · 5s · 480p · 9:16 · on
+**来源**：Muse Video · [原帖](https://muse-video.co/wan-3-0)
+
+<sub>Preview © 2026 Muse Video · Prompt by Muse Video</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-111"></a>
+### Case 111: Rising over Mountains at Dawn (日出雪山的升空镜头) — by Muse Video
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-111"><img src="../../../images/wan-3/case111/preview.webp" width="700" alt="Rising over Mountains at Dawn"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-111)
+
+<details>
+<summary><strong>Prompt</strong> — Drone shot rising over snowy mountain peaks at sunrise, golden light spilling across the ridges, wind howling</summary>
+
+~~~~text
+Drone shot rising over snowy mountain peaks at sunrise, golden light spilling across the ridges, wind howling
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Muse Video · t2v · 5s · 480p · 未标注 · on
+**来源**：Muse Video · [原帖](https://muse-video.co/wan-3-0)
+
+<sub>Preview © 2026 Muse Video · Prompt by Muse Video</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-112"></a>
+### Case 112: The Lighthouse and the Storm (灯塔守护者与风暴海面) — by Muse Video
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-112"><img src="../../../images/wan-3/case112/preview.webp" width="700" alt="The Lighthouse and the Storm"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-112)
+
+<details>
+<summary><strong>Prompt</strong> — A lighthouse keeper climbs a spiral staircase at night carrying a lantern, then cut to a wide shot of the lighthouse beam sweeping over a stormy sea a…</summary>
+
+~~~~text
+A lighthouse keeper climbs a spiral staircase at night carrying a lantern, then cut to a wide shot of the lighthouse beam sweeping over a stormy sea as huge waves crash against the rocks, howling wind and rolling thunder
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Muse Video · t2v · 10s · 480p · 未标注 · on
+**来源**：Muse Video · [原帖](https://muse-video.co/wan-3-0)
+
+<sub>Preview © 2026 Muse Video · Prompt by Muse Video</sub>
 
 [Back to top](#table-of-contents)
