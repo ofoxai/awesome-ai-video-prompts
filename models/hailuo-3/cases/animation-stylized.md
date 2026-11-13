@@ -22,6 +22,8 @@
 - [Case 129: Greenhouse tea isekai anime (温室红茶异世界动画) — by @haruuraeadss](#case-129)
 - [Case 157: Pixel Cats at the Harbor (港口猫咪像素格斗) — by @IndoorIMU](#case-157)
 - [Case 158: A Steam Train by the Castle (城堡高架桥上的蒸汽列车) — by @TaliaAariz](#case-158)
+- [Case 162: The Office Monkey’s Keyboard Crisis (办公室猴子的键盘危机) — by @EndFolding79421](#case-162)
+- [Case 168: The Dragon Overcooks the Sausage (小龙把烤肠的火开大了) — by @ou_zhen599](#case-168)
 
 <a id="case-12"></a>
 ### Case 12: An 1890s Bird Plate Draws Itself (自动绘成的 1890 年代鸟类图鉴) — by @Dheepanratnam
@@ -9390,5 +9392,91 @@ A 3D stylized animation begins with a tight close-up on the gold-spoked wheels a
 **来源**：@TaliaAariz · [原帖](https://x.com/TaliaAariz/status/2098886746846945356)
 
 <sub>Preview © 2026 @TaliaAariz · Prompt by @TaliaAariz</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-162"></a>
+### Case 162: The Office Monkey’s Keyboard Crisis (办公室猴子的键盘危机) — by @EndFolding79421
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-162"><img src="../../../images/hailuo-3/case162/preview.webp" width="700" alt="The Office Monkey’s Keyboard Crisis"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-162)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A stressed-out office monkey in a suit furiously types on a computer, then pounds the keyboard when it freezes. He dramatically throws a banana at the…</summary>
+
+~~~~text
+A stressed-out office monkey in a suit furiously types on a computer, then pounds the keyboard when it freezes. He dramatically throws a banana at the screen, it explodes in sparks. He leans back, sighs, and sips coffee through a straw like a jaded CEO.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@EndFolding79421 · [原帖](https://x.com/EndFolding79421/status/2118645315372978656)
+
+<sub>Preview © 2026 @EndFolding79421 · Prompt by @EndFolding79421</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-168"></a>
+### Case 168: The Dragon Overcooks the Sausage (小龙把烤肠的火开大了) — by @ou_zhen599
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-168"><img src="../../../images/hailuo-3/case168/preview.webp" width="700" alt="The Dragon Overcooks the Sausage"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-168)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/hailuo-3/case168/input1.webp" width="200" alt="First frame"><br><sub>First frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15-second 16:9 I2VA high-end realistic 3D animated cinematic short. Use &lt;Picture 1&gt; as the only first-frame and visu…</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15-second 16:9 I2VA high-end realistic 3D animated cinematic short. Use <Picture 1> as the only first-frame and visual reference for the same dragon, black cat, stump, forked branch, sausage, beer mug, campfire, forest setting, character scale, material style, and nighttime 3D animation look. Preserve staging only: dragon always frame-left, seated, facing right-front; black cat always frame-right on the stump, facing left; campfire fixed lower center. Fire always travels left-to-right from dragon toward sausage and cat. No axis crossing, teleporting, position swap, new characters, subtitles, text, watermark, fade, or black ending.
+
+Lighting: stable 7000K cool moonlight from upper-right/rear outlining horns, wing membranes, cat ears, and fur tips. Campfire and dragon flame provide 2200K-2600K warm light from lower center-left, illuminating dragon jaw, belly scales, cat left face, paws, sausage, and smoke. When fire grows, warm light rises physically and shadows extend rear-right; when fire stops, warm light returns to baseline campfire level. Palette: deep navy #0E2230, desaturated blue-gray #29414B, flame core #FFD3A0, orange-gold flame #FF8A3D, ember red-orange #B74621. Medium-high contrast, preserved blacks, detailed scales and fur, soft highlight roll-off, controlled saturation, no neon or full-frame yellow cast.
+
+[00:00-00:02.0] 35mm fixed two-character medium-wide, same opening composition. Dragon on left emits a small steady flame; black cat on right rotates the sausage at a controlled pace. The cat studies sausage browning, then looks to dragon before the head follows. Chin rises, mouth tightens, one paw curls upward twice with restrained chef authority; tail tip swings slowly. Dragon steals eager glances at the cat. After the command, dragon’s eyes widen slightly and chest pauses before inhaling. Cat says crisply: <d>[English] More heat. Just a little more. </d>
+
+[00:02.0-00:03.4] 50mm low-angle medium close on cat from below the stump. One paw controls the fork, the other rests on its hip. Body leans forward, ears fixed toward dragon. The gaze stops checking the sausage and locks into firm “do it” eye contact. Tail rises straight. End on a small paw flick and the unshakable stare.
+
+[00:03.4-00:04.4] Fast whip-pan right-to-left from cat to dragon, blur only during transfer, landing on a 50mm dragon face close-up. Dragon stops the flame; one smoke thread exits the mouth. Beer mug claw freezes midair; free claw points toward its own mouth. Dragon checks the cat’s paw first, then cat’s eyes. Upper lids lift, jaw retracts slightly: “Are you sure?” It inhales through widening nostrils and begins charging chest and belly. Dragon asks low: <d>[English] You sure? </d> Offscreen cat answers immediately: <d>[English] Go. </d>
+
+[00:04.4-00:07.2] 24mm close wide action shot. Dragon inhales hard: chest expands first, heavy belly rises slightly later, back muscles tighten, wing membranes and ear fins pull backward in airflow. A hot white core ignites deep in the mouth, then a huge flame column blasts left-to-right. Physics stay clear: white-hot core, orange-gold turbulent tongues, split flow around branch and sausage, obstruction, recirculation, upward curl. Sparks rise in heat spirals; sausage fat bubbles and bursts; skin shifts from wet red-brown toward charred brown; smoke forms near sausage and rides upward-right in thermal lift. At peak flame, enter 0.6 seconds of local bullet time with only a 20-degree frontal lateral move across the campfire: flame tongues, sparks, oil droplets, and beer foam briefly suspend, then return to speed.
+
+Heat wave hits the cat. Chef confidence holds for a beat, then pupils tighten, eyes open, smug mouth disappears. The cat looks from dragon to rapidly charring sausage, confirms danger, then leans back hard. Feet clamp to the stump. Both paws crank the fork frantically. Fur, whiskers, ears, and tail push rightward in the heat. Cat shouts: <d>[English] Less! Less! Less! </d> Dragon, misunderstanding through the flame, answers while still seeking approval: <d>[English] Next time, buy bigger sausages! </d> Fire recoil pushes dragon head and neck back slightly; belly rebounds a fraction late; wing membranes tremble. Beer tilts right, foam spills over rim, mug stays intact.
+
+[00:07.2-00:10.0] Hard cut to 70-degree overhead, preserving dragon-left, sausage-center, cat-right. Cat frees one paw and slams it downward in correction. Eyes lock on dragon’s mouth first. It says: <d>[English] I meant less fire! </d> Dragon clamps mouth shut. Unreleased heat puffs the cheeks; throat performs one blocked swallow. Main flame cuts at the root, front flame loses supply, thins, rolls upward, and leaves a gray-brown smoke ribbon.
+
+After half a beat, two narrow nostril flames shoot out. Short conical jets ignite inside both nostrils, strike the sausage, and split across its surface. Cat’s eyes move from mouth to nostrils before the head follows; irritation becomes disbelief. Mouth opens for a blink, then snaps shut. It points exactly to the nose and yells: <d>[English] Your nose! </d> Dragon focuses on its own nose; eyes briefly cross for readable comic timing. It pinches both nostrils with the free claw. Nose flames cut into two tiny sparks, rise, vanish, and leave two thin black smoke threads.
+
+[00:10.0-00:12.4] 50mm side dolly from dragon’s pinched snout along the extinguished flame path and fork to the cat. Dragon keeps nostrils pinched, peeking over the claw at the cat. Approval-seeking eyes become cautious; upper lids droop slightly, mouth retracts, beer hand tries to stay steady. Chest releases stored air; heavy belly settles half a beat late with one natural rebound; wing membranes stop trembling. Cat pulls the fork back into its own area and blows twice on the sausage. Whiskers flare forward; soot stirs but does not vanish. Cat squints through smoke, sniffs, confirms one side charred black and the other golden, then rotates the sausage slowly to prolong judgment. Fork bends only slightly and elastically; sausage stays attached. Smoke rolls upper-right, warm-edged in firelight, blue-gray in moonlight, thinning into night.
+
+[00:12.4-00:15.0] Slow pullback to the original two-character medium-wide. Dragon releases its nose and leans forward a little, watching cat’s eyes and mouth for praise. One hopeful mouth corner rises but stops. Dragon asks carefully: <d>[English] Fast enough? </d> Cat bites the unburnt side and chews half a beat. It looks at the sausage first; eyelids flatten. Then eyes turn to dragon before the head follows. Calm, not angry. One mouth corner presses down with dry sarcasm. After swallowing, it answers low and clean: <d>[English] Very. I nearly got cooked. </d> “Very” is short, then a half-beat pause, then the rest lands sharply. Dragon’s hopeful smile freezes. Eyes dodge to the beer mug; it drinks to hide embarrassment. One tiny smoke line leaks from a nostril, rises, then drifts right in the night wind. Cat spots it first, pivots half a step while both feet stay on the stump, hides the fork behind its back, and shields the sausage with its tail. End in the full duo composition: campfire alive, embers rising, smoke thinning, moon rim light stable, forest breathing. No freeze, fade, or black.
+
+Maintain exact dragon, black cat, stump, branch fork, sausage, beer mug, campfire, forest, scale, and 3D animated material style. No left-right swap, axis crossing, teleporting, campfire crossing, fork hand change, sausage falling or multiplying, fake bite, mug deformation, weightless liquid, human chest anatomy, sexualized body structure, extra limbs, claws, tails, characters, face deformation, unstable teeth count, uncontrolled crossed eyes except the brief nose-focus gag, text, subtitles, logo, watermark, black screen, or fade.
+
+overall_soundscape
+
+Continuous night forest ambience, distant insects, campfire crackle, light wood pops, and subtle 3D creature breathing. [00:00-00:02.0] small steady flame, fork rotation, cat command line, dragon chest pause. [00:02.0-00:03.4] close cat voice, paw gesture, tail movement, faint stump creak. [00:03.4-00:04.4] whip-pan air, dragon smoke thread, mug foam shift, “You sure?” and offscreen “Go.” [00:04.4-00:07.2] deep dragon inhale, huge flame surge with low-frequency impact and turbulent roar, fat popping, oil sizzling, rapid fork cranking, cat panic line, dragon muffled reply, beer foam spill. [00:07.2-00:10.0] correction line, flame shutoff, smoke hiss, two nostril jets, cat shout, nostril pinch, sparks extinguishing. [00:10.0-00:12.4] smoke curl, two cat blows, sausage sizzling, fork friction, dragon’s cautious breathing, beer slosh. [00:12.4-00:15.0] dragon question, cat bite and chew, sarcastic reply, beer sip, tiny nostril smoke, embers, forest night continuing. No canned laughter.
+
+non_diegetic_music
+
+No music. Preserve comic timing through flame physics, pauses, dialogue clarity, campfire texture, sausage sizzle, beer movement, smoke hiss, and the final embarrassed silence.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@ou_zhen599 · [原帖](https://x.com/ou_zhen599/status/2116909794036793669)
+
+<sub>Preview © 2026 @ou_zhen599 · Prompt by @ou_zhen599</sub>
 
 [Back to top](#table-of-contents)

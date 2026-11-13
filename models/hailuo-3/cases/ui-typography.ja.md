@@ -16,6 +16,8 @@
 - [Case 134: BURN Forged in Fire (烈焰熔铸 BURN 字幕) — by @CharaspowerAI](#case-134)
 - [Case 151: Forging POWER from a Turbine (工业涡轮锻造 POWER 字幕) — by @CharaspowerAI](#case-151)
 - [Case 159: A Golden 5300-Follower Celebration (5300 粉丝金色庆祝动效) — by @YaReYaRu30Life](#case-159)
+- [Case 161: SURVIVE in the Storm (风暴废墟中的 SURVIVE 字幕) — by @CharaspowerAI](#case-161)
+- [Case 163: Forging SAVAGE from Iron (碎铁锻造成 SAVAGE 标题) — by @CharaspowerAI](#case-163)
 
 <a id="case-13"></a>
 ### Case 13: Beat-Synced Spaghetti-Western Title Sequence (西部片节拍标题动画) — by @itsphotogptai
@@ -706,5 +708,55 @@ Aggressive tracking shot through a gigantic abandoned industrial facility. The c
 **来源**：@YaReYaRu30Life · [原帖](https://x.com/YaReYaRu30Life/status/2097816304111808620)
 
 <sub>Preview © 2026 @YaReYaRu30Life · Prompt by @YaReYaRu30Life</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-161"></a>
+### Case 161: SURVIVE in the Storm (风暴废墟中的 SURVIVE 字幕) — by @CharaspowerAI
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-161"><img src="../../../images/hailuo-3/case161/preview.webp" width="700" alt="SURVIVE in the Storm"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-161)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — High-speed chase shot through an abandoned post-apocalyptic city in daylight. The camera races backward ahead of a lone runner while a gigantic dust t…</summary>
+
+~~~~text
+High-speed chase shot through an abandoned post-apocalyptic city in daylight. The camera races backward ahead of a lone runner while a gigantic dust tornado destroys the avenue behind them. Cars roll through the air, windows explode and debris fills the sky. The tornado suddenly tears an entire building facade apart. Thousands of concrete, steel and glass fragments are sucked upward, rotating violently inside the vortex. From above, the debris unexpectedly aligns into enormous floating letters spelling “SURVIVE.” The runner passes underneath as the tornado instantly destroys the word again. Massive disaster-movie VFX, intense speed, photorealistic debris and atmospheric destruction.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2118674800063238381)
+
+<sub>Preview © 2026 @CharaspowerAI · Prompt by @CharaspowerAI</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-163"></a>
+### Case 163: Forging SAVAGE from Iron (碎铁锻造成 SAVAGE 标题) — by @CharaspowerAI
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-163"><img src="../../../images/hailuo-3/case163/preview.webp" width="700" alt="Forging SAVAGE from Iron"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-163)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Brutal cinematic title reveal opening on a colossal wall of raw black iron shaking under repeated impacts from an unseen force. Each strike creates en…</summary>
+
+~~~~text
+Brutal cinematic title reveal opening on a colossal wall of raw black iron shaking under repeated impacts from an unseen force. Each strike creates enormous dents, cracks and showers of sparks until one final hit punches completely through the metal and sends thousands of jagged fragments toward the lens. The camera violently pulls backward through the debris as heavy iron plates rotate, collide and grind against each other. A powerful magnetic vortex catches the fragments and whips them into a furious spiral, sparks erupting wherever pieces collide. The debris suddenly slams inward from every direction, constructing the gigantic word "SAVAGE" from brutal scarred steel with razor-sharp fractured edges. The camera circles aggressively around the title while glowing molten scratches burn across its surface. One final invisible impact strikes from behind, violently deforming the entire word before blasting metal fragments and sparks directly past the camera. Heavy, tactile, aggressive, world-class Hollywood title design.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2118312404161335307)
+
+<sub>Preview © 2026 @CharaspowerAI · Prompt by @CharaspowerAI</sub>
 
 [目次に戻る](#table-of-contents)
