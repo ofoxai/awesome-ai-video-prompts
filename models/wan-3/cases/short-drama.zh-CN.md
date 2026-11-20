@@ -9,6 +9,7 @@
 - [Case 52: A Golden Retriever's First Year, from a .docx (一份日记文档生成的金毛成长片) — by Alibaba](#case-52)
 - [Case 74: Night Marina UGC — The Leap (夜游码头 UGC·纵身一跃) — by u/mementomori2344323](#case-74)
 - [Case 75: An Ordinary Seoul Summer Day (首尔普通夏日的一天) — by u/TimeCounty7878](#case-75)
+- [Case 121: One Suspenseful Take beneath the Police Tape (穿过警戒线的悬疑长镜头) — by WeShop](#case-121)
 
 <a id="case-11"></a>
 ### Case 11: Comedy Short — The Director and the Nepo Star (喜剧短片·导演与关系户) — by Alibaba
@@ -367,5 +368,92 @@ Prioritize natural behavior, consistent identity, believable physics, imperfect 
 **来源**：u/TimeCounty7878 · [原帖](https://www.reddit.com/r/reAPIOfficial/comments/1w2qo76/f_this_is_ai_slop_wan_30_can_keep_serving_it/)
 
 <sub>社区实测 · u/TimeCounty7878 · Reddit 原帖逐字提示词与请求参数</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-121"></a>
+### Case 121: One Suspenseful Take beneath the Police Tape (穿过警戒线的悬疑长镜头) — by WeShop
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-121"><img src="../../../images/wan-3/case121/preview.webp" width="700" alt="One Suspenseful Take beneath the Police Tape"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-121)
+
+<details>
+<summary><strong>Prompt</strong> — Realistic cinematic crime suspense. One continuous 25-second take: no cuts, transitions, or montage. A is an adult female plainclothes investigator we…</summary>
+
+~~~~text
+Realistic cinematic crime suspense. One continuous 25-second take: no cuts, transitions, or montage. A is an adult female plainclothes investigator wearing a dark jacket and an identification armband. B is an adult male plainclothes investigator in a dark coat. Keep both characters' appearance and clothing consistent throughout. Overcast natural light outside a residential building; a fictional, non-graphic crime scene. C means the camera, not a person in the scene. Natural ambience, footsteps, clothing and police-tape rustle only. No dialogue, narration, music, or sirens. No subtitles or watermarks. The following times are action beats within the SAME continuous take, not separate edited shots.
+
+0–2 seconds | Begin with an identity detail
+Character action: A walks toward the residential building about half a meter ahead of the camera. Her right arm swings naturally, bringing her identification armband into view first. Her left hand stays near her waist, fingers tightening slightly. She does not look at the camera; she looks past the police car toward the building.
+Camera movement: C starts about 1.3 meters above the ground, following closely behind A's right side and initially framing the armband. Rise to 1.5 meters and ease back about half a meter. Shift focus from the armband to A's shoulder and back with slight lens breathing. The white police-car body slides out at frame right.
+Background: Red police lights flash silently. A uniformed officer speaks quietly with a colleague beside distant traffic cones. The residential facade enters above A's shoulder.
+
+2–4 seconds | Reveal the building behind her
+Character action: A takes two or three more steps, slowing slightly as her right-arm swing diminishes. She first raises her eyes toward the upper floors, then turns her head left while her body continues forward.
+Camera movement: Follow about one meter behind A and tilt slowly upward to reveal the facade. Briefly shift focus from the back of her head to the building, then back to her. Retain slight handheld roll and walking bob.
+Background: Balconies, windows, and a gray-white exterior gradually appear. People inside the cordon make small movements. The distant police tape is still only a thin line.
+
+4–6 seconds | Orbit from behind A to her front
+Character action: A continues turning her head left, her brow tightening slightly and her steps slowing. She looks at the building, then scans the onlookers and the cordoned area ahead. Her jaw tenses subtly.
+Camera movement: Accelerate laterally toward A's left, passing her rear-left side and left profile to reach her front-left side. Maintain about one meter of separation, counter-panning to keep A in frame. Her shoulder briefly occludes the view during the move. Refocus from her profile to her eyes.
+Background: A white barrier slides laterally across the view. Three to five onlookers act independently: one raises a phone, another stands on tiptoe, and the others speak quietly or remain still.
+
+6–8 seconds | Track backward in front of A
+Character action: A continues walking on the left side of the frame. She looks toward the cordon on her right, then scans the crowd on her left. Her brow tightens, her nostrils move with a small breath, and her right hand gradually stops swinging.
+Camera movement: Retreat about 1.2 meters in front of her, settling near 1.5 meters high. Drift slightly right along the road to leave space in her eyeline. Keep focus on her eyes, with one small focus correction during the tracking move.
+Background: A reporter turns a page; another person holds a takeaway coffee. Farther away, an officer extends an arm to stop residents approaching. The building entrance and tape grow larger.
+
+8–10 seconds | Whip-pan toward B
+Character action: A looks past the camera toward its rear-right, then continues forward and leaves frame left. B stands beside an open police-car door, his right hand on its upper edge. His left foot lands first as his weight transfers from the car to the road.
+Camera movement: Decelerate, then pan rapidly right along an arc with a short lateral move. Onlookers, barriers, and the car form continuous horizontal motion blur. Slow down near B with a small settling overshoot. Focus first catches the door edge, then finds and locks onto B's face.
+Background: The crowd becomes blurred color during the pan. As the camera settles, the white police car sits at frame right. Keep a uniformed officer behind B visually separate from him.
+
+10–12 seconds | B leaves the police car
+Character action: B releases the door and turns toward the crime scene. He first observes the building, then looks in the direction A went. As he steps, his left hand briefly straightens the front of his coat. His expression changes from taking in the surroundings to concentration.
+Camera movement: Retreat about 1.5 meters in front of B. Lag slightly at the start, allowing him to approach into a medium close-up, then accelerate to maintain distance. Move left to leave room for A to re-enter.
+Background: The car door remains half-open. A distant resident lowers a phone while another keeps looking forward.
+
+12–14 seconds | A and B converge
+Character action: A re-enters from frame left, closer to the camera than B. B quickens one step to catch up but stays half a body length behind her right side. B looks first at A, then inside the cordon. A raises her right hand slightly to prepare to touch the tape.
+Camera movement: Continue retreating toward the center of the road, framing both characters together. Hold focus on B first, then naturally transfer it to the nearer A.
+Background: The yellow tape becomes distinct. Two blue-suited forensic technicians kneel to photograph the ground and sort evidence bags. A closed evidence case sits nearby.
+
+14–16 seconds | Approach the police tape
+Character action: A looks down to judge the tape's height, then extends her right hand. The back of her hand touches its lower edge; she rotates her wrist and supports it from underneath. B slows and raises his left hand to prepare to take over.
+Camera movement: Slow the backward move and descend from 1.5 to 1.4 meters. Tilt slightly down toward A's hand, then lift back to her face. Pull focus from her eyes to the hand-tape contact and back to her.
+Police tape: A bright yellow plastic strip about five centimeters wide, with repeated black diagonal warning blocks and no readable lettering. Its center sags slightly and trembles in a light breeze.
+
+16–18 seconds | A, B, and the camera pass beneath the tape
+Character action: A lifts the tape with her right hand while bending her knees, lowering her head, and tucking her chin. She passes underneath left foot first, then right. B takes over supporting the tape with his left hand from behind. A releases her right hand only after confirming B is holding it. B keeps it raised, ducks, and follows through.
+Camera movement: Descend with A to about 1.2 meters and retreat through the actual gap she has opened. The tape crosses diagonally close to the lens, briefly out of focus. Once through, rise gradually and drift right, transferring focus from A's lowered face to her shoulder and back.
+Background: A uniformed officer turns sideways to make room. One forensic technician photographs the ground while another passes an evidence bag to a colleague.
+
+18–20 seconds | Reveal the center of the scene
+Character action: A straightens and slows. She first looks at ground markers, then follows the traces farther ahead. After passing through, B lowers the tape; it drops naturally and bounces slightly. A's brow deepens, her lips part a little, and her breath pauses for a beat.
+Camera movement: Move from A's front-right around her right side toward her back, tilting slightly down. Transfer focus from her profile to evidence on the ground ahead, leaving her shoulder soft in the foreground.
+Background: A technician adjusts an evidence marker and photographs it from directly above. Another moves an evidence case. Red cones mark the scene's perimeter.
+
+20–22 seconds | Return from the evidence to A
+Character action: A slows almost to a stop. Her eyes move upward from the ground while her head initially remains still. Then she lifts her chin and draws her shoulders back slightly, changing from analytical attention to alertness. B notices A's reaction before beginning to follow her upward eyeline.
+Camera movement: Continue the arc from A's rear-right to her front-right, rising to about 1.6 meters. Pull focus from the ground evidence to A's eyes, softening the technicians behind her. Tilt up slightly with her gaze, but do not reveal the unusual target.
+
+22–24 seconds | Look up and confirm something is wrong
+Character action: A stops about 0.8 meters in front of the lens on the right side of the frame, looking toward the upper-left part of the building. Her eyes widen slightly, her lower eyelids tense, her parted lips slowly close, and her jaw tightens. B stops about 1.5 meters behind her on the left. He looks up a little later, narrows his eyes, and shifts his weight slightly forward.
+Camera movement: Finish the orbit and decelerate gently, retaining a tiny forward drift and settling motion. Ease from a chest-up close view toward a face close-up and tilt slightly with the eyeline. Focus stays on A's eyes, breathes briefly toward B behind her, then returns to A.
+Background: Blue-suited technicians, red cones, and silently flashing red police lights remain softly visible. Only the edge of the building facade enters the top of the frame.
+
+24–25 seconds | Hold the suspense
+Character action: A holds her upward stare. Her breathing briefly becomes shallow, then she blinks once slowly and naturally, opening her eyes to lock onto the target again. B does not blink in sync; he continues looking upstairs with his lips slightly tightened. Neither speaks.
+Camera movement: Stop the active orbit. Keep only a minute handheld dip, lateral drift, and breathing movement. Finally settle focus on A's eyes, keeping B and the crime scene recognizable in the background. Do not show the specific target they are seeing.
+
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 Reference · WeShop · t2v · 25s · 720p · 16:9 · on
+**来源**：WeShop · [原帖](https://www.weshop.ai/solutions/ai-video-generation/wan-3-0-single-take-suspense)
+
+<sub>Preview © 2026 WeShop · Prompt by WeShop</sub>
 
 [回到目录](#table-of-contents)

@@ -28,6 +28,7 @@
 - [Case 167: The Mechanical Gunslinger (工业走廊中的机械枪手) — by @ou_zhen599](#case-167)
 - [Case 169: The War of the Crimson Sky (绯红云层中的飞骑大战) — by @DeCat2025](#case-169)
 - [Case 170: The Mountain Awakens (山岳化作燃焰守护者) — by @DeCat2025](#case-170)
+- [Case 171: The City Becomes a Giant (铸剑之城化作巨人) — by @DeCat2025](#case-171)
 
 <a id="case-8"></a>
 ### Case 8: The Sky Descends Like a Giant Wall over a Suburban Street (整片天空如巨墙压向郊区街道) — by @cocktailpeanut
@@ -905,6 +906,54 @@ Deep subterranean rumbles, cracking stone, thunder, rising orchestral strings, c
 
 **参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
 **来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2111407726223843786)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-171"></a>
+### Case 171: The City Becomes a Giant (铸剑之城化作巨人) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-171"><img src="../../../images/hailuo-3/case171/preview.webp" width="700" alt="The City Becomes a Giant"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-171)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic cinematic dark fantasy. Six camera setups. Monumental scale, realistic weight, continuous physical transformation. An ancient medieval …</summary>
+
+~~~~text
+Photorealistic cinematic dark fantasy. 
+
+Six camera setups. Monumental scale, realistic weight, continuous physical transformation.  
+
+An ancient medieval city built around a gigantic mechanical forge. One muscular blacksmith in a dark leather apron. One colossal celestial angel with luminous golden wings. Storm clouds, cold blue-gray stone, molten golden light.  
+
+**0:00–0:02 | Extreme low angle** The enormous golden-winged angel descends over the city forge. The blacksmith pulls a gigantic iron lever. Four massive chains launch upward and wrap tightly around the angel's wings.  
+
+**0:02–0:04 | Wide frontal angle** The chains violently drag the angel onto the forge platform. Its wings slam across two enormous anvils. Giant mechanical clamps lock the glowing feathers in place.  
+
+**0:04–0:06 | Mechanical close-up** Two colossal hammers strike the golden wings. Each impact compresses the feathers into molten metal. The metal fuses into one magnificent blazing sword.  
+
+**0:06–0:08 | Ground-level hero angle** The blacksmith lifts the completed sword vertically. Golden energy explodes downward into the city streets. The entire city begins shaking. Buildings tilt, foundations split, and enormous sections of the ground rise.  
+
+**0:08–0:11 | High aerial angle** THE CITY ITSELF PHYSICALLY TRANSFORMS INTO A GIANT HUMANOID WARRIOR.  The transformation begins while every building remains visibly connected to the same city.  The outer city walls lift and fold inward to become two gigantic legs. Entire neighborhoods rotate upward into two massive arms. The central district rises into a broad armored torso. The castle at the center shifts upward to become the warrior's helmeted head.  Every original building becomes part of the warrior's body. Towers remain visibly embedded in its armor. Streets fold into its joints. The city is literally rearranging itself into a humanoid figure.  
+
+**0:11–0:15 | Continuous rising aerial pullback** 
+The transformation continues without interruption. The two enormous legs straighten, the arms unfold from the former neighborhoods, and the castle-head rises above the shoulders.  The newly formed colossal warrior stands upright on the exact ground previously occupied by the city.  
+
+The original city no longer exists as a separate settlement. Its entire architecture now forms the warrior's body.  Golden fire ignites inside the castle-head's eyes. The forge burns in the center of its chest. Final wide shot reveals the complete giant armored warrior, with medieval towers, rooftops, and stone walls integrated into its anatomy.  
+
+**VISUAL STYLE:** Epic cinematic dark fantasy, realistic architectural deformation, enormous interconnected stone structures, heavy mechanical movement, monumental scale, collapsing dust clouds,
+golden magical energy, storm-dark atmosphere.  **ESSENTIAL TRANSFORMATION RULE:** 
+The city IS the warrior. The warrior is made entirely from the city's existing physical architecture. This is one continuous transformation of the same object, not a summoning, not a creature emerging from beneath buildings, not a separate giant standing inside a city.  Maintain visual continuity throughout the transformation. No new warrior appears. No intact city remains around the completed figure.  No dialogue, no subtitles, no text on screen.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2109053613708370246)
 
 <sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
 

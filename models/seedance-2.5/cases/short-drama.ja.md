@@ -37,6 +37,12 @@
 - [Case 105: A Red-Convertible Road Trip (红色敞篷车上的公路恋曲) — by @AIwithNatalia](#case-105)
 - [Case 106: A Coastal Sunset for Two (敞篷车情侣的海岸日落) — by @codewithhajra](#case-106)
 - [Case 107: A Violet Awakening in the Wasteland (废土酒吧中的紫色觉醒) — by @ZentrixHQ](#case-107)
+- [Case 109: Together through the Seoul Night (携手走过首尔夜巷) — by @navi_Ai2](#case-109)
+- [Case 110: The Wrong Target (雨夜巷战：找错了对手) — by @Hope_Ai01](#case-110)
+- [Case 111: Duel at the Rain Pavilion (雨夜水榭的双剑对决) — by @Xaroon_x](#case-111)
+- [Case 112: The Rider and the Panther (海岸骑手与黑豹的邂逅) — by @itsSaira_1](#case-112)
+- [Case 113: A Plasma Blast at Sunset (日落大桥上的等离子冲击) — by @laviniavelle](#case-113)
+- [Case 114: Thorns Meet Glass (荆棘与琉璃的相遇) — by @itsSaira_1](#case-114)
 
 <a id="case-1"></a>
 ### Case 1: Guardian robot and grandmother, nine-shot storyboard (守护机器人与老奶奶 · 九宫格分镜) — by ByteDance
@@ -2110,5 +2116,318 @@ No repeated attempts, slow motion, teleportation, duplicated people, changing ou
 **来源**：[@ZentrixHQ](https://x.com/ZentrixHQ) · [原帖](https://x.com/ZentrixHQ/status/2119673961709502683)
 
 <sub>Preview © 2026 <a href="https://x.com/ZentrixHQ/status/2119673961709502683">@ZentrixHQ</a> · Prompt by <a href="https://x.com/ZentrixHQ/status/2119673961709502683">@ZentrixHQ</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-109"></a>
+### Case 109: Together through the Seoul Night (携手走过首尔夜巷) — by @navi_Ai2
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-109"><img src="../../../images/seedance-2.5/case109/preview.webp" width="700" alt="Together through the Seoul Night"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-109)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second ultra-realistic Korean romantic action short film.  Scene 1 (0–10 seconds): A young Korean couple walks together on a quiet Seoul s…</summary>
+
+~~~~text
+Create a 30-second ultra-realistic Korean romantic action short film.
+
+Scene 1 (0–10 seconds):
+A young Korean couple walks together on a quiet Seoul street at night. They share a natural romantic moment. Suddenly, a stranger approaches and starts bothering the girl. The boyfriend calmly steps forward to protect her.
+
+Scene 2 (10–20 seconds):
+A short, realistic street fight begins. The boyfriend defends himself with natural hand-to-hand combat. Realistic punches, dodging and movements. No exaggerated stunts or superhero action. The girlfriend watches anxiously.
+
+Scene 3 (20–30 seconds):
+The stranger leaves. The boyfriend has a minor injury. His girlfriend gently checks his face. They exchange a small smile, hold hands and walk away together under the streetlights.
+
+Visual Style:
+Authentic Korean cinema, realistic Korean actors, natural facial expressions, subtle romance, cinematic night lighting, realistic Seoul environment, smooth camera movements, professional film cinematography, detailed skin textures, natural body movements.
+
+Audio: Natural city ambience, subtle emotional cinematic background music, realistic sound effects.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- No overacting.
+- No exaggerated fighting.
+- No cartoon or anime effects.
+- No subtitles or text on screen.
+- Maintain consistent faces, clothes and characters across all scenes.
+- Professional Korean movie quality.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Frameo · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@navi_Ai2](https://x.com/navi_Ai2) · [原帖](https://x.com/navi_Ai2/status/2122335176286187925)
+
+<sub>Preview © 2026 <a href="https://x.com/navi_Ai2/status/2122335176286187925">@navi_Ai2</a> · Prompt by <a href="https://x.com/navi_Ai2/status/2122335176286187925">@navi_Ai2</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-110"></a>
+### Case 110: The Wrong Target (雨夜巷战：找错了对手) — by @Hope_Ai01
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-110"><img src="../../../images/seedance-2.5/case110/preview.webp" width="700" alt="The Wrong Target"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-110)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Title: THE WRONG TARGET  Create an exactly 30-second ultra-realistic Korean action thriller film.  Scene 1 (0–10 seconds): The Encounter  A young Kore…</summary>
+
+~~~~text
+Title: THE WRONG TARGET
+
+Create an exactly 30-second ultra-realistic Korean action thriller film.
+
+Scene 1 (0–10 seconds): The Encounter
+
+A young Korean man walks alone through a narrow Seoul street at night. Three suspicious men suddenly block his path. One man pushes him and demands his phone. The hero calmly looks at them without saying anything.
+
+Scene 2 (10–20 seconds): The Fight
+
+One attacker throws a punch. The hero dodges and responds with realistic hand-to-hand combat. He blocks attacks, delivers fast punches and uses practical defensive movements. The fight should feel intense, physical and believable, like a professional Korean action movie. No flying kicks or unrealistic stunts.
+
+Scene 3 (20–30 seconds): The Final Move
+
+Two attackers fall back while the third tries to attack from behind. The hero notices him, turns quickly and knocks the attacker off balance. All three retreat. The hero picks up his phone, adjusts his jacket and calmly walks away into the rainy street.
+
+Cinematography:
+
+- Ultra-realistic South Korean crime thriller style.
+- Authentic Korean actors.
+- Dark Seoul alley at night.
+- Rain-soaked streets and cinematic lighting.
+- Fast camera movements during combat.
+- Close-up shots of realistic facial expressions.
+- Wide shots showing complete fight choreography.
+- Smooth transitions and professional editing.
+
+Audio:
+Realistic punches, footsteps, rain ambience and intense cinematic background music.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- 4K photorealistic quality.
+- No overacting.
+- No supernatural elements.
+- No cartoon effects.
+- No slow motion except one brief impact moment.
+- Consistent hero appearance throughout.
+- No subtitles, logos or text on screen.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Frameo · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Hope_Ai01](https://x.com/Hope_Ai01) · [原帖](https://x.com/Hope_Ai01/status/2122330543719366996)
+
+<sub>Preview © 2026 <a href="https://x.com/Hope_Ai01/status/2122330543719366996">@Hope_Ai01</a> · Prompt by <a href="https://x.com/Hope_Ai01/status/2122330543719366996">@Hope_Ai01</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-111"></a>
+### Case 111: Duel at the Rain Pavilion (雨夜水榭的双剑对决) — by @Xaroon_x
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-111"><img src="../../../images/seedance-2.5/case111/preview.webp" width="700" alt="Duel at the Rain Pavilion"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-111)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — MIRROR WATER VS. LUNAR ECLIPSE  SEEDANCE 2.5 | 30 SECONDS | 16:9  Create a photorealistic live-action Hollywood sword battle with ARRI Alexa cinematog…</summary>
+
+~~~~text
+MIRROR WATER VS. LUNAR ECLIPSE
+
+SEEDANCE 2.5 | 30 SECONDS | 16:9
+
+Create a photorealistic live-action Hollywood sword battle with ARRI Alexa cinematography, realistic anatomy, natural skin, wet clothing, cinematic rain, atmospheric fog, and physical movements. No anime, cartoon, or video-game style.
+
+CHARACTERS
+
+@image1 — MALE PROTAGONIST
+
+Preserve exact face, hairstyle, body, original clothing, and identity. Weapon: slender straight sword. Agile, precise, fast, skilled in counterattacks. Uses cold silver mirror-water energy. MUST WIN.
+
+@image2 — MALE ANTAGONIST
+
+Preserve exact face, hairstyle, body, original clothing, and identity. Weapon: larger sword. Aggressive, powerful, relentless close-range fighter. Uses warm golden lunar eclipse energy. MUST LOSE.
+
+No identity, face, gender, or outfit changes.
+
+ENVIRONMENT — MISTY WATER PAVILION
+
+Three physically connected levels:
+
+1. UPPER: Damaged oriental wooden pavilion, curved roofs, bronze bells, wet pillars, heavy rain.
+2. MIDDLE: Eroded cliffs, Z-shaped wooden corridors, bridges, balconies, giant bamboo-paper lanterns.
+3. LOWER: Blue-green stone courtyard, reflective pools, ancient wooden halls, damaged walls.
+
+Both fighters must physically jump and fall between levels. No teleportation.
+
+VFX
+
+@image1: Dense silver particles, reflective droplets, mercury threads, refractive water, glowing sword edges.
+
+@image2: Dense golden particles, crescent fragments, metallic threads, pressure waves, glowing sword edges.
+
+Both auras remain attached to bodies and weapons throughout. Particles compress, redirect, and scatter during collisions. Silver and gold must never mix.
+
+IMPACT SYSTEM
+
+- Level 1: Fast sword contacts and particle sparks.
+- Level 2: Destruction of wood, lanterns, railings, and bridges.
+- Level 3: Two iconic collisions showing weapon contact, body reactions, momentum, and environmental destruction.
+
+Add one black-and-white frame lasting 1–2 frames immediately after each iconic impact.
+
+EXACT 30-SECOND TIMELINE
+
+01 | 00:00–01.6: Immediate sword clash on upper pavilion.
+
+02 | 01.6–03.5: Fast combat, broken pillars, vibrating bells.
+
+03 | 03.5–05.4: @image1 jumps outward; @image2 pursues.
+
+04 | 05.4–07.5: Both descend toward cliffside corridors while fighting midair.
+
+05 | 07.5–10.2: High-speed combat through giant lanterns.
+
+06 | 10.2–13.0: Giant lantern explodes; first iconic Level 3 collision.
+
+07 | 13.0–15.9: Fight descends through Z-shaped wooden corridors.
+
+08 | 15.9–18.5: Suspended bridge collapses; both fighters fall.
+
+09 | 18.5–21.0: Both land in lower courtyard and immediately resume fighting.
+
+10 | 21.0–23.5: @image1 raises reflective water into cutting planes; @image2 attacks.
+
+11 | 23.5–28.4 — FINAL CLASH: Both unleash their strongest attacks. @image1's silver mirror-water energy overpowers @image2's golden lunar eclipse defense. @image2's sword is redirected, his balance breaks, and he is thrown backward across the wet courtyard. Strongest Level 3 impact. Clearly establish @image1's victory.
+
+12 | 28.4–30.0 — FINAL SHOT: Medium shot of @image1 standing victorious with stable silver aura and sword. @image2 kneels defeated in the background with unstable golden aura.
+
+FINAL RULES
+
+Exactly 30 seconds, 16:9, two adult male fighters, consistent reference identities and outfits, fast readable choreography, continuous body-attached VFX, realistic destruction, and seamless three-level transitions.
+
+FINAL WINNER: @image1 — THE PROTAGONIST.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Xaroon_x](https://x.com/Xaroon_x) · [原帖](https://x.com/Xaroon_x/status/2121972843881881841)
+
+<sub>Preview © 2026 <a href="https://x.com/Xaroon_x/status/2121972843881881841">@Xaroon_x</a> · Prompt by <a href="https://x.com/Xaroon_x/status/2121972843881881841">@Xaroon_x</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-112"></a>
+### Case 112: The Rider and the Panther (海岸骑手与黑豹的邂逅) — by @itsSaira_1
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-112"><img src="../../../images/seedance-2.5/case112/preview.webp" width="700" alt="The Rider and the Panther"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-112)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create a hyper-realistic cinematic 4K video in 16:9 aspect ratio, 24 FPS, featuring a beautiful female motorcycle rider on a winding coastal mountain …</summary>
+
+~~~~text
+Create a hyper-realistic cinematic 4K video in 16:9 aspect ratio, 24 FPS, featuring a beautiful female motorcycle rider on a winding coastal mountain highway.
+
+Scene 1 (0–2 seconds): Begin with a wide cinematic rear tracking shot of a female rider wearing a red and black striped sweater and black pants, riding a powerful black sport motorcycle along a winding mountain coastal highway. Rocky cliffs, metal guardrails, ocean views and several vehicles are visible in the distance. Her long dark hair flows naturally in the wind.
+
+Scene 2 (2–4 seconds): Transition into a dynamic low-angle tracking shot from behind and beside the motorcycle as she accelerates and leans into a sharp road curve. The red LED taillight glows brightly. Other motorcycles and cars travel along the highway. Realistic tire movement, natural road motion and cinematic motion blur.
+
+Scene 3 (4–6 seconds): Cut to a roadside cinematic shot revealing a large, beautiful black panther standing beside the metal guardrail on the rocky roadside. The panther calmly watches the approaching motorcycles. Its muscular body, glossy black fur and realistic facial details are clearly visible.
+
+Scene 4 (6–8 seconds): The female rider notices the panther, gradually slows down and carefully stops her black motorcycle beside it. She turns toward the animal with a surprised but gentle expression. Use a smooth medium-wide camera shot showing both the woman and the panther.
+
+Scene 5 (8–10 seconds): The woman carefully leans toward the panther and slowly extends her right hand. The panther calmly raises one front paw and gently touches her fingers. Capture this emotional interaction with a cinematic close-up, showing realistic hand movement, detailed fur and natural animal behavior.
+
+Scene 6 (10–12 seconds): Show an intimate close-up of the panther gently touching the woman's hand. She looks at the animal with amazement and affection. The panther slowly withdraws its paw and turns its head. Soft wind moves her long hair. Beautiful cinematic depth of field.
+
+Scene 7 (12–15 seconds): Finish with a wide cinematic shot of the coastal highway. The woman returns to her motorcycle and rides away along the winding road while other motorcycles continue ahead. The black panther remains near the roadside. Camera smoothly follows the glowing red taillight as the motorcycle disappears into the scenic distance.
+
+Visual Style: Ultra-photorealistic, Hollywood-style cinematography, natural cloudy daylight, realistic physics, detailed textures, smooth camera transitions, cinematic color grading, professional action-film quality.
+
+Character Consistency: Maintain exactly the same female face, long dark hair, red and black striped sweater, black pants and black sport motorcycle throughout the entire video. Keep the same black panther with consistent body proportions and appearance in every scene.
+
+Negative Prompt: Cartoon, animation, CGI look, unrealistic anatomy, deformed hands, extra fingers, extra limbs, duplicate animals, changing faces, changing clothes, different motorcycles, flickering, unnatural movements, distorted objects, low resolution, excessive motion blur, inconsistent backgrounds.
+
+#AI #AiArt #VisualArt
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@itsSaira_1](https://x.com/itsSaira_1) · [原帖](https://x.com/itsSaira_1/status/2121817354279510226)
+
+<sub>Preview © 2026 <a href="https://x.com/itsSaira_1/status/2121817354279510226">@itsSaira_1</a> · Prompt by <a href="https://x.com/itsSaira_1/status/2121817354279510226">@itsSaira_1</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-113"></a>
+### Case 113: A Plasma Blast at Sunset (日落大桥上的等离子冲击) — by @laviniavelle
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-113"><img src="../../../images/seedance-2.5/case113/preview.webp" width="700" alt="A Plasma Blast at Sunset"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-113)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Cinematic action shot in 4K, photorealistic style a fierce East Asian female warrior with long dark hair wearing a tactical black leather jacket stand…</summary>
+
+~~~~text
+Cinematic action shot in 4K, photorealistic style a fierce East Asian female warrior with long dark hair wearing a tactical black leather jacket stands alone in the middle of a jammed abandoned multi lane bridge resembling the Brooklyn Bridge at sunset with a city skyline in the background Abandoned cars and debris are scattered everywhere with fallen zombies on the ground She faces a massive horde of approaching zombies, suddenly raises a futuristic high-tech sci-fi plasma rifle that glows with intense blue electrical energy rings, and fires a massive expanding shockwave blast that knocks back and clears the zombie horde. Smooth camera movement, dramatic lighting, highly detailed textures, cinematic blockbuster look.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@laviniavelle](https://x.com/laviniavelle) · [原帖](https://x.com/laviniavelle/status/2121460273374802326)
+
+<sub>Preview © 2026 <a href="https://x.com/laviniavelle/status/2121460273374802326">@laviniavelle</a> · Prompt by <a href="https://x.com/laviniavelle/status/2121460273374802326">@laviniavelle</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-114"></a>
+### Case 114: Thorns Meet Glass (荆棘与琉璃的相遇) — by @itsSaira_1
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-114"><img src="../../../images/seedance-2.5/case114/preview.webp" width="700" alt="Thorns Meet Glass"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-114)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encounteri…</summary>
+
+~~~~text
+A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
+
+#AIart #AI #Visualart
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@itsSaira_1](https://x.com/itsSaira_1) · [原帖](https://x.com/itsSaira_1/status/2121100826894590435)
+
+<sub>Preview © 2026 <a href="https://x.com/itsSaira_1/status/2121100826894590435">@itsSaira_1</a> · Prompt by <a href="https://x.com/itsSaira_1/status/2121100826894590435">@itsSaira_1</a></sub>
 
 [目次に戻る](#table-of-contents)

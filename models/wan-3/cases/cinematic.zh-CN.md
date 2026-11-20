@@ -29,6 +29,11 @@
 - [Case 109: A Dance in the Neon Alley (霓虹小巷的街舞瞬间) — by Muse Video](#case-109)
 - [Case 111: Rising over Mountains at Dawn (日出雪山的升空镜头) — by Muse Video](#case-111)
 - [Case 112: The Lighthouse and the Storm (灯塔守护者与风暴海面) — by Muse Video](#case-112)
+- [Case 113: A Paper Boat in Neon Rain (霓虹雨水中的红纸船) — by Wan3API](#case-113)
+- [Case 114: A Walk through the Taipei Night Market (手持镜头穿行台北夜市) — by Wan3API](#case-114)
+- [Case 117: Flying over a Glacier Lake (掠过冰川湖的航拍) — by Wan3API](#case-117)
+- [Case 120: Following a Red Kite over the Valley (追随红风筝俯瞰山谷) — by Mage](#case-120)
+- [Case 122: An Imperfect Morning Dog Vlog (清晨遛狗的真实感 Vlog) — by @cheerselflin](#case-122)
 
 <a id="case-2"></a>
 ### Case 2: Ambush from Ten Sides — Pipa on the Loess Ridge (十面埋伏) — by Alibaba
@@ -727,5 +732,162 @@ A lighthouse keeper climbs a spiral staircase at night carrying a lantern, then 
 **来源**：Muse Video · [原帖](https://muse-video.co/wan-3-0)
 
 <sub>Preview © 2026 Muse Video · Prompt by Muse Video</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-113"></a>
+### Case 113: A Paper Boat in Neon Rain (霓虹雨水中的红纸船) — by Wan3API
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-113"><img src="../../../images/wan-3/case113/preview.webp" width="700" alt="A Paper Boat in Neon Rain"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-113)
+
+<details>
+<summary><strong>Prompt</strong> — A red paper boat drifts down a rain-soaked city gutter at dusk, neon reflections ripple on the water, the camera follows low and close, soft rain and …</summary>
+
+~~~~text
+A red paper boat drifts down a rain-soaked city gutter at dusk, neon reflections ripple on the water, the camera follows low and close, soft rain and distant traffic
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Wan3API · t2v · 5s · 720p · 未标注 · 未标注
+**来源**：Wan3API · [原帖](https://wan3api.org/reference-to-video)
+
+<sub>Preview © 2026 Wan3API · Prompt by Wan3API</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-114"></a>
+### Case 114: A Walk through the Taipei Night Market (手持镜头穿行台北夜市) — by Wan3API
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-114"><img src="../../../images/wan-3/case114/preview.webp" width="700" alt="A Walk through the Taipei Night Market"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-114)
+
+<details>
+<summary><strong>Prompt</strong> — Handheld walk through a crowded night market in Taipei, steam rising from food stalls, a vendor flips skewers and smiles at the camera, sizzling grill…</summary>
+
+~~~~text
+Handheld walk through a crowded night market in Taipei, steam rising from food stalls, a vendor flips skewers and smiles at the camera, sizzling grills and chatter
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Wan3API · t2v · 5s · 1080p · 未标注 · 未标注
+**来源**：Wan3API · [原帖](https://wan3api.org/reference-to-video)
+
+<sub>Preview © 2026 Wan3API · Prompt by Wan3API</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-117"></a>
+### Case 117: Flying over a Glacier Lake (掠过冰川湖的航拍) — by Wan3API
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-117"><img src="../../../images/wan-3/case117/preview.webp" width="700" alt="Flying over a Glacier Lake"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-117)
+
+<details>
+<summary><strong>Prompt</strong> — Drone shot gliding low over a turquoise glacier lake at sunrise, mist drifting across the water, a slow rise reveals snow peaks, deep wind and ambient…</summary>
+
+~~~~text
+Drone shot gliding low over a turquoise glacier lake at sunrise, mist drifting across the water, a slow rise reveals snow peaks, deep wind and ambient strings
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Wan3API · t2v · 10s · 480p · 未标注 · 未标注
+**来源**：Wan3API · [原帖](https://wan3api.org/reference-to-video)
+
+<sub>Preview © 2026 Wan3API · Prompt by Wan3API</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-120"></a>
+### Case 120: Following a Red Kite over the Valley (追随红风筝俯瞰山谷) — by Mage
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-120"><img src="../../../images/wan-3/case120/preview.webp" width="700" alt="Following a Red Kite over the Valley"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-120)
+
+<details>
+<summary><strong>Prompt</strong> — a red kite climbs over a windy green hillside at golden hour, the camera rises with it until the whole valley opens up below</summary>
+
+~~~~text
+a red kite climbs over a windy green hillside at golden hour, the camera rises with it until the whole valley opens up below
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Mage · t2v · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：Mage · [原帖](https://www.mage.space/models/wan-3-0)
+
+<sub>Preview © 2026 Mage · Prompt by Mage</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-122"></a>
+### Case 122: An Imperfect Morning Dog Vlog (清晨遛狗的真实感 Vlog) — by @cheerselflin
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-122"><img src="../../../images/wan-3/case122/preview.webp" width="700" alt="An Imperfect Morning Dog Vlog"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-122)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping outside he…</summary>
+
+~~~~text
+CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping outside her apartment building with her dog. The first 20–30 seconds are entirely handheld. Later she occasionally places the camera on a park bench, low stone wall, picnic table, or the ground for wider shots. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing, uneven zooms, exposure breathing, brief accidental face cropping, and imperfect framing throughout. The camera itself is never visible.
+
+LOOK: Warm analog tape texture with gentle film grain, slightly softened sharpness, subtle halation around sunlight, realistic skin tones, low contrast, tiny exposure shifts, and natural motion blur. It should feel like authentic footage from someone's everyday life rather than a polished commercial.
+
+STYLE: A relaxed morning lifestyle vlog. Quiet, cozy, and spontaneous. She occasionally laughs at her dog, pauses to look around, adjusts the leash, brushes hair away from her face, and speaks naturally in short sentences with comfortable pauses.
+
+CHARACTER: EMMA — a beautiful white woman in her mid-20s. Long light brown hair in a messy ponytail, green eyes, minimal makeup, oversized gray hoodie, black biker shorts, white sneakers, and a small crossbody bag. She is walking a happy golden retriever.
+
+SETTING: A peaceful suburban neighborhood on a sunny morning. Tree-lined sidewalks, quiet residential streets, birds singing, a small park with benches, green grass, and soft golden morning light. Very few people are around.
+
+SCENES:
+
+The vlog opens in selfie mode. Emma holds the camera while leaving her apartment building with the golden retriever excitedly pulling on the leash.
+"Good morning."
+She smiles.
+"Someone couldn't wait."
+The dog eagerly sniffs everything as they walk down the sidewalk.
+She laughs quietly.
+"He has to inspect every single tree."
+Still holding the camera, she walks into a small neighborhood park.
+The dog suddenly stops and stares at a squirrel.
+"Oh... there we go."
+She smiles and gently shakes her head.
+She places the camera on a nearby bench for a wider angle while throwing a tennis ball.
+The dog happily chases after it.
+"Worth waking up early."
+She picks the camera back up.
+Walking slowly through the park, she looks up at the trees for a moment.
+"It's actually really peaceful out here."
+The dog returns with the ball but drops it halfway.
+She laughs.
+"Close enough."
+She sits on the bench while the dog lies beside her.
+She scratches behind his ears.
+"I think he's happier than I am."
+She stands up and continues walking.
+The camera stays in selfie mode as they head toward home.
+"Coffee is definitely next."
+She smiles into the lens.
+"See you later."
+She gives a small wave and ends the recording.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Evolink · 未标注 · 30s · 720p · 未标注 · 未标注
+**来源**：@cheerselflin · [原帖](https://x.com/cheerselflin/status/2091377263048622131)
+
+<sub>Preview © 2026 @cheerselflin · Prompt by @cheerselflin</sub>
 
 [回到目录](#table-of-contents)

@@ -24,6 +24,7 @@
 - [Case 158: A Steam Train by the Castle (城堡高架桥上的蒸汽列车) — by @TaliaAariz](#case-158)
 - [Case 162: The Office Monkey’s Keyboard Crisis (办公室猴子的键盘危机) — by @EndFolding79421](#case-162)
 - [Case 168: The Dragon Overcooks the Sausage (小龙把烤肠的火开大了) — by @ou_zhen599](#case-168)
+- [Case 179: The Hamsters’ Sunflower-Seed Heist (仓鼠会议桌上的瓜子争夺) — by @DeCat2025](#case-179)
 
 <a id="case-12"></a>
 ### Case 12: An 1890s Bird Plate Draws Itself (自动绘成的 1890 年代鸟类图鉴) — by @Dheepanratnam
@@ -9478,5 +9479,107 @@ No music. Preserve comic timing through flame physics, pauses, dialogue clarity,
 **来源**：@ou_zhen599 · [原帖](https://x.com/ou_zhen599/status/2116909794036793669)
 
 <sub>Preview © 2026 @ou_zhen599 · Prompt by @ou_zhen599</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-179"></a>
+### Case 179: The Hamsters’ Sunflower-Seed Heist (仓鼠会议桌上的瓜子争夺) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-179"><img src="../../../images/hailuo-3/case179/preview.webp" width="700" alt="The Hamsters’ Sunflower-Seed Heist"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-179)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 15-second, 16:9 hilarious high-end 3D animated comedy with synchronized dialogue and sound. A tiny underground mafia headquarters built inside a cozy …</summary>
+
+~~~~text
+15-second, 16:9 hilarious high-end 3D animated comedy with synchronized dialogue and sound.
+
+A tiny underground mafia headquarters built inside a cozy hamster cage.
+
+EXACTLY THREE HAMSTERS sit around ONE tiny wooden table.
+
+CENTER: the Boss — a ridiculously serious chubby golden hamster wearing a tiny black suit.
+LEFT: a nervous gray hamster in a tiny suit.
+RIGHT: a tough-looking brown hamster with a tiny black tie.
+
+In the exact CENTER of the table lies ONE enormous-looking sunflower seed.
+
+0–4s:
+Slow dramatic push-in like a serious gangster movie.
+
+The Boss places one tiny paw beside the sunflower seed.
+
+BOSS, deep serious voice:
+“Gentlemen... we have a problem.”
+
+The other two hamsters stare intensely at the seed.
+
+GRAY HAMSTER whispers:
+“Who gets it?”
+
+4–9s:
+Extreme close-up of the Boss.
+
+He narrows his eyes, slowly reaches toward the seed and says:
+
+BOSS:
+“Family gets it.”
+
+Suddenly the brown hamster SLAMS both tiny paws onto the table.
+
+BROWN HAMSTER:
+“I AM family!”
+
+Dead silence.
+
+9–12s:
+The Boss slowly turns toward him.
+
+Before anyone can move—
+
+A FOURTH, completely ordinary hamster suddenly pops its head up from BELOW the edge of the table, snatches the sunflower seed in its mouth, and instantly disappears back down.
+
+The three mafia hamsters freeze.
+
+12–15s:
+Hold on the three stunned gangsters staring at the now-empty table.
+
+The Boss slowly removes his tiny suit jacket.
+
+BOSS, deadly serious:
+“Meeting adjourned.”
+
+All three immediately dive under the table after the thief.
+
+Chaotic squeaking, tiny footsteps, crashing miniature furniture.
+
+Camera stays on the abandoned empty table while the entire hamster cage shakes violently offscreen.
+
+End on one tiny chair flying across frame.
+
+COMEDY STYLE:
+Cute expressive 3D animated hamsters performing everything with absurdly serious gangster confidence. Their seriousness is the joke. Dramatic crime-film lighting, exaggerated suspicious eye movements, tiny paw gestures, expressive cheeks and whiskers, perfect comedic pauses.
+
+CONTINUITY:
+The original three hamsters remain in their fixed positions until the final chase.
+Only ONE sunflower seed exists.
+The fourth hamster appears ONLY for the quick theft.
+No hamster duplicates or changes color/clothing.
+The seed visibly disappears with the thief.
+Keep the table, room and character scale consistent.
+
+AUDIO:
+Overly dramatic low gangster-movie music at first, tiny paw taps, nervous squeaks, exaggerated silence before the theft, sudden comedic scurrying and miniature furniture crashes at the end.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2101610209974067374)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
 
 [回到目录](#table-of-contents)

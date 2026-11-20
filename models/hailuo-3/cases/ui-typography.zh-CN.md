@@ -18,6 +18,9 @@
 - [Case 159: A Golden 5300-Follower Celebration (5300 粉丝金色庆祝动效) — by @YaReYaRu30Life](#case-159)
 - [Case 161: SURVIVE in the Storm (风暴废墟中的 SURVIVE 字幕) — by @CharaspowerAI](#case-161)
 - [Case 163: Forging SAVAGE from Iron (碎铁锻造成 SAVAGE 标题) — by @CharaspowerAI](#case-163)
+- [Case 176: TIDAL Forged from Waves (巨浪凝成 TIDAL 字样) — by @CharaspowerAI](#case-176)
+- [Case 177: Cartoon Chaos on a Desktop (卡通角色闹翻电脑桌面) — by @SimplyAnnisa](#case-177)
+- [Case 178: RIFT Tears through Space (空间裂隙凝成 RIFT 标题) — by @CharaspowerAI](#case-178)
 
 <a id="case-13"></a>
 ### Case 13: Beat-Synced Spaghetti-Western Title Sequence (西部片节拍标题动画) — by @itsphotogptai
@@ -756,6 +759,108 @@ Brutal cinematic title reveal opening on a colossal wall of raw black iron shaki
 
 **参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
 **来源**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2118312404161335307)
+
+<sub>Preview © 2026 @CharaspowerAI · Prompt by @CharaspowerAI</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-176"></a>
+### Case 176: TIDAL Forged from Waves (巨浪凝成 TIDAL 字样) — by @CharaspowerAI
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-176"><img src="../../../images/hailuo-3/case176/preview.webp" width="700" alt="TIDAL Forged from Waves"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-176)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Epic fluid-action title sequence beginning with an enormous black ocean suddenly splitting down the center as two mountain-sized walls of water rise o…</summary>
+
+~~~~text
+Epic fluid-action title sequence beginning with an enormous black ocean suddenly splitting down the center as two mountain-sized walls of water rise on opposite sides of frame. The camera sweeps between them while billions of droplets rain downward and sunlight refracts through transparent liquid structures. Both walls violently collapse toward each other, creating a spectacular collision of water, foam and pressure that launches a liquid shockwave into the sky. The camera rapidly orbits the explosion as the suspended water is pulled into gigantic rotating streams. These streams twist, collide and sculpt themselves into the monumental word "TIDAL", every letter composed of violently circulating transparent seawater with white foam wrapped around its edges. The title holds for one massive hero moment before an invisible pressure pulse tears through it from left to right, detonating each letter sequentially into enormous explosions of water and mist. Photorealistic fluid simulation, colossal natural power, IMAX-scale cinematic VFX.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2102352395439120566)
+
+<sub>Preview © 2026 @CharaspowerAI · Prompt by @CharaspowerAI</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-177"></a>
+### Case 177: Cartoon Chaos on a Desktop (卡通角色闹翻电脑桌面) — by @SimplyAnnisa
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-177"><img src="../../../images/hailuo-3/case177/preview.webp" width="700" alt="Cartoon Chaos on a Desktop"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-177)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 12-second horizontal 16:9 video at 1280×720 using the provided cartoon macOS desktop image as the EXACT first frame and visual reference. EXA…</summary>
+
+~~~~text
+Create a 12-second horizontal 16:9 video at 1280×720 using the provided cartoon macOS desktop image as the EXACT first frame and visual reference.
+
+EXACTLY 4 characters only: ONE large friendly Big Blue Dog with a fly swatter + THREE clearly different mischievous cockroaches. No other characters. All remain 2D cartoon style.
+
+Static front-facing camera, one continuous shot, no cuts, zoom, pan, or camera movement.
+
+0–2.5s: Big Blue Dog playfully chases the three cockroaches across the living-room floor toward the RIGHT side. Harmless slapstick comedy.
+
+2.5–4s: Dog swings the fly swatter. ONLY these three desktop icons are physically dislodged: Gmail, Discord, Microsoft Teams. They gently rotate, fall, and land separately on the open desktop above the Dock. NO OTHER ICON moves.
+
+4–5s: Dog notices the fallen icons, looking surprised. Cockroaches look mischievous.
+
+5–10s: Dog physically restores the icons ONE AT A TIME in this exact order:
+Gmail → exact original position → click.
+Discord → exact original position → click.
+Microsoft Teams → exact original position → click.
+
+No teleporting, snapping, automatic restoration, or simultaneous movement.
+
+10–12s: Cockroaches run toward the RIGHT. Dog follows briefly, then stops and looks at the viewer innocently while the three cockroaches look back mischievously.
+
+DESKTOP MUST REMAIN IDENTICAL: all 18 original applications, labels, logos, menu bar, Dock, wallpaper, sofa, window, books, furniture, popcorn, floor, and background stay unchanged. ONLY Gmail, Discord, and Microsoft Teams may move. No duplicates, missing icons, altered logos, or extra characters.
+
+AUDIO: playful cartoon piano/pizzicato, footsteps, swatter whoosh, icon movement/landing sounds, and three distinct soft computer clicks. No dialogue, subtitles, captions, text overlays, or watermark.
+
+Premium smooth 2D cartoon animation, clean outlines, consistent proportions, squash-and-stretch, natural shadows, warm cinematic lighting.
+
+FINAL FRAME: Gmail, Discord, and Microsoft Teams are EXACTLY back in their original positions; all other 15 icons remain stationary; exactly four characters visible on the RIGHT side.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · TapNow · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@SimplyAnnisa · [原帖](https://x.com/SimplyAnnisa/status/2102261324860293180)
+
+<sub>Preview © 2026 @SimplyAnnisa · Prompt by @SimplyAnnisa</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-178"></a>
+### Case 178: RIFT Tears through Space (空间裂隙凝成 RIFT 标题) — by @CharaspowerAI
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-178"><img src="../../../images/hailuo-3/case178/preview.webp" width="700" alt="RIFT Tears through Space"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-178)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — High-end sci-fi title sequence beginning with a razor-thin line of white energy slicing vertically through complete darkness. Space immediately begins…</summary>
+
+~~~~text
+High-end sci-fi title sequence beginning with a razor-thin line of white energy slicing vertically through complete darkness. Space immediately begins deforming around it as metallic particles, dust and glowing fragments are violently pulled toward the opening. The line tears wider into a gigantic dimensional fracture filled with unstable plasma and gravitational distortion. The camera accelerates directly toward the rift, violently banking between fragments being stretched into luminous trails. Suddenly the dimensional tear snaps shut with enormous force, compressing all surrounding matter into four gigantic black-metal letterforms that slam together to reveal "RIFT". Brilliant energy remains trapped inside deep cracks across the typography while space visibly bends around its edges. The camera performs a fast orbital move before the title itself splits open along its center, releasing a catastrophic dimensional shockwave that tears through the frame. Sophisticated cosmic distortion, aggressive kinetic typography, premium superhero-film VFX.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2101989866762354988)
 
 <sub>Preview © 2026 @CharaspowerAI · Prompt by @CharaspowerAI</sub>
 

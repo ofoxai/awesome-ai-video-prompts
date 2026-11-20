@@ -9,6 +9,8 @@
 - [Case 14: Disaster Film — Kaiju Rising from the Deep (灾难电影·深海巨兽出水) — by Alibaba](#case-14)
 - [Case 24: Dragonfly-Style Micro Flyer (蜻蜓式微型飞行者) — by Alibaba](#case-24)
 - [Case 33: Dunhuang Apsara vs. Vajra Warrior (敦煌飞天对决金刚) — by Alibaba](#case-33)
+- [Case 115: Skating down a Sunset Street (沿着落日街道滑行) — by Wan3API](#case-115)
+- [Case 118: The Chef Takes It to the Hoop (厨师的八秒扣篮) — by AI Dunk](#case-118)
 
 <a id="case-8"></a>
 ### Case 8: One Arrow, One Dragon (一箭猎龙) — by Alibaba
@@ -513,5 +515,61 @@ GERMINATION COMPLETE
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-115"></a>
+### Case 115: Skating down a Sunset Street (沿着落日街道滑行) — by Wan3API
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-115"><img src="../../../images/wan-3/case115/preview.webp" width="394" alt="Skating down a Sunset Street"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-115)
+
+<details>
+<summary><strong>Prompt</strong> — A teenage skater carves down an empty sunset street, the camera tracks beside her at board height, wheels rumbling on asphalt, warm lens flare</summary>
+
+~~~~text
+A teenage skater carves down an empty sunset street, the camera tracks beside her at board height, wheels rumbling on asphalt, warm lens flare
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · Wan3API · t2v · 5s · 720p · 未标注 · 未标注
+**来源**：Wan3API · [原帖](https://wan3api.org/reference-to-video)
+
+<sub>Preview © 2026 Wan3API · Prompt by Wan3API</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-118"></a>
+### Case 118: The Chef Takes It to the Hoop (厨师的八秒扣篮) — by AI Dunk
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-118"><img src="../../../images/wan-3/case118/preview.webp" width="394" alt="The Chef Takes It to the Hoop"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-118)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case118/input1.webp" width="112" alt="Fictional chef portrait"><br><sub>Fictional chef portrait</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Use the adult in my uploaded photo as the featured basketball player. Keep their recognizable face, hairstyle, body proportions, and visible clothing …</summary>
+
+~~~~text
+Use the adult in my uploaded photo as the featured basketball player. Keep their recognizable face, hairstyle, body proportions, and visible clothing consistent throughout.
+
+Create a fictional 8-second vertical 9:16 basketball video. Show one continuous run-up, gather, leap, and one-handed finish at a clearly visible hoop. Follow the player with a smooth medium tracking camera and keep the ball, hands, rim, and landing readable.
+
+Use natural basketball movement and coherent court lighting. Avoid sudden scene changes, duplicate balls, extra fingers, changing clothes, unreadable sponsor text, real team logos, captions, and the likeness of any public figure.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · APIMart · i2v · 8s · 480p · 9:16 · off
+**来源**：AI Dunk · [原帖](https://aidunk.net/ai-dunk-prompt)
+
+<sub>Preview © 2026 AI Dunk · Prompt by AI Dunk</sub>
 
 [Back to top](#table-of-contents)

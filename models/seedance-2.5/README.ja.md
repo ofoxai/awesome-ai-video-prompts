@@ -2,7 +2,7 @@
 
 # Seedance 2.5
 
-ByteDance Seedance 2.5 の事例 122 件。すべてプロンプト全文・パラメータ・再生できる出力付き（公式 24 件、コミュニティ 83 件、自社実行 15 件は請求額付き）。[Ofox](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5) 経由で実行・整理。
+ByteDance Seedance 2.5 の事例 132 件。すべてプロンプト全文・パラメータ・再生できる出力付き（公式 24 件、コミュニティ 93 件、自社実行 15 件は請求額付き）。[Ofox](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-5) 経由で実行・整理。
 
 ## Seedance 2.5 とは
 
@@ -41,9 +41,9 @@ Ofox における Seedance 2.5 の秒単価、2026年8月時点（出典: [ofox.
 
 | | カテゴリ | 事例数 |
 |:---:|---|---:|
-| <a href="cases/short-drama.ja.md"><img src="../../images/seedance-2.5/case1/preview.webp" width="160" alt="ショートドラマ Short Drama"></a> | [ショートドラマ Short Drama](cases/short-drama.ja.md) | 32 |
-| <a href="cases/anime-drama.ja.md"><img src="../../images/seedance-2.5/case9/preview.webp" width="160" alt="アニメドラマ Anime Drama"></a> | [アニメドラマ Anime Drama](cases/anime-drama.ja.md) | 13 |
-| <a href="cases/ad-creative.ja.md"><img src="../../images/seedance-2.5/case12/preview.webp" width="160" alt="クリエイティブ広告 Ad Creative"></a> | [クリエイティブ広告 Ad Creative](cases/ad-creative.ja.md) | 12 |
+| <a href="cases/short-drama.ja.md"><img src="../../images/seedance-2.5/case1/preview.webp" width="160" alt="ショートドラマ Short Drama"></a> | [ショートドラマ Short Drama](cases/short-drama.ja.md) | 38 |
+| <a href="cases/anime-drama.ja.md"><img src="../../images/seedance-2.5/case9/preview.webp" width="160" alt="アニメドラマ Anime Drama"></a> | [アニメドラマ Anime Drama](cases/anime-drama.ja.md) | 15 |
+| <a href="cases/ad-creative.ja.md"><img src="../../images/seedance-2.5/case12/preview.webp" width="160" alt="クリエイティブ広告 Ad Creative"></a> | [クリエイティブ広告 Ad Creative](cases/ad-creative.ja.md) | 14 |
 | <a href="cases/product-video.ja.md"><img src="../../images/seedance-2.5/case18/preview.webp" width="160" alt="ECサイト商品動画 Product Video"></a> | [ECサイト商品動画 Product Video](cases/product-video.ja.md) | 7 |
 | <a href="cases/talking-head.ja.md"><img src="../../images/seedance-2.5/case21/preview.webp" width="160" alt="トーキングヘッド・デジタルヒューマン Talking Head"></a> | [トーキングヘッド・デジタルヒューマン Talking Head](cases/talking-head.ja.md) | 3 |
 | <a href="cases/ugc-ads.ja.md"><img src="../../images/seedance-2.5/case24/preview.webp" width="160" alt="UGC風広告 UGC Ads"></a> | [UGC風広告 UGC Ads](cases/ugc-ads.ja.md) | 7 |
