@@ -23,7 +23,6 @@
 - [Case 84: A Curious Fox by the Mountain Stream (狐狸的山间溪流 Vlog) — by @MrDasCreates](#case-84)
 - [Case 86: The Lighthouse Keeper and Glowing Orbs (灯塔守望者与发光海潮) — by @SyntheSarah](#case-86)
 - [Case 96: A Lisbon Summer Walk (里斯本夏日漫游) — by @PrometheanAIX](#case-96)
-- [Case 116: A Ribbon in the British Evening (英伦暮色中的红丝带) — by @liyue_ai](#case-116)
 
 <a id="case-28"></a>
 ### Case 28: Panda cub in the forest (熊猫幼崽) — by ByteDance
@@ -600,47 +599,3 @@ Paid promotion for Lovart.
 
 [目次に戻る](#table-of-contents)
 
-<a id="case-116"></a>
-### Case 116: A Ribbon in the British Evening (英伦暮色中的红丝带) — by @liyue_ai
-
-<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-116"><img src="../../../images/seedance-2.5/case116/preview.webp" width="394" alt="A Ribbon in the British Evening"></a>
-
-▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-116)
-
-**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
-
-<details>
-<summary><strong>Prompt</strong> — 参考上传的视频，将视频中的人物替换成图片里的角色，同时要求将视频里人物的服装换成不同款式，具有英伦风的百褶裙，替换后人物的表情要求与参考视频里的一致，场景也更换成英伦风的街头场景。然后输出视频  从指令可以看到，我只是替换了一下人物和背景，过了几分钟它就直接给了我一个复刻好可以直接发布的视频。  后…</summary>
-
-~~~~text
-参考上传的视频，将视频中的人物替换成图片里的角色，同时要求将视频里人物的服装换成不同款式，具有英伦风的百褶裙，替换后人物的表情要求与参考视频里的一致，场景也更换成英伦风的街头场景。然后输出视频
-
-从指令可以看到，我只是替换了一下人物和背景，过了几分钟它就直接给了我一个复刻好可以直接发布的视频。
-
-后来才发现它这个功能是接入了一整套Agent工作流。
-
-- 用目前最强模型Fable 5.2 根据上传的视频抽帧对比，
-
-- 用GPT Image 2.5根据我上传的Malfoy三视图生成参考图和场景
-
-- 根据上传的参考视频和生成的参考图作为Seedance 2.5的参考素材，加上对应的提示词再成片。
-
-整个过程全部由这个Agent自动完成，我只需要检查是否合格就行。
-
-除了做爆款复刻，YouArt Desktop还可以自动剪辑长视频，制作教程视频或动效，甚至还可以连上你的社交账号帮你找选题，做视频替你发布。
-
-想做AI视频的兄弟不妨下载YouArt Desktop体验一下。
-地址：https://t.co/2yYxTFxsBf
-
-Seedance 2.5完整提示词见评论区：
-#Malfoy
-~~~~
-
-</details>
-
-**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
-**来源**：[@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2120758499009311063)
-
-<sub>Preview © 2026 <a href="https://x.com/liyue_ai/status/2120758499009311063">@liyue_ai</a> · Prompt by <a href="https://x.com/liyue_ai/status/2120758499009311063">@liyue_ai</a></sub>
-
-[目次に戻る](#table-of-contents)

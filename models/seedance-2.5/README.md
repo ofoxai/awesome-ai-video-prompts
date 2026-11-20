@@ -58,11 +58,11 @@ billed, so every number traces back to one API call. See
 |:---:|---|---:|
 | <a href="cases/short-drama.md"><img src="../../images/seedance-2.5/case1/preview.webp" width="160" alt="Short Drama (短剧)"></a> | [Short Drama (短剧)](cases/short-drama.md) | 38 |
 | <a href="cases/anime-drama.md"><img src="../../images/seedance-2.5/case9/preview.webp" width="160" alt="Anime Drama (漫剧)"></a> | [Anime Drama (漫剧)](cases/anime-drama.md) | 15 |
-| <a href="cases/ad-creative.md"><img src="../../images/seedance-2.5/case12/preview.webp" width="160" alt="Ad Creative (创意广告)"></a> | [Ad Creative (创意广告)](cases/ad-creative.md) | 13 |
+| <a href="cases/ad-creative.md"><img src="../../images/seedance-2.5/case12/preview.webp" width="160" alt="Ad Creative (创意广告)"></a> | [Ad Creative (创意广告)](cases/ad-creative.md) | 14 |
 | <a href="cases/product-video.md"><img src="../../images/seedance-2.5/case18/preview.webp" width="160" alt="Product Video (电商产品视频)"></a> | [Product Video (电商产品视频)](cases/product-video.md) | 7 |
 | <a href="cases/talking-head.md"><img src="../../images/seedance-2.5/case21/preview.webp" width="160" alt="Talking Head (口播和数字人)"></a> | [Talking Head (口播和数字人)](cases/talking-head.md) | 3 |
 | <a href="cases/ugc-ads.md"><img src="../../images/seedance-2.5/case24/preview.webp" width="160" alt="UGC Ads (UGC风格广告)"></a> | [UGC Ads (UGC风格广告)](cases/ugc-ads.md) | 7 |
-| <a href="cases/shorts-reels.md"><img src="../../images/seedance-2.5/case28/preview.webp" width="160" alt="Shorts & Reels (社媒短视频)"></a> | [Shorts & Reels (社媒短视频)](cases/shorts-reels.md) | 19 |
+| <a href="cases/shorts-reels.md"><img src="../../images/seedance-2.5/case28/preview.webp" width="160" alt="Shorts & Reels (社媒短视频)"></a> | [Shorts & Reels (社媒短视频)](cases/shorts-reels.md) | 18 |
 | <a href="cases/product-demo.md"><img src="../../images/seedance-2.5/case37/preview.webp" width="160" alt="Product Demo (产品演示)"></a> | [Product Demo (产品演示)](cases/product-demo.md) | 5 |
 | <a href="cases/keyframe-animation.md"><img src="../../images/seedance-2.5/case42/preview.webp" width="160" alt="Keyframe Animation (首尾帧动画)"></a> | [Keyframe Animation (首尾帧动画)](cases/keyframe-animation.md) | 3 |
 | <a href="cases/video-extend-edit.md"><img src="../../images/seedance-2.5/case45/preview.webp" width="160" alt="Video Extend & Edit (视频延长和编辑)"></a> | [Video Extend & Edit (视频延长和编辑)](cases/video-extend-edit.md) | 11 |

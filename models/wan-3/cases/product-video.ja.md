@@ -18,7 +18,7 @@
 - [Case 104: Unboxing a Smartwatch (俯拍智能手表开箱) — by Blurbly](#case-104)
 - [Case 105: A Speaker Splash Test (音箱的水花测试) — by Blurbly](#case-105)
 - [Case 106: Plugging in a Power Bank (给充电宝插上数据线) — by Blurbly](#case-106)
-- [Case 116: A Heart in the Latte (拿铁上的心形拉花) — by Wan3API](#case-116)
+- [Case 116: Wan 3.0 Prime · A Heart in the Latte (Wan 3.0 Prime · 拿铁上的心形拉花) — by Wan3API](#case-116)
 
 <a id="case-4"></a>
 ### Case 4: The Rhythm of Dough (面团的律动) — by Alibaba
@@ -397,9 +397,9 @@ The hand pushes the USB cable plug fully into the port on the end of the power b
 [目次に戻る](#table-of-contents)
 
 <a id="case-116"></a>
-### Case 116: A Heart in the Latte (拿铁上的心形拉花) — by Wan3API
+### Case 116: Wan 3.0 Prime · A Heart in the Latte (Wan 3.0 Prime · 拿铁上的心形拉花) — by Wan3API
 
-<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-116"><img src="../../../images/wan-3/case116/preview.webp" width="700" alt="A Heart in the Latte"></a>
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-116"><img src="../../../images/wan-3/case116/preview.webp" width="700" alt="Wan 3.0 Prime · A Heart in the Latte"></a>
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-116)
 
@@ -412,7 +412,7 @@ Top-down macro of a barista pouring latte art, milk folding into a rosetta, slow
 
 </details>
 
-**参数**：Wan 3.0 · Wan3API · t2v · 5s · 720p · 未标注 · 未标注
+**参数**：Wan 3.0 Prime · Wan3API · t2v · 5s · 720p · 未标注 · 未标注
 **来源**：Wan3API · [原帖](https://wan3api.org/reference-to-video)
 
 <sub>Preview © 2026 Wan3API · Prompt by Wan3API</sub>

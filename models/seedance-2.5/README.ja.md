@@ -43,11 +43,11 @@ Ofox における Seedance 2.5 の秒単価、2026年8月時点（出典: [ofox.
 |:---:|---|---:|
 | <a href="cases/short-drama.ja.md"><img src="../../images/seedance-2.5/case1/preview.webp" width="160" alt="ショートドラマ Short Drama"></a> | [ショートドラマ Short Drama](cases/short-drama.ja.md) | 38 |
 | <a href="cases/anime-drama.ja.md"><img src="../../images/seedance-2.5/case9/preview.webp" width="160" alt="アニメドラマ Anime Drama"></a> | [アニメドラマ Anime Drama](cases/anime-drama.ja.md) | 15 |
-| <a href="cases/ad-creative.ja.md"><img src="../../images/seedance-2.5/case12/preview.webp" width="160" alt="クリエイティブ広告 Ad Creative"></a> | [クリエイティブ広告 Ad Creative](cases/ad-creative.ja.md) | 13 |
+| <a href="cases/ad-creative.ja.md"><img src="../../images/seedance-2.5/case12/preview.webp" width="160" alt="クリエイティブ広告 Ad Creative"></a> | [クリエイティブ広告 Ad Creative](cases/ad-creative.ja.md) | 14 |
 | <a href="cases/product-video.ja.md"><img src="../../images/seedance-2.5/case18/preview.webp" width="160" alt="ECサイト商品動画 Product Video"></a> | [ECサイト商品動画 Product Video](cases/product-video.ja.md) | 7 |
 | <a href="cases/talking-head.ja.md"><img src="../../images/seedance-2.5/case21/preview.webp" width="160" alt="トーキングヘッド・デジタルヒューマン Talking Head"></a> | [トーキングヘッド・デジタルヒューマン Talking Head](cases/talking-head.ja.md) | 3 |
 | <a href="cases/ugc-ads.ja.md"><img src="../../images/seedance-2.5/case24/preview.webp" width="160" alt="UGC風広告 UGC Ads"></a> | [UGC風広告 UGC Ads](cases/ugc-ads.ja.md) | 7 |
-| <a href="cases/shorts-reels.ja.md"><img src="../../images/seedance-2.5/case28/preview.webp" width="160" alt="ショート動画・リール Shorts & Reels"></a> | [ショート動画・リール Shorts & Reels](cases/shorts-reels.ja.md) | 19 |
+| <a href="cases/shorts-reels.ja.md"><img src="../../images/seedance-2.5/case28/preview.webp" width="160" alt="ショート動画・リール Shorts & Reels"></a> | [ショート動画・リール Shorts & Reels](cases/shorts-reels.ja.md) | 18 |
 | <a href="cases/product-demo.ja.md"><img src="../../images/seedance-2.5/case37/preview.webp" width="160" alt="製品デモ Product Demo"></a> | [製品デモ Product Demo](cases/product-demo.ja.md) | 5 |
 | <a href="cases/keyframe-animation.ja.md"><img src="../../images/seedance-2.5/case42/preview.webp" width="160" alt="開始・終了フレームアニメーション Keyframe Animation"></a> | [開始・終了フレームアニメーション Keyframe Animation](cases/keyframe-animation.ja.md) | 3 |
 | <a href="cases/video-extend-edit.ja.md"><img src="../../images/seedance-2.5/case45/preview.webp" width="160" alt="動画延長・編集 Video Extend & Edit"></a> | [動画延長・編集 Video Extend & Edit](cases/video-extend-edit.ja.md) | 11 |

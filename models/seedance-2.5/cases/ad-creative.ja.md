@@ -17,6 +17,7 @@
 - [Case 91: The Sneaker Campaign Twist (球鞋广告的创意反转) — by @SyntheSarah](#case-91)
 - [Case 95: A Fresh Laundry Day (阳光洗衣日) — by @CaliraVal](#case-95)
 - [Case 108: Pink-Hoodie Seoul Street Style (粉色卫衣的首尔街拍) — by @ZaidVex](#case-108)
+- [Case 118: A Garage Fashion Film with a Black BMW (黑色宝马车库时装短片) — by @MissDelulu9](#case-118)
 
 <a id="case-12"></a>
 ### Case 12: Fruit biscuit commercial (果味饼干广告片) — by ByteDance
@@ -885,5 +886,38 @@ MOOD: Dreamy Korean street-fashion aesthetic, youthful lifestyle photography, so
 **来源**：[@ZaidVex](https://x.com/ZaidVex) · [原帖](https://x.com/ZaidVex/status/2122541444124885193)
 
 <sub>Preview © 2026 <a href="https://x.com/ZaidVex/status/2122541444124885193">@ZaidVex</a> · Prompt by <a href="https://x.com/ZaidVex/status/2122541444124885193">@ZaidVex</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-118"></a>
+### Case 118: A Garage Fashion Film with a Black BMW (黑色宝马车库时装短片) — by @MissDelulu9
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-118"><img src="../../../images/seedance-2.5/case118/preview.webp" width="700" alt="A Garage Fashion Film with a Black BMW"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-118)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create a 10-second, 16:9 widescreen cinematic luxury automotive fashion video in Full HD. Use the uploaded character sheet as the exact identity refer…</summary>
+
+~~~~text
+Create a 10-second, 16:9 widescreen cinematic luxury automotive fashion video in Full HD. Use the uploaded character sheet as the exact identity reference. Maintain identical face, hairstyle, body, outfit, and accessories throughout.
+
+Feature the same glossy black modified BMW 318i M40 in every shot. No vehicle changes or extra people.
+
+7 fast cinematic shots: Rearview mirror close-up, driver-seat pose, backseat fashion pose, sitting on hood, overhead roof pose, leaning against open door, and final portrait beside the front wheel.
+
+Style: Luxury fashion editorial, ARRI Alexa look, dramatic industrial parking garage, glossy reflections, cinematic lighting, shallow depth of field.
+
+Camera: Fast push-ins, tracking shots, low-angle orbits, overhead movements, whip pans, speed ramps, and seamless match cuts.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@MissDelulu9](https://x.com/MissDelulu9) · [原帖](https://x.com/MissDelulu9/status/2122893591681085545)
+
+<sub>Preview © 2026 <a href="https://x.com/MissDelulu9/status/2122893591681085545">@MissDelulu9</a> · Prompt by <a href="https://x.com/MissDelulu9/status/2122893591681085545">@MissDelulu9</a></sub>
 
 [目次に戻る](#table-of-contents)

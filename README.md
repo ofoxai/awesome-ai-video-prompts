@@ -126,7 +126,7 @@ is reproduced complete and unedited.
 Case numbering is per model and has deliberate gaps. `N` is both the heading
 here and the `#case-N` anchor on the model's prompts page, so renumbering to
 close a gap would silently repoint links that are already published. On
-Seedance the numbering jumps from 117 to 1001 because 1000+ is the reserved
+Seedance the numbering jumps from 118 to 1001 because 1000+ is the reserved
 block for Ofox's own runs.
 
 If you authored something featured here and want it removed, open an issue
