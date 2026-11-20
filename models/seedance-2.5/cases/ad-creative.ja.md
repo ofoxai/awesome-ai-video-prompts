@@ -16,6 +16,7 @@
 - [Case 89: California Dream at Sunset (加州日落香水广告) — by @ShamiWeb3](#case-89)
 - [Case 91: The Sneaker Campaign Twist (球鞋广告的创意反转) — by @SyntheSarah](#case-91)
 - [Case 95: A Fresh Laundry Day (阳光洗衣日) — by @CaliraVal](#case-95)
+- [Case 108: Pink-Hoodie Seoul Street Style (粉色卫衣的首尔街拍) — by @ZaidVex](#case-108)
 
 <a id="case-12"></a>
 ### Case 12: Fruit biscuit commercial (果味饼干广告片) — by ByteDance
@@ -808,5 +809,81 @@ Warm natural daylight, realistic South Asian woman, modern home, detailed clothi
 **来源**：[@CaliraVal](https://x.com/CaliraVal) · [原帖](https://x.com/CaliraVal/status/2091386310837862772)
 
 <sub>Preview © 2026 <a href="https://x.com/CaliraVal/status/2091386310837862772">@CaliraVal</a> · Prompt by <a href="https://x.com/CaliraVal/status/2091386310837862772">@CaliraVal</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-108"></a>
+### Case 108: Pink-Hoodie Seoul Street Style (粉色卫衣的首尔街拍) — by @ZaidVex
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-108"><img src="../../../images/seedance-2.5/case108/preview.webp" width="394" alt="Pink-Hoodie Seoul Street Style"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-108)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create an ultra-photorealistic, cinematic 30-second Korean street-fashion lifestyle video in vertical 9:16 format, featuring a beautiful young Korean …</summary>
+
+~~~~text
+Create an ultra-photorealistic, cinematic 30-second Korean street-fashion lifestyle video in vertical 9:16 format, featuring a beautiful young Korean woman with long, flowing black hair, soft natural bangs, delicate facial expressions, and silver hoop earrings.
+
+Character & Outfit (Keep Consistent):
+
+- Oversized pastel pink zip-up hoodie with distinctive navy horizontal stripe and bow-like detailing.
+- White fitted inner top.
+- Dark charcoal-grey pleated mini skirt.
+- White knee-high socks.
+- White chunky sneakers.
+- Long, naturally flowing black hair.
+
+Scene-by-Scene Sequence:
+
+Scene 1 – Beautiful Close-up: Begin with an extreme close-up of her face. She looks gently toward the camera as loose strands of hair move naturally in the breeze.
+
+Scene 2 – Fashion Portrait: Show her standing against a modern grey stone wall with her arms crossed, wearing a relaxed expression.
+
+Scene 3 – Flower Shop: Capture her looking sideways toward a beautiful storefront with warm reflections and soft pink flowers.
+
+Scene 4 – Outfit Showcase: Cinematic close-up of her pink hoodie, navy detailing, white inner top, pleated skirt, and complete outfit.
+
+Scene 5 – Walking in Seoul: Full-body tracking shot of her walking along a beautiful Korean city sidewalk with natural sunlight and urban architecture.
+
+Scene 6 – Natural Portrait: Close-up of her smiling softly while sunlight illuminates her face and hair.
+
+Scene 7 – Street Fashion: Show her walking toward the camera with both hands inside her hoodie pockets.
+
+Scene 8 – Hair Movement: Side-profile shot as she turns her head and her long black hair flows naturally.
+
+Scene 9 – Fashion Poses: She stands casually against a stone wall, changes her pose, and looks directly into the camera.
+
+Scene 10 – Sitting Portrait: Capture her sitting comfortably with her hands gently placed beneath her chin, smiling naturally.
+
+Scene 11 – Final Details: Close-up of her white sneakers walking up outdoor stone steps, followed by a shot of her holding a smartphone and capturing a photograph.
+
+CINEMATIC QUALITY:
+
+- Ultra-photorealistic 4K video.
+- Authentic Korean fashion editorial.
+- Natural daylight and soft cinematic shadows.
+- Realistic skin texture and facial details.
+- Shallow depth of field.
+- Beautiful background bokeh.
+- Smooth handheld camera movements.
+- Mix of close-ups, medium shots, and full-body shots.
+- Natural walking and realistic body movements.
+- Soft pastel pink color grading.
+- Professional DSLR cinematography.
+
+IMPORTANT: Maintain exactly the same character identity, facial features, hairstyle, outfit, and proportions throughout every scene. Avoid facial distortion, clothing changes, artificial movements, and unrealistic transitions.
+
+MOOD: Dreamy Korean street-fashion aesthetic, youthful lifestyle photography, soft romantic atmosphere, and authentic cinematic realism.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@ZaidVex](https://x.com/ZaidVex) · [原帖](https://x.com/ZaidVex/status/2122541444124885193)
+
+<sub>Preview © 2026 <a href="https://x.com/ZaidVex/status/2122541444124885193">@ZaidVex</a> · Prompt by <a href="https://x.com/ZaidVex/status/2122541444124885193">@ZaidVex</a></sub>
 
 [目次に戻る](#table-of-contents)

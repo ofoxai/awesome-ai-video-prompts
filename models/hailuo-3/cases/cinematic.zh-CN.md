@@ -24,6 +24,7 @@
 - [Case 164: The Witch’s Orb in the Ruins (废墟女巫凝聚魔法光球) — by @ou_zhen599](#case-164)
 - [Case 165: A Sunset Beach Vlog (夕阳海滩的情侣视角) — by @ou_zhen599](#case-165)
 - [Case 166: The Warrior and the Ginger Cat (蓝门前的战士与橘猫) — by @ou_zhen599](#case-166)
+- [Case 173: The Tide Leaves Them Behind (退潮后留下的人群) — by @DeCat2025](#case-173)
 
 <a id="case-10"></a>
 ### Case 10: A Vintage 1947 Town Under Fire (1947 小镇的复古战地纪实) — by @RuzainaMeer
@@ -2251,5 +2252,38 @@ No music. Preserve the intimacy of cat movement, stone texture, small metal soun
 **来源**：@ou_zhen599 · [原帖](https://x.com/ou_zhen599/status/2117277923589976215)
 
 <sub>Preview © 2026 @ou_zhen599 · Prompt by @ou_zhen599</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-173"></a>
+### Case 173: The Tide Leaves Them Behind (退潮后留下的人群) — by @DeCat2025
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-173"><img src="../../../images/hailuo-3/case173/preview.webp" width="700" alt="The Tide Leaves Them Behind"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-173)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — 15-second realistic cinematic horror sequence, shot on 35mm film, grey overcast beach at dusk, cold blue-grey colors, wet sand, subtle film grain. Exa…</summary>
+
+~~~~text
+15-second realistic cinematic horror sequence, shot on 35mm film, grey overcast beach at dusk, cold blue-grey colors, wet sand, subtle film grain.  Exactly one person: a woman in a yellow raincoat standing on the shore.  
+
+[0-5s] Wide shot of a calm beach. The woman stands at the water's edge looking out at the sea. Suddenly the water starts pulling back fast, far faster than any normal tide, exposing wet sand and rocks for hundreds of meters.  
+
+[5-10s] The viewer rises high above her. As the sea drains away, the exposed seabed reveals rows and rows of pale human figures standing perfectly still on the sand, dozens of them, all facing the ocean, their backs to the woman. 
+
+[10-15s] Close-up on the woman's face as she steps back in horror. Cut to wide shot: all the figures on the seabed turn around at the exact same moment and face the viewer. In the far distance, a massive wave is rising.  
+
+Negative prompt: cartoon, anime, 3D render, sunny weather, bright colors, swimmers, figures moving out of sync, static scene, nothing happening, distorted faces, extra limbs, morphing, flickering, slow motion, watermark
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2108726243025711203)
+
+<sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
 
 [回到目录](#table-of-contents)

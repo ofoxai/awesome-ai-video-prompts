@@ -23,6 +23,9 @@
 - [Case 131: Surreal Fashion Inside a Blue Studio (蓝色影棚里的超现实时装) — by @shikoba_86](#case-131)
 - [Case 132: Strawberry Drink Transformation Commercial (草莓饮料变形广告) — by @GumVue](#case-132)
 - [Case 135: Golf Course Refreshment Commercial (高尔夫球场清爽饮料广告) — by @sophiaparkerr_](#case-135)
+- [Case 172: One Fan Turn, One Costume (吊扇转一圈，万圣节换一装) — by @MonetizationDon](#case-172)
+- [Case 175: Seoul after Dark in Violet (紫色首尔的时装预告) — by @ImaStudio_ai](#case-175)
+- [Case 180: An Eighties Robot Toy Commercial (八十年代风格的机器人玩具广告) — by @kaigani](#case-180)
 
 <a id="case-6"></a>
 ### Case 6: A Lacquer-Thread Vase from Clay Rolling to Display (漆线雕花瓶从捻土盘线到上架) — by @derek_wall90176
@@ -1209,5 +1212,246 @@ Fast cuts, energetic commercial pacing, whip transitions, speed ramps, crisp sum
 **来源**：@sophiaparkerr_ · [原帖](https://x.com/sophiaparkerr_/status/2106337250346664007)
 
 <sub>Preview © 2026 @sophiaparkerr_ · Prompt by @sophiaparkerr_</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-172"></a>
+### Case 172: One Fan Turn, One Costume (吊扇转一圈，万圣节换一装) — by @MonetizationDon
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-172"><img src="../../../images/hailuo-3/case172/preview.webp" width="700" alt="One Fan Turn, One Costume"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-172)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a photorealistic cinematic Halloween fashion transformation video featuring Alexa Grey, using the supplied Alexa Grey Master Character Lock as …</summary>
+
+~~~~text
+Create a photorealistic cinematic Halloween fashion transformation video featuring Alexa Grey, using the supplied Alexa Grey Master Character Lock as the exact identity reference.
+
+Alexa is lying in the exact same relaxed pose on a vintage Persian rug in a dark, elegant Halloween-decorated living room.
+
+CAMERA:
+Fixed directly overhead.
+Perfect top-down composition.
+No camera movement.
+No cuts.
+No zoom.
+No change in angle.
+Alexa remains in exactly the same position throughout the entire video.
+
+A large wooden ceiling fan is positioned directly between the camera and Alexa.
+
+THE TRANSITION CONCEPT IS EXTREMELY IMPORTANT:
+
+The ceiling fan rotates VERY SLOWLY.
+
+ONE COMPLETE SLOW ROTATION OF THE CEILING FAN = ONE OUTFIT CHANGE.
+
+As the fan completes one slow rotation, its blades naturally sweep across the camera's view and temporarily obscure Alexa.
+
+When that ONE complete rotation finishes and the fan returns to its original position, Alexa is revealed wearing ONE completely different Halloween costume.
+
+Then the fan makes another single slow rotation, revealing the next outfit.
+
+Do NOT make multiple outfit changes during one rotation.
+
+Do NOT make the fan spin rapidly.
+
+Do NOT use cuts, dissolves, flashes or digital transition effects.
+
+The fan itself must create the transformation.
+
+OUTFIT SEQUENCE:
+
+START:
+Alexa wears a simple elegant black outfit.
+
+ROTATION 1:
+One slow complete fan rotation.
+When the rotation finishes, reveal:
+
+GOTHIC WITCH
+Elegant black Victorian witch dress, dramatic pointed witch hat, dark lace, gothic accessories and mysterious Halloween styling.
+
+ROTATION 2:
+One slow complete fan rotation.
+Reveal:
+
+VAMPIRE QUEEN
+Elegant black-and-deep-red Victorian gown, dramatic cape, gothic jewelry and sophisticated vampire styling.
+
+ROTATION 3:
+One slow complete fan rotation.
+Reveal:
+
+DEMON QUEEN
+Elegant black-and-crimson gothic costume, subtle horns, dramatic dark textures and supernatural styling.
+
+ROTATION 4:
+One slow complete fan rotation.
+Reveal:
+
+FALLEN DARK ANGEL
+Elegant black gothic gown with enormous black feathered wings and dramatic dark angel styling.
+
+ROTATION 5:
+One slow complete fan rotation.
+Reveal:
+
+GHOST BRIDE
+Distressed vintage wedding gown, long torn veil, dark roses and haunting gothic styling.
+
+Every time the fan completes ONE slow rotation, Alexa must be fully revealed in the new outfit.
+
+The transition should feel almost magical and seamless, as if the rotating ceiling fan is changing her costume.
+
+Keep Alexa's exact face, hair, skin tone and body proportions unchanged.
+
+ENVIRONMENT:
+Dark luxury Halloween interior.
+Vintage Persian rug.
+Wooden floor.
+Pumpkins.
+Flickering candles.
+Old books.
+Skulls.
+Dark flowers.
+Subtle atmospheric fog.
+Warm orange candlelight.
+Deep cinematic shadows.
+Elegant gothic atmosphere.
+
+The environment remains exactly the same during every transformation.
+
+FINAL SHOT:
+After the fifth outfit is revealed, Alexa remains lying on the rug and slowly looks directly toward the camera while the ceiling fan continues its slow rotation.
+
+Photorealistic.
+Cinematic Halloween fashion film.
+Luxury horror aesthetic.
+Realistic skin and hair.
+Detailed costumes.
+Realistic fabric and feather textures.
+4K.
+16:9.
+
+NO TEXT.
+NO SUBTITLES.
+NO WATERMARK.
+NO EXTRA PEOPLE.
+NO CAMERA MOVEMENT.
+NO CUTS.
+NO FAST FAN MOTION.
+NO RANDOM OUTFIT CHANGES.
+
+KEY RULE:
+ONE SLOW COMPLETE FAN ROTATION → ONE NEW HALLOWEEN OUTFIT.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · Higgsfield · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@MonetizationDon · [原帖](https://x.com/MonetizationDon/status/2108957560707457178)
+
+<sub>Preview © 2026 @MonetizationDon · Prompt by @MonetizationDon</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-175"></a>
+### Case 175: Seoul after Dark in Violet (紫色首尔的时装预告) — by @ImaStudio_ai
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-175"><img src="../../../images/hailuo-3/case175/preview.webp" width="700" alt="Seoul after Dark in Violet"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-175)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second, 16:9, 24fps live-action K-pop Fashion Reveal Trailer with EXACTLY 13 distinct cuts. STYLE: K-pop comeback teaser × Korean girl-gro…</summary>
+
+~~~~text
+Create a 15-second, 16:9, 24fps live-action K-pop Fashion Reveal Trailer with EXACTLY 13 distinct cuts.
+STYLE: K-pop comeback teaser × Korean girl-group center × high-end fashion campaign × dynamic editorial graphics × idol concept film.
+THEME: VIOLET RUSH
+ABBR: VR
+TAGLINE: PRETTY MOVES DIFFERENT.
+CHARACTER LOCK:
+Use the uploaded girl as the ONLY identity reference. Exactly ONE adult East Asian woman throughout. Preserve the same face, facial proportions, skin tone, age, slim body proportions, and long dark-brown/black-brown hair in every shot. Identity must never change. Do not inherit the reference outfit. She is a 22–25-year-old Korean girl-group center / Seoul it-girl: pretty, youthful, sexy-cute, glossy, playful, confident, chic, feminine, slightly rebellious, very camera-aware. No background people, duplicates, face drift, body drift, blonde/short hair.
+HAIR/MAKEUP:
+Long softly wavy dark-brown hair, airy and glossy. Natural hair movement only. Clean Korean idol makeup: luminous real skin, fine eyeliner, soft aegyo-sal, subtle glitter eyes, glossy nude-pink/rose lips, natural blush.
+COLOR:
+Violet purple, electric blue, silver, black, pearl white; soft pink, chrome, icy-blue accents. Premium Y2K Seoul nightlife, NOT cyberpunk.
+LOOKS:
+01 Silver sequined mini dress + short black jacket + black knee-high boots.
+02 Icy/cobalt cropped top + dark-gray low-rise denim mini skirt + silver waist chain.
+03 Pale-pink cropped knit + pink-white plaid mini skirt + small hair clip.
+04 Black cropped leather jacket + black camisole + asymmetric mini skirt + metal chain.
+05 White fitted crop top + silver mini skirt + light silver shrug.
+06 Final deep-violet/black-violet fitted shimmering evening mini dress.
+GRAPHICS:
+55% live-action fashion film, 45% motion graphics. Use giant typography, magazine crops, photo cards, film strips, chrome type, Korean poster text, contact sheets, partial checkerboard, thin grids, stars, subtle flash frames. Maximum 1–2 main graphic elements per cut. Never cover her face.
+TEXT ONLY:
+V / R, VIOLET RUSH, PRETTY MOVES DIFFERENT., SEOUL GIRL, MAIN CHARACTER, LOOK 01–06, 오늘도 주인공, 서울의 밤, 더 예쁜 나.
+13 CUTS:
+01 0.0–0.6s: black screen, huge “V”, then “R” on beat, violet-silver flash.
+02 0.6–1.4s: LOOK01, mirrored elevator, sunglasses, head down → doors open → eyes up, fast push-in. “VIOLET RUSH”.
+03 1.4–2.2s: LOOK01 face close-up, lower sunglasses slightly, direct eye contact, faint smile. “MAIN CHARACTER”.
+04 2.2–3.2s: LOOK02, Seoul neon street, walk then look back, natural hair swing, low angle. “서울의 밤”.
+05 3.2–4.1s: LOOK02 medium close-up, reach toward lens then retract, silver contact-sheet wipe.
+06 4.1–5.1s: LOOK03, pink photo booth, slight hip shift, wink, soft smile. “PRETTY?” → “ALWAYS.”
+07 5.1–6.1s: LOOK03 close-up, flash-photo feeling, loose hair beside face, photo cards pop in/out.
+08 6.1–7.2s: LOOK04, luxury hotel staircase, walk down one step, hand on railing, low angle, sweet expression switches to cold. “SWITCH MODE”.
+09 7.2–8.2s: LOOK04 rapid editorial split: leather detail / face / full body. Same single woman only, not three people.
+10 8.2–9.3s: LOOK05, K-pop beauty backstage, adjust earring in mirror, then look through reflection. Chrome “READY”.
+11 9.3–10.4s: LOOK05 backstage corridor, one step toward camera, light hair swing, film strips on both sides. “오늘도 주인공”.
+12 10.4–12.1s: LOOK06, Seoul rooftop at blue hour, wind in hair, turn away → look back → face camera. “PRETTY MOVES DIFFERENT.”
+13 12.1–15.0s: FINAL HERO, LOOK06, midnight Seoul rooftop. She stands centered while photo booth cards, silver magazine pages, Seoul frames, film strips, face crops, fashion covers and chrome frames reappear around her without covering her. Beat: V → R → VIOLET RUSH. Then “더 예쁜 나”. Final lockup: “VIOLET RUSH / SEOUL AFTER DARK”. Slight chin lift, strong eye contact. Hold final 0.5s completely still.
+PERFORMANCE:
+No dancing. Use idol-style micro-actions only: eyebrow raise, look-back, light wink, hair flip, shoulder turn, small step, touch earring, adjust skirt, reach toward camera, sweet smile → cold stare → confident hero pose.
+EDITING:
+Fast beat-synced hard cuts, clean push-ins, low angles, close-ups, medium shots and full-body shots. Energy comes from outfit switches, scene changes, eye contact and graphics.
+STRICT:
+ONE WOMAN ONLY. No face change, identity drift, extra people, duplicated body, outfit morphing, partial outfit changes, deformed hands, plastic skin, heavy Western glam, dancing, cyberpunk HUD, subtitles, logos, watermarks, video UI, unreadable text.
+FINAL FEEL:
+Same K-pop Girl × 6 Idol Looks × Seoul Nightlife × Violet/Silver/Black × 13 Fast Cuts × Fashion Graphics × Main Character Energy.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · Ima Studio · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@ImaStudio_ai · [原帖](https://x.com/ImaStudio_ai/status/2102606723760501043)
+
+<sub>Preview © 2026 @ImaStudio_ai · Prompt by @ImaStudio_ai</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-180"></a>
+### Case 180: An Eighties Robot Toy Commercial (八十年代风格的机器人玩具广告) — by @kaigani
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-180"><img src="../../../images/hailuo-3/case180/preview.webp" width="700" alt="An Eighties Robot Toy Commercial"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-180)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/hailuo-3/case180/input1.webp" width="200" alt="Character sheet"><br><sub>Character sheet</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Prompt: Show this [ 📷Image1 ] in the style of a 1980s TV action toy commercial, featuring clips of the animated program it's based on but also the li…</summary>
+
+~~~~text
+Prompt: Show this [ 📷Image1 ] in the style of a 1980s TV action toy commercial, featuring clips of the animated program it's based on but also the live action action figure toy gameplay.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@kaigani · [原帖](https://x.com/kaigani/status/2101446612346458326)
+
+<sub>Preview © 2026 @kaigani · Prompt by @kaigani</sub>
 
 [目次に戻る](#table-of-contents)

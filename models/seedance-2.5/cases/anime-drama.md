@@ -17,6 +17,8 @@
 - [Case 1014: Arc vs wind, flooded factory courtyard (雷风对决・暴雨工厂中庭) — by Ofox Team](#case-1014)
 - [Case 79: The Tiny Frog Michelin Chef (小青蛙主厨的森林晚宴) — by @Caden_Flux](#case-79)
 - [Case 104: The Elven Goddess and the Mountain Demon (精灵女神迎战山寺巨魔) — by @JasanMillerAi](#case-104)
+- [Case 115: A Tiny Basketball Daydream (准妈妈的篮球小梦) — by @Zarnab_with_Ai](#case-115)
+- [Case 117: An Autumn Bouquet and a Hug (秋日花束与和解拥抱) — by @aiwithaly](#case-117)
 
 <a id="case-9"></a>
 ### Case 9: Anime school hallway kung-fu fight (动漫风格校园走廊武术格斗) — by @AiwithElisia
@@ -731,5 +733,71 @@ Cinematic fantasy epic battle a towering colossal dark demon lord in ornate blac
 **来源**：[@JasanMillerAi](https://x.com/JasanMillerAi) · [原帖](https://x.com/JasanMillerAi/status/2119822912446415221)
 
 <sub>Preview © 2026 <a href="https://x.com/JasanMillerAi/status/2119822912446415221">@JasanMillerAi</a> · Prompt by <a href="https://x.com/JasanMillerAi/status/2119822912446415221">@JasanMillerAi</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-115"></a>
+### Case 115: A Tiny Basketball Daydream (准妈妈的篮球小梦) — by @Zarnab_with_Ai
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-115"><img src="../../../images/seedance-2.5/case115/preview.webp" width="394" alt="A Tiny Basketball Daydream"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-115)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — 20-second cinematic 3D animated comedy short film with high-quality Pixar-style visuals.  Scene 1 (0–4 seconds): A beautiful pregnant young woman with…</summary>
+
+~~~~text
+20-second cinematic 3D animated comedy short film with high-quality Pixar-style visuals.
+
+Scene 1 (0–4 seconds): A beautiful pregnant young woman with curly brown hair, wearing a lavender cardigan, white top, and blue jeans, stands inside a modern home. She gently holds her baby bump with a loving expression.
+
+Scene 2 (4–9 seconds): A cute little toddler girl wearing a pink outfit plays basketball inside a colorful indoor basketball court. She picks up a basketball, runs toward a miniature basketball hoop, and throws the ball toward the basket.
+
+Scene 3 (9–13 seconds): Show the basketball action from a dramatic low-angle camera perspective. The little girl misses the shot, and the ball bounces away. Cut to the pregnant woman looking shocked and surprised.
+
+Scene 4 (13–16 seconds): A handsome young father with curly dark hair, a short beard, and a green jacket appears beside the pregnant woman. Both look toward their little daughter with surprised expressions.
+
+Scene 5 (16–20 seconds): The little girl is now lying peacefully on the basketball court, hugging the basketball like a pillow and falling asleep. End with a funny, adorable cinematic moment.
+
+Visual Style: High-end Pixar-inspired 3D animation, adorable character designs, expressive facial emotions, realistic fabric textures, cinematic lighting, smooth character animation, vibrant colors, detailed environments, professional camera movements, consistent character appearance throughout the video.
+
+Aspect Ratio: 9:16 vertical.
+Duration: 20 seconds.
+Quality: Ultra-detailed 3D animated cinematic short film.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) · [原帖](https://x.com/Zarnab_with_Ai/status/2120839139713286294)
+
+<sub>Preview © 2026 <a href="https://x.com/Zarnab_with_Ai/status/2120839139713286294">@Zarnab_with_Ai</a> · Prompt by <a href="https://x.com/Zarnab_with_Ai/status/2120839139713286294">@Zarnab_with_Ai</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-117"></a>
+### Case 117: An Autumn Bouquet and a Hug (秋日花束与和解拥抱) — by @aiwithaly
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-117"><img src="../../../images/seedance-2.5/case117/preview.webp" width="700" alt="An Autumn Bouquet and a Hug"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-117)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create a beautiful 30-second cinematic 3D animated romantic short film set in a peaceful autumn park. A young woman with long dark-brown hair wearing …</summary>
+
+~~~~text
+Create a beautiful 30-second cinematic 3D animated romantic short film set in a peaceful autumn park. A young woman with long dark-brown hair wearing a stylish lavender dress sits upset on a wooden bench. A handsome young man in a beige long coat approaches her, hoping to make things right. He surprises her with a gorgeous bouquet of red and white roses. At first, she ignores his gesture, but slowly her expression softens. She finally accepts the flowers with a sweet smile, and they share a warm romantic moment. In the final scene, she stands up and hugs him affectionately while holding the bouquet. Golden autumn leaves gently fall around them as the camera pulls back to reveal the beautiful park. Use premium Disney/Pixar-inspired 3D animation, expressive facial emotions, consistent characters, realistic movements, cinematic close-ups, warm golden-hour lighting, smooth transitions, and beautiful romantic storytelling. 16:9 aspect ratio, 4K quality. No subtitles, text, or watermark.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Cuddler AI · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@aiwithaly](https://x.com/aiwithaly) · [原帖](https://x.com/aiwithaly/status/2120750548609597605)
+
+<sub>Preview © 2026 <a href="https://x.com/aiwithaly/status/2120750548609597605">@aiwithaly</a> · Prompt by <a href="https://x.com/aiwithaly/status/2120750548609597605">@aiwithaly</a></sub>
 
 [Back to top](#table-of-contents)

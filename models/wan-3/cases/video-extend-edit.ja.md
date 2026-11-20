@@ -22,6 +22,7 @@
 - [Case 66: Extend Forward — 15s More of the Teahouse Deal (向后延长·茶楼谈生意 15 秒) — by Alibaba](#case-66)
 - [Case 67: Extend Backward — The 15s Before the Waltz (向前延长·邀舞之前的 15 秒) — by Alibaba](#case-67)
 - [Case 68: Extend Both Ways — Before and After the Snow Walk (向前向后延长·雪林前后各续一段) — by Alibaba](#case-68)
+- [Case 119: From Runway to Stone Courtyard (把男模秀场换成室外石庭) — by WeShop](#case-119)
 
 <a id="case-36"></a>
 ### Case 36: Edit — Clear the Pool Clutter (视频编辑·移除泳池杂物) — by Alibaba
@@ -542,5 +543,34 @@
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-119"></a>
+### Case 119: From Runway to Stone Courtyard (把男模秀场换成室外石庭) — by WeShop
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-119"><img src="../../../images/wan-3/case119/preview.webp" width="394" alt="From Runway to Stone Courtyard"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-119)
+
+**输入素材**（1 段视频，只取首帧）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case119/input1.webp" width="112" alt="Video 1 · Original runway clip"><br><sub>Video 1 · Original runway clip</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Edit Video 1 by replacing only the environment behind the single adult male runway performer. Put the same walking man in a quiet outdoor stone courty…</summary>
+
+~~~~text
+Edit Video 1 by replacing only the environment behind the single adult male runway performer. Put the same walking man in a quiet outdoor stone courtyard under soft neutral overcast daylight. Preserve his recognizable face, blond hairstyle, skin tone, expression, head shape, dark navy suit jacket and waistcoat, white open-collar shirt, trousers, hands, body proportions, posture, walking rhythm, shot size and camera tracking exactly as in the source. Keep the original light on the man; adapt the courtyard to him rather than relighting or regenerating his face. Remove the runway audience and dark indoor stage from the background only. Do not change the performer, suit, shirt, face, hair, body, action, timing or framing. No new foreground objects, duplicate people, new camera moves, added captions, logos, dialogue or music.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 Reference · WeShop · edit · 4s · 720p · 9:16 · off
+**来源**：WeShop · [原帖](https://www.weshop.ai/solutions/ai-video-generation/wan-3-0-fashion-video-background-change)
+
+<sub>Preview © 2026 WeShop · Prompt by WeShop</sub>
 
 [目次に戻る](#table-of-contents)
