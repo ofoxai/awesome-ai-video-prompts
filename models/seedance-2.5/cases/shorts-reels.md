@@ -23,6 +23,9 @@
 - [Case 84: A Curious Fox by the Mountain Stream (狐狸的山间溪流 Vlog) — by @MrDasCreates](#case-84)
 - [Case 86: The Lighthouse Keeper and Glowing Orbs (灯塔守望者与发光海潮) — by @SyntheSarah](#case-86)
 - [Case 96: A Lisbon Summer Walk (里斯本夏日漫游) — by @PrometheanAIX](#case-96)
+- [Case 122: Following a Runaway Pink Bubble (追着粉色泡泡穿过纽约) — by @AIwithSynthia](#case-122)
+- [Case 124: Ten Stops across Japan (十站日本旅行影像) — by @Xaroon_x](#case-124)
+- [Case 128: The Impossible Street Football Shot (霓虹街头的足球奇迹) — by @AIwithkhan](#case-128)
 
 <a id="case-28"></a>
 ### Case 28: Panda cub in the forest (熊猫幼崽) — by ByteDance
@@ -599,3 +602,146 @@ Paid promotion for Lovart.
 
 [Back to top](#table-of-contents)
 
+<a id="case-122"></a>
+### Case 122: Following a Runaway Pink Bubble (追着粉色泡泡穿过纽约) — by @AIwithSynthia
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-122"><img src="../../../images/seedance-2.5/case122/preview.webp" width="700" alt="Following a Runaway Pink Bubble"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-122)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second photorealistic cinematic one-take chase through a colorful, crowded New York street during a sunny afternoon. A stylish young adult…</summary>
+
+~~~~text
+Create a 30-second photorealistic cinematic one-take chase through a colorful, crowded New York street during a sunny afternoon. A stylish young adult woman with long blonde hair, wearing a pink leather jacket, white crop top, blue jeans, and white sneakers, blows a giant pink bubble gum bubble. The bubble suddenly detaches from her mouth and floats down the street.
+
+The camera follows just 40 cm behind the floating bubble in one continuous uninterrupted shot.
+
+ACTION:
+
+- 0–5s: The woman blows an enormous pink bubble gum bubble. It suddenly detaches and floats away above the pavement.
+
+- 5–10s: The bubble glides through a crowded outdoor café, passing between tables and narrowly avoiding people's heads.
+
+- 10–15s: It floats through an open bakery window, passes over freshly baked pastries, and exits through the opposite window.
+
+- 15–20s: The bubble squeezes through a narrow gap between two moving delivery scooters without popping.
+
+- 20–25s: It floats into a busy shopping mall, circling around an escalator while surprised shoppers point at it.
+
+- 25–30s: The bubble rises toward the mall's glass ceiling, suddenly expands to an enormous size, and gently bursts into thousands of tiny pink bubbles. The woman appears below, laughing and making a surprised expression toward the camera.
+
+CAMERA: One continuous tracking shot, always approximately 40 cm behind the bubble. Smooth low-angle movement, realistic tracking, natural motion blur, no cuts or teleportation.
+
+VISUALS: Photorealistic pink translucent bubble gum, realistic reflections and surface tension, colorful city storefronts, detailed pedestrians, natural sunlight, cinematic depth of field, realistic environments.
+
+AUDIO: Bubble gum chewing, soft popping sounds, city traffic, café ambience, scooter engines, surprised pedestrian reactions, and thousands of tiny bubbles bursting. No added music.
+
+NEGATIVE PROMPT: No cuts, distorted physics, duplicated people, disappearing objects, bubble changing colors, character morphing, cartoon visuals, animation, subtitles, logos, or watermarks.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · CapCut · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@AIwithSynthia](https://x.com/AIwithSynthia) · [原帖](https://x.com/AIwithSynthia/status/2125224171328479697)
+
+<sub>Preview © 2026 <a href="https://x.com/AIwithSynthia/status/2125224171328479697">@AIwithSynthia</a> · Prompt by <a href="https://x.com/AIwithSynthia/status/2125224171328479697">@AIwithSynthia</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-124"></a>
+### Case 124: Ten Stops across Japan (十站日本旅行影像) — by @Xaroon_x
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-124"><img src="../../../images/seedance-2.5/case124/preview.webp" width="700" alt="Ten Stops across Japan"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-124)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — JAPAN CINEMATIC TRAVEL VLOG | 30 sec | 16:9  Create a photorealistic live-action travel film with Japanese scenery, authentic locations, natural movem…</summary>
+
+~~~~text
+JAPAN CINEMATIC TRAVEL VLOG | 30 sec | 16:9
+
+Create a photorealistic live-action travel film with Japanese scenery, authentic locations, natural movement and light. Keep @image1 identical: exact face, hair, beard, skin tone and proportions; olive jacket, white T-shirt, black cargo pants, white sneakers, backpack and wristwatch. No identity or outfit changes.
+
+10 connected shots, 3 seconds each:
+
+1. 00:00–00:03 Tokyo Shibuya Crossing: he smiles among pedestrians and neon signs. 28mm backward tracking, blue hour.
+2. 00:03–00:06 Mount Fuji: he turns toward camera, amazed. 24mm wide push-in, lake reflections, sunrise.
+3. 00:06–00:09 Chureito Pagoda: he gestures toward pagoda with Fuji behind. 35mm lateral tracking, morning light.
+4. 00:09–00:12 Kyoto: he walks past wooden houses and lanterns. 35mm backward tracking, warm afternoon.
+5. 00:12–00:15 Arashiyama Bamboo Forest: he looks up among tall bamboo. 35mm Steadicam, sunbeams, natural greens.
+6. 00:15–00:18 Fushimi Inari: he speaks to camera beneath red Torii gates. 50mm backward tracking.
+7. 00:18–00:21 Osaka Dotonbori: he gestures toward neon signs and canal. 24mm lateral tracking, realistic night reflections.
+8. 00:21–00:24 Tokyo Tower: he points upward. 24mm low-angle tilt, blue-hour sky.
+9. 00:24–00:27 Tokyo skyline: he turns to camera. 35mm smooth orbit, sunset colors.
+10. 00:27–00:30 Japan finale: he smiles with mountains behind. 40mm slow dolly-out, fade to black at 30 sec.
+
+Keep landmarks accurate, movement smooth and reflections realistic. Audio: uplifting travel music with Japanese-inspired instruments; add traffic, footsteps, crowds, birds, wind and water. Lower music under dialogue; accurate lip-sync.
+
+NEGATIVE: anime, cartoon, CGI look, plastic skin, identity/outfit drift, duplicate people, distorted hands, extra fingers, unnatural movement, fake landmarks, warped buildings, impossible physics, flicker, camera shake, oversaturation, text, subtitles, watermark or logos.
+
+Exactly 30 seconds, 10 shots, 16:9.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Cuddler AI · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@Xaroon_x](https://x.com/Xaroon_x) · [原帖](https://x.com/Xaroon_x/status/2125167395849568292)
+
+<sub>Preview © 2026 <a href="https://x.com/Xaroon_x/status/2125167395849568292">@Xaroon_x</a> · Prompt by <a href="https://x.com/Xaroon_x/status/2125167395849568292">@Xaroon_x</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-128"></a>
+### Case 128: The Impossible Street Football Shot (霓虹街头的足球奇迹) — by @AIwithkhan
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-128"><img src="../../../images/seedance-2.5/case128/preview.webp" width="700" alt="The Impossible Street Football Shot"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-128)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second photorealistic cinematic one-take chase through a crowded neon-lit Tokyo shopping street at night. A stylish young adult woman with…</summary>
+
+~~~~text
+Create a 30-second photorealistic cinematic one-take chase through a crowded neon-lit Tokyo shopping street at night. A stylish young adult woman with long black hair, wearing a black leather jacket, white top, blue jeans, and white sneakers, kicks an orange football down the street.
+
+The camera follows just 40 cm behind the ball in one continuous uninterrupted shot.
+
+ACTION:
+
+* 0–5s: She kicks the ball powerfully. It races past surprised pedestrians and neon shopfronts.
+
+* 5–10s: The ball rolls underneath a street-food counter, scattering empty cups and napkins.
+
+* 10–15s: It passes perfectly underneath a moving delivery bicycle without touching it.
+
+* 15–20s: The ball enters an arcade, knocks over a row of empty bowling pins, and exits through the opposite door.
+
+* 20–25s: It crosses a busy pedestrian street as people jump aside in surprise.
+
+* 25–30s: The ball bounces off a small pavement ramp and drops perfectly through a basketball hoop outside an arcade. Everyone cheers as the woman celebrates in the distance.
+
+CAMERA: One continuous tracking shot, always 40 cm behind the football. Realistic movement, natural motion blur, no cuts or teleportation.
+
+VISUALS: Detailed Tokyo streets, colorful neon signs, wet pavement reflections, realistic pedestrians, cinematic lighting, authentic street atmosphere.
+
+AUDIO: Football impacts, bicycle bells, food-stall sounds, arcade ambience, surprised reactions, and cheering. No added music.
+
+NEGATIVE PROMPT: No cuts, distorted physics, duplicated people, disappearing objects, character morphing, animation, subtitles, logos, or watermarks.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · Dreamina · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@AIwithkhan](https://x.com/AIwithkhan) · [原帖](https://x.com/AIwithkhan/status/2124859693214662830)
+
+<sub>Preview © 2026 <a href="https://x.com/AIwithkhan/status/2124859693214662830">@AIwithkhan</a> · Prompt by <a href="https://x.com/AIwithkhan/status/2124859693214662830">@AIwithkhan</a></sub>
+
+[Back to top](#table-of-contents)

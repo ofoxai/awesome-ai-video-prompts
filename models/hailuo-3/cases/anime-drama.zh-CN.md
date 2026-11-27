@@ -5,6 +5,7 @@
 ### 漫剧 Anime Drama
 
 - [Case 140: Anime Movie Night Jump Scare (恐怖电影之夜的动画惊叫) — by @MayorKingAI](#case-140)
+- [Case 186: A Glowing Orb Leads the Adventure (发光球体引出的冒险) — by @aimikoda](#case-186)
 
 <a id="case-140"></a>
 ### Case 140: Anime Movie Night Jump Scare (恐怖电影之夜的动画惊叫) — by @MayorKingAI
@@ -76,5 +77,46 @@ Characters keep the same face, hair and wardrobe in every shot. Gag faces are cl
 **来源**：@MayorKingAI · [原帖](https://x.com/MayorKingAI/status/2107531471103938945)
 
 <sub>Preview © 2026 @MayorKingAI · Prompt by @MayorKingAI</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-186"></a>
+### Case 186: A Glowing Orb Leads the Adventure (发光球体引出的冒险) — by @aimikoda
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-186"><img src="../../../images/hailuo-3/case186/preview.webp" width="700" alt="A Glowing Orb Leads the Adventure"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-186)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Create a curiosity-driven character vignette built from 10–15 short cuts around the character from Image1. Preserve the character’s identity, visual s…</summary>
+
+~~~~text
+Create a curiosity-driven character vignette built from 10–15 short cuts around the character from Image1.
+
+Preserve the character’s identity, visual style and overall design.  Infer its nature and world directly from Image1.
+
+Open with an immediately intriguing visual situation that creates a simple unanswered question. Build the following cuts around discovery, reaction, progression and small consequences. Each cut should introduce a new visual idea while clearly advancing the same underlying situation.
+
+Let the character reveal itself through behavior rather than exposition. Use its movement, instincts, habits, abilities, limitations, relationships and interaction with the surrounding world to make the sequence increasingly interesting.
+
+Keep the narrative simple enough to understand without dialogue. Create visual cause and effect between cuts. Allow details introduced early to gain meaning later. Build toward a clear reveal, reversal, transformation, emotional beat or satisfying visual payoff near the end.
+
+Avoid generic daily routines, disconnected montage imagery and repetitive actions. Do not force familiar human behavior onto the character or world. Let the situations emerge naturally from the reference.
+
+Make every few seconds visually distinct through changes in scale, framing, environment, movement, tension and information. Maintain strong continuity so the viewer wants to see what happens next.
+
+Use objective third-person cinematic observation with natural handheld imperfection and varied shot sizes. Keep the camera readable, responsive and visually motivated.
+
+Use only clean diegetic sound. No dialogue, narration, BGM, subtitles or title cards.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@aimikoda · [原帖](https://x.com/aimikoda/status/2098771179808940415)
+
+<sub>Preview © 2026 @aimikoda · Prompt by @aimikoda</sub>
 
 [回到目录](#table-of-contents)

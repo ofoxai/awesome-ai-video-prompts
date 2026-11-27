@@ -6,6 +6,8 @@
 
 - [Case 3: WAN Cloud — Glass Homepage Motion (WAN Cloud 玻璃主页) — by Alibaba](#case-3)
 - [Case 27: Glass UI Launch — Five-Image Storyboard (玻璃 UI 产品发布·五图分镜) — by Alibaba](#case-27)
+- [Case 129: A Tropical Game Menu Selection (热带游戏菜单的选项切换) — by WeShop](#case-129)
+- [Case 130: A Coastal Walk with a Third-Person HUD (第三人称 HUD 的海岸漫步) — by WeShop](#case-130)
 
 <a id="case-3"></a>
 ### Case 3: WAN Cloud — Glass Homepage Motion (WAN Cloud 玻璃主页) — by Alibaba
@@ -61,5 +63,57 @@
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-129"></a>
+### Case 129: A Tropical Game Menu Selection (热带游戏菜单的选项切换) — by WeShop
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case129/input.webp" width="340" alt="AI-edited fan interface concept: Create a Comatozze GTA 6 Inspired Main Menu"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-129"><img src="../../../images/wan-3/case129/preview.webp" width="340" alt="A Tropical Game Menu Selection"></a> |
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-129)
+
+<details>
+<summary><strong>Prompt</strong> — Animate the exact supplied image as a 10-second simulated game-interface interaction. Use it as the actual first frame, preserving its composition, Co…</summary>
+
+~~~~text
+Animate the exact supplied image as a 10-second simulated game-interface interaction. Use it as the actual first frame, preserving its composition, Comatozze character, pink-violet tropical dusk, typography and panel geometry. 0-2 seconds: hold the supplied main-menu layout. 2-4 seconds: a small white game-menu cursor moves from START GAME down to SETTINGS and the pink selection bar follows to SETTINGS. 4-6 seconds: move the same cursor down to ONLINE and highlight only ONLINE. 6-8 seconds: move back up to START GAME and restore its pink highlight. 8-10 seconds: hold START GAME selected with a brief soft confirmation pulse. Keep every menu word exactly unchanged; only move the cursor and selected-row highlight. The woman keeps the same standing pose, with subtle breathing; water reflections move gently. Locked full-screen 16:9 game presentation, with no browser or monitor frame. No cuts, no scene replacement, no letter morphing, no added HUD. This is an AI-generated interface interaction concept, not a recording of a playable game. No speech, music or sound.
+
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 I2V · WeShop · i2v · 10s · 1080p · Adaptive · off
+**来源**：WeShop · [原帖](https://www.weshop.ai/solutions/ai-photo-generation/gta-6-ai-main-menu-from-photo)
+
+<sub>Preview © 2026 WeShop · Prompt by WeShop</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-130"></a>
+### Case 130: A Coastal Walk with a Third-Person HUD (第三人称 HUD 的海岸漫步) — by WeShop
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case130/input.webp" width="340" alt="AI-edited fan interface concept: Put Comatozze in a GTA 6 Inspired Third-Person HUD"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-130"><img src="../../../images/wan-3/case130/preview.webp" width="340" alt="A Coastal Walk with a Third-Person HUD"></a> |
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-130)
+
+<details>
+<summary><strong>Prompt</strong> — Animate the exact supplied image as a 10-second simulated game-interface interaction. Use it as the actual first frame, preserving its composition, Co…</summary>
+
+~~~~text
+Animate the exact supplied image as a 10-second simulated game-interface interaction. Use it as the actual first frame, preserving its composition, Comatozze character, pink-violet tropical dusk, typography and panel geometry. 0-2 seconds: hold the supplied rear-view game scene. 2-8 seconds: simulate holding the forward movement control: the same woman takes several slow natural steps down the boulevard, and the third-person camera follows behind at a constant distance and height. Her black dress and long hair remain consistent. The minimap player arrow makes one small forward movement; health, armor, control-help and attribute panels stay fixed. 8-10 seconds: the character slows to a stop. Preserve one minimap only. Do not add panels, icons or words; do not turn her to face camera. Locked full-screen 16:9 game presentation, with no browser or monitor frame. No cuts, no scene replacement, no letter morphing, no added HUD. This is an AI-generated interface interaction concept, not a recording of a playable game. No speech, music or sound.
+
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 I2V · WeShop · i2v · 10s · 1080p · Adaptive · off
+**来源**：WeShop · [原帖](https://www.weshop.ai/solutions/ai-photo-generation/gta-6-third-person-hud-ai-photo)
+
+<sub>Preview © 2026 WeShop · Prompt by WeShop</sub>
 
 [回到目录](#table-of-contents)

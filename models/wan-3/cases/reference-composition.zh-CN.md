@@ -11,6 +11,7 @@
 - [Case 47: Motion Reference — Swap the Skater, Keep the Trick (动作参考·换人不换动作) — by Alibaba](#case-47)
 - [Case 48: Camera Reference — Same Move, Rooftop Coffee (运镜参考·换成天台咖啡) — by Alibaba](#case-48)
 - [Case 49: VFX Reference — Replicate the Energy Flames (特效参考·复刻能量火焰) — by Alibaba](#case-49)
+- [Case 132: Five Jewels in Five Portraits (五种珠宝的高定肖像) — by u/Accomplished-Ebb7783](#case-132)
 
 <a id="case-21"></a>
 ### Case 21: Rainy Platform — Six Shots from a Storyboard (雨夜车站·六镜分镜图参考) — by Alibaba
@@ -272,5 +273,39 @@
 **来源**：《Wan3.0 视频创作者手册》（万相官方） · [source](https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxrkmoj2IjExdZLBJ47Z3je9)
 
 <sub>Wan 3.0 官方示例 ·《Wan3.0 视频创作者手册》</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-132"></a>
+### Case 132: Five Jewels in Five Portraits (五种珠宝的高定肖像) — by u/Accomplished-Ebb7783
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-132"><img src="../../../images/wan-3/case132/preview.webp" width="700" alt="Five Jewels in Five Portraits"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-132)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — Using the five reference images, create a 10-second, 16:9 landscape high-fashion couture video titled “The Five Jewels.” Preserve each character’s fac…</summary>
+
+~~~~text
+Using the five reference images, create a 10-second, 16:9 landscape high-fashion couture video titled “The Five Jewels.” Preserve each character’s face, headpiece, gown, and setting from her reference image. Show the five characters in order: Emerald, Sapphire, Ruby, Pearl, then Diamond, for approximately two seconds each.
+
+Open immediately on Emerald, with a small glint already moving across her headpiece. Use clean cuts between the five portraits.
+Keep every character precisely centered in a stable, waist-up composition, with the full headpiece visible. The camera remains nearly still; avoid reframing or large camera moves.
+
+Each character makes only a slow, subtle movement: a slight head turn, gentle tilt, small lift of the chin, or return to center. Earrings and delicate parts of the headpieces may sway naturally.
+The conservatory, gallery, opera house, terrace, and mirrored hall remain almost still, with only faint atmospheric depth and restrained changes in reflected light.
+
+Maintain the polished photographic look of the references: believable gemstones and fabrics, natural skin texture, controlled highlights, and elegant, understated lighting.
+Let Diamond provide the brightest final reveal.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · AKOOL · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：u/Accomplished-Ebb7783 · [原帖](https://www.reddit.com/r/Akool_Official/comments/1wlei8w/character_sequence_made_with_wan_30_on_akool/)
+
+<sub>Preview credit: kriss.directs (visible watermark) · Prompt source: u/Accomplished-Ebb7783 (Reddit)</sub>
 
 [回到目录](#table-of-contents)

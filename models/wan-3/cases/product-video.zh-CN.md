@@ -19,6 +19,9 @@
 - [Case 105: A Speaker Splash Test (音箱的水花测试) — by Blurbly](#case-105)
 - [Case 106: Plugging in a Power Bank (给充电宝插上数据线) — by Blurbly](#case-106)
 - [Case 116: Wan 3.0 Prime · A Heart in the Latte (Wan 3.0 Prime · 拿铁上的心形拉花) — by Wan3API](#case-116)
+- [Case 123: Wan 3.0 Prime · Toast on a Mustard Backdrop (Wan 3.0 Prime · 芥末黄背景上的吐司) — by Derk Zomer / Shotstack](#case-123)
+- [Case 124: Wan 3.0 Prime · Light Across Tortoiseshell Lenses (Wan 3.0 Prime · 光掠玳瑁太阳镜) — by Derk Zomer / Shotstack](#case-124)
+- [Case 128: Sliding Past an Illustrated Coral Coupe (掠过插画中的珊瑚红跑车) — by WeShop](#case-128)
 
 <a id="case-4"></a>
 ### Case 4: The Rhythm of Dough (面团的律动) — by Alibaba
@@ -416,5 +419,79 @@ Top-down macro of a barista pouring latte art, milk folding into a rosetta, slow
 **来源**：Wan3API · [原帖](https://wan3api.org/reference-to-video)
 
 <sub>Preview © 2026 Wan3API · Prompt by Wan3API</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-123"></a>
+### Case 123: Wan 3.0 Prime · Toast on a Mustard Backdrop (Wan 3.0 Prime · 芥末黄背景上的吐司) — by Derk Zomer / Shotstack
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-123"><img src="../../../images/wan-3/case123/preview.webp" width="700" alt="Wan 3.0 Prime · Toast on a Mustard Backdrop"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-123)
+
+<details>
+<summary><strong>Prompt</strong> — A cream enamel toaster on a mustard-yellow paper backdrop. The lever springs up, two slices of golden toast pop out and a wisp of steam rises. Medium …</summary>
+
+~~~~text
+A cream enamel toaster on a mustard-yellow paper backdrop. The lever springs up, two slices of golden toast pop out and a wisp of steam rises. Medium shot, slow push-in. Soft window light from the side. Generate single shot.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 Prime · Shotstack · t2v · 5s · 720p · 16:9 · off
+**来源**：Derk Zomer / Shotstack · [原帖](https://shotstack.io/learn/how-to-use-wan-3-0/)
+
+<sub>Preview © 2026 Derk Zomer / Shotstack · Prompt by Derk Zomer / Shotstack</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-124"></a>
+### Case 124: Wan 3.0 Prime · Light Across Tortoiseshell Lenses (Wan 3.0 Prime · 光掠玳瑁太阳镜) — by Derk Zomer / Shotstack
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case124/input.webp" width="340" alt="Tortoiseshell sunglasses · published source photo"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-124"><img src="../../../images/wan-3/case124/preview.webp" width="340" alt="Wan 3.0 Prime · Light Across Tortoiseshell Lenses"></a> |
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-124)
+
+<details>
+<summary><strong>Prompt</strong> — Light glides slowly across the lenses. The camera pushes in slowly. The sunglasses stay still.</summary>
+
+~~~~text
+Light glides slowly across the lenses. The camera pushes in slowly. The sunglasses stay still.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 Prime · Shotstack · i2v · 5s · 720p · 4:3 · off
+**来源**：Derk Zomer / Shotstack · [原帖](https://shotstack.io/learn/how-to-use-wan-3-0/)
+
+<sub>Preview © 2026 Derk Zomer / Shotstack · Prompt by Derk Zomer / Shotstack</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-128"></a>
+### Case 128: Sliding Past an Illustrated Coral Coupe (掠过插画中的珊瑚红跑车) — by WeShop
+
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case128/input.webp" width="340" alt="Painted image-to-image result derived from the attached reference"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-128"><img src="../../../images/wan-3/case128/preview.webp" width="340" alt="Sliding Past an Illustrated Coral Coupe"></a> |
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-128)
+
+<details>
+<summary><strong>Prompt</strong> — Use the attached image as the first frame. One slow subtle lateral camera slide from left to right past the parked coral coupe, keeping the full car i…</summary>
+
+~~~~text
+Use the attached image as the first frame. One slow subtle lateral camera slide from left to right past the parked coral coupe, keeping the full car in frame. The car remains stationary; wheels do not rotate. Preserve its body shape, wheel positions, motel background, dusk lighting and illustrated rendering. Gentle highlights slide across the paint because of camera movement. One uninterrupted shot, no cuts, no driving, no new cars or people, no logos, no text, no HUD. Original fan-made concept animation, not gameplay.
+
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 I2V · WeShop · i2v · 5s · 720p · Adaptive · off
+**来源**：WeShop · [原帖](https://www.weshop.ai/solutions/ai-video-generation/gta-6-car-cinematic-video-wan-3)
+
+<sub>Preview © 2026 WeShop · Prompt by WeShop</sub>
 
 [回到目录](#table-of-contents)

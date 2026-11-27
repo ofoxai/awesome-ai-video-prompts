@@ -18,6 +18,8 @@
 - [Case 95: A Fresh Laundry Day (阳光洗衣日) — by @CaliraVal](#case-95)
 - [Case 108: Pink-Hoodie Seoul Street Style (粉色卫衣的首尔街拍) — by @ZaidVex](#case-108)
 - [Case 118: A Garage Fashion Film with a Black BMW (黑色宝马车库时装短片) — by @MissDelulu9](#case-118)
+- [Case 121: Winter Fashion on a Snowy Cabin Porch (雪林木屋的冬装广告) — by @ClaraOnAI](#case-121)
+- [Case 123: A Civilization inside a Pocket Watch (怀表中的文明时光) — by @itxabdullaa](#case-123)
 
 <a id="case-12"></a>
 ### Case 12: Fruit biscuit commercial (果味饼干广告片) — by ByteDance
@@ -919,5 +921,165 @@ Camera: Fast push-ins, tracking shots, low-angle orbits, overhead movements, whi
 **来源**：[@MissDelulu9](https://x.com/MissDelulu9) · [原帖](https://x.com/MissDelulu9/status/2122893591681085545)
 
 <sub>Preview © 2026 <a href="https://x.com/MissDelulu9/status/2122893591681085545">@MissDelulu9</a> · Prompt by <a href="https://x.com/MissDelulu9/status/2122893591681085545">@MissDelulu9</a></sub>
+
+[返回目录](#table-of-contents)
+
+<a id="case-121"></a>
+### Case 121: Winter Fashion on a Snowy Cabin Porch (雪林木屋的冬装广告) — by @ClaraOnAI
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-121"><img src="../../../images/seedance-2.5/case121/preview.webp" width="700" alt="Winter Fashion on a Snowy Cabin Porch"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-121)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second cinematic winter jacket commercial, closely following the original video&#x27;s scene composition, pacing, camera movements, and shot se…</summary>
+
+~~~~text
+Create a 30-second cinematic winter jacket commercial, closely following the original video's scene composition, pacing, camera movements, and shot sequence. Replace the original woman with a different young adult woman, around 24 years old, with long dark brown hair and a natural appearance.
+
+Scene 1 (0–5 seconds): Establish the exact cozy rustic wooden cabin porch, wooden walls, red cabin door, outdoor chair, small table, lantern, and snow-covered pine forest. Cinematic slow camera movement.
+
+Scene 2 (5–10 seconds): The young woman wearing a premium cream-white padded winter jacket, brown knit sweater, black winter pants, and black boots slowly steps out through the cabin door onto the snowy porch. Keep the framing and movement similar to the original.
+
+Scene 3 (10–15 seconds): A medium cinematic shot as she walks naturally along the wooden porch, with the snowy pine trees in the background. The camera gently tracks her movement.
+
+Scene 4 (15–20 seconds): She pauses near the porch railing, gently adjusts the collar of her cream-white jacket, and looks toward the snowy forest. Soft natural expressions and realistic movement.
+
+Scene 5 (20–25 seconds): Cinematic close-up of the jacket, showing its padded texture, stitching, zipper, collar, and premium fabric details. Her hand gently touches and adjusts the collar.
+
+Scene 6 (25–30 seconds): A beautiful final cinematic shot of the woman standing on the snowy cabin porch, with snow-covered trees behind her. Slow camera push-in, soft winter lighting, premium fashion advertisement look.
+
+Photorealistic cinematic commercial, consistent character and outfit in every shot, realistic body movement, natural lighting, high-end winter fashion advertising, smooth transitions, 4K visual quality. Preserve the original video's overall atmosphere and shot style.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@ClaraOnAI](https://x.com/ClaraOnAI) · [原帖](https://x.com/ClaraOnAI/status/2125225700336517601)
+
+<sub>Preview © 2026 <a href="https://x.com/ClaraOnAI/status/2125225700336517601">@ClaraOnAI</a> · Prompt by <a href="https://x.com/ClaraOnAI/status/2125225700336517601">@ClaraOnAI</a></sub>
+
+[返回目录](#table-of-contents)
+
+<a id="case-123"></a>
+### Case 123: A Civilization inside a Pocket Watch (怀表中的文明时光) — by @itxabdullaa
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-123"><img src="../../../images/seedance-2.5/case123/preview.webp" width="700" alt="A Civilization inside a Pocket Watch"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-123)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — {   &quot;type&quot;: &quot;video_prompt&quot;,   &quot;title&quot;: &quot;THE CLOCKMAKER OF TIME&quot;,   &quot;duration&quot;: &quot;10 seconds&quot;,   &quot;aspect_ratio&quot;: &quot;16:9&quot;,   &quot;resolution&quot;: &quot;4K&quot;,   &quot;style&quot;…</summary>
+
+~~~~text
+{
+  "type": "video_prompt",
+  "title": "THE CLOCKMAKER OF TIME",
+  "duration": "10 seconds",
+  "aspect_ratio": "16:9",
+  "resolution": "4K",
+  "style": "Ultra-photorealistic cinematic miniature diorama, intricate mechanical craftsmanship",
+  "camera": {
+    "style": "Macro tilt-shift photography",
+    "depth_of_field": "Very shallow",
+    "focus": "Sharp miniature details, realistic bokeh",
+    "movement": "Smooth continuous motion"
+  },
+  "environment": {
+    "surface": "Dark walnut workbench with brass gears and precision tools",
+    "world": "Living miniature civilization inside an antique brass pocket watch",
+    "materials": "Aged brass, copper, glass and realistic miniature textures"
+  },
+  "main_subject": "A giant realistic human hand controlling time inside a miniature civilization",
+  "timeline": [
+    {
+      "time": "0-2s",
+      "scene": "An open pocket watch contains a frozen medieval city with castles and tiny villagers.",
+      "action": "A giant hand rotates a brass winding key. An electric-blue pulse activates the golden gears, bringing the city to life.",
+      "camera": "Extreme macro tracking shot."
+    },
+    {
+      "time": "2-4s",
+      "scene": "The medieval civilization accelerates through centuries.",
+      "action": "Castles unfold into Renaissance buildings. Wooden bridges become iron structures. Steam trains emerge along assembling tracks.",
+      "camera": "Smooth clockwise orbit."
+    },
+    {
+      "time": "4-6s",
+      "scene": "The civilization evolves into a futuristic metropolis.",
+      "action": "Buildings telescope into glass skyscrapers. Blue transportation tracks assemble. Magnetic trains glide between towers. A glowing crystalline tower rises.",
+      "camera": "Continuous macro push-in."
+    },
+    {
+      "time": "6-8s",
+      "scene": "The giant fingertip touches the brass rim, reversing time.",
+      "action": "Skyscrapers retract, tracks coil backward and buildings dissolve into golden sand, forming a glowing blue seed above the central gear.",
+      "camera": "Smooth cinematic pull-back."
+    },
+    {
+      "time": "8-10s",
+      "scene": "The hand closes the transparent watch cover.",
+      "action": "The camera pulls backward, revealing the entire workbench inside a much larger antique clock. An enormous second hand sweeps across the foreground.",
+      "camera": "Continuous macro-to-wide hero shot."
+    }
+  ],
+  "lighting": {
+    "style": "Cinematic volumetric lighting",
+    "effects": [
+      "Warm amber reflections",
+      "Electric-blue energy",
+      "Realistic glass refraction",
+      "Illuminated windows",
+      "Atmospheric dust"
+    ]
+  },
+  "hand_details": {
+    "appearance": "Photorealistic human hand",
+    "skin": "Natural pores and wrinkles",
+    "interaction": "Physically believable contact",
+    "continuity": "Identical hand throughout"
+  },
+  "motion": {
+    "style": "Satisfying mechanical transformations",
+    "physics": "Realistic gravity and gear rotation",
+    "feel": "Cinematic ASMR",
+    "transitions": "Seamless transformations without cuts"
+  },
+  "final_frame": {
+    "subject": "Colossal antique clock containing the miniature workbench and glowing pocket watch",
+    "composition": "Symmetrical nested-scale illusion",
+    "hold": "Brief cinematic hold"
+  },
+  "audio": {
+    "style": "Mechanical ASMR",
+    "sound_effects": "Winding clicks, ticking gears, electrical resonance and deep final clock tick",
+    "music": "Mysterious orchestral ambience",
+    "dialogue": "None"
+  },
+  "negative_prompt": [
+    "Cartoon visuals",
+    "Plastic textures",
+    "Extra fingers",
+    "Broken anatomy",
+    "Inconsistent watch design",
+    "Random cuts",
+    "Camera shaking",
+    "Blurry subjects",
+    "Text overlays",
+    "Watermarks"
+  ]
+}
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · ImagineArt · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@itxabdullaa](https://x.com/itxabdullaa) · [原帖](https://x.com/itxabdullaa/status/2125206906918838398)
+
+<sub>Preview © 2026 <a href="https://x.com/itxabdullaa/status/2125206906918838398">@itxabdullaa</a> · Prompt by <a href="https://x.com/itxabdullaa/status/2125206906918838398">@itxabdullaa</a></sub>
 
 [返回目录](#table-of-contents)

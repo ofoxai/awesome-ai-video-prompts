@@ -43,6 +43,10 @@
 - [Case 112: The Rider and the Panther (海岸骑手与黑豹的邂逅) — by @itsSaira_1](#case-112)
 - [Case 113: A Plasma Blast at Sunset (日落大桥上的等离子冲击) — by @laviniavelle](#case-113)
 - [Case 114: Thorns Meet Glass (荆棘与琉璃的相遇) — by @itsSaira_1](#case-114)
+- [Case 120: A Shinobi Duel in a Rain-Soaked Temple (雨夜古寺的忍者对决) — by @aniyaintel](#case-120)
+- [Case 125: The Last Showing: Cinema Outbreak (最后一场电影：影院异变) — by @john_my07](#case-125)
+- [Case 126: A Katana against the Glass-Tower Beast (玻璃大厦前的持剑女侠) — by @laviniavelle](#case-126)
+- [Case 127: A Golden-Hour Wedding beneath the Trees (夕阳树影下的婚礼) — by @ZaraIrahh](#case-127)
 
 <a id="case-1"></a>
 ### Case 1: Guardian robot and grandmother, nine-shot storyboard (守护机器人与老奶奶 · 九宫格分镜) — by ByteDance
@@ -2429,5 +2433,221 @@ A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature 
 **来源**：[@itsSaira_1](https://x.com/itsSaira_1) · [原帖](https://x.com/itsSaira_1/status/2121100826894590435)
 
 <sub>Preview © 2026 <a href="https://x.com/itsSaira_1/status/2121100826894590435">@itsSaira_1</a> · Prompt by <a href="https://x.com/itsSaira_1/status/2121100826894590435">@itsSaira_1</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-120"></a>
+### Case 120: A Shinobi Duel in a Rain-Soaked Temple (雨夜古寺的忍者对决) — by @aniyaintel
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-120"><img src="../../../images/seedance-2.5/case120/preview.webp" width="700" alt="A Shinobi Duel in a Rain-Soaked Temple"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-120)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second, 1080p ultra-photorealistic live-action Japanese supernatural martial arts battle featuring Hollywood-level action choreography, br…</summary>
+
+~~~~text
+Create a 30-second, 1080p ultra-photorealistic live-action Japanese supernatural martial arts battle featuring Hollywood-level action choreography, breathtaking cinematography, realistic physics, and spectacular practical-feeling VFX.
+
+OPENING SCENE: A beautiful, fierce Japanese female warrior in her early 20s stands in the middle of an ancient Japanese temple courtyard at night. She has long flowing black hair, intense eyes, and wears a fitted black shinobi combat outfit with layered dark robes, forearm wraps, a waist belt, and traditional black boots. Rain falls heavily as she faces a gigantic masked samurai warrior wearing dark ancient armor and carrying an enormous katana. Both prepare to attack.
+
+SCENE 1 – THE FIRST ATTACK: The masked samurai suddenly charges at incredible speed, swinging his massive katana toward her. She narrowly dodges, sliding beneath the blade as it smashes into the stone ground, sending fragments flying everywhere. She immediately launches a spinning kick toward his helmet, followed by a rapid combination of punches and elbow strikes. The camera follows every movement with dynamic tracking shots and brief cinematic slow motion.
+
+SCENE 2 – SWORD VS SHINOBI: The samurai unleashes a relentless series of powerful sword attacks. She dodges, blocks, and deflects each strike using her short black ninja blade. Sparks explode whenever their weapons collide. They exchange lightning-fast attacks, jumping across broken temple pillars and fighting through clouds of dust and rain. Every strike carries believable weight and physical impact.
+
+SCENE 3 – SUPERNATURAL POWER: The samurai raises his sword, releasing a gigantic wave of dark supernatural energy. She crosses her arms to defend herself, but the impact launches her backward through an ancient wooden structure. She lands on one knee, slowly rises, wipes the rain from her face, and forms precise ninja hand seals. Her eyes become intensely focused as powerful winds surround her.
+
+SCENE 4 – EPIC COUNTERATTACK: She suddenly disappears in a burst of black smoke. Multiple shadow clones emerge from different directions, attacking the samurai simultaneously. He desperately blocks their attacks, spinning his sword in every direction. The real woman appears above him, performing an incredible aerial spinning kick that sends him crashing through a massive stone gate.
+
+FINAL SCENE – THE FINISHING BLOW: As the samurai struggles to stand, she appears directly in front of him with unbelievable speed. She performs a powerful combination of three rapid strikes before delivering a devastating final kick to his chest. A massive shockwave erupts, sending rain, dust, broken stones, and leaves flying outward. The samurai's sword falls from his hand as he collapses onto the wet battlefield.
+
+ENDING SHOT: The female shinobi calmly turns away from her defeated opponent. Her long black hair moves naturally in the wind as she walks through the ruined temple courtyard. The camera slowly pulls backward, revealing the destroyed battlefield beneath the moonlight.
+
+VISUAL STYLE: AAA Hollywood live-action action movie, ultra-photorealistic Japanese dark fantasy, realistic human anatomy, authentic martial arts choreography, physically accurate weapon movements, detailed facial expressions, realistic skin textures, natural hair and clothing physics, cinematic rain simulation, dramatic moonlight, volumetric smoke, explosive debris, realistic sword sparks, dynamic camera tracking, carefully timed slow motion, seamless scene transitions, consistent character identity throughout.
+
+AUDIO: No background music, narration, subtitles, or unnecessary dialogue. Only realistic sword clashes, punches, kicks, footsteps, heavy breathing, rain, thunder, debris impacts, and powerful supernatural sound effects.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@aniyaintel](https://x.com/aniyaintel) · [原帖](https://x.com/aniyaintel/status/2125432882412061128)
+
+<sub>Preview © 2026 <a href="https://x.com/aniyaintel/status/2125432882412061128">@aniyaintel</a> · Prompt by <a href="https://x.com/aniyaintel/status/2125432882412061128">@aniyaintel</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-125"></a>
+### Case 125: The Last Showing: Cinema Outbreak (最后一场电影：影院异变) — by @john_my07
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-125"><img src="../../../images/seedance-2.5/case125/preview.webp" width="700" alt="The Last Showing: Cinema Outbreak"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-125)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — THE LAST SHOWING | KOREAN ZOMBIE HORROR  Create an exactly 30-second ultra-photorealistic live-action Korean zombie-horror sequence set inside a ficti…</summary>
+
+~~~~text
+THE LAST SHOWING | KOREAN ZOMBIE HORROR
+
+Create an exactly 30-second ultra-photorealistic live-action Korean zombie-horror sequence set inside a fictional modern cinema complex during a busy evening screening. The environment, architecture, characters and events must be entirely original. No references to existing films, franchises, celebrities, public personalities or recognizable real-world entertainment properties.
+
+FORMAT: 16:9 widescreen, cinematic live-action, photorealistic, realistic human performances, high-end practical horror effects.
+
+MAIN CHARACTER:
+A beautiful adult Korean woman in her early twenties with long naturally flowing black hair, wearing a fitted dark burgundy knit top, a charcoal-grey pleated mini skirt, black tights and casual black sneakers. Maintain her exact facial identity, hairstyle, outfit and body proportions throughout the entire sequence.
+
+SCENE 1 — SOMETHING IN THE DARK (0–6 SECONDS)
+
+Inside a large modern cinema auditorium, a movie screening is underway. Rows of people sit facing a huge illuminated screen. Soft screen light moves across their faces as they quietly eat snacks and whisper.
+
+The Korean girl sits beside her female friend, holding a paper popcorn container. She leans over to whisper something and laughs quietly.
+
+A few seats behind them, a young male audience member begins coughing violently. His popcorn spills onto the floor. He grips the armrest as his body begins trembling.
+
+The girl notices him from the corner of her eye.
+
+SCENE 2 — THE FIRST ATTACK (6–12 SECONDS)
+
+The coughing man suddenly stands up, knocking his drink onto the seats. His face looks unnaturally pale, with dark veins spreading from his neck toward his jaw. His eyes gradually turn completely black.
+
+A nearby audience member tries to help him.
+
+Without warning, the infected man violently lunges forward and knocks the person into the row of seats.
+
+People scream and jump out of their chairs. Popcorn flies through the air. Someone drops a phone. The cinema erupts into chaos.
+
+The girl grabs her friend's hand and rushes toward the side exit.
+
+SCENE 3 — THE LOBBY OUTBREAK (12–20 SECONDS)
+
+The camera follows the girl as she pushes through the auditorium exit into a dimly illuminated cinema lobby.
+
+Emergency lights begin flashing red.
+
+People are running in every direction. A cinema employee stands frozen near the concession counter as another infected person slowly approaches him.
+
+The girl turns toward the main entrance, but a group of panicked people suddenly rushes past her.
+
+An infected woman crawls over the counter and crashes onto the floor.
+
+The girl stumbles backward. Her friend disappears into the crowd.
+
+She runs toward a narrow emergency staircase while hearing aggressive growls and footsteps behind her.
+
+SCENE 4 — THE INFECTION (20–27 SECONDS)
+
+She reaches the staircase and pulls the heavy fire door shut.
+
+Breathing heavily, she looks down and notices bloodless dark scratch marks on her forearm. Thin black veins slowly spread outward beneath her skin.
+
+Her fingers begin twitching.
+
+She looks at the small rectangular safety mirror mounted beside the staircase.
+
+Her reflection appears normal for a moment.
+
+Then her pupils disappear into complete darkness.
+
+She slowly raises her face toward the mirror. Her frightened expression changes into a strange, unnatural smile.
+
+SCENE 5 — FINAL HORROR REVEAL (27–30 SECONDS)
+
+A distant banging sound echoes from the other side of the door.
+
+The girl slowly turns toward it.
+
+Her head tilts unnaturally. Her smile widens.
+
+Suddenly, she rushes directly toward the camera with a terrifying infected expression.
+
+CUT TO BLACK.
+
+AUDIO DESIGN:
+Use immersive, realistic environmental audio only: muffled cinema screening ambience, audience whispers.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · ElevenCreative · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2125121857737388449)
+
+<sub>Preview © 2026 <a href="https://x.com/john_my07/status/2125121857737388449">@john_my07</a> · Prompt by <a href="https://x.com/john_my07/status/2125121857737388449">@john_my07</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-126"></a>
+### Case 126: A Katana against the Glass-Tower Beast (玻璃大厦前的持剑女侠) — by @laviniavelle
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-126"><img src="../../../images/seedance-2.5/case126/preview.webp" width="700" alt="A Katana against the Glass-Tower Beast"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-126)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — High budget live-action urban fantasy action sequence set on a wide city intersection in front of a modern curved glass office building on a bright su…</summary>
+
+~~~~text
+High budget live-action urban fantasy action sequence set on a wide city intersection in front of a modern curved glass office building on a bright sunny day a young East Asian woman with hair tied up in a high ponytail with a traditional hairpin wearing a black martial arts outfit black fingerless gloves, a patterned sash at her hip, black leggings, and black high-top sneakers, faces off against a massive muscular horned beast with rough dark grey-brown skin and glowing eyes the shot opens with a high-angle drone push-in toward the woman standing calmly on the sidewalk crosswalk as traffic moves along the street, then cuts to a low-angle front shot as the giant monster crashes through the glass facade in an explosion of glass shards and dust, looming behind her with a clawed hand reaching forward before the woman briefly dissolves into dark green black smoke particles and reappears on the cracked asphalt street. She draws a katana infused with swirling dark green and cyan energy, dashing forward with dynamic camera tracking, leaping into a mid-air side kick against the monster's jaw, and executing rapid sword slashes that send bright golden-orange sparks and emerald-green energy arcs flying across the debris-filled road. The monster slams its massive fists into the pavement, cracking the asphalt and kicking up thick dust clouds while glowing green energy bursts from its torso on impact. The sequence ends on a dramatic close-up of the woman holding her smoke-wreathed katana horizontally across her lower face and chest, staring intensely into the camera with shallow depth of field, cinematic VFX, realistic debris, lens flares, and natural daylight shadows.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@laviniavelle](https://x.com/laviniavelle) · [原帖](https://x.com/laviniavelle/status/2125096392628560268)
+
+<sub>Preview © 2026 <a href="https://x.com/laviniavelle/status/2125096392628560268">@laviniavelle</a> · Prompt by <a href="https://x.com/laviniavelle/status/2125096392628560268">@laviniavelle</a></sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-127"></a>
+### Case 127: A Golden-Hour Wedding beneath the Trees (夕阳树影下的婚礼) — by @ZaraIrahh
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-127"><img src="../../../images/seedance-2.5/case127/preview.webp" width="700" alt="A Golden-Hour Wedding beneath the Trees"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-127)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — SEEDANCE 2.5 — 30 seconds, 16:9.  &lt;&lt;image1 = woman; &lt;&lt;image2 = man. Lock and preserve both characters&#x27; facial identities, hairstyles, ages, skin tones…</summary>
+
+~~~~text
+SEEDANCE 2.5 — 30 seconds, 16:9.
+
+<<image1 = woman; <<image2 = man. Lock and preserve both characters' facial identities, hairstyles, ages, skin tones, and body proportions.
+
+A lush, tree-filled park near sunset, with green grass, large tree trunks, and golden sunlight filtering through the leaves. Long shadows, warm color tones, and a softly blurred background.
+
+The woman wears a white satin off-shoulder wedding gown, featuring a lace-up corset back, a voluminous skirt, and a long train. The man wears a black suit, white shirt, black bow tie, and black shoes.
+
+00–07 seconds:
+Full shot from behind the woman. The camera slowly follows her as she walks across the grass, then slightly turns her head to the side. The wedding dress train sweeps across the ground with realistic fabric weight and movement. The golden evening light illuminates her hair and the folds of the satin dress.
+
+07–15 seconds:
+Cut to a wide shot. The man is on the right, leaning against a tree with one knee bent. The woman approaches from the left, leaning slightly toward him, with her dress flowing behind her. They smile at each other, move closer, and share a brief kiss. The man then straightens up, no longer leaning against the tree.
+
+15–22 seconds:
+Cut to a wide shot filmed through softly blurred foreground leaves. They stand together on the grass near the tree. The man stands behind the woman, wrapping both arms around her waist. The woman places her hands over his and turns her head with a smile. The leaves move gently, naturally framing the couple.
+
+22–30 seconds:
+Cut to a medium close-up. The woman turns to face the man. The man supports her waist and back as she gently leans backward. The woman places her palm against the side of his head. They share a soft, romantic kiss with their eyes closed. Hold this pose until the end, keeping all movements natural and realistic.
+
+Audio: No music, dialogue, or narration. Only gentle wind, rustling leaves, distant birds, footsteps on grass, the subtle rustling of satin fabric, and soft breathing. Maintain continuous ambient sound across all shots.
+
+Maintain consistent character identities, hands, wedding dress details, and lighting throughout the entire video. No subtitles or watermarks.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · OpenArt · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@ZaraIrahh](https://x.com/ZaraIrahh) · [原帖](https://x.com/ZaraIrahh/status/2124736942377972169)
+
+<sub>Preview © 2026 <a href="https://x.com/ZaraIrahh/status/2124736942377972169">@ZaraIrahh</a> · Prompt by <a href="https://x.com/ZaraIrahh/status/2124736942377972169">@ZaraIrahh</a></sub>
 
 [Back to top](#table-of-contents)
