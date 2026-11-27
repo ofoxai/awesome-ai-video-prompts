@@ -15,6 +15,7 @@
 - [Case 45: Urban MG Chase for the Light Orb (都市 MG 光球追逐) — by Alibaba](#case-45)
 - [Case 80: Before the Void Swallows You (在虚空吞噬你之前) — by @0xbisc](#case-80)
 - [Case 110: A Watercolor Village Comes Alive (水彩海港小镇动起来) — by Muse Video](#case-110)
+- [Case 127: A Painted Palm Coast Comes Alive (插画棕榈海岸轻轻苏醒) — by WeShop](#case-127)
 
 <a id="case-16"></a>
 ### Case 16: 3D Stylized — The Giant Translucent Plant (3D 风格化动画·湖心巨型植物) — by Alibaba
@@ -546,5 +547,35 @@ The watercolor scene comes alive: small waves lap at the shore, the boats bob ge
 **来源**：Muse Video · [原帖](https://muse-video.co/wan-3-0)
 
 <sub>Preview © 2026 Muse Video · Prompt by Muse Video</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-127"></a>
+### Case 127: A Painted Palm Coast Comes Alive (插画棕榈海岸轻轻苏醒) — by WeShop
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-127"><img src="../../../images/wan-3/case127/preview.webp" width="700" alt="A Painted Palm Coast Comes Alive"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-127)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case127/input1.webp" width="200" alt="Painted image-to-image result derived from the attached reference"><br><sub>Painted image-to-image result derived from the attached reference</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Animate the attached edited coastal image as one continuous very slow forward camera drift. Preserve the same palm tree arrangement, leaning trunks, o…</summary>
+
+~~~~text
+Animate the attached edited coastal image as one continuous very slow forward camera drift. Preserve the same palm tree arrangement, leaning trunks, ocean horizon, painted illustration style and sunset colors. Only subtle frond movement and gentle ocean waves. No cuts, no new people, no new buildings, no roads, no camera roll, no sudden motion, no text or logos. Original fan-made concept animation, not gameplay.
+
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 I2V · WeShop · i2v · 5s · 720p · Adaptive · off
+**来源**：WeShop · [原帖](https://www.weshop.ai/solutions/ai-video-generation/gta-6-city-atmosphere-video-wan-3)
+
+<sub>Preview © 2026 WeShop · Prompt by WeShop</sub>
 
 [回到目录](#table-of-contents)

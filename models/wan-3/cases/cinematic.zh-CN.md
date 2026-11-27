@@ -34,6 +34,7 @@
 - [Case 117: Flying over a Glacier Lake (掠过冰川湖的航拍) — by Wan3API](#case-117)
 - [Case 120: Following a Red Kite over the Valley (追随红风筝俯瞰山谷) — by Mage](#case-120)
 - [Case 122: An Imperfect Morning Dog Vlog (清晨遛狗的真实感 Vlog) — by @cheerselflin](#case-122)
+- [Case 131: The Nomad and the Skeleton Camels (老旅人与骸骨骆驼) — by u/PlaceBitter9636](#case-131)
 
 <a id="case-2"></a>
 ### Case 2: Ambush from Ten Sides — Pipa on the Loess Ridge (十面埋伏) — by Alibaba
@@ -889,5 +890,31 @@ She gives a small wave and ends the recording.
 **来源**：@cheerselflin · [原帖](https://x.com/cheerselflin/status/2091377263048622131)
 
 <sub>Preview © 2026 @cheerselflin · Prompt by @cheerselflin</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-131"></a>
+### Case 131: The Nomad and the Skeleton Camels (老旅人与骸骨骆驼) — by u/PlaceBitter9636
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-131"><img src="../../../images/wan-3/case131/preview.webp" width="700" alt="The Nomad and the Skeleton Camels"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-131)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A dramatic cinematic video of an elderly nomad man leading two skeleton camels carrying heavy cargo packs through a grand plaza in an ancient desert c…</summary>
+
+~~~~text
+A dramatic cinematic video of an elderly nomad man leading two skeleton camels carrying heavy cargo packs through a grand plaza in an ancient desert city. In the background, a massive ancient temple stands under a glowing full moon sky.
+Detailed weathered bone textures, eerie fog rolling over the stone ground, rhythmic walking motion, vibrant spooky atmospheric lighting, photorealistic style, epic composition.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 · AKOOL · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：u/PlaceBitter9636 · [原帖](https://www.reddit.com/r/Akool_Official/comments/1xlspqg/tested_wan_30_on_akool_following_the_skeleton/)
+
+<sub>Preview © 2026 u/PlaceBitter9636 · Prompt by u/PlaceBitter9636</sub>
 
 [回到目录](#table-of-contents)

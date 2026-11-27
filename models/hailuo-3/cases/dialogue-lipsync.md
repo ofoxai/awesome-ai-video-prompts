@@ -17,6 +17,7 @@
 - [Case 124: Tasting a Burger from a First-Person View (汉堡试吃的第一视角短片) — by @oggii_0](#case-124)
 - [Case 125: Post-workout gym vlog (训练后健身房 Vlog) — by @doctorwasif](#case-125)
 - [Case 148: A Ceasefire from the Banquet-Hall Screen (宴会厅屏幕上的停战指令) — by @varts_works](#case-148)
+- [Case 185: A Robot Pirate’s Tall Tale (机器人海盗的吹牛时刻) — by @EndFolding79421](#case-185)
 
 <a id="case-4"></a>
 ### Case 4: Punchline Timing in an AI Stand-up Special (AI 脱口秀的精准笑点节奏) — by @azed_ai
@@ -626,5 +627,97 @@ KAIの最後の台詞には宴会場の自然な残響。
 **来源**：@varts_works · [原帖](https://x.com/varts_works/status/2107369186121101788)
 
 <sub>Preview © 2026 @varts_works · Prompt by @varts_works</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-185"></a>
+### Case 185: A Robot Pirate’s Tall Tale (机器人海盗的吹牛时刻) — by @EndFolding79421
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-185"><img src="../../../images/hailuo-3/case185/preview.webp" width="700" alt="A Robot Pirate’s Tall Tale"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-185)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/hailuo-3/case185/input1.webp" width="200" alt="Starting frame"><br><sub>Starting frame</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: [10-second image-to-video generation] Use the supplied image as the starting frame and preserve the established cha…</summary>
+
+~~~~text
+integrated_multimodal_description:
+
+[10-second image-to-video generation]
+
+Use the supplied image as the starting frame and preserve the established characters, tavern environment, clothing, robot designs, bar layout, and warm cinematic lighting.
+
+STYLE / TONE:
+Live-action cinematic science-fiction pirate adventure with playful Hollywood-style banter. This is a cozy local tavern in a sci-fi world where human and robot pirates casually drink together.
+
+The conversation is playful and familiar. The robot pirate is extremely boastful, arrogant, swaggering, and proud of his reputation. He genuinely believes he is an exceptional pirate. The bartender finds his exaggerated stories amusing and enjoys teasing him.
+
+CRITICAL ROBOT SPEECH RULE:
+ALL robot faces remain mechanically rigid.
+ROBOTS NEVER MOVE THEIR MOUTHS OR JAWS WHILE SPEAKING.
+NO robotic lip-sync.
+Robot speech comes from internal electronic speakers.
+When a robot speaks, ONLY its glowing blue eyes subtly brighten, pulse, or blink in rhythm with the spoken words.
+
+[00:00–00:04]
+
+The human bartender stands behind the bar holding her drink and looks directly at the robot pirate across from her.
+
+The robot pirate (S1) looks directly toward her with confident pirate swagger. He gives a small proud tilt of his head.
+
+His metal mouth and jaw remain COMPLETELY MOTIONLESS.
+
+His glowing blue eyes pulse subtly as he boasts in an arrogant, self-satisfied mechanical male voice:
+
+(S1) <d>[English] He drew his blaster. I drew mine faster.</d>
+
+[00:04–00:07]
+
+The bartender (S2) raises an eyebrow and gives him a playful, skeptical grin. She maintains eye contact with HIM while speaking.
+
+Because she is human, her lips move naturally and accurately with her dialogue:
+
+(S2) <d>[English] You don't even carry a blaster.</d>
+
+[00:07–00:10]
+
+Cut slightly closer on the robot pirate.
+
+Brief comedic pause.
+
+He confidently leans back just slightly, completely unfazed by being caught exaggerating.
+
+His mouth and jaw NEVER MOVE.
+
+His blue eyes brighten with smug confidence as he replies:
+
+(S1) <d>[English] Exactly. And I still won.</d>
+
+The bartender immediately laughs and shakes her head at his ridiculous arrogance.
+
+End on the robot sitting proudly as though his story made perfect sense.
+
+BACKGROUND ROBOTS:
+The other robot pirates remain background patrons. Their mechanical mouths and jaws remain rigid at ALL times. They may make tiny natural head movements or subtle eye-light changes, but they do not speak during this clip.
+
+overall_soundscape:
+Warm local-tavern ambience, quiet distant patron chatter, occasional glass clinks, subtle mechanical servo noises, natural bartender laughter, and clean internal-speaker robot dialogue. Robot eye lights subtly pulse during their speech.
+
+non_diegetic_music:
+N/A
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · ComfyUI · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@EndFolding79421 · [原帖](https://x.com/EndFolding79421/status/2099594174492237961)
+
+<sub>Preview © 2026 @EndFolding79421 · Prompt by @EndFolding79421</sub>
 
 [Back to top](#table-of-contents)

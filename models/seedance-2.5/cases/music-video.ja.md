@@ -10,6 +10,7 @@
 - [Case 60: Idol pop performance, full lyrics & BPM (偶像流行音乐表演·完整歌词与节拍) — by @stocktrading0](#case-60)
 - [Case 61: 90s underground gangster-anime beatbox MV (90年代地下帮派动漫节奏口技MV) — by @Madhuribhai](#case-61)
 - [Case 98: A Seven-Member Neon Stage (七人女团的霓虹舞台) — by @Chaemate_](#case-98)
+- [Case 119: Night Street Dance in a Cropped Hoodie (夜色街头的连帽衫舞步) — by @MissDelulu9](#case-119)
 
 <a id="case-57"></a>
 ### Case 57: Multilingual hip-hop MV, eight-language lip-sync (多语言 Hip-hop MV · 8 种语言口型) — by ByteDance
@@ -186,5 +187,54 @@ CONSISTENCY and QUALITY RULES: seven distinct people at all times, always exactl
 **来源**：[@Chaemate_](https://x.com/Chaemate_) · [原帖](https://x.com/Chaemate_/status/2120407838677717383)
 
 <sub>Preview © 2026 <a href="https://x.com/Chaemate_/status/2120407838677717383">@Chaemate_</a> · Prompt by <a href="https://x.com/Chaemate_/status/2120407838677717383">@Chaemate_</a></sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-119"></a>
+### Case 119: Night Street Dance in a Cropped Hoodie (夜色街头的连帽衫舞步) — by @MissDelulu9
+
+<a href="https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-119"><img src="../../../images/seedance-2.5/case119/preview.webp" width="700" alt="Night Street Dance in a Cropped Hoodie"></a>
+
+▶ [ofox.ai でフル動画を見る](https://ofox.ai/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2-5#case-119)
+
+**输入素材**：未公开 —— 原作者只发布了成片，未提供输入素材
+
+<details>
+<summary><strong>Prompt</strong> — Duration: 19 seconds Aspect Ratio: 16:9 Style: Photorealistic, cinematic nighttime street photography.  Use IMAGE 1 as the only character reference. P…</summary>
+
+~~~~text
+Duration: 19 seconds
+Aspect Ratio: 16:9
+Style: Photorealistic, cinematic nighttime street photography.
+
+Use IMAGE 1 as the only character reference. Preserve her exact face, identity, dark brown eyes, two long black braids, gray cropped hoodie, striped sleeves, beige baggy trousers, navy waist wrap, black wrist accessories, and black-and-white sneakers. No appearance or outfit changes.
+
+ENVIRONMENT: Realistic nighttime city street with illuminated buildings, storefronts, traffic lights, vehicles, and concrete pavement. One dancer only.
+
+DANCE CHOREOGRAPHY:
+
+- 00:00–00:02: Start facing camera, rhythmic steps, alternating legs and body bounce.
+- 00:02–00:04: Knee lift, wide stance, low side lunge.
+- 00:04–00:06: Hand beside head, other near waist, hip and shoulder movements.
+- 00:06–00:08: Quick arm gestures, knee bends and rhythmic bouncing.
+- 00:08–00:10: Hand across chest, weight shifts, sharp shoulder and hip accents.
+- 00:10–00:12: Slight body lowering, downward arm swing and rhythmic step.
+- 00:12–00:14: One arm diagonally upward, opposite arm downward, controlled bounce.
+- 00:14–00:16: Both arms at chest level, elbows outward, quick shoulder movements.
+- 00:16–00:19: Synchronized arm movements, knee bends, slight turn, finish with crossed arms and a confident final pose.
+
+MUSIC: Energetic upbeat street dance music, approximately 129 BPM. Synchronize every movement naturally with the beat.
+
+CAMERA: Vertical full-body shot, slight low angle, front-facing, entire body and shoes visible, stable framing, no cuts or excessive zoom.
+
+REALISM: Natural anatomy, realistic foot contact, balanced movements, natural braid and clothing motion, cinematic nighttime lighting.
+~~~~
+
+</details>
+
+**参数**：Seedance 2.5 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：[@MissDelulu9](https://x.com/MissDelulu9) · [原帖](https://x.com/MissDelulu9/status/2123258038459273373)
+
+<sub>Preview © 2026 <a href="https://x.com/MissDelulu9/status/2123258038459273373">@MissDelulu9</a> · Prompt by <a href="https://x.com/MissDelulu9/status/2123258038459273373">@MissDelulu9</a></sub>
 
 [目次に戻る](#table-of-contents)

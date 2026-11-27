@@ -25,6 +25,9 @@
 - [Case 165: A Sunset Beach Vlog (夕阳海滩的情侣视角) — by @ou_zhen599](#case-165)
 - [Case 166: The Warrior and the Ginger Cat (蓝门前的战士与橘猫) — by @ou_zhen599](#case-166)
 - [Case 173: The Tide Leaves Them Behind (退潮后留下的人群) — by @DeCat2025](#case-173)
+- [Case 182: A Hair Ribbon and a Quiet Gesture (咬着发带轻轻理发) — by @0xEverybody](#case-182)
+- [Case 189: An Istanbul Travel Vlog (从圣索菲亚到博斯普鲁斯) — by @Zyrellix](#case-189)
+- [Case 190: The Last Bus at a Rural Stop (乡间夜站等来的末班车) — by @Strength04_X](#case-190)
 
 <a id="case-10"></a>
 ### Case 10: A Vintage 1947 Town Under Fire (1947 小镇的复古战地纪实) — by @RuzainaMeer
@@ -2285,5 +2288,89 @@ Negative prompt: cartoon, anime, 3D render, sunny weather, bright colors, swimme
 **来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2108726243025711203)
 
 <sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-182"></a>
+### Case 182: A Hair Ribbon and a Quiet Gesture (咬着发带轻轻理发) — by @0xEverybody
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-182"><img src="../../../images/hailuo-3/case182/preview.webp" width="700" alt="A Hair Ribbon and a Quiet Gesture"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-182)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A 5‑second looping shot of the girl from reference image 1, gently biting a hair ribbon, continuously arranging and tidying her hair with one hand, fi…</summary>
+
+~~~~text
+A 5‑second looping shot of the girl from reference image 1, gently biting a hair ribbon, continuously arranging and tidying her hair with one hand, fingers running through and adjusting her bangs and side hair, soft natural lighting, subtle, smooth motion, shy but playful expression, clean simple background, high‑resolution, detailed hair and face.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@0xEverybody · [原帖](https://x.com/0xEverybody/status/2109941842712080406)
+
+<sub>Preview © 2026 @0xEverybody · Prompt by @0xEverybody</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-189"></a>
+### Case 189: An Istanbul Travel Vlog (从圣索菲亚到博斯普鲁斯) — by @Zyrellix
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-189"><img src="../../../images/hailuo-3/case189/preview.webp" width="700" alt="An Istanbul Travel Vlog"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-189)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts…</summary>
+
+~~~~text
+A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@Zyrellix · [原帖](https://x.com/Zyrellix/status/2096817125864484954)
+
+<sub>Preview © 2026 @Zyrellix · Prompt by @Zyrellix</sub>
+
+[目次に戻る](#table-of-contents)
+
+<a id="case-190"></a>
+### Case 190: The Last Bus at a Rural Stop (乡间夜站等来的末班车) — by @Strength04_X
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-190"><img src="../../../images/hailuo-3/case190/preview.webp" width="700" alt="The Last Bus at a Rural Stop"></a>
+
+▶ [ofox.ai で動画をすべて見る](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-190)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — A young Korean woman, early 20s, tired after a long day, oversized coat swallowing her frame, hair escaping a loose braid, stands alone at a rural bus…</summary>
+
+~~~~text
+A young Korean woman, early 20s, tired after a long day, oversized coat swallowing her frame, hair escaping a loose braid, stands alone at a rural bus stop long after the sun has set.
+Setting: A single flickering streetlamp, an empty road disappearing into darkness, rice paddies barely visible on either side, insects buzzing somewhere in the black.
+Camera feel: Static tripod shot with occasional handheld nudges, like whoever's filming keeps almost forgetting they're recording — heavy grain, the lamp's orange glow bleeding into the frame, tape hiss audible under everything.
+What happens (15 sec total):
+She leans against the bus stop sign, checking her phone, then pocketing it with a tired sigh.
+She mutters to camera, almost to herself, "버스 왜 안 와..." ("Why isn't the bus coming..."), kicking a small pebble.
+Headlights appear far down the road she straightens up, relief crossing her face.
+As the bus approaches, she looks back at the camera one last time saying "드디어" ("Finally"), stepping toward the curb as the tape cuts.
+Sound: Crickets, distant engine growing louder, gravel underfoot, wind.
+Mood: Quiet exhaustion giving way to small relief nothing dramatic, just real.
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注 · 未标注
+**来源**：@Strength04_X · [原帖](https://x.com/Strength04_X/status/2096578562866463197)
+
+<sub>Preview © 2026 @Strength04_X · Prompt by @Strength04_X</sub>
 
 [目次に戻る](#table-of-contents)

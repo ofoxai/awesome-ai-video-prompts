@@ -10,6 +10,8 @@
 - [Case 44: Two-Model Fashion Film — Jump Cuts Only (双女主时尚大片) — by Alibaba](#case-44)
 - [Case 53: A Skincare Brand Film, from a .pptx (一份创意提案生成的护肤品牌片) — by Alibaba](#case-53)
 - [Case 84: Sunrise Pour-Over Coffee (晨光里的手冲咖啡) — by PixelDojo](#case-84)
+- [Case 125: A Three-Shot Red-Carpet Entrance (三镜头红毯入场) — by WeShop](#case-125)
+- [Case 126: A Blue Swimsuit Beach Lookbook (蓝色泳衣的海滩画报) — by WeShop](#case-126)
 
 <a id="case-1"></a>
 ### Case 1: Minimalist Camera Concept Film (极简相机概念片) — by Alibaba
@@ -525,5 +527,63 @@ Audio includes the trickle of water, the low hiss of steam, and quiet morning ro
 **来源**：PixelDojo · [原帖](https://pixeldojo.ai/guides/wan-3-0-prompting-guide)
 
 <sub>Preview © 2026 PixelDojo · Prompt by PixelDojo</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-125"></a>
+### Case 125: A Three-Shot Red-Carpet Entrance (三镜头红毯入场) — by WeShop
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-125"><img src="../../../images/wan-3/case125/preview.webp" width="394" alt="A Three-Shot Red-Carpet Entrance"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-125)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case125/input1.webp" width="112" alt="Original runway frame: black textured mini dress and white headpiece."><br><sub>Original runway frame: black textured mini dress and white headpiece.</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Use Image 1 as one adult runway fashion model and her existing opaque textured black mini dress, silver high heels and sculptural white headpiece. Dir…</summary>
+
+~~~~text
+Use Image 1 as one adult runway fashion model and her existing opaque textured black mini dress, silver high heels and sculptural white headpiece. Direct a three-shot red-carpet entrance: a full-body shot of two poised steps onto a simple red carpet outside a modern venue at dusk; a medium shot of a small friendly wave with soft photographer flashes behind; a final full-body neutral fashion pose. Keep the same face, hair, natural body proportions, black mini dress design, hem length, headpiece and coverage across the cuts. Preserve the visible bare legs below the existing hem and grounded feet; do not recreate the source caption, crowd or indoor stage. No real-celebrity substitution, wardrobe change, body reshaping, nudity, transparency, erotic posing, readable logos, speech or music.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 Reference · WeShop · i2v · 9s · 720p · 9:16 · off
+**来源**：WeShop · [原帖](https://www.weshop.ai/solutions/ai-video-generation/wan-3-0-red-carpet-glamour-video)
+
+<sub>Preview © 2026 WeShop · Prompt by WeShop</sub>
+
+[回到目录](#table-of-contents)
+
+<a id="case-126"></a>
+### Case 126: A Blue Swimsuit Beach Lookbook (蓝色泳衣的海滩画报) — by WeShop
+
+<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-126"><img src="../../../images/wan-3/case126/preview.webp" width="394" alt="A Blue Swimsuit Beach Lookbook"></a>
+
+▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-126)
+
+**输入素材**（1 张图）
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../images/wan-3/case126/input1.webp" width="134" alt="Dedicated blue one-piece swimsuit and straw-hat reference."><br><sub>Dedicated blue one-piece swimsuit and straw-hat reference.</sub> |  |  |  |
+
+<details>
+<summary><strong>Prompt</strong> — Use Image 1 as one adult swimwear-fashion model in her existing opaque dark blue one-piece swimsuit and straw sunhat. Keep the same recognizable face,…</summary>
+
+~~~~text
+Use Image 1 as one adult swimwear-fashion model in her existing opaque dark blue one-piece swimsuit and straw sunhat. Keep the same recognizable face, dark hair, natural body proportions, swimsuit design, crossed front fabric detail, hat and coverage throughout. Create three restrained beach-fashion shots: first a medium view with her hand resting on the hat brim, close to the reference pose; then a wider view with the same woman, hat and swimsuit beside the gentle surf; finally a medium portrait as she makes a small natural head turn toward the daylight. Keep the bright beach, sea, sky palette, dark blue swimsuit and straw hat consistent across all three cuts. Relaxed mainstream fashion movement. No new outfit, smaller garment, body reshaping, close-up of intimate body parts, erotic gestures, nudity, transparent fabric, added people, text, logos, speech or music.
+~~~~
+
+</details>
+
+**参数**：Wan 3.0 Reference · WeShop · i2v · 9s · 720p · 9:16 · off
+**来源**：WeShop · [原帖](https://www.weshop.ai/solutions/ai-video-generation/wan-3-0-swimwear-lookbook-video)
+
+<sub>Preview © 2026 WeShop · Prompt by WeShop</sub>
 
 [回到目录](#table-of-contents)

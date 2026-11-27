@@ -29,6 +29,8 @@
 - [Case 169: The War of the Crimson Sky (绯红云层中的飞骑大战) — by @DeCat2025](#case-169)
 - [Case 170: The Mountain Awakens (山岳化作燃焰守护者) — by @DeCat2025](#case-170)
 - [Case 171: The City Becomes a Giant (铸剑之城化作巨人) — by @DeCat2025](#case-171)
+- [Case 181: A Cork of Light from a Pumpkin (拔开南瓜蒂，暖光涌出) — by @GlennHasABeard](#case-181)
+- [Case 191: A Golden Seam Opens in Velvet (抚过天鹅绒，金色光缝浮现) — by @GlennHasABeard](#case-191)
 
 <a id="case-8"></a>
 ### Case 8: The Sky Descends Like a Giant Wall over a Suburban Street (整片天空如巨墙压向郊区街道) — by @cocktailpeanut
@@ -956,5 +958,55 @@ The city IS the warrior. The warrior is made entirely from the city's existing p
 **来源**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2109053613708370246)
 
 <sub>Preview © 2026 @DeCat2025 · Prompt by @DeCat2025</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-181"></a>
+### Case 181: A Cork of Light from a Pumpkin (拔开南瓜蒂，暖光涌出) — by @GlennHasABeard
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-181"><img src="../../../images/hailuo-3/case181/preview.webp" width="700" alt="A Cork of Light from a Pumpkin"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-181)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — stem twists out of the top like a cork, and when it pops free, a beam of warm light shoots straight up</summary>
+
+~~~~text
+stem twists out of the top like a cork, and when it pops free, a beam of warm light shoots straight up
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · ComfyUI · 未标注 · 15s · 未标注 · 未标注 · 未标注
+**来源**：@GlennHasABeard · [原帖](https://x.com/GlennHasABeard/status/2112303267959185487)
+
+<sub>Preview © 2026 @GlennHasABeard · Prompt by @GlennHasABeard</sub>
+
+[Back to top](#table-of-contents)
+
+<a id="case-191"></a>
+### Case 191: A Golden Seam Opens in Velvet (抚过天鹅绒，金色光缝浮现) — by @GlennHasABeard
+
+<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-191"><img src="../../../images/hailuo-3/case191/preview.webp" width="700" alt="A Golden Seam Opens in Velvet"></a>
+
+▶ [Watch the full video on ofox.ai](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-191)
+
+**输入素材**：未公开 —— 本案例未收录可用的输入素材，请参阅来源
+
+<details>
+<summary><strong>Prompt</strong> — the nap flipping dark in a band behind the fingers with a soft brushed hush, and along that dark band a fine seam of warm golden light opens</summary>
+
+~~~~text
+the nap flipping dark in a band behind the fingers with a soft brushed hush, and along that dark band a fine seam of warm golden light opens
+~~~~
+
+</details>
+
+**参数**：MiniMax H3 · ComfyUI · 未标注 · 15s · 未标注 · 未标注 · 未标注
+**来源**：@GlennHasABeard · [原帖](https://x.com/GlennHasABeard/status/2103613782467457079)
+
+<sub>Preview © 2026 @GlennHasABeard · Prompt by @GlennHasABeard</sub>
 
 [Back to top](#table-of-contents)
