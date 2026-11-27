@@ -553,15 +553,11 @@ The watercolor scene comes alive: small waves lap at the shore, the boats bob ge
 <a id="case-127"></a>
 ### Case 127: A Painted Palm Coast Comes Alive (插画棕榈海岸轻轻苏醒) — by WeShop
 
-<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-127"><img src="../../../images/wan-3/case127/preview.webp" width="700" alt="A Painted Palm Coast Comes Alive"></a>
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case127/input.webp" width="340" alt="Painted image-to-image result derived from the attached reference"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-127"><img src="../../../images/wan-3/case127/preview.webp" width="340" alt="A Painted Palm Coast Comes Alive"></a> |
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-127)
-
-**输入素材**（1 张图）
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="../../../images/wan-3/case127/input1.webp" width="200" alt="Painted image-to-image result derived from the attached reference"><br><sub>Painted image-to-image result derived from the attached reference</sub> |  |  |  |
 
 <details>
 <summary><strong>Prompt</strong> — Animate the attached edited coastal image as one continuous very slow forward camera drift. Preserve the same palm tree arrangement, leaning trunks, o…</summary>

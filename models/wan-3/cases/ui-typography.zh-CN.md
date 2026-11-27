@@ -69,15 +69,11 @@
 <a id="case-129"></a>
 ### Case 129: A Tropical Game Menu Selection (热带游戏菜单的选项切换) — by WeShop
 
-<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-129"><img src="../../../images/wan-3/case129/preview.webp" width="700" alt="A Tropical Game Menu Selection"></a>
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case129/input.webp" width="340" alt="AI-edited fan interface concept: Create a Comatozze GTA 6 Inspired Main Menu"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-129"><img src="../../../images/wan-3/case129/preview.webp" width="340" alt="A Tropical Game Menu Selection"></a> |
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-129)
-
-**输入素材**（1 张图）
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="../../../images/wan-3/case129/input1.webp" width="200" alt="AI-edited fan interface concept: Create a Comatozze GTA 6 Inspired Main Menu"><br><sub>AI-edited fan interface concept: Create a Comatozze GTA 6 Inspired Main Menu</sub> |  |  |  |
 
 <details>
 <summary><strong>Prompt</strong> — Animate the exact supplied image as a 10-second simulated game-interface interaction. Use it as the actual first frame, preserving its composition, Co…</summary>
@@ -99,15 +95,11 @@ Animate the exact supplied image as a 10-second simulated game-interface interac
 <a id="case-130"></a>
 ### Case 130: A Coastal Walk with a Third-Person HUD (第三人称 HUD 的海岸漫步) — by WeShop
 
-<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-130"><img src="../../../images/wan-3/case130/preview.webp" width="700" alt="A Coastal Walk with a Third-Person HUD"></a>
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case130/input.webp" width="340" alt="AI-edited fan interface concept: Put Comatozze in a GTA 6 Inspired Third-Person HUD"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-130"><img src="../../../images/wan-3/case130/preview.webp" width="340" alt="A Coastal Walk with a Third-Person HUD"></a> |
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-130)
-
-**输入素材**（1 张图）
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="../../../images/wan-3/case130/input1.webp" width="200" alt="AI-edited fan interface concept: Put Comatozze in a GTA 6 Inspired Third-Person HUD"><br><sub>AI-edited fan interface concept: Put Comatozze in a GTA 6 Inspired Third-Person HUD</sub> |  |  |  |
 
 <details>
 <summary><strong>Prompt</strong> — Animate the exact supplied image as a 10-second simulated game-interface interaction. Use it as the actual first frame, preserving its composition, Co…</summary>

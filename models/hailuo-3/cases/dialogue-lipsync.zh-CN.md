@@ -633,15 +633,11 @@ KAIの最後の台詞には宴会場の自然な残響。
 <a id="case-185"></a>
 ### Case 185: A Robot Pirate’s Tall Tale (机器人海盗的吹牛时刻) — by @EndFolding79421
 
-<a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-185"><img src="../../../images/hailuo-3/case185/preview.webp" width="700" alt="A Robot Pirate’s Tall Tale"></a>
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/hailuo-3/case185/input.webp" width="340" alt="Starting frame"> | <a href="https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-185"><img src="../../../images/hailuo-3/case185/preview.webp" width="340" alt="A Robot Pirate’s Tall Tale"></a> |
 
 ▶ [在 ofox.ai 观看完整视频](https://ofox.ai/hailuo-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-185)
-
-**输入素材**（1 张图）
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="../../../images/hailuo-3/case185/input1.webp" width="200" alt="Starting frame"><br><sub>Starting frame</sub> |  |  |  |
 
 <details>
 <summary><strong>Prompt</strong> — integrated_multimodal_description: [10-second image-to-video generation] Use the supplied image as the starting frame and preserve the established cha…</summary>

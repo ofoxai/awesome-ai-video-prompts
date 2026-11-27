@@ -448,15 +448,11 @@ A cream enamel toaster on a mustard-yellow paper backdrop. The lever springs up,
 <a id="case-124"></a>
 ### Case 124: Wan 3.0 Prime · Light Across Tortoiseshell Lenses (Wan 3.0 Prime · 光掠玳瑁太阳镜) — by Derk Zomer / Shotstack
 
-<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-124"><img src="../../../images/wan-3/case124/preview.webp" width="700" alt="Wan 3.0 Prime · Light Across Tortoiseshell Lenses"></a>
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case124/input.webp" width="340" alt="Tortoiseshell sunglasses · published source photo"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-124"><img src="../../../images/wan-3/case124/preview.webp" width="340" alt="Wan 3.0 Prime · Light Across Tortoiseshell Lenses"></a> |
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-124)
-
-**输入素材**（1 张图）
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="../../../images/wan-3/case124/input1.webp" width="200" alt="Tortoiseshell sunglasses · published source photo"><br><sub>Tortoiseshell sunglasses · published source photo</sub> |  |  |  |
 
 <details>
 <summary><strong>Prompt</strong> — Light glides slowly across the lenses. The camera pushes in slowly. The sunglasses stay still.</summary>
@@ -477,15 +473,11 @@ Light glides slowly across the lenses. The camera pushes in slowly. The sunglass
 <a id="case-128"></a>
 ### Case 128: Sliding Past an Illustrated Coral Coupe (掠过插画中的珊瑚红跑车) — by WeShop
 
-<a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-128"><img src="../../../images/wan-3/case128/preview.webp" width="700" alt="Sliding Past an Illustrated Coral Coupe"></a>
+| 输入 | 输出 |
+|:---:|:---:|
+| <img src="../../../images/wan-3/case128/input.webp" width="340" alt="Painted image-to-image result derived from the attached reference"> | <a href="https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-128"><img src="../../../images/wan-3/case128/preview.webp" width="340" alt="Sliding Past an Illustrated Coral Coupe"></a> |
 
 ▶ [ofox.ai で動画をすべて見る](https://ofox.ai/wan-3-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-ai-video-prompts#case-128)
-
-**输入素材**（1 张图）
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="../../../images/wan-3/case128/input1.webp" width="200" alt="Painted image-to-image result derived from the attached reference"><br><sub>Painted image-to-image result derived from the attached reference</sub> |  |  |  |
 
 <details>
 <summary><strong>Prompt</strong> — Use the attached image as the first frame. One slow subtle lateral camera slide from left to right past the parked coral coupe, keeping the full car i…</summary>
